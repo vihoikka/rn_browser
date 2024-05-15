@@ -1,0 +1,329 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_017957.2  ...  GCF_000264455.2_0  GCF_000264455.2
+
+[1 rows x 19 columns]
+The chosen contig: NC_017957.2
+type: CDS
+location: [400463:401353](+)
+id: cds-TMO_RS19665
+qualifiers:
+    Key: ID, Value: ['cds-TMO_RS19665']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-TMO_RS19665']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_086558310.1']
+    Key: locus_tag, Value: ['TMO_RS19665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS3 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS3 family transposase, 844-1734 (1))
+type: CDS
+location: [402014:402977](+)
+id: cds-WP_014747442.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747442.1']
+    Key: ID, Value: ['cds-WP_014747442.1']
+    Key: Name, Value: ['WP_014747442.1']
+    Key: Ontology_term, Value: ['GO:0006310', 'GO:0015074', 'GO:0003677']
+    Key: Parent, Value: ['gene-TMO_RS19670']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: go_process, Value: ['DNA recombination|0006310||IEA', 'DNA integration|0015074||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010516182.1']
+    Key: locus_tag, Value: ['TMO_RS19670']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tyrosine-type recombinase/integrase']
+    Key: protein_id, Value: ['WP_014747442.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tyrosine-type recombinase/integrase, 2395-3358 (1))
+type: CDS
+location: [402966:403509](-)
+id: cds-WP_014747443.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747443.1']
+    Key: ID, Value: ['cds-WP_014747443.1']
+    Key: Name, Value: ['WP_014747443.1']
+    Key: Parent, Value: ['gene-TMO_RS19675']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TMO_RS19675']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014747443.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3347-3890 (-1))
+type: CDS
+location: [403618:405373](+)
+id: cds-WP_145978299.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_145978299.1']
+    Key: ID, Value: ['cds-WP_145978299.1']
+    Key: Name, Value: ['WP_145978299.1']
+    Key: Parent, Value: ['gene-TMO_RS19680']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TMO_RS19680']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_145978299.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5754 (1))
+type: CDS
+location: [405378:407313](+)
+id: cds-WP_014747445.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747445.1']
+    Key: ID, Value: ['cds-WP_014747445.1']
+    Key: Name, Value: ['WP_014747445.1']
+    Key: Parent, Value: ['gene-TMO_RS19685']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TMO_RS19685']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014747445.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5759-7694 (1))
+type: CDS
+location: [407309:408947](+)
+id: cds-WP_014747446.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747446.1']
+    Key: ID, Value: ['cds-WP_014747446.1']
+    Key: Name, Value: ['WP_014747446.1']
+    Key: Parent, Value: ['gene-TMO_RS19690']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['TMO_RS19690']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014747446.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7690-9328 (1))
+type: CDS
+location: [408943:411208](+)
+id: cds-WP_014747447.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747447.1']
+    Key: ID, Value: ['cds-WP_014747447.1']
+    Key: Name, Value: ['WP_014747447.1']
+    Key: Parent, Value: ['gene-TMO_RS30665']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['TMO_RS30665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_014747447.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 9324-11589 (1))
+type: CDS
+location: [411204:412182](+)
+id: cds-WP_014747448.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747448.1']
+    Key: ID, Value: ['cds-WP_014747448.1']
+    Key: Name, Value: ['WP_014747448.1']
+    Key: Parent, Value: ['gene-TMO_RS19700']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TMO_RS19700']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014747448.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11585-12563 (1))
+type: CDS
+location: [412663:416011](-)
+id: cds-WP_014747449.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747449.1']
+    Key: ID, Value: ['cds-WP_014747449.1']
+    Key: Name, Value: ['WP_014747449.1']
+    Key: Parent, Value: ['gene-TMO_RS19705']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TMO_RS19705']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014747449.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13044-16392 (-1))
+type: CDS
+location: [416874:418866](+)
+id: cds-WP_014747450.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747450.1']
+    Key: ID, Value: ['cds-WP_014747450.1']
+    Key: Name, Value: ['WP_014747450.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-TMO_RS19710']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012973664.1']
+    Key: locus_tag, Value: ['TMO_RS19710']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_014747450.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 17255-19247 (1))
+type: CDS
+location: [418896:419184](+)
+id: cds-WP_041607140.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041607140.1']
+    Key: ID, Value: ['cds-WP_041607140.1']
+    Key: Name, Value: ['WP_041607140.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-TMO_RS19715']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008391840.1']
+    Key: locus_tag, Value: ['TMO_RS19715']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_041607140.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 19277-19565 (1))
+type: CDS
+location: [419538:419649](+)
+id: cds-TMO_RS32845
+qualifiers:
+    Key: ID, Value: ['cds-TMO_RS32845']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-TMO_RS32845']
+    Key: end_range, Value: ['419649', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019997.3']
+    Key: locus_tag, Value: ['TMO_RS32845']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['antirestriction protein ArdC']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(antirestriction protein ArdC, 19919-20030 (1))
+type: CDS
+location: [419648:419810](+)
+id: cds-TMO_RS32850
+qualifiers:
+    Key: ID, Value: ['cds-TMO_RS32850']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-TMO_RS32850']
+    Key: end_range, Value: ['419810', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019997.3']
+    Key: locus_tag, Value: ['TMO_RS32850']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 20029-20191 (1))
+type: CDS
+location: [419864:420392](+)
+id: cds-WP_014747452.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014747452.1']
+    Key: ID, Value: ['cds-WP_014747452.1']
+    Key: Name, Value: ['WP_014747452.1']
+    Key: Parent, Value: ['gene-TMO_RS32855']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037521.3']
+    Key: locus_tag, Value: ['TMO_RS32855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['zincin-like metallopeptidase domain-containing protein']
+    Key: protein_id, Value: ['WP_014747452.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(zincin-like metallopeptidase domain-containing protein, 20245-20773 (1))
+type: CDS
+location: [420594:421710](+)
+id: cds-WP_014744391.1-4
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014744391.1']
+    Key: ID, Value: ['cds-WP_014744391.1-4']
+    Key: Name, Value: ['WP_014744391.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-TMO_RS19725']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015497167.1']
+    Key: locus_tag, Value: ['TMO_RS19725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISAs1 family transposase']
+    Key: protein_id, Value: ['WP_014744391.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISAs1 family transposase, 20975-22091 (1))
+type: repeat_region
+location: [412243:412551](+)
+id: NC_017957.2_4
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_017957.2_4']
+    Key: Note, Value: ['GTTTCCATGACCGGAGCCATTGGTCATGGCTTCAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['308']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12624-12932 (0))
+type: repeat_region
+location: [416139:416721](+)
+id: NC_017957.2_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_017957.2_5']
+    Key: Note, Value: ['GTTTCCATGACCGGAGCGATTGGTCATGGCTTCAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['582']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 16520-17102 (0))
+type: repeat_region
+location: [421916:422064](+)
+id: NC_017957.2-5_11
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_017957.2-5_11']
+    Key: Note, Value: ['GGTTCCCCCGCACGGGCGGGGATAGACCC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['148']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 22297-22445 (0))
+graphic feature from known effectors: GF(cora, 13045-16392 (-1))
+[GF(IS3 family transposase, 844-1734 (1)), GF(tyrosine-type recombinase/integrase, 2395-3358 (1)), GF(None, 3347-3890 (-1)), GF(None, 3999-5754 (1)), GF(None, 5759-7694 (1)), GF(RAMP superfamily CRISPR-associated protein, 7690-9328 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 9324-11589 (1)), GF(None, 11585-12563 (1)), GF(None, 13044-16392 (-1)), GF(CRISPR-associated endonuclease Cas1, 17255-19247 (1)), GF(CRISPR-associated endonuclease Cas2, 19277-19565 (1)), GF(antirestriction protein ArdC, 19919-20030 (1)), GF(None, 20029-20191 (1)), GF(zincin-like metallopeptidase domain-containing protein, 20245-20773 (1)), GF(ISAs1 family transposase, 20975-22091 (1)), GF(Repeat region, 12624-12932 (0)), GF(Repeat region, 16520-17102 (0)), GF(Repeat region, 22297-22445 (0)), GF(cora, 13045-16392 (-1)), GF(CRISPR-Cas locus, 4000-19565 (0))]

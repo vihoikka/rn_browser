@@ -1,0 +1,373 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP065178.1  ...  GCF_014946825.2_1  GCF_014946825.2
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP065178.1
+type: CDS
+location: [920180:920654](-)
+id: cds-WP_193399171.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193399171.1']
+    Key: ID, Value: ['cds-WP_193399171.1']
+    Key: Name, Value: ['WP_193399171.1']
+    Key: Parent, Value: ['gene-IG605_RS04255']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011094969.1']
+    Key: locus_tag, Value: ['IG605_RS04255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_193399171.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 103-577 (-1))
+type: CDS
+location: [921564:922149](-)
+id: cds-WP_193407995.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407995.1']
+    Key: ID, Value: ['cds-WP_193407995.1']
+    Key: Name, Value: ['WP_193407995.1']
+    Key: Parent, Value: ['gene-IG605_RS04265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015841419.1']
+    Key: locus_tag, Value: ['IG605_RS04265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['putative adenosine monophosphate-protein transferase Fic']
+    Key: protein_id, Value: ['WP_193407995.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(putative adenosine monophosphate-protein transferase Fic, 1487-2072 (-1))
+type: CDS
+location: [922141:922633](-)
+id: cds-WP_193407994.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407994.1']
+    Key: ID, Value: ['cds-WP_193407994.1']
+    Key: Name, Value: ['WP_193407994.1']
+    Key: Parent, Value: ['gene-IG605_RS04270']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015841418.1']
+    Key: locus_tag, Value: ['IG605_RS04270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['YhfG family protein']
+    Key: protein_id, Value: ['WP_193407994.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(YhfG family protein, 2064-2556 (-1))
+type: CDS
+location: [922779:922929](+)
+id: cds-WP_193407993.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407993.1']
+    Key: ID, Value: ['cds-WP_193407993.1']
+    Key: Name, Value: ['WP_193407993.1']
+    Key: Parent, Value: ['gene-IG605_RS04275']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IG605_RS04275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_193407993.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2702-2852 (1))
+type: CDS
+location: [923108:923255](-)
+id: cds-WP_193408013.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193408013.1']
+    Key: ID, Value: ['cds-WP_193408013.1']
+    Key: Name, Value: ['WP_193408013.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-IG605_RS04280']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013318578.1']
+    Key: locus_tag, Value: ['IG605_RS04280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix transcriptional regulator']
+    Key: protein_id, Value: ['WP_193408013.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix transcriptional regulator, 3031-3178 (-1))
+type: CDS
+location: [924076:924373](-)
+id: cds-WP_193408103.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193408103.1']
+    Key: ID, Value: ['cds-WP_193408103.1']
+    Key: Name, Value: ['WP_193408103.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-IG605_RS04285']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['IG605_RS04285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_193408103.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 3999-4296 (-1))
+type: CDS
+location: [924365:925247](-)
+id: cds-WP_193408102.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193408102.1']
+    Key: ID, Value: ['cds-WP_193408102.1']
+    Key: Name, Value: ['WP_193408102.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-IG605_RS04290']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['IG605_RS04290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_193408102.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4288-5170 (-1))
+type: CDS
+location: [926945:927698](+)
+id: cds-WP_193407980.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407980.1']
+    Key: ID, Value: ['cds-WP_193407980.1']
+    Key: Name, Value: ['WP_193407980.1']
+    Key: Parent, Value: ['gene-IG605_RS04295']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015841417.1']
+    Key: locus_tag, Value: ['IG605_RS04295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_193407980.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6868-7621 (1))
+type: CDS
+location: [927763:928687](-)
+id: cds-WP_193407981.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407981.1']
+    Key: ID, Value: ['cds-WP_193407981.1']
+    Key: Name, Value: ['WP_193407981.1']
+    Key: Parent, Value: ['gene-IG605_RS04300']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015841416.1']
+    Key: locus_tag, Value: ['IG605_RS04300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_193407981.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 7686-8610 (-1))
+type: CDS
+location: [928683:930357](-)
+id: cds-WP_193407982.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407982.1']
+    Key: ID, Value: ['cds-WP_193407982.1']
+    Key: Name, Value: ['WP_193407982.1']
+    Key: Parent, Value: ['gene-IG605_RS04305']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012885874.1']
+    Key: locus_tag, Value: ['IG605_RS04305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_193407982.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8606-10280 (-1))
+type: CDS
+location: [930353:931337](-)
+id: cds-WP_226373450.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_226373450.1']
+    Key: ID, Value: ['cds-WP_226373450.1']
+    Key: Name, Value: ['WP_226373450.1']
+    Key: Parent, Value: ['gene-IG605_RS04310']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012885873.1']
+    Key: locus_tag, Value: ['IG605_RS04310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_226373450.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10276-11260 (-1))
+type: CDS
+location: [931333:932080](-)
+id: cds-WP_193407983.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407983.1']
+    Key: ID, Value: ['cds-WP_193407983.1']
+    Key: Name, Value: ['WP_193407983.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IG605_RS04315']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012885872.1']
+    Key: locus_tag, Value: ['IG605_RS04315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_193407983.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 11256-12003 (-1))
+type: CDS
+location: [932092:932473](-)
+id: cds-WP_193407984.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407984.1']
+    Key: ID, Value: ['cds-WP_193407984.1']
+    Key: Name, Value: ['WP_193407984.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IG605_RS04320']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012885871.1']
+    Key: locus_tag, Value: ['IG605_RS04320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_193407984.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 12015-12396 (-1))
+type: CDS
+location: [932497:934930](-)
+id: cds-WP_193407985.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193407985.1']
+    Key: ID, Value: ['cds-WP_193407985.1']
+    Key: Name, Value: ['WP_193407985.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IG605_RS04325']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015841411.1']
+    Key: locus_tag, Value: ['IG605_RS04325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_193407985.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 12420-14853 (-1))
+type: CDS
+location: [936092:936596](+)
+id: cds-WP_010282535.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010282535.1']
+    Key: ID, Value: ['cds-WP_010282535.1']
+    Key: Name, Value: ['WP_010282535.1']
+    Key: Ontology_term, Value: ['GO:0033103', 'GO:0003674']
+    Key: Parent, Value: ['gene-IG605_RS04330']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['tssB']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['protein secretion by the type VI secretion system|0033103||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009111708.1']
+    Key: locus_tag, Value: ['IG605_RS04330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type VI secretion system contractile sheath small subunit']
+    Key: protein_id, Value: ['WP_010282535.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type VI secretion system contractile sheath small subunit, 16015-16519 (1))
+type: CDS
+location: [936618:938097](+)
+id: cds-WP_193399177.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_193399177.1']
+    Key: ID, Value: ['cds-WP_193399177.1']
+    Key: Name, Value: ['WP_193399177.1']
+    Key: Ontology_term, Value: ['GO:0033103', 'GO:0003674', 'GO:0033104']
+    Key: Parent, Value: ['gene-IG605_RS04335']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['tssC']
+    Key: go_component, Value: ['type VI protein secretion system complex|0033104||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['protein secretion by the type VI secretion system|0033103||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011094952.1']
+    Key: locus_tag, Value: ['IG605_RS04335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type VI secretion system contractile sheath large subunit']
+    Key: protein_id, Value: ['WP_193399177.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type VI secretion system contractile sheath large subunit, 16541-18020 (1))
+type: CDS
+location: [938102:938534](+)
+id: cds-WP_012822785.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012822785.1']
+    Key: ID, Value: ['cds-WP_012822785.1']
+    Key: Name, Value: ['WP_012822785.1']
+    Key: Ontology_term, Value: ['GO:0033103', 'GO:0003674']
+    Key: Parent, Value: ['gene-IG605_RS04340']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['tssE']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['protein secretion by the type VI secretion system|0033103||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010303156.1']
+    Key: locus_tag, Value: ['IG605_RS04340']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type VI secretion system baseplate subunit TssE']
+    Key: protein_id, Value: ['WP_012822785.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type VI secretion system baseplate subunit TssE, 18025-18457 (1))
+type: repeat_region
+location: [923368:923825](+)
+id: NZ_CP065178.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP065178.1_1']
+    Key: Note, Value: ['GTCTTAATCCCTTCAGTCAGGGAGCGTCCGTAAGGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['457']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3291-3748 (0))
+type: repeat_region
+location: [925386:926611](+)
+id: NZ_CP065178.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP065178.1_2']
+    Key: Note, Value: ['GTCTTAATCCCTTCAGTCAGGGAGCGTCCGTAAGGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1225']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 5309-6534 (0))
+graphic feature from known effectors: GF(nucc, 6869-7621 (1))
+[GF(None, 103-577 (-1)), GF(putative adenosine monophosphate-protein transferase Fic, 1487-2072 (-1)), GF(YhfG family protein, 2064-2556 (-1)), GF(None, 2702-2852 (1)), GF(helix-turn-helix transcriptional regulator, 3031-3178 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4296 (-1)), GF(CRISPR-associated endonuclease Cas1, 4288-5170 (-1)), GF(None, 6868-7621 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 7686-8610 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8606-10280 (-1)), GF(None, 10276-11260 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 11256-12003 (-1)), GF(type III-A CRISPR-associated protein Csm2, 12015-12396 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 12420-14853 (-1)), GF(type VI secretion system contractile sheath small subunit, 16015-16519 (1)), GF(type VI secretion system contractile sheath large subunit, 16541-18020 (1)), GF(type VI secretion system baseplate subunit TssE, 18025-18457 (1)), GF(Repeat region, 3291-3748 (0)), GF(Repeat region, 5309-6534 (0)), GF(nucc, 6869-7621 (1)), GF(CRISPR-Cas locus, 4000-14853 (0))]

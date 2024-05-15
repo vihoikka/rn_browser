@@ -1,0 +1,427 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP065707.1  ...  GCF_016028255.1_0  GCF_016028255.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP065707.1
+type: CDS
+location: [1319173:1320553](+)
+id: cds-WP_038805152.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805152.1']
+    Key: ID, Value: ['cds-WP_038805152.1']
+    Key: Name, Value: ['WP_038805152.1']
+    Key: Ontology_term, Value: ['GO:0006048', 'GO:0009252', 'GO:0000287', 'GO:0003977', 'GO:0019134']
+    Key: Parent, Value: ['gene-I6G42_RS06450']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['glmU']
+    Key: go_function, Value: ['magnesium ion binding|0000287||IEA', 'UDP-N-acetylglucosamine diphosphorylase activity|0003977||IEA', 'glucosamine-1-phosphate N-acetyltransferase activity|0019134||IEA']
+    Key: go_process, Value: ['UDP-N-acetylglucosamine biosynthetic process|0006048||IEA', 'peptidoglycan biosynthetic process|0009252||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002899862.1']
+    Key: locus_tag, Value: ['I6G42_RS06450']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU']
+    Key: protein_id, Value: ['WP_038805152.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU, 957-2337 (1))
+type: CDS
+location: [1320562:1321108](+)
+id: cds-WP_038805153.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805153.1']
+    Key: ID, Value: ['cds-WP_038805153.1']
+    Key: Name, Value: ['WP_038805153.1']
+    Key: Ontology_term, Value: ['GO:0046872']
+    Key: Parent, Value: ['gene-I6G42_RS06455']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['metal ion binding|0046872||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000393791.1']
+    Key: locus_tag, Value: ['I6G42_RS06455']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NUDIX hydrolase']
+    Key: protein_id, Value: ['WP_038805153.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NUDIX hydrolase, 2346-2892 (1))
+type: CDS
+location: [1321119:1321431](+)
+id: cds-WP_038805154.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805154.1']
+    Key: ID, Value: ['cds-WP_038805154.1']
+    Key: Name, Value: ['WP_038805154.1']
+    Key: Parent, Value: ['gene-I6G42_RS06460']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['macP']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000517865.1']
+    Key: locus_tag, Value: ['I6G42_RS06460']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cell wall synthase accessory phosphoprotein MacP']
+    Key: protein_id, Value: ['WP_038805154.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cell wall synthase accessory phosphoprotein MacP, 2903-3215 (1))
+type: CDS
+location: [1321446:1322139](+)
+id: cds-WP_038805155.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805155.1']
+    Key: ID, Value: ['cds-WP_038805155.1']
+    Key: Name, Value: ['WP_038805155.1']
+    Key: Ontology_term, Value: ['GO:0009116', 'GO:0009164', 'GO:0019509', 'GO:0008782', 'GO:0008930']
+    Key: Parent, Value: ['gene-I6G42_RS06465']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['adenosylhomocysteine nucleosidase activity|0008782||IEA', 'methylthioadenosine nucleosidase activity|0008930||IEA']
+    Key: go_process, Value: ['nucleoside metabolic process|0009116||IEA', 'nucleoside catabolic process|0009164||IEA', 'L-methionine salvage from methylthioadenosine|0019509||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004261401.1']
+    Key: locus_tag, Value: ['I6G42_RS06465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ["5'-methylthioadenosine/adenosylhomocysteine nucleosidase"]
+    Key: protein_id, Value: ['WP_038805155.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(5'-methylthioadenosine/adenosylhomocysteine nucleosidase, 3230-3923 (1))
+type: CDS
+location: [1322215:1322710](+)
+id: cds-WP_000021247.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000021247.1']
+    Key: ID, Value: ['cds-WP_000021247.1']
+    Key: Name, Value: ['WP_000021247.1']
+    Key: Parent, Value: ['gene-I6G42_RS06470']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rocS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000021250.1']
+    Key: locus_tag, Value: ['I6G42_RS06470']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['chromosome segregation protein RocS']
+    Key: protein_id, Value: ['WP_000021247.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(chromosome segregation protein RocS, 3999-4494 (1))
+type: CDS
+location: [1322791:1323382](+)
+id: cds-WP_038805156.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805156.1']
+    Key: ID, Value: ['cds-WP_038805156.1']
+    Key: Name, Value: ['WP_038805156.1']
+    Key: Parent, Value: ['gene-I6G42_RS06475']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016399240.1']
+    Key: locus_tag, Value: ['I6G42_RS06475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ["3'-5' exonuclease"]
+    Key: protein_id, Value: ['WP_038805156.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(3'-5' exonuclease, 4575-5166 (1))
+type: CDS
+location: [1323390:1325154](+)
+id: cds-WP_038805157.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805157.1']
+    Key: ID, Value: ['cds-WP_038805157.1']
+    Key: Name, Value: ['WP_038805157.1']
+    Key: Parent, Value: ['gene-I6G42_RS06480']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000801701.1']
+    Key: locus_tag, Value: ['I6G42_RS06480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycerophosphodiester phosphodiesterase']
+    Key: protein_id, Value: ['WP_038805157.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycerophosphodiester phosphodiesterase, 5174-6938 (1))
+type: CDS
+location: [1325200:1325500](-)
+id: cds-WP_000981527.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000981527.1']
+    Key: ID, Value: ['cds-WP_000981527.1']
+    Key: Name, Value: ['WP_000981527.1']
+    Key: Ontology_term, Value: ['GO:0008150', 'GO:0003677', 'GO:0005737']
+    Key: Parent, Value: ['gene-I6G42_RS06485']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cytoplasm|0005737||IEA']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: go_process, Value: ['biological_process|0008150||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008808250.1']
+    Key: locus_tag, Value: ['I6G42_RS06485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['YbaB/EbfC family nucleoid-associated protein']
+    Key: protein_id, Value: ['WP_000981527.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(YbaB/EbfC family nucleoid-associated protein, 6984-7284 (-1))
+type: CDS
+location: [1325571:1325970](-)
+id: cds-I6G42_RS06490
+qualifiers:
+    Key: ID, Value: ['cds-I6G42_RS06490']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-I6G42_RS06490']
+    Key: end_range, Value: ['1325970', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014678209.1']
+    Key: locus_tag, Value: ['I6G42_RS06490']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tyrosine-type recombinase/integrase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tyrosine-type recombinase/integrase, 7355-7754 (-1))
+type: CDS
+location: [1326928:1327657](+)
+id: cds-WP_038805158.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805158.1']
+    Key: ID, Value: ['cds-WP_038805158.1']
+    Key: Name, Value: ['WP_038805158.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-I6G42_RS06495']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_001176358.1']
+    Key: locus_tag, Value: ['I6G42_RS06495']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_038805158.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 8712-9441 (1))
+type: CDS
+location: [1327666:1328863](+)
+id: cds-WP_038805161.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805161.1']
+    Key: ID, Value: ['cds-WP_038805161.1']
+    Key: Name, Value: ['WP_038805161.1']
+    Key: Parent, Value: ['gene-I6G42_RS06500']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['I6G42_RS06500']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_038805161.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9450-10647 (1))
+type: CDS
+location: [1328863:1330462](+)
+id: cds-WP_038805162.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805162.1']
+    Key: ID, Value: ['cds-WP_038805162.1']
+    Key: Name, Value: ['WP_038805162.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-I6G42_RS06505']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000878291.1']
+    Key: locus_tag, Value: ['I6G42_RS06505']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_038805162.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10647-12246 (1))
+type: CDS
+location: [1330659:1331739](+)
+id: cds-WP_227698181.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_227698181.1']
+    Key: ID, Value: ['cds-WP_227698181.1']
+    Key: Name, Value: ['WP_227698181.1']
+    Key: Parent, Value: ['gene-I6G42_RS06510']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000133208.1']
+    Key: locus_tag, Value: ['I6G42_RS06510']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_227698181.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12443-13523 (1))
+type: CDS
+location: [1331742:1332456](+)
+id: cds-WP_038805165.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805165.1']
+    Key: ID, Value: ['cds-WP_038805165.1']
+    Key: Name, Value: ['WP_038805165.1']
+    Key: Parent, Value: ['gene-I6G42_RS06515']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000644761.1']
+    Key: locus_tag, Value: ['I6G42_RS06515']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_038805165.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13526-14240 (1))
+type: CDS
+location: [1332436:1332850](+)
+id: cds-WP_227698182.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_227698182.1']
+    Key: ID, Value: ['cds-WP_227698182.1']
+    Key: Name, Value: ['WP_227698182.1']
+    Key: Parent, Value: ['gene-I6G42_RS06520']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000360268.1']
+    Key: locus_tag, Value: ['I6G42_RS06520']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_227698182.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 14220-14634 (1))
+type: CDS
+location: [1332852:1333662](+)
+id: cds-WP_038805169.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805169.1']
+    Key: ID, Value: ['cds-WP_038805169.1']
+    Key: Name, Value: ['WP_038805169.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-I6G42_RS06525']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000971598.1']
+    Key: locus_tag, Value: ['I6G42_RS06525']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_038805169.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 14636-15446 (1))
+type: CDS
+location: [1336393:1337869](+)
+id: cds-WP_038805170.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805170.1']
+    Key: ID, Value: ['cds-WP_038805170.1']
+    Key: Name, Value: ['WP_038805170.1']
+    Key: Parent, Value: ['gene-I6G42_RS06530']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000004548.1']
+    Key: locus_tag, Value: ['I6G42_RS06530']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_038805170.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18177-19653 (1))
+type: CDS
+location: [1338739:1339531](+)
+id: cds-WP_038805171.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805171.1']
+    Key: ID, Value: ['cds-WP_038805171.1']
+    Key: Name, Value: ['WP_038805171.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-I6G42_RS06535']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006153601.1']
+    Key: locus_tag, Value: ['I6G42_RS06535']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HAD family hydrolase']
+    Key: protein_id, Value: ['WP_038805171.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HAD family hydrolase, 20523-21315 (1))
+type: CDS
+location: [1339530:1340349](+)
+id: cds-WP_038805172.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805172.1']
+    Key: ID, Value: ['cds-WP_038805172.1']
+    Key: Name, Value: ['WP_038805172.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-I6G42_RS06540']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016465979.1']
+    Key: locus_tag, Value: ['I6G42_RS06540']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Cof-type HAD-IIB family hydrolase']
+    Key: protein_id, Value: ['WP_038805172.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Cof-type HAD-IIB family hydrolase, 21314-22133 (1))
+type: CDS
+location: [1340352:1341648](+)
+id: cds-WP_038805173.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_038805173.1']
+    Key: ID, Value: ['cds-WP_038805173.1']
+    Key: Name, Value: ['WP_038805173.1']
+    Key: Ontology_term, Value: ['GO:0009306', 'GO:0003924', 'GO:0005047']
+    Key: Parent, Value: ['gene-I6G42_RS06545']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['ftsY']
+    Key: go_function, Value: ['GTPase activity|0003924||IEA', 'signal recognition particle binding|0005047||IEA']
+    Key: go_process, Value: ['protein secretion|0009306||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000522277.1']
+    Key: locus_tag, Value: ['I6G42_RS06545']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['signal recognition particle-docking protein FtsY']
+    Key: protein_id, Value: ['WP_038805173.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(signal recognition particle-docking protein FtsY, 22136-23432 (1))
+type: repeat_region
+location: [1333955:1336307](+)
+id: NZ_CP065707.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP065707.1_2']
+    Key: Note, Value: ['TACCTTACCTATAAGGAATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['2352']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 15739-18091 (0))
+type: repeat_region
+location: [1337984:1338315](+)
+id: NZ_CP065707.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP065707.1_3']
+    Key: Note, Value: ['GTTCTACCTTACCTATAAGGAATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['331']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 19768-20099 (0))
+graphic feature from known effectors: GF(cora, 18178-19653 (1))
+[GF(bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU, 957-2337 (1)), GF(NUDIX hydrolase, 2346-2892 (1)), GF(cell wall synthase accessory phosphoprotein MacP, 2903-3215 (1)), GF(5'-methylthioadenosine/adenosylhomocysteine nucleosidase, 3230-3923 (1)), GF(chromosome segregation protein RocS, 3999-4494 (1)), GF(3'-5' exonuclease, 4575-5166 (1)), GF(glycerophosphodiester phosphodiesterase, 5174-6938 (1)), GF(YbaB/EbfC family nucleoid-associated protein, 6984-7284 (-1)), GF(tyrosine-type recombinase/integrase, 7355-7754 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 8712-9441 (1)), GF(None, 9450-10647 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10647-12246 (1)), GF(None, 12443-13523 (1)), GF(RAMP superfamily CRISPR-associated protein, 13526-14240 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 14220-14634 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 14636-15446 (1)), GF(None, 18177-19653 (1)), GF(HAD family hydrolase, 20523-21315 (1)), GF(Cof-type HAD-IIB family hydrolase, 21314-22133 (1)), GF(signal recognition particle-docking protein FtsY, 22136-23432 (1)), GF(Repeat region, 15739-18091 (0)), GF(Repeat region, 19768-20099 (0)), GF(cora, 18178-19653 (1)), GF(CRISPR-Cas locus, 4000-19653 (0))]

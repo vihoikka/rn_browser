@@ -1,0 +1,397 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP009170.1  ...  GCF_000763575.1_1  GCF_000763575.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP009170.1
+type: CDS
+location: [1658830:1659517](-)
+id: cds-WP_049685552.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685552.1']
+    Key: ID, Value: ['cds-WP_049685552.1']
+    Key: Name, Value: ['WP_049685552.1']
+    Key: Ontology_term, Value: ['GO:0009265', 'GO:0051353', 'GO:0051539']
+    Key: Parent, Value: ['gene-TKV_RS08410']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['4 iron, 4 sulfur cluster binding|0051539||IEA']
+    Key: go_process, Value: ["2'-deoxyribonucleotide biosynthetic process|0009265||IEA", 'positive regulation of oxidoreductase activity|0051353||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004401621.1']
+    Key: locus_tag, Value: ['TKV_RS08410']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['anaerobic ribonucleoside-triphosphate reductase activating protein']
+    Key: protein_id, Value: ['WP_049685552.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(anaerobic ribonucleoside-triphosphate reductase activating protein, 95-782 (-1))
+type: CDS
+location: [1659513:1661592](-)
+id: cds-WP_049685553.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685553.1']
+    Key: ID, Value: ['cds-WP_049685553.1']
+    Key: Name, Value: ['WP_049685553.1']
+    Key: Ontology_term, Value: ['GO:0006260', 'GO:0008998']
+    Key: Parent, Value: ['gene-TKV_RS08415']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ribonucleoside-triphosphate reductase activity|0008998||IEA']
+    Key: go_process, Value: ['DNA replication|0006260||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014063180.1']
+    Key: locus_tag, Value: ['TKV_RS08415']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ribonucleoside triphosphate reductase']
+    Key: protein_id, Value: ['WP_049685553.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ribonucleoside triphosphate reductase, 778-2857 (-1))
+type: CDS
+location: [1662109:1662586](-)
+id: cds-WP_049685554.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685554.1']
+    Key: ID, Value: ['cds-WP_049685554.1']
+    Key: Name, Value: ['WP_049685554.1']
+    Key: Ontology_term, Value: ['GO:0006355', 'GO:0003700']
+    Key: Parent, Value: ['gene-TKV_RS08420']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA-binding transcription factor activity|0003700||IEA']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003868059.1']
+    Key: locus_tag, Value: ['TKV_RS08420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Fur family transcriptional regulator']
+    Key: protein_id, Value: ['WP_049685554.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Fur family transcriptional regulator, 3374-3851 (-1))
+type: CDS
+location: [1662734:1663337](-)
+id: cds-WP_049685555.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685555.1']
+    Key: ID, Value: ['cds-WP_049685555.1']
+    Key: Name, Value: ['WP_049685555.1']
+    Key: Parent, Value: ['gene-TKV_RS08425']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TKV_RS08425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_049685555.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4602 (-1))
+type: CDS
+location: [1663351:1664542](-)
+id: cds-WP_322785804.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_322785804.1']
+    Key: ID, Value: ['cds-WP_322785804.1']
+    Key: Name, Value: ['WP_322785804.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08430']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['TKV_RS08430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_322785804.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 4616-5807 (-1))
+type: CDS
+location: [1664534:1665518](-)
+id: cds-WP_049685557.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685557.1']
+    Key: ID, Value: ['cds-WP_049685557.1']
+    Key: Name, Value: ['WP_049685557.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08435']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01903.1']
+    Key: locus_tag, Value: ['TKV_RS08435']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_049685557.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 5799-6783 (-1))
+type: CDS
+location: [1665531:1666329](-)
+id: cds-WP_049685558.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685558.1']
+    Key: ID, Value: ['cds-WP_049685558.1']
+    Key: Name, Value: ['WP_049685558.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08440']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['TKV_RS08440']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_049685558.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 6796-7594 (-1))
+type: CDS
+location: [1666371:1666773](-)
+id: cds-WP_049685559.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685559.1']
+    Key: ID, Value: ['cds-WP_049685559.1']
+    Key: Name, Value: ['WP_049685559.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08445']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.3']
+    Key: locus_tag, Value: ['TKV_RS08445']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_049685559.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7636-8038 (-1))
+type: CDS
+location: [1666802:1669127](-)
+id: cds-WP_049685560.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685560.1']
+    Key: ID, Value: ['cds-WP_049685560.1']
+    Key: Name, Value: ['WP_049685560.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08450']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['TKV_RS08450']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_049685560.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 8067-10392 (-1))
+type: CDS
+location: [1669123:1669453](-)
+id: cds-WP_148307259.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148307259.1']
+    Key: ID, Value: ['cds-WP_148307259.1']
+    Key: Name, Value: ['WP_148307259.1']
+    Key: Parent, Value: ['gene-TKV_RS08455']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TKV_RS08455']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_148307259.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10388-10718 (-1))
+type: CDS
+location: [1669631:1671074](-)
+id: cds-WP_049685562.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685562.1']
+    Key: ID, Value: ['cds-WP_049685562.1']
+    Key: Name, Value: ['WP_049685562.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TKV_RS08460']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01897.1']
+    Key: locus_tag, Value: ['TKV_RS08460']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated CARF protein Csx1']
+    Key: protein_id, Value: ['WP_049685562.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated CARF protein Csx1, 10896-12339 (-1))
+type: CDS
+location: [1671319:1671721](-)
+id: cds-WP_049685563.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685563.1']
+    Key: ID, Value: ['cds-WP_049685563.1']
+    Key: Name, Value: ['WP_049685563.1']
+    Key: Parent, Value: ['gene-TKV_RS08465']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx20']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040559.1']
+    Key: locus_tag, Value: ['TKV_RS08465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx20']
+    Key: protein_id, Value: ['WP_049685563.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx20, 12584-12986 (-1))
+type: CDS
+location: [1671977:1672487](-)
+id: cds-WP_049685564.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685564.1']
+    Key: ID, Value: ['cds-WP_049685564.1']
+    Key: Name, Value: ['WP_049685564.1']
+    Key: Parent, Value: ['gene-TKV_RS08470']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011026036.1']
+    Key: locus_tag, Value: ['TKV_RS08470']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FmdE family protein']
+    Key: protein_id, Value: ['WP_049685564.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FmdE family protein, 13242-13752 (-1))
+type: CDS
+location: [1672498:1672921](-)
+id: cds-WP_049685565.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685565.1']
+    Key: ID, Value: ['cds-WP_049685565.1']
+    Key: Name, Value: ['WP_049685565.1']
+    Key: Ontology_term, Value: ['GO:0006400', 'GO:0008757', 'GO:0005737']
+    Key: Parent, Value: ['gene-TKV_RS08475']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['tsaA']
+    Key: go_component, Value: ['cytoplasm|0005737||IEA']
+    Key: go_function, Value: ['S-adenosylmethionine-dependent methyltransferase activity|0008757||IEA']
+    Key: go_process, Value: ['tRNA modification|0006400||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019907876.1']
+    Key: locus_tag, Value: ['TKV_RS08475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO']
+    Key: protein_id, Value: ['WP_049685565.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO, 13763-14186 (-1))
+type: CDS
+location: [1672944:1673697](-)
+id: cds-WP_049685566.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685566.1']
+    Key: ID, Value: ['cds-WP_049685566.1']
+    Key: Name, Value: ['WP_049685566.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887', 'GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-TKV_RS08480']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA', 'ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003868051.1']
+    Key: locus_tag, Value: ['TKV_RS08480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter ATP-binding protein']
+    Key: protein_id, Value: ['WP_049685566.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter ATP-binding protein, 14209-14962 (-1))
+type: CDS
+location: [1673693:1674758](-)
+id: cds-WP_049685567.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685567.1']
+    Key: ID, Value: ['cds-WP_049685567.1']
+    Key: Name, Value: ['WP_049685567.1']
+    Key: Ontology_term, Value: ['GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-TKV_RS08485']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003871145.1']
+    Key: locus_tag, Value: ['TKV_RS08485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['iron ABC transporter permease']
+    Key: protein_id, Value: ['WP_049685567.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(iron ABC transporter permease, 14958-16023 (-1))
+type: CDS
+location: [1674819:1675965](-)
+id: cds-WP_049685568.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685568.1']
+    Key: ID, Value: ['cds-WP_049685568.1']
+    Key: Name, Value: ['WP_049685568.1']
+    Key: Parent, Value: ['gene-TKV_RS08490']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006569414.1']
+    Key: locus_tag, Value: ['TKV_RS08490']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['iron ABC transporter substrate-binding protein']
+    Key: protein_id, Value: ['WP_049685568.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(iron ABC transporter substrate-binding protein, 16084-17230 (-1))
+type: CDS
+location: [1676737:1676917](-)
+id: cds-WP_049685569.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_049685569.1']
+    Key: ID, Value: ['cds-WP_049685569.1']
+    Key: Name, Value: ['WP_049685569.1']
+    Key: Ontology_term, Value: ['GO:0001514', 'GO:0003723', 'GO:0003746', 'GO:0005525', 'GO:0005737']
+    Key: Parent, Value: ['gene-TKV_RS08500']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cytoplasm|0005737||IEA']
+    Key: go_function, Value: ['RNA binding|0003723||IEA', 'translation elongation factor activity|0003746||IEA', 'GTP binding|0005525||IEA']
+    Key: go_process, Value: ['selenocysteine incorporation|0001514||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020672.3']
+    Key: locus_tag, Value: ['TKV_RS08500']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SelB C-terminal domain-containing protein']
+    Key: protein_id, Value: ['WP_049685569.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(SelB C-terminal domain-containing protein, 18002-18182 (-1))
+type: CDS
+location: [1677128:1677309](-)
+id: cds-TKV_RS13590
+qualifiers:
+    Key: ID, Value: ['cds-TKV_RS13590']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-TKV_RS13590']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006315658.1']
+    Key: locus_tag, Value: ['TKV_RS13590']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['selenide, water dikinase SelD']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1677129']
+    Key: transl_table, Value: ['11']
+
+GF(selenide, water dikinase SelD, 18393-18574 (-1))
+graphic feature from known effectors: GF(csx1, 10897-12339 (-1))
+[GF(anaerobic ribonucleoside-triphosphate reductase activating protein, 95-782 (-1)), GF(ribonucleoside triphosphate reductase, 778-2857 (-1)), GF(Fur family transcriptional regulator, 3374-3851 (-1)), GF(None, 3999-4602 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4616-5807 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5799-6783 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6796-7594 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7636-8038 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8067-10392 (-1)), GF(None, 10388-10718 (-1)), GF(CRISPR-associated CARF protein Csx1, 10896-12339 (-1)), GF(CRISPR-associated protein Csx20, 12584-12986 (-1)), GF(FmdE family protein, 13242-13752 (-1)), GF(tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO, 13763-14186 (-1)), GF(ABC transporter ATP-binding protein, 14209-14962 (-1)), GF(iron ABC transporter permease, 14958-16023 (-1)), GF(iron ABC transporter substrate-binding protein, 16084-17230 (-1)), GF(SelB C-terminal domain-containing protein, 18002-18182 (-1)), GF(selenide, water dikinase SelD, 18393-18574 (-1)), GF(csx1, 10897-12339 (-1)), GF(CRISPR-Cas locus, 4000-14962 (0))]

@@ -1,0 +1,222 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP068564.1  ...  GCF_016767175.1_1  GCF_016767175.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP068564.1
+type: CDS
+location: [1716940:1718146](-)
+id: cds-WP_132027405.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027405.1']
+    Key: ID, Value: ['cds-WP_132027405.1']
+    Key: Name, Value: ['WP_132027405.1']
+    Key: Parent, Value: ['gene-JL105_RS08465']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014649.4']
+    Key: locus_tag, Value: ['JL105_RS08465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_132027405.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 577-1783 (-1))
+type: CDS
+location: [1718503:1718581](+)
+id: cds-JL105_RS11470
+qualifiers:
+    Key: ID, Value: ['cds-JL105_RS11470']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-JL105_RS11470']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012451.4']
+    Key: locus_tag, Value: ['JL105_RS11470']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1718504']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2140-2218 (1))
+type: CDS
+location: [1718717:1720328](-)
+id: cds-WP_132027407.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027407.1']
+    Key: ID, Value: ['cds-WP_132027407.1']
+    Key: Name, Value: ['WP_132027407.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-JL105_RS08475']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012371.4']
+    Key: locus_tag, Value: ['JL105_RS08475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['serine hydrolase domain-containing protein']
+    Key: protein_id, Value: ['WP_132027407.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(serine hydrolase domain-containing protein, 2354-3965 (-1))
+type: CDS
+location: [1720362:1721226](-)
+id: cds-WP_132027409.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027409.1']
+    Key: ID, Value: ['cds-WP_132027409.1']
+    Key: Name, Value: ['WP_132027409.1']
+    Key: Parent, Value: ['gene-JL105_RS08480']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JL105_RS08480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_132027409.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4863 (-1))
+type: CDS
+location: [1721218:1721635](-)
+id: cds-WP_132027411.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027411.1']
+    Key: ID, Value: ['cds-WP_132027411.1']
+    Key: Name, Value: ['WP_132027411.1']
+    Key: Parent, Value: ['gene-JL105_RS08485']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JL105_RS08485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_132027411.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4855-5272 (-1))
+type: CDS
+location: [1721627:1722701](-)
+id: cds-WP_132027413.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027413.1']
+    Key: ID, Value: ['cds-WP_132027413.1']
+    Key: Name, Value: ['WP_132027413.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-JL105_RS08490']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['JL105_RS08490']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_132027413.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5264-6338 (-1))
+type: CDS
+location: [1722719:1725956](-)
+id: cds-WP_132027415.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027415.1']
+    Key: ID, Value: ['cds-WP_132027415.1']
+    Key: Name, Value: ['WP_132027415.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-JL105_RS08495']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02682.1']
+    Key: locus_tag, Value: ['JL105_RS08495']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_132027415.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 6356-9593 (-1))
+type: CDS
+location: [1725952:1726999](-)
+id: cds-WP_132027417.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027417.1']
+    Key: ID, Value: ['cds-WP_132027417.1']
+    Key: Name, Value: ['WP_132027417.1']
+    Key: Parent, Value: ['gene-JL105_RS08500']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['JL105_RS08500']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_132027417.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9589-10636 (-1))
+type: CDS
+location: [1727015:1728170](-)
+id: cds-WP_132027419.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027419.1']
+    Key: ID, Value: ['cds-WP_132027419.1']
+    Key: Name, Value: ['WP_132027419.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-JL105_RS08505']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['JL105_RS08505']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_132027419.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 10652-11807 (-1))
+type: CDS
+location: [1728309:1729707](-)
+id: cds-WP_132027421.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027421.1']
+    Key: ID, Value: ['cds-WP_132027421.1']
+    Key: Name, Value: ['WP_132027421.1']
+    Key: Ontology_term, Value: ['GO:0008270', 'GO:0016805']
+    Key: Parent, Value: ['gene-JL105_RS08510']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['pepV']
+    Key: go_function, Value: ['zinc ion binding|0008270||IEA', 'dipeptidase activity|0016805||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006310997.1']
+    Key: locus_tag, Value: ['JL105_RS08510']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['dipeptidase PepV']
+    Key: protein_id, Value: ['WP_132027421.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(dipeptidase PepV, 11946-13344 (-1))
+type: CDS
+location: [1729953:1732038](+)
+id: cds-WP_132027423.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_132027423.1']
+    Key: ID, Value: ['cds-WP_132027423.1']
+    Key: Name, Value: ['WP_132027423.1']
+    Key: Parent, Value: ['gene-JL105_RS08515']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012579.4']
+    Key: locus_tag, Value: ['JL105_RS08515']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['BglG family transcription antiterminator']
+    Key: protein_id, Value: ['WP_132027423.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(BglG family transcription antiterminator, 13590-15675 (1))
+[GF(None, 577-1783 (-1)), GF(None, 2140-2218 (1)), GF(serine hydrolase domain-containing protein, 2354-3965 (-1)), GF(None, 3999-4863 (-1)), GF(None, 4855-5272 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5264-6338 (-1)), GF(CRISPR-associated protein Csx11, 6356-9593 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9589-10636 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10652-11807 (-1)), GF(dipeptidase PepV, 11946-13344 (-1)), GF(BglG family transcription antiterminator, 13590-15675 (1)), GF(CRISPR-Cas locus, 4000-11807 (0))]

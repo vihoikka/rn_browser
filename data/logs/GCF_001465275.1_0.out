@@ -1,0 +1,326 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP013653.1  ...  GCF_001465275.1_0  GCF_001465275.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP013653.1
+type: CDS
+location: [1694848:1696126](+)
+id: cds-WP_062491803.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491803.1']
+    Key: ID, Value: ['cds-WP_062491803.1']
+    Key: Name, Value: ['WP_062491803.1']
+    Key: Parent, Value: ['gene-IJ21_RS07560']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013648.4']
+    Key: locus_tag, Value: ['IJ21_RS07560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter substrate-binding protein']
+    Key: protein_id, Value: ['WP_062491803.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter substrate-binding protein, 1693-2971 (1))
+type: CDS
+location: [1696129:1697158](+)
+id: cds-WP_082655127.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_082655127.1']
+    Key: ID, Value: ['cds-WP_082655127.1']
+    Key: Name, Value: ['WP_082655127.1']
+    Key: Ontology_term, Value: ['GO:0006826', 'GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-IJ21_RS07565']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: go_process, Value: ['iron ion transport|0006826||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003320724.1']
+    Key: locus_tag, Value: ['IJ21_RS07565']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['iron ABC transporter permease']
+    Key: protein_id, Value: ['WP_082655127.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(iron ABC transporter permease, 2974-4003 (1))
+type: CDS
+location: [1697181:1697949](+)
+id: cds-WP_160327775.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_160327775.1']
+    Key: ID, Value: ['cds-WP_160327775.1']
+    Key: Name, Value: ['WP_160327775.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887', 'GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-IJ21_RS07570']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA', 'ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012235.4']
+    Key: locus_tag, Value: ['IJ21_RS07570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter ATP-binding protein']
+    Key: protein_id, Value: ['WP_160327775.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter ATP-binding protein, 4026-4794 (1))
+type: CDS
+location: [1697954:1698332](+)
+id: cds-IJ21_RS25450
+qualifiers:
+    Key: ID, Value: ['cds-IJ21_RS25450']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-IJ21_RS25450']
+    Key: end_range, Value: ['1698332', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_001192768.1']
+    Key: locus_tag, Value: ['IJ21_RS25450']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ankyrin repeat domain-containing protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ankyrin repeat domain-containing protein, 4799-5177 (1))
+type: CDS
+location: [1698371:1698728](+)
+id: cds-WP_235593419.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_235593419.1']
+    Key: ID, Value: ['cds-WP_235593419.1']
+    Key: Name, Value: ['WP_235593419.1']
+    Key: Parent, Value: ['gene-IJ21_RS25455']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015925.4']
+    Key: locus_tag, Value: ['IJ21_RS25455']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['antibiotic biosynthesis monooxygenase']
+    Key: protein_id, Value: ['WP_235593419.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(antibiotic biosynthesis monooxygenase, 5216-5573 (1))
+type: CDS
+location: [1699136:1699415](+)
+id: cds-WP_145977163.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_145977163.1']
+    Key: ID, Value: ['cds-WP_145977163.1']
+    Key: Name, Value: ['WP_145977163.1']
+    Key: Parent, Value: ['gene-IJ21_RS07580']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IJ21_RS07580']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_145977163.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5981-6260 (1))
+type: CDS
+location: [1700925:1702191](+)
+id: cds-WP_062491810.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491810.1']
+    Key: ID, Value: ['cds-WP_062491810.1']
+    Key: Name, Value: ['WP_062491810.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IJ21_RS07585']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['IJ21_RS07585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_062491810.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 7770-9036 (1))
+type: CDS
+location: [1702187:1704104](+)
+id: cds-WP_062491812.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491812.1']
+    Key: ID, Value: ['cds-WP_062491812.1']
+    Key: Name, Value: ['WP_062491812.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IJ21_RS07590']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['IJ21_RS07590']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_062491812.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9032-10949 (1))
+type: CDS
+location: [1704069:1705410](+)
+id: cds-WP_062491814.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491814.1']
+    Key: ID, Value: ['cds-WP_062491814.1']
+    Key: Name, Value: ['WP_062491814.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-IJ21_RS07595']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01888.1']
+    Key: locus_tag, Value: ['IJ21_RS07595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_062491814.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 10914-12255 (1))
+type: CDS
+location: [1705423:1706362](+)
+id: cds-WP_235593369.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_235593369.1']
+    Key: ID, Value: ['cds-WP_235593369.1']
+    Key: Name, Value: ['WP_235593369.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IJ21_RS07600']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014281204.1']
+    Key: locus_tag, Value: ['IJ21_RS07600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_235593369.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 12268-13207 (1))
+type: CDS
+location: [1706368:1706740](+)
+id: cds-WP_062491817.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491817.1']
+    Key: ID, Value: ['cds-WP_062491817.1']
+    Key: Name, Value: ['WP_062491817.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IJ21_RS07605']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006285304.1']
+    Key: locus_tag, Value: ['IJ21_RS07605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_062491817.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 13213-13585 (1))
+type: CDS
+location: [1706743:1707610](+)
+id: cds-WP_062491819.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491819.1']
+    Key: ID, Value: ['cds-WP_062491819.1']
+    Key: Name, Value: ['WP_062491819.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IJ21_RS07610']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['IJ21_RS07610']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_062491819.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 13588-14455 (1))
+type: CDS
+location: [1707575:1708589](+)
+id: cds-WP_062491821.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491821.1']
+    Key: ID, Value: ['cds-WP_062491821.1']
+    Key: Name, Value: ['WP_062491821.1']
+    Key: Parent, Value: ['gene-IJ21_RS07615']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF042699.2']
+    Key: locus_tag, Value: ['IJ21_RS07615']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6602 domain-containing protein']
+    Key: protein_id, Value: ['WP_062491821.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6602 domain-containing protein, 14420-15434 (1))
+type: CDS
+location: [1710015:1711572](+)
+id: cds-WP_062491823.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_062491823.1']
+    Key: ID, Value: ['cds-WP_062491823.1']
+    Key: Name, Value: ['WP_062491823.1']
+    Key: Parent, Value: ['gene-IJ21_RS07620']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015256147.1']
+    Key: locus_tag, Value: ['IJ21_RS07620']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02677 family protein']
+    Key: protein_id, Value: ['WP_062491823.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02677 family protein, 16860-18417 (1))
+type: repeat_region
+location: [1693793:1694703](+)
+id: NZ_CP013653.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP013653.1_1']
+    Key: Note, Value: ['GTCGCTCCCTACGCGGGAGCGTGGATTGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['910']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 638-1548 (0))
+type: repeat_region
+location: [1699660:1700583](+)
+id: NZ_CP013653.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP013653.1_2']
+    Key: Note, Value: ['GTCGCTCCCTACGCGGGAGCGTGGATTGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['923']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 6505-7428 (0))
+type: repeat_region
+location: [1708899:1709872](+)
+id: NZ_CP013653.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP013653.1_3']
+    Key: Note, Value: ['GTCGCTCCCTACGCGGGAGCGTGGATTGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['973']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 15744-16717 (0))
+graphic feature from known effectors: GF(nucc, 14421-15434 (1))
+[GF(ABC transporter substrate-binding protein, 1693-2971 (1)), GF(iron ABC transporter permease, 2974-4003 (1)), GF(ABC transporter ATP-binding protein, 4026-4794 (1)), GF(ankyrin repeat domain-containing protein, 4799-5177 (1)), GF(antibiotic biosynthesis monooxygenase, 5216-5573 (1)), GF(None, 5981-6260 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 7770-9036 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9032-10949 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 10914-12255 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12268-13207 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 13213-13585 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 13588-14455 (1)), GF(DUF6602 domain-containing protein, 14420-15434 (1)), GF(TIGR02677 family protein, 16860-18417 (1)), GF(Repeat region, 638-1548 (0)), GF(Repeat region, 6505-7428 (0)), GF(Repeat region, 15744-16717 (0)), GF(nucc, 14421-15434 (1)), GF(CRISPR-Cas locus, 4000-15434 (0))]

@@ -1,0 +1,554 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP092752.1  ...  GCF_030506185.1_0  GCF_030506185.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP092752.1
+type: CDS
+location: [2248658:2249165](+)
+id: cds-WP_012700699.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012700699.1']
+    Key: ID, Value: ['cds-WP_012700699.1']
+    Key: Name, Value: ['WP_012700699.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10690']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012700699.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10690']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['acetone carboxylase subunit gamma']
+    Key: protein_id, Value: ['WP_012700699.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(acetone carboxylase subunit gamma, 1065-1572 (1))
+type: CDS
+location: [2249448:2251437](+)
+id: cds-WP_302228857.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228857.1']
+    Key: ID, Value: ['cds-WP_302228857.1']
+    Key: Name, Value: ['WP_302228857.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10695']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012700700.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10695']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['sigma-54-dependent Fis family transcriptional regulator']
+    Key: protein_id, Value: ['WP_302228857.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(sigma-54-dependent Fis family transcriptional regulator, 1855-3844 (1))
+type: CDS
+location: [2251592:2251898](+)
+id: cds-WP_302228858.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228858.1']
+    Key: ID, Value: ['cds-WP_302228858.1']
+    Key: Name, Value: ['WP_302228858.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AVAEIV_RS10700']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx16']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02620.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10700']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx16']
+    Key: protein_id, Value: ['WP_302228858.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx16, 3999-4305 (1))
+type: CDS
+location: [2251882:2252740](+)
+id: cds-WP_302228859.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228859.1']
+    Key: ID, Value: ['cds-WP_302228859.1']
+    Key: Name, Value: ['WP_302228859.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10705']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021207.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10705']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228859.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4289-5147 (1))
+type: CDS
+location: [2254624:2254900](-)
+id: cds-WP_302228861.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228861.1']
+    Key: ID, Value: ['cds-WP_302228861.1']
+    Key: Name, Value: ['WP_302228861.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-AVAEIV_RS10710']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10710']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_302228861.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 7031-7307 (-1))
+type: CDS
+location: [2254896:2255679](-)
+id: cds-WP_302228863.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228863.1']
+    Key: ID, Value: ['cds-WP_302228863.1']
+    Key: Name, Value: ['WP_302228863.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0051607', 'GO:0003676', 'GO:0004519', 'GO:0046872']
+    Key: Parent, Value: ['gene-AVAEIV_RS10715']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'endonuclease activity|0004519||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA', 'defense response to virus|0051607||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013984.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10715']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_302228863.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 7303-8086 (-1))
+type: CDS
+location: [2255650:2256646](-)
+id: cds-WP_302228864.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228864.1']
+    Key: ID, Value: ['cds-WP_302228864.1']
+    Key: Name, Value: ['WP_302228864.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-AVAEIV_RS10720']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_302228864.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 8057-9053 (-1))
+type: CDS
+location: [2256676:2256961](-)
+id: cds-WP_302228866.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228866.1']
+    Key: ID, Value: ['cds-WP_302228866.1']
+    Key: Name, Value: ['WP_302228866.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10725']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228866.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9083-9368 (-1))
+type: CDS
+location: [2257036:2257321](-)
+id: cds-WP_302228868.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228868.1']
+    Key: ID, Value: ['cds-WP_302228868.1']
+    Key: Name, Value: ['WP_302228868.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-AVAEIV_RS10730']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021356.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_302228868.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 9443-9728 (-1))
+type: CDS
+location: [2257857:2259060](-)
+id: cds-WP_302228869.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228869.1']
+    Key: ID, Value: ['cds-WP_302228869.1']
+    Key: Name, Value: ['WP_302228869.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10735']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020571.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_302228869.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 10264-11467 (-1))
+type: CDS
+location: [2259060:2259969](-)
+id: cds-WP_302228870.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228870.1']
+    Key: ID, Value: ['cds-WP_302228870.1']
+    Key: Name, Value: ['WP_302228870.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10740']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_302228870.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 11467-12376 (-1))
+type: CDS
+location: [2260090:2260600](-)
+id: cds-WP_302228871.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228871.1']
+    Key: ID, Value: ['cds-WP_302228871.1']
+    Key: Name, Value: ['WP_302228871.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10745']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228871.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12497-13007 (-1))
+type: CDS
+location: [2262937:2264110](-)
+id: cds-WP_302228872.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228872.1']
+    Key: ID, Value: ['cds-WP_302228872.1']
+    Key: Name, Value: ['WP_302228872.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AVAEIV_RS10750']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021162.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Csm6']
+    Key: protein_id, Value: ['WP_302228872.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Csm6, 15344-16517 (-1))
+type: CDS
+location: [2264324:2265602](-)
+id: cds-WP_302228873.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228873.1']
+    Key: ID, Value: ['cds-WP_302228873.1']
+    Key: Name, Value: ['WP_302228873.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10755']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228873.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16731-18009 (-1))
+type: CDS
+location: [2265615:2268306](-)
+id: cds-WP_302228874.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228874.1']
+    Key: ID, Value: ['cds-WP_302228874.1']
+    Key: Name, Value: ['WP_302228874.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228874.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18022-20713 (-1))
+type: CDS
+location: [2268430:2268814](-)
+id: cds-WP_302228875.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228875.1']
+    Key: ID, Value: ['cds-WP_302228875.1']
+    Key: Name, Value: ['WP_302228875.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10765']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228875.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 20837-21221 (-1))
+type: CDS
+location: [2268940:2269180](-)
+id: cds-WP_302228876.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228876.1']
+    Key: ID, Value: ['cds-WP_302228876.1']
+    Key: Name, Value: ['WP_302228876.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10770']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228876.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21347-21587 (-1))
+type: CDS
+location: [2269560:2270721](-)
+id: cds-WP_302228877.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228877.1']
+    Key: ID, Value: ['cds-WP_302228877.1']
+    Key: Name, Value: ['WP_302228877.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AVAEIV_RS10775']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_302228877.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 21967-23128 (-1))
+type: CDS
+location: [2270783:2272910](-)
+id: cds-WP_302228879.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228879.1']
+    Key: ID, Value: ['cds-WP_302228879.1']
+    Key: Name, Value: ['WP_302228879.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10780']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_302228879.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 23190-25317 (-1))
+type: CDS
+location: [2272906:2273383](-)
+id: cds-WP_302228881.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228881.1']
+    Key: ID, Value: ['cds-WP_302228881.1']
+    Key: Name, Value: ['WP_302228881.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228881.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 25313-25790 (-1))
+type: CDS
+location: [2273379:2274786](-)
+id: cds-WP_302228884.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228884.1']
+    Key: ID, Value: ['cds-WP_302228884.1']
+    Key: Name, Value: ['WP_302228884.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_302228884.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 25786-27193 (-1))
+type: CDS
+location: [2274782:2276321](-)
+id: cds-WP_302228886.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228886.1']
+    Key: ID, Value: ['cds-WP_302228886.1']
+    Key: Name, Value: ['WP_302228886.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_302228886.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 27189-28728 (-1))
+type: CDS
+location: [2276324:2276996](-)
+id: cds-WP_302228888.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228888.1']
+    Key: ID, Value: ['cds-WP_302228888.1']
+    Key: Name, Value: ['WP_302228888.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10800']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['AVAEIV_RS10800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_302228888.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 28731-29403 (-1))
+type: CDS
+location: [2276992:2278615](-)
+id: cds-WP_302228891.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_302228891.1']
+    Key: ID, Value: ['cds-WP_302228891.1']
+    Key: Name, Value: ['WP_302228891.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10805']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AVAEIV_RS10805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_302228891.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 29399-31022 (-1))
+type: CDS
+location: [2279236:2279761](+)
+id: cds-WP_012700703.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012700703.1']
+    Key: ID, Value: ['cds-WP_012700703.1']
+    Key: Name, Value: ['WP_012700703.1']
+    Key: Parent, Value: ['gene-AVAEIV_RS10810']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012700703.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['rhodanese-like domain-containing protein']
+    Key: protein_id, Value: ['WP_012700703.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(rhodanese-like domain-containing protein, 31643-32168 (1))
+type: CDS
+location: [2279848:2280832](+)
+id: cds-WP_012700704.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012700704.1']
+    Key: ID, Value: ['cds-WP_012700704.1']
+    Key: Name, Value: ['WP_012700704.1']
+    Key: Ontology_term, Value: ['GO:0006535', 'GO:0009001']
+    Key: Parent, Value: ['gene-AVAEIV_RS10815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['epsC']
+    Key: go_function, Value: ['serine O-acetyltransferase activity|0009001||IEA']
+    Key: go_process, Value: ['cysteine biosynthetic process from serine|0006535||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012700704.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['serine O-acetyltransferase EpsC']
+    Key: protein_id, Value: ['WP_012700704.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(serine O-acetyltransferase EpsC, 32255-33239 (1))
+type: CDS
+location: [2281067:2282000](+)
+id: cds-WP_012700291.1-2
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012700291.1']
+    Key: ID, Value: ['cds-WP_012700291.1-2']
+    Key: Name, Value: ['WP_012700291.1']
+    Key: Ontology_term, Value: ['GO:0140737']
+    Key: Parent, Value: ['gene-AVAEIV_RS10820']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['encapsulin nanocompartment|0140737||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012700291.1']
+    Key: locus_tag, Value: ['AVAEIV_RS10820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['family 2A encapsulin nanocompartment shell protein']
+    Key: protein_id, Value: ['WP_012700291.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(family 2A encapsulin nanocompartment shell protein, 33474-34407 (1))
+type: repeat_region
+location: [2253052:2254471](+)
+id: NZ_CP092752.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP092752.1_2']
+    Key: Note, Value: ['GTCTTAATCCCTTATCAAACAGGGCTCAGTTCAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1419']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 5459-6878 (0))
+type: repeat_region
+location: [2260893:2262590](+)
+id: NZ_CP092752.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP092752.1_3']
+    Key: Note, Value: ['GTCTTAATCCCTTATCAAACAGGGCTCAGTTCAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1697']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13300-14997 (0))
+graphic feature from known effectors: GF(cam1, 4290-5147 (1))
+graphic feature from known effectors: GF(can1-2, 10265-11467 (-1))
+graphic feature from known effectors: GF(can1-2, 16732-18009 (-1))
+graphic feature from known effectors: GF(csx1, 21968-23128 (-1))
+[GF(acetone carboxylase subunit gamma, 1065-1572 (1)), GF(sigma-54-dependent Fis family transcriptional regulator, 1855-3844 (1)), GF(CRISPR-associated protein Csx16, 3999-4305 (1)), GF(None, 4289-5147 (1)), GF(CRISPR-associated endonuclease Cas2, 7031-7307 (-1)), GF(CRISPR-associated endonuclease Cas1, 7303-8086 (-1)), GF(CRISPR-associated endonuclease Cas1, 8057-9053 (-1)), GF(None, 9083-9368 (-1)), GF(CRISPR-associated endonuclease Cas2, 9443-9728 (-1)), GF(DUF1887 family CARF protein, 10264-11467 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 11467-12376 (-1)), GF(None, 12497-13007 (-1)), GF(CRISPR-associated ring nuclease Csm6, 15344-16517 (-1)), GF(None, 16731-18009 (-1)), GF(None, 18022-20713 (-1)), GF(None, 20837-21221 (-1)), GF(None, 21347-21587 (-1)), GF(TIGR02221 family CRISPR-associated protein, 21967-23128 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 23190-25317 (-1)), GF(None, 25313-25790 (-1)), GF(RAMP superfamily CRISPR-associated protein, 25786-27193 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 27189-28728 (-1)), GF(RAMP superfamily CRISPR-associated protein, 28731-29403 (-1)), GF(None, 29399-31022 (-1)), GF(rhodanese-like domain-containing protein, 31643-32168 (1)), GF(serine O-acetyltransferase EpsC, 32255-33239 (1)), GF(family 2A encapsulin nanocompartment shell protein, 33474-34407 (1)), GF(Repeat region, 5459-6878 (0)), GF(Repeat region, 13300-14997 (0)), GF(cam1, 4290-5147 (1)), GF(can1-2, 10265-11467 (-1)), GF(can1-2, 16732-18009 (-1)), GF(csx1, 21968-23128 (-1)), GF(CRISPR-Cas locus, 4000-31022 (0))]

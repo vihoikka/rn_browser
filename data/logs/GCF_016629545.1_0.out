@@ -1,0 +1,294 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_AP024271.1  ...  GCF_016629545.1_0  GCF_016629545.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_AP024271.1
+type: CDS
+location: [9666:10619](-)
+id: cds-JMH49_RS10570
+qualifiers:
+    Key: ID, Value: ['cds-JMH49_RS10570']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-JMH49_RS10570']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011228296.1']
+    Key: locus_tag, Value: ['JMH49_RS10570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS110-like element IS1000B family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS110-like element IS1000B family transposase, 901-1854 (-1))
+type: CDS
+location: [11060:11261](+)
+id: cds-WP_259330077.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_259330077.1']
+    Key: ID, Value: ['cds-WP_259330077.1']
+    Key: Name, Value: ['WP_259330077.1']
+    Key: Ontology_term, Value: ['GO:0016491', 'GO:0016625', 'GO:0051536']
+    Key: Parent, Value: ['gene-JMH49_RS10575']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity|0016491||IEA', 'oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor|0016625||IEA', 'iron-sulfur cluster binding|0051536||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014750.3']
+    Key: locus_tag, Value: ['JMH49_RS10575']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['aldehyde ferredoxin oxidoreductase N-terminal domain-containing protein']
+    Key: protein_id, Value: ['WP_259330077.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(aldehyde ferredoxin oxidoreductase N-terminal domain-containing protein, 2295-2496 (1))
+type: CDS
+location: [11672:11870](+)
+id: cds-WP_201351448.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351448.1']
+    Key: ID, Value: ['cds-WP_201351448.1']
+    Key: Name, Value: ['WP_201351448.1']
+    Key: Parent, Value: ['gene-JMH49_RS10585']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012632.3']
+    Key: locus_tag, Value: ['JMH49_RS10585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RCC1 domain-containing protein']
+    Key: protein_id, Value: ['WP_201351448.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RCC1 domain-containing protein, 2907-3105 (1))
+type: CDS
+location: [11891:12617](-)
+id: cds-WP_224065257.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_224065257.1']
+    Key: ID, Value: ['cds-WP_224065257.1']
+    Key: Name, Value: ['WP_224065257.1']
+    Key: Parent, Value: ['gene-JMH49_RS10590']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011229250.1']
+    Key: locus_tag, Value: ['JMH49_RS10590']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_224065257.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3126-3852 (-1))
+type: CDS
+location: [12764:13268](-)
+id: cds-WP_201351449.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351449.1']
+    Key: ID, Value: ['cds-WP_201351449.1']
+    Key: Name, Value: ['WP_201351449.1']
+    Key: Parent, Value: ['gene-JMH49_RS10595']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JMH49_RS10595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_201351449.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4503 (-1))
+type: CDS
+location: [13687:14068](-)
+id: cds-WP_201351450.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351450.1']
+    Key: ID, Value: ['cds-WP_201351450.1']
+    Key: Name, Value: ['WP_201351450.1']
+    Key: Parent, Value: ['gene-JMH49_RS10600']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015942492.1']
+    Key: locus_tag, Value: ['JMH49_RS10600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_201351450.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4922-5303 (-1))
+type: CDS
+location: [14064:15114](-)
+id: cds-WP_201351451.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351451.1']
+    Key: ID, Value: ['cds-WP_201351451.1']
+    Key: Name, Value: ['WP_201351451.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-JMH49_RS10605']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015738928.1']
+    Key: locus_tag, Value: ['JMH49_RS10605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_201351451.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5299-6349 (-1))
+type: CDS
+location: [15119:16751](-)
+id: cds-WP_201351452.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351452.1']
+    Key: ID, Value: ['cds-WP_201351452.1']
+    Key: Name, Value: ['WP_201351452.1']
+    Key: Parent, Value: ['gene-JMH49_RS10610']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JMH49_RS10610']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_201351452.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6354-7986 (-1))
+type: CDS
+location: [16777:17900](+)
+id: cds-JMH49_RS10615
+qualifiers:
+    Key: ID, Value: ['cds-JMH49_RS10615']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-JMH49_RS10615']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076611855.1']
+    Key: locus_tag, Value: ['JMH49_RS10615']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS3 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS3 family transposase, 8012-9135 (1))
+type: CDS
+location: [17924:19391](-)
+id: cds-WP_259330078.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_259330078.1']
+    Key: ID, Value: ['cds-WP_259330078.1']
+    Key: Name, Value: ['WP_259330078.1']
+    Key: Parent, Value: ['gene-JMH49_RS10620']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JMH49_RS10620']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_259330078.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9159-10626 (-1))
+type: CDS
+location: [19387:20413](-)
+id: cds-WP_259330079.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_259330079.1']
+    Key: ID, Value: ['cds-WP_259330079.1']
+    Key: Name, Value: ['WP_259330079.1']
+    Key: Parent, Value: ['gene-JMH49_RS10625']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015942495.1']
+    Key: locus_tag, Value: ['JMH49_RS10625']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_259330079.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10622-11648 (-1))
+type: CDS
+location: [20486:21434](-)
+id: cds-WP_201351453.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351453.1']
+    Key: ID, Value: ['cds-WP_201351453.1']
+    Key: Name, Value: ['WP_201351453.1']
+    Key: Parent, Value: ['gene-JMH49_RS10630']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011172890.1']
+    Key: locus_tag, Value: ['JMH49_RS10630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS701-like element ISTth8 family transposase']
+    Key: protein_id, Value: ['WP_201351453.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS701-like element ISTth8 family transposase, 11721-12669 (-1))
+type: CDS
+location: [21476:22331](-)
+id: cds-WP_201351454.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351454.1']
+    Key: ID, Value: ['cds-WP_201351454.1']
+    Key: Name, Value: ['WP_201351454.1']
+    Key: Parent, Value: ['gene-JMH49_RS10635']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['JMH49_RS10635']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_201351454.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12711-13566 (-1))
+type: inferred_parent
+location: [22357:23478](+)
+id: gene-JMH49_RS10640
+qualifiers:
+    Key: ID, Value: ['gene-JMH49_RS10640']
+
+GF(None, 13592-14713 (1))
+type: CDS
+location: [23502:23748](-)
+id: cds-WP_201351456.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_201351456.1']
+    Key: ID, Value: ['cds-WP_201351456.1']
+    Key: Name, Value: ['WP_201351456.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-JMH49_RS10645']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['JMH49_RS10645']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_201351456.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 14737-14983 (-1))
+type: CDS
+location: [23862:24283](-)
+id: cds-JMH49_RS14135
+qualifiers:
+    Key: ID, Value: ['cds-JMH49_RS14135']
+    Key: Note, Value: ['frameshifted; internal stop']
+    Key: Parent, Value: ['gene-JMH49_RS14135']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015716433.1']
+    Key: locus_tag, Value: ['JMH49_RS14135']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DDE transposase family protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DDE transposase family protein, 15097-15518 (-1))
+[GF(IS110-like element IS1000B family transposase, 901-1854 (-1)), GF(aldehyde ferredoxin oxidoreductase N-terminal domain-containing protein, 2295-2496 (1)), GF(RCC1 domain-containing protein, 2907-3105 (1)), GF(None, 3126-3852 (-1)), GF(None, 3999-4503 (-1)), GF(None, 4922-5303 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5299-6349 (-1)), GF(None, 6354-7986 (-1)), GF(IS3 family transposase, 8012-9135 (1)), GF(None, 9159-10626 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10622-11648 (-1)), GF(IS701-like element ISTth8 family transposase, 11721-12669 (-1)), GF(None, 12711-13566 (-1)), GF(None, 13592-14713 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 14737-14983 (-1)), GF(DDE transposase family protein, 15097-15518 (-1)), GF(CRISPR-Cas locus, 4000-11684 (0))]

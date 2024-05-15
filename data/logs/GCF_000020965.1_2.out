@@ -1,0 +1,286 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_011297.1  ...  GCF_000020965.1_2  GCF_000020965.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_011297.1
+type: CDS
+location: [194349:194612](-)
+id: cds-DICTH_RS09885
+qualifiers:
+    Key: ID, Value: ['cds-DICTH_RS09885']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-DICTH_RS09885']
+    Key: end_range, Value: ['194612', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015907074.1']
+    Key: locus_tag, Value: ['DICTH_RS09885']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS481 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '194350']
+    Key: transl_table, Value: ['11']
+
+GF(IS481 family transposase, 375-638 (-1))
+type: CDS
+location: [194818:196222](+)
+id: cds-WP_012548074.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548074.1']
+    Key: ID, Value: ['cds-WP_012548074.1']
+    Key: Name, Value: ['WP_012548074.1']
+    Key: Parent, Value: ['gene-DICTH_RS09775']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012547148.1']
+    Key: locus_tag, Value: ['DICTH_RS09775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PQQ-binding-like beta-propeller repeat protein']
+    Key: protein_id, Value: ['WP_012548074.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PQQ-binding-like beta-propeller repeat protein, 844-2248 (1))
+type: CDS
+location: [196483:197593](+)
+id: cds-WP_012547148.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547148.1']
+    Key: ID, Value: ['cds-WP_012547148.1']
+    Key: Name, Value: ['WP_012547148.1']
+    Key: Parent, Value: ['gene-DICTH_RS00875']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548074.1']
+    Key: locus_tag, Value: ['DICTH_RS00875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PQQ-binding-like beta-propeller repeat protein']
+    Key: protein_id, Value: ['WP_012547148.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PQQ-binding-like beta-propeller repeat protein, 2509-3619 (1))
+type: CDS
+location: [197973:198279](+)
+id: cds-WP_012548748.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548748.1']
+    Key: ID, Value: ['cds-WP_012548748.1']
+    Key: Name, Value: ['WP_012548748.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00880']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['crn3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582986.1']
+    Key: locus_tag, Value: ['DICTH_RS00880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Crn3/Csx3']
+    Key: protein_id, Value: ['WP_012548748.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Crn3/Csx3, 3999-4305 (1))
+type: CDS
+location: [198283:200716](+)
+id: cds-WP_012547990.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547990.1']
+    Key: ID, Value: ['cds-WP_012547990.1']
+    Key: Name, Value: ['WP_012547990.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00885']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582985.1']
+    Key: locus_tag, Value: ['DICTH_RS00885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_012547990.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 4309-6742 (1))
+type: CDS
+location: [200712:201168](+)
+id: cds-WP_012547133.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547133.1']
+    Key: ID, Value: ['cds-WP_012547133.1']
+    Key: Name, Value: ['WP_012547133.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00890']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582984.1']
+    Key: locus_tag, Value: ['DICTH_RS00890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_012547133.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 6738-7194 (1))
+type: CDS
+location: [201167:201917](+)
+id: cds-WP_012548313.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548313.1']
+    Key: ID, Value: ['cds-WP_012548313.1']
+    Key: Name, Value: ['WP_012548313.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00895']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582983.1']
+    Key: locus_tag, Value: ['DICTH_RS00895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_012548313.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7193-7943 (1))
+type: CDS
+location: [201934:202936](+)
+id: cds-WP_012548282.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548282.1']
+    Key: ID, Value: ['cds-WP_012548282.1']
+    Key: Name, Value: ['WP_012548282.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00900']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582982.1']
+    Key: locus_tag, Value: ['DICTH_RS00900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_012548282.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 7960-8962 (1))
+type: CDS
+location: [202955:204032](+)
+id: cds-WP_012547494.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547494.1']
+    Key: ID, Value: ['cds-WP_012547494.1']
+    Key: Name, Value: ['WP_012547494.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DICTH_RS00905']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['DICTH_RS00905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_012547494.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 8981-10058 (1))
+type: CDS
+location: [204024:205308](+)
+id: cds-WP_012548143.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548143.1']
+    Key: ID, Value: ['cds-WP_012548143.1']
+    Key: Name, Value: ['WP_012548143.1']
+    Key: Parent, Value: ['gene-DICTH_RS00910']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DICTH_RS00910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TM1812 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012548143.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(TM1812 family CRISPR-associated protein, 10050-11334 (1))
+type: CDS
+location: [205328:206357](+)
+id: cds-WP_012547329.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547329.1']
+    Key: ID, Value: ['cds-WP_012547329.1']
+    Key: Name, Value: ['WP_012547329.1']
+    Key: Parent, Value: ['gene-DICTH_RS00915']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012583003.1']
+    Key: locus_tag, Value: ['DICTH_RS00915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['zinc-dependent alcohol dehydrogenase family protein']
+    Key: protein_id, Value: ['WP_012547329.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(zinc-dependent alcohol dehydrogenase family protein, 11354-12383 (1))
+type: CDS
+location: [206492:207716](+)
+id: cds-WP_012548201.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012548201.1']
+    Key: ID, Value: ['cds-WP_012548201.1']
+    Key: Name, Value: ['WP_012548201.1']
+    Key: Parent, Value: ['gene-DICTH_RS00920']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012583929.1']
+    Key: locus_tag, Value: ['DICTH_RS00920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF438 domain-containing protein']
+    Key: protein_id, Value: ['WP_012548201.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF438 domain-containing protein, 12518-13742 (1))
+type: CDS
+location: [207871:208321](+)
+id: cds-WP_012547235.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547235.1']
+    Key: ID, Value: ['cds-WP_012547235.1']
+    Key: Name, Value: ['WP_012547235.1']
+    Key: Ontology_term, Value: ['GO:0008080']
+    Key: Parent, Value: ['gene-DICTH_RS00925']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['N-acetyltransferase activity|0008080||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024812.4']
+    Key: locus_tag, Value: ['DICTH_RS00925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GNAT family N-acetyltransferase']
+    Key: protein_id, Value: ['WP_012547235.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GNAT family N-acetyltransferase, 13897-14347 (1))
+type: CDS
+location: [208466:209288](+)
+id: cds-WP_012547585.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012547585.1']
+    Key: ID, Value: ['cds-WP_012547585.1']
+    Key: Name, Value: ['WP_012547585.1']
+    Key: Parent, Value: ['gene-DICTH_RS00930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014601.4']
+    Key: locus_tag, Value: ['DICTH_RS00930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NAD(P)-binding domain-containing protein']
+    Key: protein_id, Value: ['WP_012547585.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NAD(P)-binding domain-containing protein, 14492-15314 (1))
+[GF(IS481 family transposase, 375-638 (-1)), GF(PQQ-binding-like beta-propeller repeat protein, 844-2248 (1)), GF(PQQ-binding-like beta-propeller repeat protein, 2509-3619 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 3999-4305 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4309-6742 (1)), GF(type III-A CRISPR-associated protein Csm2, 6738-7194 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7193-7943 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7960-8962 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8981-10058 (1)), GF(TM1812 family CRISPR-associated protein, 10050-11334 (1)), GF(zinc-dependent alcohol dehydrogenase family protein, 11354-12383 (1)), GF(DUF438 domain-containing protein, 12518-13742 (1)), GF(GNAT family N-acetyltransferase, 13897-14347 (1)), GF(NAD(P)-binding domain-containing protein, 14492-15314 (1)), GF(CRISPR-Cas locus, 4000-11334 (0))]

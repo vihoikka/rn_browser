@@ -1,0 +1,239 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP073011.1  ...  GCF_018075365.1_0  GCF_018075365.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP073011.1
+type: CDS
+location: [4628676:4628939](-)
+id: cds-KBP50_RS22350
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:71773815']
+    Key: ID, Value: ['cds-KBP50_RS22350']
+    Key: Note, Value: ['frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-KBP50_RS22350']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014281746.1']
+    Key: locus_tag, Value: ['KBP50_RS22350']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SDR family NAD(P)-dependent oxidoreductase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '4628677']
+    Key: transl_table, Value: ['11']
+
+GF(SDR family NAD(P)-dependent oxidoreductase, 2029-2292 (-1))
+type: CDS
+location: [4629310:4629924](+)
+id: cds-KBP50_RS22355
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:71773816']
+    Key: ID, Value: ['cds-KBP50_RS22355']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-KBP50_RS22355']
+    Key: end_range, Value: ['4629924', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_001236347.1']
+    Key: locus_tag, Value: ['KBP50_RS22355']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS110 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS110 family transposase, 2663-3277 (1))
+type: CDS
+location: [4630646:4631555](+)
+id: cds-WP_050350680.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350680.1', 'GeneID:66873018']
+    Key: ID, Value: ['cds-WP_050350680.1']
+    Key: Name, Value: ['WP_050350680.1']
+    Key: Parent, Value: ['gene-KBP50_RS21385']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.2']
+    Key: locus_tag, Value: ['KBP50_RS21385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_050350680.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4908 (1))
+type: CDS
+location: [4631565:4632468](+)
+id: cds-WP_050350679.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350679.1', 'GeneID:66873019']
+    Key: ID, Value: ['cds-WP_050350679.1']
+    Key: Name, Value: ['WP_050350679.1']
+    Key: Parent, Value: ['gene-KBP50_RS21390']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['KBP50_RS21390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_050350679.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4918-5821 (1))
+type: CDS
+location: [4632442:4634851](+)
+id: cds-WP_050350678.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350678.1', 'GeneID:66873020']
+    Key: ID, Value: ['cds-WP_050350678.1']
+    Key: Name, Value: ['WP_050350678.1']
+    Key: Parent, Value: ['gene-KBP50_RS21395']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['KBP50_RS21395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_050350678.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5795-8204 (1))
+type: CDS
+location: [4634837:4636943](+)
+id: cds-WP_050350677.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350677.1', 'GeneID:66873021']
+    Key: ID, Value: ['cds-WP_050350677.1']
+    Key: Name, Value: ['WP_050350677.1']
+    Key: Parent, Value: ['gene-KBP50_RS21400']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['KBP50_RS21400']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_050350677.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8190-10296 (1))
+type: CDS
+location: [4636917:4638231](+)
+id: cds-WP_050350676.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350676.1', 'GeneID:66873022']
+    Key: ID, Value: ['cds-WP_050350676.1']
+    Key: Name, Value: ['WP_050350676.1']
+    Key: Parent, Value: ['gene-KBP50_RS21405']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['KBP50_RS21405']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_050350676.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10270-11584 (1))
+type: CDS
+location: [4638211:4638778](+)
+id: cds-WP_050350675.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350675.1', 'GeneID:66873023']
+    Key: ID, Value: ['cds-WP_050350675.1']
+    Key: Name, Value: ['WP_050350675.1']
+    Key: Parent, Value: ['gene-KBP50_RS21410']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx19']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03984.2']
+    Key: locus_tag, Value: ['KBP50_RS21410']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx19']
+    Key: protein_id, Value: ['WP_050350675.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx19, 11564-12131 (1))
+type: CDS
+location: [4638758:4640459](+)
+id: cds-WP_050350674.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350674.1', 'GeneID:66873024']
+    Key: ID, Value: ['cds-WP_050350674.1']
+    Key: Name, Value: ['WP_050350674.1']
+    Key: Parent, Value: ['gene-KBP50_RS21415']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['KBP50_RS21415']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_050350674.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 12111-13812 (1))
+type: CDS
+location: [4640719:4641343](+)
+id: cds-WP_236691387.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_236691387.1', 'GeneID:66873025']
+    Key: ID, Value: ['cds-WP_236691387.1']
+    Key: Name, Value: ['WP_236691387.1']
+    Key: Ontology_term, Value: ['GO:0006520', 'GO:0047689']
+    Key: Parent, Value: ['gene-KBP50_RS21420']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['aspartate racemase activity|0047689||IEA']
+    Key: go_process, Value: ['amino acid metabolic process|0006520||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002094622.1']
+    Key: locus_tag, Value: ['KBP50_RS21420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['amino acid racemase']
+    Key: protein_id, Value: ['WP_236691387.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(amino acid racemase, 14072-14696 (1))
+type: CDS
+location: [4641606:4642830](-)
+id: cds-WP_050350673.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050350673.1', 'GeneID:66873026']
+    Key: ID, Value: ['cds-WP_050350673.1']
+    Key: Name, Value: ['WP_050350673.1']
+    Key: Ontology_term, Value: ['GO:0055085', 'GO:0022857']
+    Key: Parent, Value: ['gene-KBP50_RS21425']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transmembrane transporter activity|0022857||IEA']
+    Key: go_process, Value: ['transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010649793.1']
+    Key: locus_tag, Value: ['KBP50_RS21425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MFS transporter']
+    Key: protein_id, Value: ['WP_050350673.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MFS transporter, 14959-16183 (-1))
+type: CDS
+location: [4642844:4643882](-)
+id: cds-WP_050351155.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050351155.1', 'GeneID:66873027']
+    Key: ID, Value: ['cds-WP_050351155.1']
+    Key: Name, Value: ['WP_050351155.1']
+    Key: Ontology_term, Value: ['GO:0006355', 'GO:0003677', 'GO:0003700']
+    Key: Parent, Value: ['gene-KBP50_RS21430']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'DNA-binding transcription factor activity|0003700||IEA']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010649796.1']
+    Key: locus_tag, Value: ['KBP50_RS21430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['metalloregulator ArsR/SmtB family transcription factor']
+    Key: protein_id, Value: ['WP_050351155.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(metalloregulator ArsR/SmtB family transcription factor, 16197-17235 (-1))
+graphic feature from known effectors: GF(nucc, 5796-8204 (1))
+graphic feature from known effectors: GF(nucc, 4919-5821 (1))
+[GF(SDR family NAD(P)-dependent oxidoreductase, 2029-2292 (-1)), GF(IS110 family transposase, 2663-3277 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4908 (1)), GF(None, 4918-5821 (1)), GF(None, 5795-8204 (1)), GF(RAMP superfamily CRISPR-associated protein, 8190-10296 (1)), GF(RAMP superfamily CRISPR-associated protein, 10270-11584 (1)), GF(CRISPR-associated protein Csx19, 11564-12131 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12111-13812 (1)), GF(amino acid racemase, 14072-14696 (1)), GF(MFS transporter, 14959-16183 (-1)), GF(metalloregulator ArsR/SmtB family transcription factor, 16197-17235 (-1)), GF(nucc, 5796-8204 (1)), GF(nucc, 4919-5821 (1)), GF(CRISPR-Cas locus, 4000-13812 (0))]

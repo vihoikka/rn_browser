@@ -1,0 +1,418 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           9  NC_019773.1  ...  GCF_000317695.1_9  GCF_000317695.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_019773.1
+type: CDS
+location: [10385:10631](-)
+id: cds-WP_015217708.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217708.1']
+    Key: ID, Value: ['cds-WP_015217708.1']
+    Key: Name, Value: ['WP_015217708.1']
+    Key: Parent, Value: ['gene-ANACY_RS29225']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ANACY_RS29225']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217708.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 141-387 (-1))
+type: CDS
+location: [10718:10877](-)
+id: cds-WP_015217709.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217709.1']
+    Key: ID, Value: ['cds-WP_015217709.1']
+    Key: Name, Value: ['WP_015217709.1']
+    Key: Parent, Value: ['gene-ANACY_RS33150']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ANACY_RS33150']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217709.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 474-633 (-1))
+type: CDS
+location: [11585:12281](-)
+id: cds-WP_015217710.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217710.1']
+    Key: ID, Value: ['cds-WP_015217710.1']
+    Key: Name, Value: ['WP_015217710.1']
+    Key: Parent, Value: ['gene-ANACY_RS29230']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007303735.1']
+    Key: locus_tag, Value: ['ANACY_RS29230']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217710.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1341-2037 (-1))
+type: CDS
+location: [12298:12760](-)
+id: cds-WP_015217711.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217711.1']
+    Key: ID, Value: ['cds-WP_015217711.1']
+    Key: Name, Value: ['WP_015217711.1']
+    Key: Parent, Value: ['gene-ANACY_RS29235']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017305581.1']
+    Key: locus_tag, Value: ['ANACY_RS29235']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217711.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2054-2516 (-1))
+type: CDS
+location: [12764:14165](-)
+id: cds-WP_015217712.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217712.1']
+    Key: ID, Value: ['cds-WP_015217712.1']
+    Key: Name, Value: ['WP_015217712.1']
+    Key: Parent, Value: ['gene-ANACY_RS29240']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015142334.1']
+    Key: locus_tag, Value: ['ANACY_RS29240']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MotA/TolQ/ExbB proton channel family protein']
+    Key: protein_id, Value: ['WP_015217712.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MotA/TolQ/ExbB proton channel family protein, 2520-3921 (-1))
+type: CDS
+location: [14243:15776](-)
+id: cds-WP_015217713.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217713.1']
+    Key: ID, Value: ['cds-WP_015217713.1']
+    Key: Name, Value: ['WP_015217713.1']
+    Key: Parent, Value: ['gene-ANACY_RS29245']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116149.1']
+    Key: locus_tag, Value: ['ANACY_RS29245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217713.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5532 (-1))
+type: CDS
+location: [15772:17734](-)
+id: cds-WP_015217714.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217714.1']
+    Key: ID, Value: ['cds-WP_015217714.1']
+    Key: Name, Value: ['WP_015217714.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ANACY_RS29250']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116148.1']
+    Key: locus_tag, Value: ['ANACY_RS29250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_015217714.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 5528-7490 (-1))
+type: CDS
+location: [17739:18138](-)
+id: cds-WP_015217715.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217715.1']
+    Key: ID, Value: ['cds-WP_015217715.1']
+    Key: Name, Value: ['WP_015217715.1']
+    Key: Parent, Value: ['gene-ANACY_RS29255']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016874568.1']
+    Key: locus_tag, Value: ['ANACY_RS29255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217715.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7495-7894 (-1))
+type: CDS
+location: [18165:18942](-)
+id: cds-WP_015217716.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217716.1']
+    Key: ID, Value: ['cds-WP_015217716.1']
+    Key: Name, Value: ['WP_015217716.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ANACY_RS29260']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009341757.1']
+    Key: locus_tag, Value: ['ANACY_RS29260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_015217716.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 7921-8698 (-1))
+type: CDS
+location: [18953:20090](-)
+id: cds-WP_015217717.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217717.1']
+    Key: ID, Value: ['cds-WP_015217717.1']
+    Key: Name, Value: ['WP_015217717.1']
+    Key: Parent, Value: ['gene-ANACY_RS29265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116145.1']
+    Key: locus_tag, Value: ['ANACY_RS29265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_015217717.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 8709-9846 (-1))
+type: CDS
+location: [20089:23125](-)
+id: cds-WP_015217718.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217718.1']
+    Key: ID, Value: ['cds-WP_015217718.1']
+    Key: Name, Value: ['WP_015217718.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ANACY_RS29270']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116144.1']
+    Key: locus_tag, Value: ['ANACY_RS29270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_015217718.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9845-12881 (-1))
+type: CDS
+location: [26009:26291](-)
+id: cds-WP_015217720.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217720.1']
+    Key: ID, Value: ['cds-WP_015217720.1']
+    Key: Name, Value: ['WP_015217720.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-ANACY_RS29275']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002741946.1']
+    Key: locus_tag, Value: ['ANACY_RS29275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_015217720.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 15765-16047 (-1))
+type: CDS
+location: [26300:27293](-)
+id: cds-WP_015217721.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217721.1']
+    Key: ID, Value: ['cds-WP_015217721.1']
+    Key: Name, Value: ['WP_015217721.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-ANACY_RS29280']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116142.1']
+    Key: locus_tag, Value: ['ANACY_RS29280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_015217721.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 16056-17049 (-1))
+type: CDS
+location: [27307:27583](-)
+id: cds-WP_015217722.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217722.1']
+    Key: ID, Value: ['cds-WP_015217722.1']
+    Key: Name, Value: ['WP_015217722.1']
+    Key: Parent, Value: ['gene-ANACY_RS29285']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx18']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009341764.1']
+    Key: locus_tag, Value: ['ANACY_RS29285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx18']
+    Key: protein_id, Value: ['WP_015217722.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx18, 17063-17339 (-1))
+type: CDS
+location: [27799:28987](+)
+id: cds-WP_015217723.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217723.1']
+    Key: ID, Value: ['cds-WP_015217723.1']
+    Key: Name, Value: ['WP_015217723.1']
+    Key: Ontology_term, Value: ['GO:0003676']
+    Key: Parent, Value: ['gene-ANACY_RS29290']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016874575.1']
+    Key: locus_tag, Value: ['ANACY_RS29290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['WYL domain-containing protein']
+    Key: protein_id, Value: ['WP_015217723.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(WYL domain-containing protein, 17555-18743 (1))
+type: CDS
+location: [29057:29246](-)
+id: cds-WP_015217724.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217724.1']
+    Key: ID, Value: ['cds-WP_015217724.1']
+    Key: Name, Value: ['WP_015217724.1']
+    Key: Parent, Value: ['gene-ANACY_RS29295']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015081685.1']
+    Key: locus_tag, Value: ['ANACY_RS29295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217724.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18813-19002 (-1))
+type: CDS
+location: [29260:29575](-)
+id: cds-WP_015217725.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217725.1']
+    Key: ID, Value: ['cds-WP_015217725.1']
+    Key: Name, Value: ['WP_015217725.1']
+    Key: Parent, Value: ['gene-ANACY_RS29300']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015130019.1']
+    Key: locus_tag, Value: ['ANACY_RS29300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217725.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19016-19331 (-1))
+type: CDS
+location: [29697:30399](+)
+id: cds-WP_015217726.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217726.1']
+    Key: ID, Value: ['cds-WP_015217726.1']
+    Key: Name, Value: ['WP_015217726.1']
+    Key: Parent, Value: ['gene-ANACY_RS29305']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ANACY_RS29305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217726.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19453-20155 (1))
+type: CDS
+location: [30395:30749](+)
+id: cds-WP_015217727.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217727.1']
+    Key: ID, Value: ['cds-WP_015217727.1']
+    Key: Name, Value: ['WP_015217727.1']
+    Key: Parent, Value: ['gene-ANACY_RS29310']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ANACY_RS29310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217727.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 20151-20505 (1))
+type: CDS
+location: [30756:30978](+)
+id: cds-WP_015217728.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015217728.1']
+    Key: ID, Value: ['cds-WP_015217728.1']
+    Key: Name, Value: ['WP_015217728.1']
+    Key: Parent, Value: ['gene-ANACY_RS29315']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ANACY_RS29315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015217728.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 20512-20734 (1))
+type: CDS
+location: [31259:32508](+)
+id: cds-ANACY_RS29320
+qualifiers:
+    Key: ID, Value: ['cds-ANACY_RS29320']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-ANACY_RS29320']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076611177.1']
+    Key: locus_tag, Value: ['ANACY_RS29320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISNCY family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISNCY family transposase, 21015-22264 (1))
+type: repeat_region
+location: [23459:25825](+)
+id: NC_019773.1_13
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_019773.1_13']
+    Key: Note, Value: ['GTTTCCATTCAATTAATATCCCCAGCGAGTGGGAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['2366']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13215-15581 (0))
+[GF(None, 141-387 (-1)), GF(None, 474-633 (-1)), GF(None, 1341-2037 (-1)), GF(None, 2054-2516 (-1)), GF(MotA/TolQ/ExbB proton channel family protein, 2520-3921 (-1)), GF(None, 3999-5532 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 5528-7490 (-1)), GF(None, 7495-7894 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7921-8698 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8709-9846 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9845-12881 (-1)), GF(CRISPR-associated endonuclease Cas2, 15765-16047 (-1)), GF(CRISPR-associated endonuclease Cas1, 16056-17049 (-1)), GF(CRISPR-associated protein Csx18, 17063-17339 (-1)), GF(WYL domain-containing protein, 17555-18743 (1)), GF(None, 18813-19002 (-1)), GF(None, 19016-19331 (-1)), GF(None, 19453-20155 (1)), GF(None, 20151-20505 (1)), GF(None, 20512-20734 (1)), GF(ISNCY family transposase, 21015-22264 (1)), GF(Repeat region, 13215-15581 (0)), GF(CRISPR-Cas locus, 4000-18743 (0))]

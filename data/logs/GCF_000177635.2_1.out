@@ -1,0 +1,570 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_014836.1  ...  GCF_000177635.2_1  GCF_000177635.2
+
+[1 rows x 19 columns]
+The chosen contig: NC_014836.1
+type: CDS
+location: [1106401:1107304](+)
+id: cds-WP_013505639.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505639.1']
+    Key: ID, Value: ['cds-WP_013505639.1']
+    Key: Name, Value: ['WP_013505639.1']
+    Key: Ontology_term, Value: ['GO:0016740']
+    Key: Parent, Value: ['gene-SELIN_RS05260']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transferase activity|0016740||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF006270.0']
+    Key: locus_tag, Value: ['SELIN_RS05260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['lipid A biosynthesis lauroyl acyltransferase']
+    Key: protein_id, Value: ['WP_013505639.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(lipid A biosynthesis lauroyl acyltransferase, 368-1271 (1))
+type: CDS
+location: [1107331:1107517](+)
+id: cds-WP_041725939.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041725939.1']
+    Key: ID, Value: ['cds-WP_041725939.1']
+    Key: Name, Value: ['WP_041725939.1']
+    Key: Parent, Value: ['gene-SELIN_RS05265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS05265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_041725939.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1298-1484 (1))
+type: CDS
+location: [1107795:1108179](-)
+id: cds-WP_013505641.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505641.1']
+    Key: ID, Value: ['cds-WP_013505641.1']
+    Key: Name, Value: ['WP_013505641.1']
+    Key: Ontology_term, Value: ['GO:0006654', 'GO:0008654', 'GO:0016310', 'GO:0004143', 'GO:0005524', 'GO:0046872']
+    Key: Parent, Value: ['gene-SELIN_RS05270']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP-dependent diacylglycerol kinase activity|0004143||IEA', 'ATP binding|0005524||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['phosphatidic acid biosynthetic process|0006654||IEA', 'phospholipid biosynthetic process|0008654||IEA', 'phosphorylation|0016310||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013391.4']
+    Key: locus_tag, Value: ['SELIN_RS05270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['diacylglycerol kinase']
+    Key: protein_id, Value: ['WP_013505641.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(diacylglycerol kinase, 1762-2146 (-1))
+type: CDS
+location: [1108188:1108902](-)
+id: cds-WP_013505642.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505642.1']
+    Key: ID, Value: ['cds-WP_013505642.1']
+    Key: Name, Value: ['WP_013505642.1']
+    Key: Ontology_term, Value: ['GO:0016773']
+    Key: Parent, Value: ['gene-SELIN_RS05275']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['phosphotransferase activity, alcohol group as acceptor|0016773||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF002475.0']
+    Key: locus_tag, Value: ['SELIN_RS05275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['3-deoxy-D-manno-octulosonic acid kinase']
+    Key: protein_id, Value: ['WP_013505642.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(3-deoxy-D-manno-octulosonic acid kinase, 2155-2869 (-1))
+type: CDS
+location: [1108918:1110025](-)
+id: cds-WP_013505643.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505643.1']
+    Key: ID, Value: ['cds-WP_013505643.1']
+    Key: Name, Value: ['WP_013505643.1']
+    Key: Ontology_term, Value: ['GO:0019867']
+    Key: Parent, Value: ['gene-SELIN_RS05280']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['outer membrane|0019867||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013283.4']
+    Key: locus_tag, Value: ['SELIN_RS05280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['BamA/TamA family outer membrane protein']
+    Key: protein_id, Value: ['WP_013505643.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(BamA/TamA family outer membrane protein, 2885-3992 (-1))
+type: CDS
+location: [1110032:1111160](-)
+id: cds-WP_013505644.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505644.1']
+    Key: ID, Value: ['cds-WP_013505644.1']
+    Key: Name, Value: ['WP_013505644.1']
+    Key: Parent, Value: ['gene-SELIN_RS05285']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014069.4']
+    Key: locus_tag, Value: ['SELIN_RS05285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HD domain-containing protein']
+    Key: protein_id, Value: ['WP_013505644.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HD domain-containing protein, 3999-5127 (-1))
+type: CDS
+location: [1111331:1112003](+)
+id: cds-WP_013505645.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505645.1']
+    Key: ID, Value: ['cds-WP_013505645.1']
+    Key: Name, Value: ['WP_013505645.1']
+    Key: Parent, Value: ['gene-SELIN_RS05290']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00153.1']
+    Key: locus_tag, Value: ['SELIN_RS05290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR00153 family protein']
+    Key: protein_id, Value: ['WP_013505645.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR00153 family protein, 5298-5970 (1))
+type: CDS
+location: [1112070:1113333](+)
+id: cds-WP_013505646.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505646.1']
+    Key: ID, Value: ['cds-WP_013505646.1']
+    Key: Name, Value: ['WP_013505646.1']
+    Key: Ontology_term, Value: ['GO:0006817', 'GO:0055085', 'GO:0016020']
+    Key: Parent, Value: ['gene-SELIN_RS05295']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['phosphate ion transport|0006817||IEA', 'transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013543.4']
+    Key: locus_tag, Value: ['SELIN_RS05295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['inorganic phosphate transporter']
+    Key: protein_id, Value: ['WP_013505646.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(inorganic phosphate transporter, 6037-7300 (1))
+type: CDS
+location: [1113438:1113924](+)
+id: cds-WP_041725941.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041725941.1']
+    Key: ID, Value: ['cds-WP_041725941.1']
+    Key: Name, Value: ['WP_041725941.1']
+    Key: Ontology_term, Value: ['GO:0000413', 'GO:0003755']
+    Key: Parent, Value: ['gene-SELIN_RS05300']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['peptidyl-prolyl cis-trans isomerase activity|0003755||IEA']
+    Key: go_process, Value: ['protein peptidyl-prolyl isomerization|0000413||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012387.4']
+    Key: locus_tag, Value: ['SELIN_RS05300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['peptidylprolyl isomerase']
+    Key: protein_id, Value: ['WP_041725941.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(peptidylprolyl isomerase, 7405-7891 (1))
+type: CDS
+location: [1113991:1114984](+)
+id: cds-WP_083805935.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_083805935.1']
+    Key: ID, Value: ['cds-WP_083805935.1']
+    Key: Name, Value: ['WP_083805935.1']
+    Key: Parent, Value: ['gene-SELIN_RS14595']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.4']
+    Key: locus_tag, Value: ['SELIN_RS14595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_083805935.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 7958-8951 (1))
+type: CDS
+location: [1114980:1117749](+)
+id: cds-WP_013505649.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505649.1']
+    Key: ID, Value: ['cds-WP_013505649.1']
+    Key: Name, Value: ['WP_013505649.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SELIN_RS05315']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['SELIN_RS05315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_013505649.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 8947-11716 (1))
+type: CDS
+location: [1117751:1118135](+)
+id: cds-WP_013505650.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505650.1']
+    Key: ID, Value: ['cds-WP_013505650.1']
+    Key: Name, Value: ['WP_013505650.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SELIN_RS05320']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.4']
+    Key: locus_tag, Value: ['SELIN_RS05320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_013505650.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 11718-12102 (1))
+type: CDS
+location: [1118148:1118886](+)
+id: cds-WP_013505651.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505651.1']
+    Key: ID, Value: ['cds-WP_013505651.1']
+    Key: Name, Value: ['WP_013505651.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SELIN_RS05325']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['SELIN_RS05325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_013505651.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 12115-12853 (1))
+type: CDS
+location: [1119129:1119867](+)
+id: cds-WP_156788026.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_156788026.1']
+    Key: ID, Value: ['cds-WP_156788026.1']
+    Key: Name, Value: ['WP_156788026.1']
+    Key: Parent, Value: ['gene-SELIN_RS05330']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS05330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_156788026.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13096-13834 (1))
+type: CDS
+location: [1119859:1121386](+)
+id: cds-WP_013505653.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505653.1']
+    Key: ID, Value: ['cds-WP_013505653.1']
+    Key: Name, Value: ['WP_013505653.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SELIN_RS05335']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['SELIN_RS05335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_013505653.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 13826-15353 (1))
+type: CDS
+location: [1121410:1121791](+)
+id: cds-WP_156788027.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_156788027.1']
+    Key: ID, Value: ['cds-WP_156788027.1']
+    Key: Name, Value: ['WP_156788027.1']
+    Key: Parent, Value: ['gene-SELIN_RS05340']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS05340']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_156788027.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15377-15758 (1))
+type: CDS
+location: [1121793:1123008](-)
+id: cds-WP_013505421.1-2
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505421.1']
+    Key: ID, Value: ['cds-WP_013505421.1-2']
+    Key: Name, Value: ['WP_013505421.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-SELIN_RS05345']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033550.5']
+    Key: locus_tag, Value: ['SELIN_RS05345']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISL3 family transposase']
+    Key: protein_id, Value: ['WP_013505421.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISL3 family transposase, 15760-16975 (-1))
+type: CDS
+location: [1127455:1128748](+)
+id: cds-WP_198007128.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_198007128.1']
+    Key: ID, Value: ['cds-WP_198007128.1']
+    Key: Name, Value: ['WP_198007128.1']
+    Key: Parent, Value: ['gene-SELIN_RS05350']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.4']
+    Key: locus_tag, Value: ['SELIN_RS05350']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TM1812 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_198007128.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TM1812 family CRISPR-associated protein, 21422-22715 (1))
+type: CDS
+location: [1128744:1129128](+)
+id: cds-WP_013505656.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505656.1']
+    Key: ID, Value: ['cds-WP_013505656.1']
+    Key: Name, Value: ['WP_013505656.1']
+    Key: Parent, Value: ['gene-SELIN_RS05355']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx20']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040559.1']
+    Key: locus_tag, Value: ['SELIN_RS05355']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx20']
+    Key: protein_id, Value: ['WP_013505656.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx20, 22711-23095 (1))
+type: CDS
+location: [1129210:1129450](+)
+id: cds-WP_013505657.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505657.1']
+    Key: ID, Value: ['cds-WP_013505657.1']
+    Key: Name, Value: ['WP_013505657.1']
+    Key: Parent, Value: ['gene-SELIN_RS05360']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS05360']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013505657.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 23177-23417 (1))
+type: CDS
+location: [1129473:1130475](+)
+id: cds-WP_013505658.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505658.1']
+    Key: ID, Value: ['cds-WP_013505658.1']
+    Key: Name, Value: ['WP_013505658.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-SELIN_RS05365']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['SELIN_RS05365']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_013505658.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 23440-24442 (1))
+type: CDS
+location: [1130478:1130754](+)
+id: cds-WP_013505659.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505659.1']
+    Key: ID, Value: ['cds-WP_013505659.1']
+    Key: Name, Value: ['WP_013505659.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-SELIN_RS05370']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['SELIN_RS05370']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_013505659.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 24445-24721 (1))
+type: CDS
+location: [1130852:1131449](+)
+id: cds-WP_013505660.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505660.1']
+    Key: ID, Value: ['cds-WP_013505660.1']
+    Key: Name, Value: ['WP_013505660.1']
+    Key: Parent, Value: ['gene-SELIN_RS05375']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024895.4']
+    Key: locus_tag, Value: ['SELIN_RS05375']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['outer membrane beta-barrel protein']
+    Key: protein_id, Value: ['WP_013505660.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(outer membrane beta-barrel protein, 24819-25416 (1))
+type: CDS
+location: [1131517:1131790](-)
+id: cds-WP_013505661.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505661.1']
+    Key: ID, Value: ['cds-WP_013505661.1']
+    Key: Name, Value: ['WP_013505661.1']
+    Key: Parent, Value: ['gene-SELIN_RS14600']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS14600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_013505661.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 25484-25757 (-1))
+type: CDS
+location: [1131888:1132770](+)
+id: cds-WP_013505662.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505662.1']
+    Key: ID, Value: ['cds-WP_013505662.1']
+    Key: Name, Value: ['WP_013505662.1']
+    Key: Parent, Value: ['gene-SELIN_RS05380']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SELIN_RS05380']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013505662.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 25855-26737 (1))
+type: CDS
+location: [1132903:1133656](-)
+id: cds-WP_013505663.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505663.1']
+    Key: ID, Value: ['cds-WP_013505663.1']
+    Key: Name, Value: ['WP_013505663.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-SELIN_RS05385']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF016777.4']
+    Key: locus_tag, Value: ['SELIN_RS05385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['amidohydrolase family protein']
+    Key: protein_id, Value: ['WP_013505663.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(amidohydrolase family protein, 26870-27623 (-1))
+type: CDS
+location: [1133658:1134279](-)
+id: cds-WP_013505664.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505664.1']
+    Key: ID, Value: ['cds-WP_013505664.1']
+    Key: Name, Value: ['WP_013505664.1']
+    Key: Ontology_term, Value: ['GO:0016829']
+    Key: Parent, Value: ['gene-SELIN_RS05390']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['lyase activity|0016829||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014068.4']
+    Key: locus_tag, Value: ['SELIN_RS05390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DJ-1/PfpI family protein']
+    Key: protein_id, Value: ['WP_013505664.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DJ-1/PfpI family protein, 27625-28246 (-1))
+type: CDS
+location: [1134383:1134845](+)
+id: cds-WP_013505665.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013505665.1']
+    Key: ID, Value: ['cds-WP_013505665.1']
+    Key: Name, Value: ['WP_013505665.1']
+    Key: Parent, Value: ['gene-SELIN_RS05395']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037928.4']
+    Key: locus_tag, Value: ['SELIN_RS05395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['host attachment protein']
+    Key: protein_id, Value: ['WP_013505665.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(host attachment protein, 28350-28812 (1))
+type: repeat_region
+location: [1123443:1127359](+)
+id: NC_014836.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_014836.1_2']
+    Key: Note, Value: ['GACCGAAGACCTGTCGGAAACGACGGGGATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['3916']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17410-21326 (0))
+graphic feature from known effectors: GF(csx1, 21423-22715 (1))
+[GF(lipid A biosynthesis lauroyl acyltransferase, 368-1271 (1)), GF(None, 1298-1484 (1)), GF(diacylglycerol kinase, 1762-2146 (-1)), GF(3-deoxy-D-manno-octulosonic acid kinase, 2155-2869 (-1)), GF(BamA/TamA family outer membrane protein, 2885-3992 (-1)), GF(HD domain-containing protein, 3999-5127 (-1)), GF(TIGR00153 family protein, 5298-5970 (1)), GF(inorganic phosphate transporter, 6037-7300 (1)), GF(peptidylprolyl isomerase, 7405-7891 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 7958-8951 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8947-11716 (1)), GF(type III-A CRISPR-associated protein Csm2, 11718-12102 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 12115-12853 (1)), GF(None, 13096-13834 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 13826-15353 (1)), GF(None, 15377-15758 (1)), GF(ISL3 family transposase, 15760-16975 (-1)), GF(TM1812 family CRISPR-associated protein, 21422-22715 (1)), GF(CRISPR-associated protein Csx20, 22711-23095 (1)), GF(None, 23177-23417 (1)), GF(CRISPR-associated endonuclease Cas1, 23440-24442 (1)), GF(CRISPR-associated endonuclease Cas2, 24445-24721 (1)), GF(outer membrane beta-barrel protein, 24819-25416 (1)), GF(CRISPR-associated endonuclease Cas2, 25484-25757 (-1)), GF(None, 25855-26737 (1)), GF(amidohydrolase family protein, 26870-27623 (-1)), GF(DJ-1/PfpI family protein, 27625-28246 (-1)), GF(host attachment protein, 28350-28812 (1)), GF(Repeat region, 17410-21326 (0)), GF(csx1, 21423-22715 (1)), GF(CRISPR-Cas locus, 4000-25757 (0))]

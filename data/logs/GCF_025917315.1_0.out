@@ -1,0 +1,423 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP080627.1  ...  GCF_025917315.1_0  GCF_025917315.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP080627.1
+type: CDS
+location: [392484:393351](+)
+id: cds-WP_264430046.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430046.1']
+    Key: ID, Value: ['cds-WP_264430046.1']
+    Key: Name, Value: ['WP_264430046.1']
+    Key: Ontology_term, Value: ['GO:0005525']
+    Key: Parent, Value: ['gene-K1Y77_RS01900']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['GTP binding|0005525||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014036.3']
+    Key: locus_tag, Value: ['K1Y77_RS01900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GTPase']
+    Key: protein_id, Value: ['WP_264430046.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GTPase, 336-1203 (1))
+type: CDS
+location: [393423:393969](+)
+id: cds-WP_264430047.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430047.1']
+    Key: ID, Value: ['cds-WP_264430047.1']
+    Key: Name, Value: ['WP_264430047.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['K1Y77_RS01905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_264430047.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1275-1821 (1))
+type: CDS
+location: [394012:395800](+)
+id: cds-WP_264430049.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430049.1']
+    Key: ID, Value: ['cds-WP_264430049.1']
+    Key: Name, Value: ['WP_264430049.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01910']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014036.3']
+    Key: locus_tag, Value: ['K1Y77_RS01910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['dynamin family protein']
+    Key: protein_id, Value: ['WP_264430049.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(dynamin family protein, 1864-3652 (1))
+type: CDS
+location: [396147:397215](+)
+id: cds-WP_264430051.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430051.1']
+    Key: ID, Value: ['cds-WP_264430051.1']
+    Key: Name, Value: ['WP_264430051.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01915']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['K1Y77_RS01915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_264430051.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5067 (1))
+type: CDS
+location: [397211:399254](+)
+id: cds-WP_264430053.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430053.1']
+    Key: ID, Value: ['cds-WP_264430053.1']
+    Key: Name, Value: ['WP_264430053.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01920']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['K1Y77_RS01920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_264430053.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5063-7106 (1))
+type: CDS
+location: [399250:400417](+)
+id: cds-WP_264430055.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430055.1']
+    Key: ID, Value: ['cds-WP_264430055.1']
+    Key: Name, Value: ['WP_264430055.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.3']
+    Key: locus_tag, Value: ['K1Y77_RS01925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_264430055.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 7102-8269 (1))
+type: CDS
+location: [400486:401410](+)
+id: cds-WP_264430056.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430056.1']
+    Key: ID, Value: ['cds-WP_264430056.1']
+    Key: Name, Value: ['WP_264430056.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01930']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['K1Y77_RS01930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_264430056.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 8338-9262 (1))
+type: CDS
+location: [401508:402024](+)
+id: cds-WP_264430059.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430059.1']
+    Key: ID, Value: ['cds-WP_264430059.1']
+    Key: Name, Value: ['WP_264430059.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01935']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01881.1']
+    Key: locus_tag, Value: ['K1Y77_RS01935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_264430059.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 9360-9876 (1))
+type: CDS
+location: [402023:403187](+)
+id: cds-WP_264430060.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430060.1']
+    Key: ID, Value: ['cds-WP_264430060.1']
+    Key: Name, Value: ['WP_264430060.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01940']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['K1Y77_RS01940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_264430060.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 9875-11039 (1))
+type: CDS
+location: [403192:404164](+)
+id: cds-WP_264430061.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430061.1']
+    Key: ID, Value: ['cds-WP_264430061.1']
+    Key: Name, Value: ['WP_264430061.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01945']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.3']
+    Key: locus_tag, Value: ['K1Y77_RS01945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_264430061.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 11044-12016 (1))
+type: CDS
+location: [404900:405863](-)
+id: cds-WP_264430062.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430062.1']
+    Key: ID, Value: ['cds-WP_264430062.1']
+    Key: Name, Value: ['WP_264430062.1']
+    Key: Ontology_term, Value: ['GO:0016491', 'GO:0016651']
+    Key: Parent, Value: ['gene-K1Y77_RS01950']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity|0016491||IEA', 'oxidoreductase activity, acting on NAD(P)H|0016651||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013567.3']
+    Key: locus_tag, Value: ['K1Y77_RS01950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Gfo/Idh/MocA family oxidoreductase']
+    Key: protein_id, Value: ['WP_264430062.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Gfo/Idh/MocA family oxidoreductase, 12752-13715 (-1))
+type: CDS
+location: [405862:406588](-)
+id: cds-WP_264430063.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430063.1']
+    Key: ID, Value: ['cds-WP_264430063.1']
+    Key: Name, Value: ['WP_264430063.1']
+    Key: Ontology_term, Value: ['GO:0016491']
+    Key: Parent, Value: ['gene-K1Y77_RS01955']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity|0016491||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024950.3']
+    Key: locus_tag, Value: ['K1Y77_RS01955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SDR family oxidoreductase']
+    Key: protein_id, Value: ['WP_264430063.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(SDR family oxidoreductase, 13714-14440 (-1))
+type: CDS
+location: [406624:407776](-)
+id: cds-WP_264430064.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430064.1']
+    Key: ID, Value: ['cds-WP_264430064.1']
+    Key: Name, Value: ['WP_264430064.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01960']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['K1Y77_RS01960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_264430064.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14476-15628 (-1))
+type: CDS
+location: [407836:409093](-)
+id: cds-WP_264430066.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430066.1']
+    Key: ID, Value: ['cds-WP_264430066.1']
+    Key: Name, Value: ['WP_264430066.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01965']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020571.3']
+    Key: locus_tag, Value: ['K1Y77_RS01965']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_264430066.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 15688-16945 (-1))
+type: CDS
+location: [409182:409473](-)
+id: cds-WP_264430068.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430068.1']
+    Key: ID, Value: ['cds-WP_264430068.1']
+    Key: Name, Value: ['WP_264430068.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-K1Y77_RS01970']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx16']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02620.1']
+    Key: locus_tag, Value: ['K1Y77_RS01970']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx16']
+    Key: protein_id, Value: ['WP_264430068.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx16, 17034-17325 (-1))
+type: CDS
+location: [410246:411218](-)
+id: cds-WP_264430070.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430070.1']
+    Key: ID, Value: ['cds-WP_264430070.1']
+    Key: Name, Value: ['WP_264430070.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01975']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['K1Y77_RS01975']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_264430070.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18098-19070 (-1))
+type: CDS
+location: [411383:411557](+)
+id: cds-WP_264430071.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430071.1']
+    Key: ID, Value: ['cds-WP_264430071.1']
+    Key: Name, Value: ['WP_264430071.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01980']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['K1Y77_RS01980']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_264430071.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19235-19409 (1))
+type: CDS
+location: [411531:411894](+)
+id: cds-WP_264430072.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430072.1']
+    Key: ID, Value: ['cds-WP_264430072.1']
+    Key: Name, Value: ['WP_264430072.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01985']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.3']
+    Key: locus_tag, Value: ['K1Y77_RS01985']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_264430072.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 19383-19746 (1))
+type: CDS
+location: [411983:412607](+)
+id: cds-WP_264430073.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430073.1']
+    Key: ID, Value: ['cds-WP_264430073.1']
+    Key: Name, Value: ['WP_264430073.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01990']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025840.3']
+    Key: locus_tag, Value: ['K1Y77_RS01990']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4433 domain-containing protein']
+    Key: protein_id, Value: ['WP_264430073.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4433 domain-containing protein, 19835-20459 (1))
+type: CDS
+location: [412619:413333](+)
+id: cds-WP_264430075.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_264430075.1']
+    Key: ID, Value: ['cds-WP_264430075.1']
+    Key: Name, Value: ['WP_264430075.1']
+    Key: Parent, Value: ['gene-K1Y77_RS01995']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009099791.1']
+    Key: locus_tag, Value: ['K1Y77_RS01995']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['macro domain-containing protein']
+    Key: protein_id, Value: ['WP_264430075.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(macro domain-containing protein, 20471-21185 (1))
+type: repeat_region
+location: [404357:404668](+)
+id: NZ_CP080627.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP080627.1_1']
+    Key: Note, Value: ['GTCTTAATCCCTTGGAAGTCAGGGAAGCGTTCGGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['311']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12209-12520 (0))
+type: repeat_region
+location: [409653:409954](+)
+id: NZ_CP080627.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP080627.1_2']
+    Key: Note, Value: ['TTAATCCCTTGGAAGTCAGGGAAGTGTTCGGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['301']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17505-17806 (0))
+graphic feature from known effectors: GF(can1-2, 15689-16945 (-1))
+[GF(GTPase, 336-1203 (1)), GF(None, 1275-1821 (1)), GF(dynamin family protein, 1864-3652 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5067 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5063-7106 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7102-8269 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8338-9262 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9360-9876 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9875-11039 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 11044-12016 (1)), GF(Gfo/Idh/MocA family oxidoreductase, 12752-13715 (-1)), GF(SDR family oxidoreductase, 13714-14440 (-1)), GF(None, 14476-15628 (-1)), GF(DUF1887 family CARF protein, 15688-16945 (-1)), GF(CRISPR-associated protein Csx16, 17034-17325 (-1)), GF(None, 18098-19070 (-1)), GF(None, 19235-19409 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 19383-19746 (1)), GF(DUF4433 domain-containing protein, 19835-20459 (1)), GF(macro domain-containing protein, 20471-21185 (1)), GF(Repeat region, 12209-12520 (0)), GF(Repeat region, 17505-17806 (0)), GF(can1-2, 15689-16945 (-1)), GF(CRISPR-Cas locus, 4000-17325 (0))]

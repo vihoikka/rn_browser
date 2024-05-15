@@ -1,0 +1,371 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP085976.1  ...  GCF_020735365.1_0  GCF_020735365.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP085976.1
+type: CDS
+location: [5483:6011](+)
+id: cds-WP_021651205.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651205.1']
+    Key: ID, Value: ['cds-WP_021651205.1']
+    Key: Name, Value: ['WP_021651205.1']
+    Key: Parent, Value: ['gene-LK422_RS00025']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['LK422_RS00025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021651205.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1253-1781 (1))
+type: CDS
+location: [6041:6245](+)
+id: cds-WP_021651204.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651204.1']
+    Key: ID, Value: ['cds-WP_021651204.1']
+    Key: Name, Value: ['WP_021651204.1']
+    Key: Parent, Value: ['gene-LK422_RS00030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['LK422_RS00030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021651204.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1811-2015 (1))
+type: CDS
+location: [6248:7760](+)
+id: cds-WP_021651203.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651203.1']
+    Key: ID, Value: ['cds-WP_021651203.1']
+    Key: Name, Value: ['WP_021651203.1']
+    Key: Ontology_term, Value: ['GO:0006508', 'GO:0004197']
+    Key: Parent, Value: ['gene-LK422_RS00035']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['cysteine-type endopeptidase activity|0004197||IEA']
+    Key: go_process, Value: ['proteolysis|0006508||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012862.4']
+    Key: locus_tag, Value: ['LK422_RS00035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['caspase family protein']
+    Key: protein_id, Value: ['WP_021651203.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(caspase family protein, 2018-3530 (1))
+type: CDS
+location: [8229:8970](+)
+id: cds-WP_021651201.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651201.1']
+    Key: ID, Value: ['cds-WP_021651201.1']
+    Key: Name, Value: ['WP_021651201.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-LK422_RS00040']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01877.1']
+    Key: locus_tag, Value: ['LK422_RS00040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_021651201.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 3999-4740 (1))
+type: CDS
+location: [8962:11338](+)
+id: cds-WP_044961368.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044961368.1']
+    Key: ID, Value: ['cds-WP_044961368.1']
+    Key: Name, Value: ['WP_044961368.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-LK422_RS00045']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006855568.1']
+    Key: locus_tag, Value: ['LK422_RS00045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_044961368.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 4732-7108 (1))
+type: CDS
+location: [11327:11723](+)
+id: cds-WP_021651199.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651199.1']
+    Key: ID, Value: ['cds-WP_021651199.1']
+    Key: Name, Value: ['WP_021651199.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-LK422_RS00050']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008703380.1']
+    Key: locus_tag, Value: ['LK422_RS00050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_021651199.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7097-7493 (1))
+type: CDS
+location: [11735:12401](+)
+id: cds-WP_021651198.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651198.1']
+    Key: ID, Value: ['cds-WP_021651198.1']
+    Key: Name, Value: ['WP_021651198.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-LK422_RS00055']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008703379.1']
+    Key: locus_tag, Value: ['LK422_RS00055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_021651198.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7505-8171 (1))
+type: CDS
+location: [12416:13337](+)
+id: cds-WP_044961366.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044961366.1']
+    Key: ID, Value: ['cds-WP_044961366.1']
+    Key: Name, Value: ['WP_044961366.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-LK422_RS00060']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01903.1']
+    Key: locus_tag, Value: ['LK422_RS00060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_044961366.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 8186-9107 (1))
+type: CDS
+location: [13339:14434](+)
+id: cds-WP_021651196.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651196.1']
+    Key: ID, Value: ['cds-WP_021651196.1']
+    Key: Name, Value: ['WP_021651196.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-LK422_RS00065']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['LK422_RS00065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_021651196.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 9109-10204 (1))
+type: CDS
+location: [16768:17770](+)
+id: cds-WP_044961404.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044961404.1']
+    Key: ID, Value: ['cds-WP_044961404.1']
+    Key: Name, Value: ['WP_044961404.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-LK422_RS00070']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008703374.1']
+    Key: locus_tag, Value: ['LK422_RS00070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_044961404.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 12538-13540 (1))
+type: CDS
+location: [17747:18083](+)
+id: cds-WP_021651247.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651247.1']
+    Key: ID, Value: ['cds-WP_021651247.1']
+    Key: Name, Value: ['WP_021651247.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-LK422_RS00075']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006855561.1']
+    Key: locus_tag, Value: ['LK422_RS00075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_021651247.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 13517-13853 (1))
+type: CDS
+location: [18119:19433](+)
+id: cds-WP_021651248.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651248.1']
+    Key: ID, Value: ['cds-WP_021651248.1']
+    Key: Name, Value: ['WP_021651248.1']
+    Key: Parent, Value: ['gene-LK422_RS00080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021196.4']
+    Key: locus_tag, Value: ['LK422_RS00080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein, Csm6 family']
+    Key: protein_id, Value: ['WP_021651248.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein, Csm6 family, 13889-15203 (1))
+type: CDS
+location: [19582:20176](-)
+id: cds-WP_044961406.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044961406.1']
+    Key: ID, Value: ['cds-WP_044961406.1']
+    Key: Name, Value: ['WP_044961406.1']
+    Key: Ontology_term, Value: ['GO:0006412', 'GO:0006950', 'GO:0003735', 'GO:0008097', 'GO:0000315', 'GO:0022625']
+    Key: Parent, Value: ['gene-LK422_RS00085']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['organellar large ribosomal subunit|0000315||IEA', 'cytosolic large ribosomal subunit|0022625||IEA']
+    Key: go_function, Value: ['structural constituent of ribosome|0003735||IEA', '5S rRNA binding|0008097||IEA']
+    Key: go_process, Value: ['translation|0006412||IEA', 'response to stress|0006950||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015525319.1']
+    Key: locus_tag, Value: ['LK422_RS00085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['50S ribosomal protein L25']
+    Key: protein_id, Value: ['WP_044961406.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(50S ribosomal protein L25, 15352-15946 (-1))
+type: CDS
+location: [20824:21961](+)
+id: cds-WP_021651250.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651250.1']
+    Key: ID, Value: ['cds-WP_021651250.1']
+    Key: Name, Value: ['WP_021651250.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0140359']
+    Key: Parent, Value: ['gene-LK422_RS00090']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['ugpC']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004851294.1']
+    Key: locus_tag, Value: ['LK422_RS00090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC']
+    Key: protein_id, Value: ['WP_021651250.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC, 16594-17731 (1))
+type: CDS
+location: [22040:22904](+)
+id: cds-WP_015525321.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015525321.1']
+    Key: ID, Value: ['cds-WP_015525321.1']
+    Key: Name, Value: ['WP_015525321.1']
+    Key: Ontology_term, Value: ['GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-LK422_RS00095']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002570425.1']
+    Key: locus_tag, Value: ['LK422_RS00095']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['sugar ABC transporter permease']
+    Key: protein_id, Value: ['WP_015525321.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(sugar ABC transporter permease, 17810-18674 (1))
+type: CDS
+location: [22903:23821](+)
+id: cds-WP_021651252.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021651252.1']
+    Key: ID, Value: ['cds-WP_021651252.1']
+    Key: Name, Value: ['WP_021651252.1']
+    Key: Ontology_term, Value: ['GO:0008643', 'GO:0055085']
+    Key: Parent, Value: ['gene-LK422_RS00100']
+    Key: gbkey, Value: ['CDS']
+    Key: go_process, Value: ['carbohydrate transport|0008643||IEA', 'transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006428813.1']
+    Key: locus_tag, Value: ['LK422_RS00100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['carbohydrate ABC transporter permease']
+    Key: protein_id, Value: ['WP_021651252.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(carbohydrate ABC transporter permease, 18673-19591 (1))
+type: CDS
+location: [23964:25326](+)
+id: cds-WP_044961408.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044961408.1']
+    Key: ID, Value: ['cds-WP_044961408.1']
+    Key: Name, Value: ['WP_044961408.1']
+    Key: Parent, Value: ['gene-LK422_RS00105']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015525323.1']
+    Key: locus_tag, Value: ['LK422_RS00105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter substrate-binding protein']
+    Key: protein_id, Value: ['WP_044961408.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter substrate-binding protein, 19734-21096 (1))
+type: repeat_region
+location: [14590:16700](+)
+id: NZ_CP085976.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP085976.1_1']
+    Key: Note, Value: ['ATTGAGAAATGTAGTTCCCCGACAGGGGACGGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['2110']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 10360-12470 (0))
+graphic feature from known effectors: GF(csm6-ca6, 13890-15203 (1))
+[GF(None, 1253-1781 (1)), GF(None, 1811-2015 (1)), GF(caspase family protein, 2018-3530 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4740 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4732-7108 (1)), GF(type III-A CRISPR-associated protein Csm2, 7097-7493 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7505-8171 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8186-9107 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9109-10204 (1)), GF(CRISPR-associated endonuclease Cas1, 12538-13540 (1)), GF(CRISPR-associated endonuclease Cas2, 13517-13853 (1)), GF(CRISPR-associated protein, Csm6 family, 13889-15203 (1)), GF(50S ribosomal protein L25, 15352-15946 (-1)), GF(sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC, 16594-17731 (1)), GF(sugar ABC transporter permease, 17810-18674 (1)), GF(carbohydrate ABC transporter permease, 18673-19591 (1)), GF(ABC transporter substrate-binding protein, 19734-21096 (1)), GF(Repeat region, 10360-12470 (0)), GF(csm6-ca6, 13890-15203 (1)), GF(CRISPR-Cas locus, 4000-17731 (0))]

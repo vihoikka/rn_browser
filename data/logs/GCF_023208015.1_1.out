@@ -1,0 +1,220 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP051627.1  ...  GCF_023208015.1_1  GCF_023208015.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP051627.1
+type: CDS
+location: [1406947:1408090](-)
+id: cds-WP_248592911.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592911.1']
+    Key: ID, Value: ['cds-WP_248592911.1']
+    Key: Name, Value: ['WP_248592911.1']
+    Key: Ontology_term, Value: ['GO:0016627']
+    Key: Parent, Value: ['gene-FOF52_RS06385']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity, acting on the CH-CH group of donors|0016627||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017599364.1']
+    Key: locus_tag, Value: ['FOF52_RS06385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['acyl-CoA dehydrogenase family protein']
+    Key: protein_id, Value: ['WP_248592911.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(acyl-CoA dehydrogenase family protein, 210-1353 (-1))
+type: CDS
+location: [1410736:1412470](+)
+id: cds-WP_248592912.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592912.1']
+    Key: ID, Value: ['cds-WP_248592912.1']
+    Key: Name, Value: ['WP_248592912.1']
+    Key: Parent, Value: ['gene-FOF52_RS06390']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF023885.2']
+    Key: locus_tag, Value: ['FOF52_RS06390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_248592912.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5733 (1))
+type: CDS
+location: [1412466:1413597](+)
+id: cds-WP_248592913.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592913.1']
+    Key: ID, Value: ['cds-WP_248592913.1']
+    Key: Name, Value: ['WP_248592913.1']
+    Key: Parent, Value: ['gene-FOF52_RS06395']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292010.1']
+    Key: locus_tag, Value: ['FOF52_RS06395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_248592913.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 5729-6860 (1))
+type: CDS
+location: [1413593:1414493](+)
+id: cds-WP_248592914.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592914.1']
+    Key: ID, Value: ['cds-WP_248592914.1']
+    Key: Name, Value: ['WP_248592914.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-FOF52_RS06400']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292011.1']
+    Key: locus_tag, Value: ['FOF52_RS06400']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_248592914.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 6856-7756 (1))
+type: CDS
+location: [1414485:1414959](+)
+id: cds-WP_248592915.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592915.1']
+    Key: ID, Value: ['cds-WP_248592915.1']
+    Key: Name, Value: ['WP_248592915.1']
+    Key: Parent, Value: ['gene-FOF52_RS06405']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292012.1']
+    Key: locus_tag, Value: ['FOF52_RS06405']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_248592915.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 7748-8222 (1))
+type: CDS
+location: [1414955:1415963](+)
+id: cds-WP_248592916.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592916.1']
+    Key: ID, Value: ['cds-WP_248592916.1']
+    Key: Name, Value: ['WP_248592916.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-FOF52_RS06410']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016188716.1']
+    Key: locus_tag, Value: ['FOF52_RS06410']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_248592916.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 8218-9226 (1))
+type: CDS
+location: [1415959:1416925](+)
+id: cds-WP_248592917.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592917.1']
+    Key: ID, Value: ['cds-WP_248592917.1']
+    Key: Name, Value: ['WP_248592917.1']
+    Key: Parent, Value: ['gene-FOF52_RS06415']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['FOF52_RS06415']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_248592917.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9222-10188 (1))
+type: CDS
+location: [1416940:1418509](+)
+id: cds-WP_248592918.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592918.1']
+    Key: ID, Value: ['cds-WP_248592918.1']
+    Key: Name, Value: ['WP_248592918.1']
+    Key: Parent, Value: ['gene-FOF52_RS06420']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['FOF52_RS06420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_248592918.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10203-11772 (1))
+type: CDS
+location: [1418518:1419790](+)
+id: cds-WP_248592919.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592919.1']
+    Key: ID, Value: ['cds-WP_248592919.1']
+    Key: Name, Value: ['WP_248592919.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-FOF52_RS06425']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292014.1']
+    Key: locus_tag, Value: ['FOF52_RS06425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_248592919.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 11781-13053 (1))
+type: CDS
+location: [1420368:1422021](-)
+id: cds-WP_248592920.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592920.1']
+    Key: ID, Value: ['cds-WP_248592920.1']
+    Key: Name, Value: ['WP_248592920.1']
+    Key: Parent, Value: ['gene-FOF52_RS06430']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014724.2']
+    Key: locus_tag, Value: ['FOF52_RS06430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ElyC/SanA/YdcF family protein']
+    Key: protein_id, Value: ['WP_248592920.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ElyC/SanA/YdcF family protein, 13631-15284 (-1))
+type: CDS
+location: [1422822:1423095](+)
+id: cds-WP_248592921.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_248592921.1']
+    Key: ID, Value: ['cds-WP_248592921.1']
+    Key: Name, Value: ['WP_248592921.1']
+    Key: Parent, Value: ['gene-FOF52_RS06435']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['FOF52_RS06435']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_248592921.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16085-16358 (1))
+graphic feature from validated effectors: GF(cam3, 10204-11772 (1))
+graphic feature from known effectors: GF(cami1, 9223-10188 (1))
+[GF(acyl-CoA dehydrogenase family protein, 210-1353 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5733 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 5729-6860 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6856-7756 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 7748-8222 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8218-9226 (1)), GF(None, 9222-10188 (1)), GF(None, 10203-11772 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11781-13053 (1)), GF(ElyC/SanA/YdcF family protein, 13631-15284 (-1)), GF(None, 16085-16358 (1)), GF(cam3, 10204-11772 (1)), GF(cami1, 9223-10188 (1)), GF(CRISPR-Cas locus, 4000-13053 (0))]

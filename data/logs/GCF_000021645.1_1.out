@@ -1,0 +1,271 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_011661.1  ...  GCF_000021645.1_1  GCF_000021645.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_011661.1
+type: CDS
+location: [604831:605419](+)
+id: cds-WP_012582977.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582977.1']
+    Key: ID, Value: ['cds-WP_012582977.1']
+    Key: Name, Value: ['WP_012582977.1']
+    Key: Parent, Value: ['gene-DTUR_RS03065']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548138.1']
+    Key: locus_tag, Value: ['DTUR_RS03065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012582977.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2502-3090 (1))
+type: CDS
+location: [605399:606272](-)
+id: cds-WP_012582978.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582978.1']
+    Key: ID, Value: ['cds-WP_012582978.1']
+    Key: Name, Value: ['WP_012582978.1']
+    Key: Parent, Value: ['gene-DTUR_RS03070']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012547224.1']
+    Key: locus_tag, Value: ['DTUR_RS03070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ARMT1-like domain-containing protein']
+    Key: protein_id, Value: ['WP_012582978.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ARMT1-like domain-containing protein, 3070-3943 (-1))
+type: CDS
+location: [606328:607519](-)
+id: cds-WP_012582979.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582979.1']
+    Key: ID, Value: ['cds-WP_012582979.1']
+    Key: Name, Value: ['WP_012582979.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03075']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548577.1']
+    Key: locus_tag, Value: ['DTUR_RS03075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012582979.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 3999-5190 (-1))
+type: CDS
+location: [607515:608775](-)
+id: cds-WP_012582980.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582980.1']
+    Key: ID, Value: ['cds-WP_012582980.1']
+    Key: Name, Value: ['WP_012582980.1']
+    Key: Parent, Value: ['gene-DTUR_RS03080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DTUR_RS03080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012582980.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein, 5186-6446 (-1))
+type: CDS
+location: [608767:609913](-)
+id: cds-WP_012582981.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582981.1']
+    Key: ID, Value: ['cds-WP_012582981.1']
+    Key: Name, Value: ['WP_012582981.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03085']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['DTUR_RS03085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_012582981.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 6438-7584 (-1))
+type: CDS
+location: [609929:610946](-)
+id: cds-WP_012582982.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582982.1']
+    Key: ID, Value: ['cds-WP_012582982.1']
+    Key: Name, Value: ['WP_012582982.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03090']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548282.1']
+    Key: locus_tag, Value: ['DTUR_RS03090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_012582982.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 7600-8617 (-1))
+type: CDS
+location: [610961:611711](-)
+id: cds-WP_012582983.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582983.1']
+    Key: ID, Value: ['cds-WP_012582983.1']
+    Key: Name, Value: ['WP_012582983.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03095']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548313.1']
+    Key: locus_tag, Value: ['DTUR_RS03095']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_012582983.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 8632-9382 (-1))
+type: CDS
+location: [611723:612173](-)
+id: cds-WP_012582984.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582984.1']
+    Key: ID, Value: ['cds-WP_012582984.1']
+    Key: Name, Value: ['WP_012582984.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03100']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012547133.1']
+    Key: locus_tag, Value: ['DTUR_RS03100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_012582984.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 9394-9844 (-1))
+type: CDS
+location: [612162:614562](-)
+id: cds-WP_012582985.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582985.1']
+    Key: ID, Value: ['cds-WP_012582985.1']
+    Key: Name, Value: ['WP_012582985.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03105']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012547990.1']
+    Key: locus_tag, Value: ['DTUR_RS03105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_012582985.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 9833-12233 (-1))
+type: CDS
+location: [614565:614895](-)
+id: cds-WP_012582986.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582986.1']
+    Key: ID, Value: ['cds-WP_012582986.1']
+    Key: Name, Value: ['WP_012582986.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DTUR_RS03110']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['crn3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012548748.1']
+    Key: locus_tag, Value: ['DTUR_RS03110']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Crn3/Csx3']
+    Key: protein_id, Value: ['WP_012582986.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Crn3/Csx3, 12236-12566 (-1))
+type: CDS
+location: [617728:618106](+)
+id: cds-WP_012582987.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012582987.1']
+    Key: ID, Value: ['cds-WP_012582987.1']
+    Key: Name, Value: ['WP_012582987.1']
+    Key: Ontology_term, Value: ['GO:0008616', 'GO:0003824']
+    Key: Parent, Value: ['gene-DTUR_RS03115']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['queD']
+    Key: go_function, Value: ['catalytic activity|0003824||IEA']
+    Key: go_process, Value: ['queuosine biosynthetic process|0008616||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012547966.1']
+    Key: locus_tag, Value: ['DTUR_RS03115']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['6-carboxytetrahydropterin synthase QueD']
+    Key: protein_id, Value: ['WP_012582987.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(6-carboxytetrahydropterin synthase QueD, 15399-15777 (1))
+type: CDS
+location: [618077:618860](+)
+id: cds-WP_242603741.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_242603741.1']
+    Key: ID, Value: ['cds-WP_242603741.1']
+    Key: Name, Value: ['WP_242603741.1']
+    Key: Ontology_term, Value: ['GO:0035998', 'GO:0003933']
+    Key: Parent, Value: ['gene-DTUR_RS03120']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['folE2']
+    Key: go_function, Value: ['GTP cyclohydrolase activity|0003933||IEA']
+    Key: go_process, Value: ["7,8-dihydroneopterin 3'-triphosphate biosynthetic process|0035998||IEA"]
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012582988.1']
+    Key: locus_tag, Value: ['DTUR_RS03120']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GTP cyclohydrolase FolE2']
+    Key: protein_id, Value: ['WP_242603741.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GTP cyclohydrolase FolE2, 15748-16531 (1))
+type: repeat_region
+location: [615152:617311](+)
+id: NC_011661.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_011661.1_2']
+    Key: Note, Value: ['GTTTCAATCCCTTATAGGTACGCTACAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['2159']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12823-14982 (0))
+graphic feature from known effectors: GF(csx1, 4000-5190 (-1))
+[GF(None, 2502-3090 (1)), GF(ARMT1-like domain-containing protein, 3070-3943 (-1)), GF(TIGR02221 family CRISPR-associated protein, 3999-5190 (-1)), GF(CRISPR-associated protein, 5186-6446 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 6438-7584 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7600-8617 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8632-9382 (-1)), GF(type III-A CRISPR-associated protein Csm2, 9394-9844 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 9833-12233 (-1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 12236-12566 (-1)), GF(6-carboxytetrahydropterin synthase QueD, 15399-15777 (1)), GF(GTP cyclohydrolase FolE2, 15748-16531 (1)), GF(Repeat region, 12823-14982 (0)), GF(csx1, 4000-5190 (-1)), GF(CRISPR-Cas locus, 4000-12566 (0))]

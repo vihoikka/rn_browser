@@ -1,0 +1,350 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_009634.1  ...  GCF_000017165.1_0  GCF_000017165.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_009634.1
+type: CDS
+location: [112795:113632](-)
+id: cds-WP_011971919.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971919.1', 'GeneID:5325255']
+    Key: ID, Value: ['cds-WP_011971919.1']
+    Key: Name, Value: ['WP_011971919.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00530']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025844.4']
+    Key: locus_tag, Value: ['MEVAN_RS00530']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4435 domain-containing protein']
+    Key: protein_id, Value: ['WP_011971919.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4435 domain-containing protein, 457-1294 (-1))
+type: CDS
+location: [113631:114903](-)
+id: cds-WP_011971920.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971920.1', 'GeneID:5325256']
+    Key: ID, Value: ['cds-WP_011971920.1']
+    Key: Name, Value: ['WP_011971920.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887']
+    Key: Parent, Value: ['gene-MEVAN_RS00535']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024573.4']
+    Key: locus_tag, Value: ['MEVAN_RS00535']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_011971920.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 1293-2565 (-1))
+type: CDS
+location: [115689:116049](+)
+id: cds-WP_011971921.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971921.1', 'GeneID:5325257']
+    Key: ID, Value: ['cds-WP_011971921.1']
+    Key: Name, Value: ['WP_011971921.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00540']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MEVAN_RS00540']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011971921.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3351-3711 (1))
+type: CDS
+location: [116337:117351](+)
+id: cds-WP_011971922.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971922.1', 'GeneID:5325243']
+    Key: ID, Value: ['cds-WP_011971922.1']
+    Key: Name, Value: ['WP_011971922.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00545']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MEVAN_RS00545']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011971922.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5013 (1))
+type: CDS
+location: [117347:118934](+)
+id: cds-WP_011971923.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971923.1', 'GeneID:5325244']
+    Key: ID, Value: ['cds-WP_011971923.1']
+    Key: Name, Value: ['WP_011971923.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEVAN_RS00550']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['MEVAN_RS00550']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_011971923.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5009-6596 (1))
+type: CDS
+location: [118933:120022](+)
+id: cds-WP_011971924.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971924.1', 'GeneID:25393749']
+    Key: ID, Value: ['cds-WP_011971924.1']
+    Key: Name, Value: ['WP_011971924.1']
+    Key: Parent, Value: ['gene-MEVAN_RS08770']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.4']
+    Key: locus_tag, Value: ['MEVAN_RS08770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_011971924.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 6595-7684 (1))
+type: CDS
+location: [120023:120845](+)
+id: cds-WP_011971925.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971925.1', 'GeneID:5325196']
+    Key: ID, Value: ['cds-WP_011971925.1']
+    Key: Name, Value: ['WP_011971925.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEVAN_RS00560']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['MEVAN_RS00560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_011971925.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 7685-8507 (1))
+type: CDS
+location: [120866:121256](+)
+id: cds-WP_011971926.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971926.1', 'GeneID:25393750']
+    Key: ID, Value: ['cds-WP_011971926.1']
+    Key: Name, Value: ['WP_011971926.1']
+    Key: Parent, Value: ['gene-MEVAN_RS08775']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021237.4']
+    Key: locus_tag, Value: ['MEVAN_RS08775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_011971926.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 8528-8918 (1))
+type: CDS
+location: [121245:122250](+)
+id: cds-WP_011971927.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971927.1', 'GeneID:5325198']
+    Key: ID, Value: ['cds-WP_011971927.1']
+    Key: Name, Value: ['WP_011971927.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEVAN_RS00570']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['MEVAN_RS00570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_011971927.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 8907-9912 (1))
+type: CDS
+location: [122250:124158](-)
+id: cds-WP_011971928.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971928.1', 'GeneID:5325168']
+    Key: ID, Value: ['cds-WP_011971928.1']
+    Key: Name, Value: ['WP_011971928.1']
+    Key: Ontology_term, Value: ['GO:0055085', 'GO:0016020']
+    Key: Parent, Value: ['gene-MEVAN_RS00575']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013694.4']
+    Key: locus_tag, Value: ['MEVAN_RS00575']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CorA family divalent cation transporter']
+    Key: protein_id, Value: ['WP_011971928.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CorA family divalent cation transporter, 9912-11820 (-1))
+type: CDS
+location: [124182:124935](-)
+id: cds-WP_011971929.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971929.1', 'GeneID:5325169']
+    Key: ID, Value: ['cds-WP_011971929.1']
+    Key: Name, Value: ['WP_011971929.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00580']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MEVAN_RS00580']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011971929.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11844-12597 (-1))
+type: CDS
+location: [124964:125615](-)
+id: cds-WP_011971930.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971930.1', 'GeneID:5325170']
+    Key: ID, Value: ['cds-WP_011971930.1']
+    Key: Name, Value: ['WP_011971930.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00585']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013179916.1']
+    Key: locus_tag, Value: ['MEVAN_RS00585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas6']
+    Key: protein_id, Value: ['WP_011971930.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas6, 12626-13277 (-1))
+type: CDS
+location: [125738:126707](+)
+id: cds-WP_011971931.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971931.1', 'GeneID:5324697']
+    Key: ID, Value: ['cds-WP_011971931.1']
+    Key: Name, Value: ['WP_011971931.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-MEVAN_RS00590']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['MEVAN_RS00590']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_011971931.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 13400-14369 (1))
+type: CDS
+location: [126713:127004](+)
+id: cds-WP_011971932.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971932.1', 'GeneID:5324698']
+    Key: ID, Value: ['cds-WP_011971932.1']
+    Key: Name, Value: ['WP_011971932.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-MEVAN_RS00595']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['MEVAN_RS00595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_011971932.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 14375-14666 (1))
+type: CDS
+location: [127862:129650](-)
+id: cds-WP_048059108.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048059108.1', 'GeneID:5324699']
+    Key: ID, Value: ['cds-WP_048059108.1']
+    Key: Name, Value: ['WP_048059108.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00600']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024573.4']
+    Key: locus_tag, Value: ['MEVAN_RS00600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_048059108.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 15524-17312 (-1))
+type: CDS
+location: [130137:130521](+)
+id: cds-WP_048059109.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048059109.1', 'GeneID:5324692']
+    Key: ID, Value: ['cds-WP_048059109.1']
+    Key: Name, Value: ['WP_048059109.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00605']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MEVAN_RS00605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_048059109.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17799-18183 (1))
+type: CDS
+location: [130560:130824](+)
+id: cds-WP_011971934.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011971934.1', 'GeneID:5324693']
+    Key: ID, Value: ['cds-WP_011971934.1']
+    Key: Name, Value: ['WP_011971934.1']
+    Key: Parent, Value: ['gene-MEVAN_RS00610']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MEVAN_RS00610']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011971934.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18222-18486 (1))
+type: repeat_region
+location: [127423:127680](+)
+id: NC_009634.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_009634.1_1']
+    Key: Note, Value: ['ATACGAAACGTTGATCCATCAAAACAAGGATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['257']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 15085-15342 (0))
+graphic feature from known effectors: GF(cora, 9913-11820 (-1))
+[GF(DUF4435 domain-containing protein, 457-1294 (-1)), GF(AAA family ATPase, 1293-2565 (-1)), GF(None, 3351-3711 (1)), GF(None, 3999-5013 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5009-6596 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 6595-7684 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7685-8507 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 8528-8918 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8907-9912 (1)), GF(CorA family divalent cation transporter, 9912-11820 (-1)), GF(None, 11844-12597 (-1)), GF(CRISPR-associated endonuclease Cas6, 12626-13277 (-1)), GF(CRISPR-associated endonuclease Cas1, 13400-14369 (1)), GF(CRISPR-associated endonuclease Cas2, 14375-14666 (1)), GF(AAA family ATPase, 15524-17312 (-1)), GF(None, 17799-18183 (1)), GF(None, 18222-18486 (1)), GF(Repeat region, 15085-15342 (0)), GF(cora, 9913-11820 (-1)), GF(CRISPR-Cas locus, 4000-14666 (0))]

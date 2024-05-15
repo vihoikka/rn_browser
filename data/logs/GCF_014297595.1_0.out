@@ -1,0 +1,232 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP060414.1  ...  GCF_014297595.1_0  GCF_014297595.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP060414.1
+type: CDS
+location: [625875:629304](-)
+id: cds-WP_187001025.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001025.1']
+    Key: ID, Value: ['cds-WP_187001025.1']
+    Key: Name, Value: ['WP_187001025.1']
+    Key: Ontology_term, Value: ['GO:0006281', 'GO:0003690', 'GO:0005515', 'GO:0005524', 'GO:0016887']
+    Key: Parent, Value: ['gene-H7A79_RS03065']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['mfd']
+    Key: go_function, Value: ['double-stranded DNA binding|0003690||IEA', 'protein binding|0005515||IEA', 'ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: go_process, Value: ['DNA repair|0006281||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004284995.1']
+    Key: locus_tag, Value: ['H7A79_RS03065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transcription-repair coupling factor']
+    Key: protein_id, Value: ['WP_187001025.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transcription-repair coupling factor, 319-3748 (-1))
+type: CDS
+location: [629555:632216](+)
+id: cds-WP_187001026.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001026.1']
+    Key: ID, Value: ['cds-WP_187001026.1']
+    Key: Name, Value: ['WP_187001026.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-H7A79_RS03070']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019269769.1']
+    Key: locus_tag, Value: ['H7A79_RS03070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_187001026.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6660 (1))
+type: CDS
+location: [632215:632608](+)
+id: cds-WP_214646402.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_214646402.1']
+    Key: ID, Value: ['cds-WP_214646402.1']
+    Key: Name, Value: ['WP_214646402.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-H7A79_RS03075']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.2']
+    Key: locus_tag, Value: ['H7A79_RS03075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_214646402.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 6659-7052 (1))
+type: CDS
+location: [632622:633339](+)
+id: cds-WP_187001027.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001027.1']
+    Key: ID, Value: ['cds-WP_187001027.1']
+    Key: Name, Value: ['WP_187001027.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-H7A79_RS03080']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019269771.1']
+    Key: locus_tag, Value: ['H7A79_RS03080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_187001027.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7066-7783 (1))
+type: CDS
+location: [633428:634247](+)
+id: cds-WP_187001028.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001028.1']
+    Key: ID, Value: ['cds-WP_187001028.1']
+    Key: Name, Value: ['WP_187001028.1']
+    Key: Parent, Value: ['gene-H7A79_RS15600']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020571.2']
+    Key: locus_tag, Value: ['H7A79_RS15600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_187001028.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 7872-8691 (1))
+type: CDS
+location: [634254:634524](+)
+id: cds-WP_187001029.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001029.1']
+    Key: ID, Value: ['cds-WP_187001029.1']
+    Key: Name, Value: ['WP_187001029.1']
+    Key: Parent, Value: ['gene-H7A79_RS15605']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020571.2']
+    Key: locus_tag, Value: ['H7A79_RS15605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_187001029.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 8698-8968 (1))
+type: CDS
+location: [634513:635644](+)
+id: cds-WP_187001030.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001030.1']
+    Key: ID, Value: ['cds-WP_187001030.1']
+    Key: Name, Value: ['WP_187001030.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-H7A79_RS03095']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021162.2']
+    Key: locus_tag, Value: ['H7A79_RS03095']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Csm6']
+    Key: protein_id, Value: ['WP_187001030.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Csm6, 8957-10088 (1))
+type: CDS
+location: [635711:636476](+)
+id: cds-WP_135035715.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_135035715.1']
+    Key: ID, Value: ['cds-WP_135035715.1']
+    Key: Name, Value: ['WP_135035715.1']
+    Key: Ontology_term, Value: ['GO:0009423', 'GO:0003855']
+    Key: Parent, Value: ['gene-H7A79_RS03100']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['aroD']
+    Key: go_function, Value: ['3-dehydroquinate dehydratase activity|0003855||IEA']
+    Key: go_process, Value: ['chorismate biosynthetic process|0009423||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004284871.1']
+    Key: locus_tag, Value: ['H7A79_RS03100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I 3-dehydroquinate dehydratase']
+    Key: protein_id, Value: ['WP_135035715.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I 3-dehydroquinate dehydratase, 10155-10920 (1))
+type: CDS
+location: [636462:636675](+)
+id: cds-WP_187001031.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001031.1']
+    Key: ID, Value: ['cds-WP_187001031.1']
+    Key: Name, Value: ['WP_187001031.1']
+    Key: Parent, Value: ['gene-H7A79_RS03105']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['H7A79_RS03105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187001031.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10906-11119 (1))
+type: CDS
+location: [636631:637300](-)
+id: cds-WP_135035712.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_135035712.1']
+    Key: ID, Value: ['cds-WP_135035712.1']
+    Key: Name, Value: ['WP_135035712.1']
+    Key: Parent, Value: ['gene-H7A79_RS03110']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004282855.1']
+    Key: locus_tag, Value: ['H7A79_RS03110']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TetR/AcrR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_135035712.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TetR/AcrR family transcriptional regulator, 11075-11744 (-1))
+type: CDS
+location: [637538:638594](-)
+id: cds-WP_187001032.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187001032.1']
+    Key: ID, Value: ['cds-WP_187001032.1']
+    Key: Name, Value: ['WP_187001032.1']
+    Key: Ontology_term, Value: ['GO:0008762', 'GO:0071949']
+    Key: Parent, Value: ['gene-H7A79_RS03115']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['murB']
+    Key: go_function, Value: ['UDP-N-acetylmuramate dehydrogenase activity|0008762||IEA', 'FAD binding|0071949||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014582406.1']
+    Key: locus_tag, Value: ['H7A79_RS03115']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['UDP-N-acetylmuramate dehydrogenase']
+    Key: protein_id, Value: ['WP_187001032.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(UDP-N-acetylmuramate dehydrogenase, 11982-13038 (-1))
+graphic feature from known effectors: GF(can1-2, 7873-8691 (1))
+[GF(transcription-repair coupling factor, 319-3748 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6660 (1)), GF(type III-A CRISPR-associated protein Csm2, 6659-7052 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7066-7783 (1)), GF(DUF1887 family CARF protein, 7872-8691 (1)), GF(DUF1887 family CARF protein, 8698-8968 (1)), GF(CRISPR-associated ring nuclease Csm6, 8957-10088 (1)), GF(type I 3-dehydroquinate dehydratase, 10155-10920 (1)), GF(None, 10906-11119 (1)), GF(TetR/AcrR family transcriptional regulator, 11075-11744 (-1)), GF(UDP-N-acetylmuramate dehydrogenase, 11982-13038 (-1)), GF(can1-2, 7873-8691 (1)), GF(CRISPR-Cas locus, 4000-10088 (0))]

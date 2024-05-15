@@ -1,0 +1,279 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_002570.2  ...  GCF_000011145.1_0  GCF_000011145.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_002570.2
+type: CDS
+location: [341064:341622](-)
+id: cds-WP_010896504.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896504.1']
+    Key: ID, Value: ['cds-WP_010896504.1']
+    Key: Name, Value: ['WP_010896504.1']
+    Key: Parent, Value: ['gene-AYT26_RS01825']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007498361.1']
+    Key: locus_tag, Value: ['AYT26_RS01825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010896504.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 114-672 (-1))
+type: CDS
+location: [342015:342567](-)
+id: cds-WP_010896505.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896505.1']
+    Key: ID, Value: ['cds-WP_010896505.1']
+    Key: Name, Value: ['WP_010896505.1']
+    Key: Parent, Value: ['gene-AYT26_RS01830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AYT26_RS01830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010896505.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1065-1617 (-1))
+type: CDS
+location: [342580:342940](-)
+id: cds-WP_143704988.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143704988.1']
+    Key: ID, Value: ['cds-WP_143704988.1']
+    Key: Name, Value: ['WP_143704988.1']
+    Key: Parent, Value: ['gene-AYT26_RS01835']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AYT26_RS01835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_143704988.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1630-1990 (-1))
+type: CDS
+location: [343826:344399](-)
+id: cds-WP_010896506.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896506.1']
+    Key: ID, Value: ['cds-WP_010896506.1']
+    Key: Name, Value: ['WP_010896506.1']
+    Key: Parent, Value: ['gene-AYT26_RS01840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AYT26_RS01840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010896506.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2876-3449 (-1))
+type: CDS
+location: [344949:345699](+)
+id: cds-WP_010896507.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896507.1']
+    Key: ID, Value: ['cds-WP_010896507.1']
+    Key: Name, Value: ['WP_010896507.1']
+    Key: Parent, Value: ['gene-AYT26_RS01845']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010280887.1']
+    Key: locus_tag, Value: ['AYT26_RS01845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['aminoglycoside phosphotransferase family protein']
+    Key: protein_id, Value: ['WP_010896507.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(aminoglycoside phosphotransferase family protein, 3999-4749 (1))
+type: CDS
+location: [347482:348859](+)
+id: cds-WP_010896508.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896508.1']
+    Key: ID, Value: ['cds-WP_010896508.1']
+    Key: Name, Value: ['WP_010896508.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AYT26_RS01850']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['AYT26_RS01850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_010896508.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 6532-7909 (1))
+type: CDS
+location: [348828:350643](+)
+id: cds-WP_010896509.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896509.1']
+    Key: ID, Value: ['cds-WP_010896509.1']
+    Key: Name, Value: ['WP_010896509.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AYT26_RS01855']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['AYT26_RS01855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_010896509.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7878-9693 (1))
+type: CDS
+location: [350614:351874](+)
+id: cds-WP_050768949.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050768949.1']
+    Key: ID, Value: ['cds-WP_050768949.1']
+    Key: Name, Value: ['WP_050768949.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-AYT26_RS01860']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01888.1']
+    Key: locus_tag, Value: ['AYT26_RS01860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_050768949.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 9664-10924 (1))
+type: CDS
+location: [351873:352785](+)
+id: cds-WP_010896511.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896511.1']
+    Key: ID, Value: ['cds-WP_010896511.1']
+    Key: Name, Value: ['WP_010896511.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AYT26_RS01865']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014281204.1']
+    Key: locus_tag, Value: ['AYT26_RS01865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_010896511.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 10923-11835 (1))
+type: CDS
+location: [352781:353159](+)
+id: cds-WP_010896512.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896512.1']
+    Key: ID, Value: ['cds-WP_010896512.1']
+    Key: Name, Value: ['WP_010896512.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AYT26_RS01870']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006285304.1']
+    Key: locus_tag, Value: ['AYT26_RS01870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_010896512.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 11831-12209 (1))
+type: CDS
+location: [353155:353902](+)
+id: cds-WP_010896513.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010896513.1']
+    Key: ID, Value: ['cds-WP_010896513.1']
+    Key: Name, Value: ['WP_010896513.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AYT26_RS01875']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['AYT26_RS01875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_010896513.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 12205-12952 (1))
+type: CDS
+location: [354344:355127](+)
+id: cds-WP_143704989.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143704989.1']
+    Key: ID, Value: ['cds-WP_143704989.1']
+    Key: Name, Value: ['WP_143704989.1']
+    Key: Parent, Value: ['gene-AYT26_RS01880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AYT26_RS01880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_143704989.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13394-14177 (1))
+type: inferred_parent
+location: [356398:357510](+)
+id: gene-AYT26_RS01890
+qualifiers:
+    Key: ID, Value: ['gene-AYT26_RS01890']
+
+GF(None, 15448-16560 (1))
+type: repeat_region
+location: [345990:347087](+)
+id: NC_002570.2_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_002570.2_2']
+    Key: Note, Value: ['GTCGCACTCTACACGAGTGCGTGGATTGAAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1097']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 5040-6137 (0))
+type: repeat_region
+location: [355360:356328](+)
+id: NC_002570.2_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_002570.2_3']
+    Key: Note, Value: ['GTCGCACTCTTCATGGGTGCGTGGATTGAAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['968']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 14410-15378 (0))
+graphic feature from validated effectors: GF(cam2, 13395-14177 (1))
+[GF(None, 114-672 (-1)), GF(None, 1065-1617 (-1)), GF(None, 1630-1990 (-1)), GF(None, 2876-3449 (-1)), GF(aminoglycoside phosphotransferase family protein, 3999-4749 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 6532-7909 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7878-9693 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 9664-10924 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10923-11835 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11831-12209 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12205-12952 (1)), GF(None, 13394-14177 (1)), GF(None, 15448-16560 (1)), GF(Repeat region, 5040-6137 (0)), GF(Repeat region, 14410-15378 (0)), GF(cam2, 13395-14177 (1)), GF(CRISPR-Cas locus, 4000-12952 (0))]

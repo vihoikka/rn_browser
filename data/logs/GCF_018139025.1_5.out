@@ -1,0 +1,249 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           5  NZ_CP073250.1  ...  GCF_018139025.1_5  GCF_018139025.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP073250.1
+type: CDS
+location: [2819513:2819930](-)
+id: cds-WP_211941806.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211941806.1', 'GeneID:67520805']
+    Key: ID, Value: ['cds-WP_211941806.1']
+    Key: Name, Value: ['WP_211941806.1']
+    Key: Parent, Value: ['gene-J9B92_RS12640']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009343042.1']
+    Key: locus_tag, Value: ['J9B92_RS12640']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211941806.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 236-653 (-1))
+type: CDS
+location: [2820003:2821899](+)
+id: cds-WP_211941807.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211941807.1', 'GeneID:67520806']
+    Key: ID, Value: ['cds-WP_211941807.1']
+    Key: Name, Value: ['WP_211941807.1']
+    Key: Ontology_term, Value: ['GO:0006289', 'GO:0009381', 'GO:0009380']
+    Key: Parent, Value: ['gene-J9B92_RS12645']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['uvrC']
+    Key: go_component, Value: ['excinuclease repair complex|0009380||IEA']
+    Key: go_function, Value: ['excinuclease ABC activity|0009381||IEA']
+    Key: go_process, Value: ['nucleotide-excision repair|0006289||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278128.1']
+    Key: locus_tag, Value: ['J9B92_RS12645']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['excinuclease ABC subunit UvrC']
+    Key: protein_id, Value: ['WP_211941807.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(excinuclease ABC subunit UvrC, 726-2622 (1))
+type: CDS
+location: [2821969:2822860](-)
+id: cds-WP_211941808.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211941808.1', 'GeneID:67520807']
+    Key: ID, Value: ['cds-WP_211941808.1']
+    Key: Name, Value: ['WP_211941808.1']
+    Key: Parent, Value: ['gene-J9B92_RS12650']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS12650']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211941808.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2692-3583 (-1))
+type: CDS
+location: [2823276:2824791](-)
+id: cds-WP_244982443.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_244982443.1', 'GeneID:67520808']
+    Key: ID, Value: ['cds-WP_244982443.1']
+    Key: Name, Value: ['WP_244982443.1']
+    Key: Parent, Value: ['gene-J9B92_RS12655']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['J9B92_RS12655']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_244982443.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 3999-5514 (-1))
+type: CDS
+location: [2825111:2825660](-)
+id: cds-WP_006278125.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006278125.1', 'GeneID:67520809']
+    Key: ID, Value: ['cds-WP_006278125.1']
+    Key: Name, Value: ['WP_006278125.1']
+    Key: Parent, Value: ['gene-J9B92_RS12660']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116147.1']
+    Key: locus_tag, Value: ['J9B92_RS12660']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_006278125.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5834-6383 (-1))
+type: CDS
+location: [2825670:2826489](-)
+id: cds-WP_057177155.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177155.1', 'GeneID:67520810']
+    Key: ID, Value: ['cds-WP_057177155.1']
+    Key: Name, Value: ['WP_057177155.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J9B92_RS12665']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278124.1']
+    Key: locus_tag, Value: ['J9B92_RS12665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_057177155.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 6393-7212 (-1))
+type: CDS
+location: [2826485:2827673](-)
+id: cds-WP_244982346.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_244982346.1', 'GeneID:67520811']
+    Key: ID, Value: ['cds-WP_244982346.1']
+    Key: Name, Value: ['WP_244982346.1']
+    Key: Parent, Value: ['gene-J9B92_RS12670']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278123.1']
+    Key: locus_tag, Value: ['J9B92_RS12670']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_244982346.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 7208-8396 (-1))
+type: CDS
+location: [2827676:2830661](-)
+id: cds-WP_072149073.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_072149073.1', 'GeneID:67520812']
+    Key: ID, Value: ['cds-WP_072149073.1']
+    Key: Name, Value: ['WP_072149073.1']
+    Key: Parent, Value: ['gene-J9B92_RS12675']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278122.1']
+    Key: locus_tag, Value: ['J9B92_RS12675']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_072149073.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8399-11384 (-1))
+type: CDS
+location: [2831063:2831357](-)
+id: cds-WP_057177158.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177158.1', 'GeneID:67520813']
+    Key: ID, Value: ['cds-WP_057177158.1']
+    Key: Name, Value: ['WP_057177158.1']
+    Key: Parent, Value: ['gene-J9B92_RS12680']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017745169.1']
+    Key: locus_tag, Value: ['J9B92_RS12680']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['nucleotidyltransferase family protein']
+    Key: protein_id, Value: ['WP_057177158.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(nucleotidyltransferase family protein, 11786-12080 (-1))
+type: CDS
+location: [2831687:2832206](+)
+id: cds-WP_057177160.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177160.1', 'GeneID:67520814']
+    Key: ID, Value: ['cds-WP_057177160.1']
+    Key: Name, Value: ['WP_057177160.1']
+    Key: Parent, Value: ['gene-J9B92_RS12685']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS12685']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_057177160.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12410-12929 (1))
+type: CDS
+location: [2832198:2832513](+)
+id: cds-WP_057177161.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177161.1', 'GeneID:71774458']
+    Key: ID, Value: ['cds-WP_057177161.1']
+    Key: Name, Value: ['WP_057177161.1']
+    Key: Parent, Value: ['gene-J9B92_RS17555']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006275548.1']
+    Key: locus_tag, Value: ['J9B92_RS17555']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['C-terminal helicase domain-containing protein']
+    Key: protein_id, Value: ['WP_057177161.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(C-terminal helicase domain-containing protein, 12921-13236 (1))
+type: CDS
+location: [2832745:2833891](-)
+id: cds-WP_057177162.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177162.1', 'GeneID:67520816']
+    Key: ID, Value: ['cds-WP_057177162.1']
+    Key: Name, Value: ['WP_057177162.1']
+    Key: Parent, Value: ['gene-J9B92_RS12695']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006275546.1']
+    Key: locus_tag, Value: ['J9B92_RS12695']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix domain-containing protein']
+    Key: protein_id, Value: ['WP_057177162.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix domain-containing protein, 13468-14614 (-1))
+type: CDS
+location: [2834290:2834457](-)
+id: cds-J9B92_RS17560
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:71774459']
+    Key: ID, Value: ['cds-J9B92_RS17560']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-J9B92_RS17560']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013192946.1']
+    Key: locus_tag, Value: ['J9B92_RS17560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['C4-dicarboxylate ABC transporter']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(C4-dicarboxylate ABC transporter, 15013-15180 (-1))
+[GF(None, 236-653 (-1)), GF(excinuclease ABC subunit UvrC, 726-2622 (1)), GF(None, 2692-3583 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5514 (-1)), GF(None, 5834-6383 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6393-7212 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7208-8396 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8399-11384 (-1)), GF(nucleotidyltransferase family protein, 11786-12080 (-1)), GF(None, 12410-12929 (1)), GF(C-terminal helicase domain-containing protein, 12921-13236 (1)), GF(helix-turn-helix domain-containing protein, 13468-14614 (-1)), GF(C4-dicarboxylate ABC transporter, 15013-15180 (-1)), GF(CRISPR-Cas locus, 4000-11390 (0))]

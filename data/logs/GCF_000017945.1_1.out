@@ -1,0 +1,202 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_009776.1  ...  GCF_000017945.1_1  GCF_000017945.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_009776.1
+type: CDS
+location: [278814:279405](-)
+id: cds-WP_011998357.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998357.1', 'GeneID:5563076']
+    Key: ID, Value: ['cds-WP_011998357.1']
+    Key: Name, Value: ['WP_011998357.1']
+    Key: Parent, Value: ['gene-IGNI_RS01665']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF018076.4']
+    Key: locus_tag, Value: ['IGNI_RS01665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['class I SAM-dependent methyltransferase']
+    Key: protein_id, Value: ['WP_011998357.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(class I SAM-dependent methyltransferase, 116-707 (-1))
+type: CDS
+location: [279552:280800](+)
+id: cds-WP_011998358.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998358.1', 'GeneID:5562183']
+    Key: ID, Value: ['cds-WP_011998358.1']
+    Key: Name, Value: ['WP_011998358.1']
+    Key: Parent, Value: ['gene-IGNI_RS01670']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010866968.1']
+    Key: locus_tag, Value: ['IGNI_RS01670']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['translation initiation factor IF-2 subunit gamma']
+    Key: protein_id, Value: ['WP_011998358.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(translation initiation factor IF-2 subunit gamma, 854-2102 (1))
+type: CDS
+location: [280796:281825](-)
+id: cds-WP_011998359.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998359.1', 'GeneID:5563001']
+    Key: ID, Value: ['cds-WP_011998359.1']
+    Key: Name, Value: ['WP_011998359.1']
+    Key: Ontology_term, Value: ['GO:0033014', 'GO:0003824', 'GO:0004655', 'GO:0046872']
+    Key: Parent, Value: ['gene-IGNI_RS01675']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hemB']
+    Key: go_function, Value: ['catalytic activity|0003824||IEA', 'porphobilinogen synthase activity|0004655||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['tetrapyrrole biosynthetic process|0033014||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014026914.1']
+    Key: locus_tag, Value: ['IGNI_RS01675']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['porphobilinogen synthase']
+    Key: protein_id, Value: ['WP_011998359.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(porphobilinogen synthase, 2098-3127 (-1))
+type: CDS
+location: [281890:282595](+)
+id: cds-WP_011998360.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998360.1', 'GeneID:5562891']
+    Key: ID, Value: ['cds-WP_011998360.1']
+    Key: Name, Value: ['WP_011998360.1']
+    Key: Parent, Value: ['gene-IGNI_RS01680']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014026477.1']
+    Key: locus_tag, Value: ['IGNI_RS01680']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR00266 family protein']
+    Key: protein_id, Value: ['WP_011998360.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR00266 family protein, 3192-3897 (1))
+type: CDS
+location: [282697:284269](+)
+id: cds-WP_011998361.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998361.1', 'GeneID:5562179']
+    Key: ID, Value: ['cds-WP_011998361.1']
+    Key: Name, Value: ['WP_011998361.1']
+    Key: Parent, Value: ['gene-IGNI_RS01685']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.4']
+    Key: locus_tag, Value: ['IGNI_RS01685']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TM1812 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_011998361.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TM1812 family CRISPR-associated protein, 3999-5571 (1))
+type: CDS
+location: [284383:285220](+)
+id: cds-WP_011998362.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998362.1', 'GeneID:5562173']
+    Key: ID, Value: ['cds-WP_011998362.1']
+    Key: Name, Value: ['WP_011998362.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IGNI_RS01690']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['IGNI_RS01690']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_011998362.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5685-6522 (1))
+type: CDS
+location: [285516:288594](+)
+id: cds-WP_011998363.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998363.1', 'GeneID:5562168']
+    Key: ID, Value: ['cds-WP_011998363.1']
+    Key: Name, Value: ['WP_011998363.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IGNI_RS01700']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['IGNI_RS01700']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_011998363.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6818-9896 (1))
+type: CDS
+location: [288600:289665](+)
+id: cds-WP_011998364.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011998364.1', 'GeneID:5562714']
+    Key: ID, Value: ['cds-WP_011998364.1']
+    Key: Name, Value: ['WP_011998364.1']
+    Key: Parent, Value: ['gene-IGNI_RS01705']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IGNI_RS01705']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011998364.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9902-10967 (1))
+type: CDS
+location: [290034:290409](-)
+id: cds-WP_187145983.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187145983.1', 'GeneID:41339633']
+    Key: ID, Value: ['cds-WP_187145983.1']
+    Key: Name, Value: ['WP_187145983.1']
+    Key: Parent, Value: ['gene-IGNI_RS07630']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IGNI_RS07630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187145983.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11336-11711 (-1))
+type: CDS
+location: [291015:292605](-)
+id: cds-WP_052570452.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_052570452.1', 'GeneID:5562653']
+    Key: ID, Value: ['cds-WP_052570452.1']
+    Key: Name, Value: ['WP_052570452.1']
+    Key: Ontology_term, Value: ['GO:0006221', 'GO:0006241', 'GO:0003883']
+    Key: Parent, Value: ['gene-IGNI_RS01720']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['CTP synthase activity|0003883||IEA']
+    Key: go_process, Value: ['pyrimidine nucleotide biosynthetic process|0006221||IEA', 'CTP biosynthetic process|0006241||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013303928.1']
+    Key: locus_tag, Value: ['IGNI_RS01720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CTP synthase']
+    Key: protein_id, Value: ['WP_052570452.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CTP synthase, 12317-13907 (-1))
+graphic feature from known effectors: GF(csx1, 4000-5571 (1))
+[GF(class I SAM-dependent methyltransferase, 116-707 (-1)), GF(translation initiation factor IF-2 subunit gamma, 854-2102 (1)), GF(porphobilinogen synthase, 2098-3127 (-1)), GF(TIGR00266 family protein, 3192-3897 (1)), GF(TM1812 family CRISPR-associated protein, 3999-5571 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5685-6522 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6818-9896 (1)), GF(None, 9902-10967 (1)), GF(None, 11336-11711 (-1)), GF(CTP synthase, 12317-13907 (-1)), GF(csx1, 4000-5571 (1)), GF(CRISPR-Cas locus, 4000-10967 (0))]

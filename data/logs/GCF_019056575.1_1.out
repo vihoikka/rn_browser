@@ -1,0 +1,475 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP021056.1  ...  GCF_019056575.1_1  GCF_019056575.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP021056.1
+type: CDS
+location: [5294380:5294803](+)
+id: cds-WP_190606708.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190606708.1']
+    Key: ID, Value: ['cds-WP_190606708.1']
+    Key: Name, Value: ['WP_190606708.1']
+    Key: Parent, Value: ['gene-B6N60_RS22200']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['B6N60_RS22200']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190606708.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 329-752 (1))
+type: CDS
+location: [5295050:5295530](+)
+id: cds-WP_190606706.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190606706.1']
+    Key: ID, Value: ['cds-WP_190606706.1']
+    Key: Name, Value: ['WP_190606706.1']
+    Key: Parent, Value: ['gene-B6N60_RS22205']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025563.4']
+    Key: locus_tag, Value: ['B6N60_RS22205']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ricin-type beta-trefoil lectin domain protein']
+    Key: protein_id, Value: ['WP_190606706.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ricin-type beta-trefoil lectin domain protein, 999-1479 (1))
+type: CDS
+location: [5295498:5295885](-)
+id: cds-B6N60_RS22210
+qualifiers:
+    Key: ID, Value: ['cds-B6N60_RS22210']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-B6N60_RS22210']
+    Key: end_range, Value: ['5295885', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012165498.1']
+    Key: locus_tag, Value: ['B6N60_RS22210']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS701 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS701 family transposase, 1447-1834 (-1))
+type: CDS
+location: [5295917:5296058](+)
+id: cds-WP_244997522.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_244997522.1']
+    Key: ID, Value: ['cds-WP_244997522.1']
+    Key: Name, Value: ['WP_244997522.1']
+    Key: Parent, Value: ['gene-B6N60_RS24390']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025000.4']
+    Key: locus_tag, Value: ['B6N60_RS24390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase family protein']
+    Key: protein_id, Value: ['WP_244997522.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase family protein, 1866-2007 (1))
+type: CDS
+location: [5296072:5296180](+)
+id: cds-B6N60_RS24395
+qualifiers:
+    Key: ID, Value: ['cds-B6N60_RS24395']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-B6N60_RS24395']
+    Key: end_range, Value: ['5296180', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003744379.1']
+    Key: locus_tag, Value: ['B6N60_RS24395']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase family protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '5296073']
+    Key: transl_table, Value: ['11']
+
+GF(transposase family protein, 2021-2129 (1))
+type: CDS
+location: [5296690:5297350](+)
+id: cds-WP_190607991.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190607991.1']
+    Key: ID, Value: ['cds-WP_190607991.1']
+    Key: Name, Value: ['WP_190607991.1']
+    Key: Parent, Value: ['gene-B6N60_RS22220']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['B6N60_RS22220']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190607991.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2639-3299 (1))
+type: CDS
+location: [5298050:5300111](-)
+id: cds-WP_190607993.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190607993.1']
+    Key: ID, Value: ['cds-WP_190607993.1']
+    Key: Name, Value: ['WP_190607993.1']
+    Key: Parent, Value: ['gene-B6N60_RS22225']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025052.4']
+    Key: locus_tag, Value: ['B6N60_RS22225']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_190607993.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 3999-6060 (-1))
+type: CDS
+location: [5300197:5300425](-)
+id: cds-WP_190607995.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190607995.1']
+    Key: ID, Value: ['cds-WP_190607995.1']
+    Key: Name, Value: ['WP_190607995.1']
+    Key: Parent, Value: ['gene-B6N60_RS22230']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017746849.1']
+    Key: locus_tag, Value: ['B6N60_RS22230']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190607995.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6146-6374 (-1))
+type: CDS
+location: [5300527:5300761](-)
+id: cds-WP_217312842.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_217312842.1']
+    Key: ID, Value: ['cds-WP_217312842.1']
+    Key: Name, Value: ['WP_217312842.1']
+    Key: Parent, Value: ['gene-B6N60_RS22235']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017746849.1']
+    Key: locus_tag, Value: ['B6N60_RS22235']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_217312842.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6476-6710 (-1))
+type: CDS
+location: [5300823:5301321](-)
+id: cds-WP_190607997.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190607997.1']
+    Key: ID, Value: ['cds-WP_190607997.1']
+    Key: Name, Value: ['WP_190607997.1']
+    Key: Ontology_term, Value: ['GO:0005515']
+    Key: Parent, Value: ['gene-B6N60_RS22240']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['protein binding|0005515||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015648.4']
+    Key: locus_tag, Value: ['B6N60_RS22240']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PH domain-containing protein']
+    Key: protein_id, Value: ['WP_190607997.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PH domain-containing protein, 6772-7270 (-1))
+type: CDS
+location: [5301779:5305103](+)
+id: cds-WP_190607999.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190607999.1']
+    Key: ID, Value: ['cds-WP_190607999.1']
+    Key: Name, Value: ['WP_190607999.1']
+    Key: Parent, Value: ['gene-B6N60_RS22245']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015217680.1']
+    Key: locus_tag, Value: ['B6N60_RS22245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_190607999.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7728-11052 (1))
+type: CDS
+location: [5306100:5307306](+)
+id: cds-WP_190608001.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608001.1']
+    Key: ID, Value: ['cds-WP_190608001.1']
+    Key: Name, Value: ['WP_190608001.1']
+    Key: Parent, Value: ['gene-B6N60_RS22250']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278123.1']
+    Key: locus_tag, Value: ['B6N60_RS22250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_190608001.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 12049-13255 (1))
+type: CDS
+location: [5307308:5308130](+)
+id: cds-WP_190608003.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608003.1']
+    Key: ID, Value: ['cds-WP_190608003.1']
+    Key: Name, Value: ['WP_190608003.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-B6N60_RS22255']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019489286.1']
+    Key: locus_tag, Value: ['B6N60_RS22255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_190608003.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 13257-14079 (1))
+type: CDS
+location: [5308409:5308811](+)
+id: cds-WP_190608004.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608004.1']
+    Key: ID, Value: ['cds-WP_190608004.1']
+    Key: Name, Value: ['WP_190608004.1']
+    Key: Parent, Value: ['gene-B6N60_RS22260']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['B6N60_RS22260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190608004.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14358-14760 (1))
+type: CDS
+location: [5308907:5310764](+)
+id: cds-WP_190608006.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608006.1']
+    Key: ID, Value: ['cds-WP_190608006.1']
+    Key: Name, Value: ['WP_190608006.1']
+    Key: Parent, Value: ['gene-B6N60_RS22265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['B6N60_RS22265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_190608006.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 14856-16713 (1))
+type: CDS
+location: [5311051:5313211](+)
+id: cds-WP_190608008.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608008.1']
+    Key: ID, Value: ['cds-WP_190608008.1']
+    Key: Name, Value: ['WP_190608008.1']
+    Key: Parent, Value: ['gene-B6N60_RS22270']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['B6N60_RS22270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190608008.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17000-19160 (1))
+type: CDS
+location: [5313280:5314783](+)
+id: cds-WP_190608010.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608010.1']
+    Key: ID, Value: ['cds-WP_190608010.1']
+    Key: Name, Value: ['WP_190608010.1']
+    Key: Ontology_term, Value: ['GO:0006260', 'GO:0003887', 'GO:0009360']
+    Key: Parent, Value: ['gene-B6N60_RS22275']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['dnaX']
+    Key: go_component, Value: ['DNA polymerase III complex|0009360||IEA']
+    Key: go_function, Value: ['DNA-directed DNA polymerase activity|0003887||IEA']
+    Key: go_process, Value: ['DNA replication|0006260||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015213412.1']
+    Key: locus_tag, Value: ['B6N60_RS22275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DNA polymerase III subunit gamma/tau']
+    Key: protein_id, Value: ['WP_190608010.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DNA polymerase III subunit gamma/tau, 19229-20732 (1))
+type: CDS
+location: [5314779:5315775](+)
+id: cds-WP_190608012.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608012.1']
+    Key: ID, Value: ['cds-WP_190608012.1']
+    Key: Name, Value: ['WP_190608012.1']
+    Key: Ontology_term, Value: ['GO:0006260', 'GO:0003887', 'GO:0009360']
+    Key: Parent, Value: ['gene-B6N60_RS22280']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['holA']
+    Key: go_component, Value: ['DNA polymerase III complex|0009360||IEA']
+    Key: go_function, Value: ['DNA-directed DNA polymerase activity|0003887||IEA']
+    Key: go_process, Value: ['DNA replication|0006260||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015213411.1']
+    Key: locus_tag, Value: ['B6N60_RS22280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DNA polymerase III subunit delta']
+    Key: protein_id, Value: ['WP_190608012.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DNA polymerase III subunit delta, 20728-21724 (1))
+type: CDS
+location: [5315847:5320314](-)
+id: cds-WP_190608013.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608013.1']
+    Key: ID, Value: ['cds-WP_190608013.1']
+    Key: Name, Value: ['WP_190608013.1']
+    Key: Parent, Value: ['gene-B6N60_RS22285']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['B6N60_RS22285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190608013.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21796-26263 (-1))
+type: CDS
+location: [5320547:5322533](+)
+id: cds-WP_242034266.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_242034266.1']
+    Key: ID, Value: ['cds-WP_242034266.1']
+    Key: Name, Value: ['WP_242034266.1']
+    Key: Ontology_term, Value: ['GO:0003676', 'GO:0005524']
+    Key: Parent, Value: ['gene-B6N60_RS22290']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012492.4']
+    Key: locus_tag, Value: ['B6N60_RS22290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DEAD/DEAH box helicase']
+    Key: protein_id, Value: ['WP_242034266.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DEAD/DEAH box helicase, 26496-28482 (1))
+type: CDS
+location: [5322549:5323290](+)
+id: cds-WP_242034267.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_242034267.1']
+    Key: ID, Value: ['cds-WP_242034267.1']
+    Key: Name, Value: ['WP_242034267.1']
+    Key: Parent, Value: ['gene-B6N60_RS24400']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020926.4']
+    Key: locus_tag, Value: ['B6N60_RS24400']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1998 domain-containing protein']
+    Key: protein_id, Value: ['WP_242034267.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1998 domain-containing protein, 28498-29239 (1))
+type: CDS
+location: [5323411:5324029](+)
+id: cds-WP_199317807.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_199317807.1']
+    Key: ID, Value: ['cds-WP_199317807.1']
+    Key: Name, Value: ['WP_199317807.1']
+    Key: Parent, Value: ['gene-B6N60_RS22295']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hxpB']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF008087.0']
+    Key: locus_tag, Value: ['B6N60_RS22295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hexitol phosphatase HxpB']
+    Key: protein_id, Value: ['WP_199317807.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hexitol phosphatase HxpB, 29360-29978 (1))
+type: CDS
+location: [5324203:5324860](+)
+id: cds-WP_190608015.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608015.1']
+    Key: ID, Value: ['cds-WP_190608015.1']
+    Key: Name, Value: ['WP_190608015.1']
+    Key: Parent, Value: ['gene-B6N60_RS22300']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016948752.1']
+    Key: locus_tag, Value: ['B6N60_RS22300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_190608015.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 30152-30809 (1))
+type: CDS
+location: [5325107:5326211](+)
+id: cds-WP_190608017.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_190608017.1']
+    Key: ID, Value: ['cds-WP_190608017.1']
+    Key: Name, Value: ['WP_190608017.1']
+    Key: Ontology_term, Value: ['GO:0010181', 'GO:0016491']
+    Key: Parent, Value: ['gene-B6N60_RS22305']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['FMN binding|0010181||IEA', 'oxidoreductase activity|0016491||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015213530.1']
+    Key: locus_tag, Value: ['B6N60_RS22305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['alkene reductase']
+    Key: protein_id, Value: ['WP_190608017.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(alkene reductase, 31056-32160 (1))
+type: repeat_region
+location: [5305326:5306032](+)
+id: NZ_CP021056.1_8
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP021056.1_8']
+    Key: Note, Value: ['CGCTTTAGGCTTCTATGAAGTCGAATAAAAATGGAA']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['706']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 11275-11981 (0))
+graphic feature from known effectors: GF(csx1, 17001-19160 (1))
+[GF(None, 329-752 (1)), GF(ricin-type beta-trefoil lectin domain protein, 999-1479 (1)), GF(IS701 family transposase, 1447-1834 (-1)), GF(transposase family protein, 1866-2007 (1)), GF(transposase family protein, 2021-2129 (1)), GF(None, 2639-3299 (1)), GF(AAA family ATPase, 3999-6060 (-1)), GF(None, 6146-6374 (-1)), GF(None, 6476-6710 (-1)), GF(PH domain-containing protein, 6772-7270 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7728-11052 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 12049-13255 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13257-14079 (1)), GF(None, 14358-14760 (1)), GF(RAMP superfamily CRISPR-associated protein, 14856-16713 (1)), GF(None, 17000-19160 (1)), GF(DNA polymerase III subunit gamma/tau, 19229-20732 (1)), GF(DNA polymerase III subunit delta, 20728-21724 (1)), GF(None, 21796-26263 (-1)), GF(DEAD/DEAH box helicase, 26496-28482 (1)), GF(DUF1998 domain-containing protein, 28498-29239 (1)), GF(hexitol phosphatase HxpB, 29360-29978 (1)), GF(None, 30152-30809 (1)), GF(alkene reductase, 31056-32160 (1)), GF(Repeat region, 11275-11981 (0)), GF(csx1, 17001-19160 (1)), GF(CRISPR-Cas locus, 4000-28482 (0))]

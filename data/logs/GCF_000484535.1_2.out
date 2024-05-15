@@ -1,0 +1,345 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_022600.1  ...  GCF_000484535.1_2  GCF_000484535.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_022600.1
+type: CDS
+location: [4260846:4262052](+)
+id: cds-WP_023175637.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175637.1']
+    Key: ID, Value: ['cds-WP_023175637.1']
+    Key: Name, Value: ['WP_023175637.1']
+    Key: Ontology_term, Value: ['GO:0006525', 'GO:0008483', 'GO:0030170']
+    Key: Parent, Value: ['gene-GKIL_RS19780']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transaminase activity|0008483||IEA', 'pyridoxal phosphate binding|0030170||IEA']
+    Key: go_process, Value: ['arginine metabolic process|0006525||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011140550.1']
+    Key: locus_tag, Value: ['GKIL_RS19780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['acetylornithine transaminase']
+    Key: protein_id, Value: ['WP_023175637.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(acetylornithine transaminase, 495-1701 (1))
+type: CDS
+location: [4262187:4264029](+)
+id: cds-WP_023175638.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175638.1']
+    Key: ID, Value: ['cds-WP_023175638.1']
+    Key: Name, Value: ['WP_023175638.1']
+    Key: Parent, Value: ['gene-GKIL_RS19785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019421.4']
+    Key: locus_tag, Value: ['GKIL_RS19785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HipA domain-containing protein']
+    Key: protein_id, Value: ['WP_023175638.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HipA domain-containing protein, 1836-3678 (1))
+type: CDS
+location: [4264350:4265835](+)
+id: cds-WP_023175639.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175639.1']
+    Key: ID, Value: ['cds-WP_023175639.1']
+    Key: Name, Value: ['WP_023175639.1']
+    Key: Parent, Value: ['gene-GKIL_RS19790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037060.4']
+    Key: locus_tag, Value: ['GKIL_RS19790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_023175639.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5484 (1))
+type: CDS
+location: [4265819:4266806](+)
+id: cds-WP_023175640.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175640.1']
+    Key: ID, Value: ['cds-WP_023175640.1']
+    Key: Name, Value: ['WP_023175640.1']
+    Key: Parent, Value: ['gene-GKIL_RS19795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.4']
+    Key: locus_tag, Value: ['GKIL_RS19795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_023175640.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 5468-6455 (1))
+type: CDS
+location: [4266809:4267607](+)
+id: cds-WP_023175641.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175641.1']
+    Key: ID, Value: ['cds-WP_023175641.1']
+    Key: Name, Value: ['WP_023175641.1']
+    Key: Parent, Value: ['gene-GKIL_RS19800']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['GKIL_RS19800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_023175641.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6458-7256 (1))
+type: CDS
+location: [4267610:4268024](+)
+id: cds-WP_023175642.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175642.1']
+    Key: ID, Value: ['cds-WP_023175642.1']
+    Key: Name, Value: ['WP_023175642.1']
+    Key: Parent, Value: ['gene-GKIL_RS19805']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GKIL_RS19805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_023175642.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7259-7673 (1))
+type: CDS
+location: [4268016:4269678](+)
+id: cds-WP_023175643.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175643.1']
+    Key: ID, Value: ['cds-WP_023175643.1']
+    Key: Name, Value: ['WP_023175643.1']
+    Key: Parent, Value: ['gene-GKIL_RS19810']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['GKIL_RS19810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_023175643.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7665-9327 (1))
+type: CDS
+location: [4269684:4271235](+)
+id: cds-WP_023175644.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175644.1']
+    Key: ID, Value: ['cds-WP_023175644.1']
+    Key: Name, Value: ['WP_023175644.1']
+    Key: Parent, Value: ['gene-GKIL_RS25020']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GKIL_RS25020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_023175644.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9333-10884 (1))
+type: CDS
+location: [4275403:4276399](-)
+id: cds-WP_023175646.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175646.1']
+    Key: ID, Value: ['cds-WP_023175646.1']
+    Key: Name, Value: ['WP_023175646.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-GKIL_RS19825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['GKIL_RS19825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_023175646.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 15052-16048 (-1))
+type: CDS
+location: [4276391:4276616](-)
+id: cds-WP_023175647.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175647.1']
+    Key: ID, Value: ['cds-WP_023175647.1']
+    Key: Name, Value: ['WP_023175647.1']
+    Key: Parent, Value: ['gene-GKIL_RS25025']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx18']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040558.1']
+    Key: locus_tag, Value: ['GKIL_RS25025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx18']
+    Key: protein_id, Value: ['WP_023175647.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx18, 16040-16265 (-1))
+type: CDS
+location: [4276636:4277896](-)
+id: cds-WP_023175648.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175648.1']
+    Key: ID, Value: ['cds-WP_023175648.1']
+    Key: Name, Value: ['WP_023175648.1']
+    Key: Parent, Value: ['gene-GKIL_RS19830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GKIL_RS19830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_023175648.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16285-17545 (-1))
+type: CDS
+location: [4278082:4278358](-)
+id: cds-WP_023175649.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175649.1']
+    Key: ID, Value: ['cds-WP_023175649.1']
+    Key: Name, Value: ['WP_023175649.1']
+    Key: Ontology_term, Value: ['GO:0009432', 'GO:0030541', 'GO:0051290', 'GO:0008657', 'GO:0042803']
+    Key: Parent, Value: ['gene-GKIL_RS19835']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity|0008657||IEA', 'protein homodimerization activity|0042803||IEA']
+    Key: go_process, Value: ['SOS response|0009432||IEA', 'plasmid partitioning|0030541||IEA', 'protein heterotetramerization|0051290||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011141822.1']
+    Key: locus_tag, Value: ['GKIL_RS19835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system RelE/ParE family toxin']
+    Key: protein_id, Value: ['WP_023175649.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system RelE/ParE family toxin, 17731-18007 (-1))
+type: CDS
+location: [4278531:4279017](+)
+id: cds-WP_223173789.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223173789.1']
+    Key: ID, Value: ['cds-WP_223173789.1']
+    Key: Name, Value: ['WP_223173789.1']
+    Key: Parent, Value: ['gene-GKIL_RS19840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF017496.4']
+    Key: locus_tag, Value: ['GKIL_RS19840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Uma2 family endonuclease']
+    Key: protein_id, Value: ['WP_223173789.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Uma2 family endonuclease, 18180-18666 (1))
+type: CDS
+location: [4279083:4279518](-)
+id: cds-WP_023175651.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175651.1']
+    Key: ID, Value: ['cds-WP_023175651.1']
+    Key: Name, Value: ['WP_023175651.1']
+    Key: Ontology_term, Value: ['GO:0004519']
+    Key: Parent, Value: ['gene-GKIL_RS23910']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['endonuclease activity|0004519||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025637.4']
+    Key: locus_tag, Value: ['GKIL_RS23910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HNH endonuclease signature motif containing protein']
+    Key: protein_id, Value: ['WP_023175651.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HNH endonuclease signature motif containing protein, 18732-19167 (-1))
+type: CDS
+location: [4279514:4279910](-)
+id: cds-WP_041244093.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041244093.1']
+    Key: ID, Value: ['cds-WP_041244093.1']
+    Key: Name, Value: ['WP_041244093.1']
+    Key: Parent, Value: ['gene-GKIL_RS19845']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011142930.1']
+    Key: locus_tag, Value: ['GKIL_RS19845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_041244093.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19163-19559 (-1))
+type: CDS
+location: [4280003:4280726](-)
+id: cds-WP_023175652.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_023175652.1']
+    Key: ID, Value: ['cds-WP_023175652.1']
+    Key: Name, Value: ['WP_023175652.1']
+    Key: Parent, Value: ['gene-GKIL_RS19850']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011140308.1']
+    Key: locus_tag, Value: ['GKIL_RS19850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Uma2 family endonuclease']
+    Key: protein_id, Value: ['WP_023175652.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Uma2 family endonuclease, 19652-20375 (-1))
+type: repeat_region
+location: [4271403:4272946](+)
+id: NC_022600.1_4
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_022600.1_4']
+    Key: Note, Value: ['GTTTCCAATCTAATCGTCCGCTGAGGGACGTCGAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1543']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 11052-12595 (0))
+type: repeat_region
+location: [4273234:4273994](+)
+id: NC_022600.1_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_022600.1_5']
+    Key: Note, Value: ['GTTTCCAATCTAATCGTCCGCTGAGGGACGTCGAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['760']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12883-13643 (0))
+type: repeat_region
+location: [4274202:4274931](+)
+id: NC_022600.1_6
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_022600.1_6']
+    Key: Note, Value: ['GTTTCCAATCTAATCGTCCGCTGAGGGACGTCGAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['729']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13851-14580 (0))
+graphic feature from known effectors: GF(csx1, 9334-10884 (1))
+graphic feature from known effectors: GF(csx1, 16286-17545 (-1))
+[GF(acetylornithine transaminase, 495-1701 (1)), GF(HipA domain-containing protein, 1836-3678 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5484 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 5468-6455 (1)), GF(RAMP superfamily CRISPR-associated protein, 6458-7256 (1)), GF(None, 7259-7673 (1)), GF(RAMP superfamily CRISPR-associated protein, 7665-9327 (1)), GF(None, 9333-10884 (1)), GF(CRISPR-associated endonuclease Cas1, 15052-16048 (-1)), GF(CRISPR-associated protein Csx18, 16040-16265 (-1)), GF(None, 16285-17545 (-1)), GF(type II toxin-antitoxin system RelE/ParE family toxin, 17731-18007 (-1)), GF(Uma2 family endonuclease, 18180-18666 (1)), GF(HNH endonuclease signature motif containing protein, 18732-19167 (-1)), GF(None, 19163-19559 (-1)), GF(Uma2 family endonuclease, 19652-20375 (-1)), GF(Repeat region, 11052-12595 (0)), GF(Repeat region, 12883-13643 (0)), GF(Repeat region, 13851-14580 (0)), GF(csx1, 9334-10884 (1)), GF(csx1, 16286-17545 (-1)), GF(CRISPR-Cas locus, 4000-17419 (0))]

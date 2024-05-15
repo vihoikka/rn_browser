@@ -1,0 +1,342 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           3  NZ_CP022121.1  ...  GCF_002224645.1_3  GCF_002224645.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP022121.1
+type: CDS
+location: [3544284:3544869](-)
+id: cds-WP_089612690.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612690.1']
+    Key: ID, Value: ['cds-WP_089612690.1']
+    Key: Name, Value: ['WP_089612690.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0004424']
+    Key: Parent, Value: ['gene-CEQ75_RS17235']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisB']
+    Key: go_function, Value: ['imidazoleglycerol-phosphate dehydratase activity|0004424||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003360805.1']
+    Key: locus_tag, Value: ['CEQ75_RS17235']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['imidazoleglycerol-phosphate dehydratase HisB']
+    Key: protein_id, Value: ['WP_089612690.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(imidazoleglycerol-phosphate dehydratase HisB, 18-603 (-1))
+type: CDS
+location: [3544874:3546098](-)
+id: cds-WP_242965498.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_242965498.1']
+    Key: ID, Value: ['cds-WP_242965498.1']
+    Key: Name, Value: ['WP_242965498.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0004399']
+    Key: Parent, Value: ['gene-CEQ75_RS17240']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisD']
+    Key: go_function, Value: ['histidinol dehydrogenase activity|0004399||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013013.4']
+    Key: locus_tag, Value: ['CEQ75_RS17240']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['histidinol dehydrogenase']
+    Key: protein_id, Value: ['WP_242965498.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(histidinol dehydrogenase, 608-1832 (-1))
+type: CDS
+location: [3546135:3546837](-)
+id: cds-WP_089612691.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612691.1']
+    Key: ID, Value: ['cds-WP_089612691.1']
+    Key: Name, Value: ['WP_089612691.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0003879']
+    Key: Parent, Value: ['gene-CEQ75_RS17245']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisG']
+    Key: go_function, Value: ['ATP phosphoribosyltransferase activity|0003879||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015043481.1']
+    Key: locus_tag, Value: ['CEQ75_RS17245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP phosphoribosyltransferase']
+    Key: protein_id, Value: ['WP_089612691.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP phosphoribosyltransferase, 1869-2571 (-1))
+type: CDS
+location: [3546886:3548023](-)
+id: cds-WP_089612265.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612265.1']
+    Key: ID, Value: ['cds-WP_089612265.1']
+    Key: Name, Value: ['WP_089612265.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0003879', 'GO:0030234']
+    Key: Parent, Value: ['gene-CEQ75_RS17250']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisZ']
+    Key: go_function, Value: ['ATP phosphoribosyltransferase activity|0003879||IEA', 'enzyme regulator activity|0030234||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00443.1']
+    Key: locus_tag, Value: ['CEQ75_RS17250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP phosphoribosyltransferase regulatory subunit']
+    Key: protein_id, Value: ['WP_089612265.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP phosphoribosyltransferase regulatory subunit, 2620-3757 (-1))
+type: CDS
+location: [3548265:3550434](-)
+id: cds-WP_089612266.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612266.1']
+    Key: ID, Value: ['cds-WP_089612266.1']
+    Key: Name, Value: ['WP_089612266.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17255']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['CEQ75_RS17255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_089612266.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6168 (-1))
+type: CDS
+location: [3550436:3551018](-)
+id: cds-WP_089612267.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612267.1']
+    Key: ID, Value: ['cds-WP_089612267.1']
+    Key: Name, Value: ['WP_089612267.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17260']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx19']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03984.2']
+    Key: locus_tag, Value: ['CEQ75_RS17260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx19']
+    Key: protein_id, Value: ['WP_089612267.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx19, 6170-6752 (-1))
+type: CDS
+location: [3551014:3552424](-)
+id: cds-WP_089612268.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612268.1']
+    Key: ID, Value: ['cds-WP_089612268.1']
+    Key: Name, Value: ['WP_089612268.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['CEQ75_RS17265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_089612268.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6748-8158 (-1))
+type: CDS
+location: [3552420:3553947](-)
+id: cds-WP_089612269.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612269.1']
+    Key: ID, Value: ['cds-WP_089612269.1']
+    Key: Name, Value: ['WP_089612269.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17270']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['CEQ75_RS17270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_089612269.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8154-9681 (-1))
+type: CDS
+location: [3553950:3554607](-)
+id: cds-WP_089612270.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612270.1']
+    Key: ID, Value: ['cds-WP_089612270.1']
+    Key: Name, Value: ['WP_089612270.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17275']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['CEQ75_RS17275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_089612270.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9684-10341 (-1))
+type: CDS
+location: [3554597:3556187](-)
+id: cds-WP_089612271.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612271.1']
+    Key: ID, Value: ['cds-WP_089612271.1']
+    Key: Name, Value: ['WP_089612271.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17280']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['CEQ75_RS17280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_089612271.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10331-11921 (-1))
+type: CDS
+location: [3556189:3557518](-)
+id: cds-WP_089612272.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612272.1']
+    Key: ID, Value: ['cds-WP_089612272.1']
+    Key: Name, Value: ['WP_089612272.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17285']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['CEQ75_RS17285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_089612272.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11923-13252 (-1))
+type: CDS
+location: [3557778:3558042](-)
+id: cds-WP_089612273.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612273.1']
+    Key: ID, Value: ['cds-WP_089612273.1']
+    Key: Name, Value: ['WP_089612273.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-CEQ75_RS17290']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005817554.1']
+    Key: locus_tag, Value: ['CEQ75_RS17290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_089612273.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 13512-13776 (-1))
+type: CDS
+location: [3558145:3559141](-)
+id: cds-WP_089612274.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612274.1']
+    Key: ID, Value: ['cds-WP_089612274.1']
+    Key: Name, Value: ['WP_089612274.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520']
+    Key: Parent, Value: ['gene-CEQ75_RS17295']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1b']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_018212760.1']
+    Key: locus_tag, Value: ['CEQ75_RS17295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-B CRISPR-associated endonuclease Cas1b']
+    Key: protein_id, Value: ['WP_089612274.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-B CRISPR-associated endonuclease Cas1b, 13879-14875 (-1))
+type: CDS
+location: [3559228:3559738](-)
+id: cds-WP_089612275.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612275.1']
+    Key: ID, Value: ['cds-WP_089612275.1']
+    Key: Name, Value: ['WP_089612275.1']
+    Key: Ontology_term, Value: ['GO:0043571']
+    Key: Parent, Value: ['gene-CEQ75_RS17300']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas4']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011460582.1']
+    Key: locus_tag, Value: ['CEQ75_RS17300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cas4']
+    Key: protein_id, Value: ['WP_089612275.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cas4, 14962-15472 (-1))
+type: CDS
+location: [3559763:3562181](-)
+id: cds-WP_089612276.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612276.1']
+    Key: ID, Value: ['cds-WP_089612276.1']
+    Key: Name, Value: ['WP_089612276.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17305']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015944883.1']
+    Key: locus_tag, Value: ['CEQ75_RS17305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated helicase/endonuclease Cas3']
+    Key: protein_id, Value: ['WP_089612276.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated helicase/endonuclease Cas3, 15497-17915 (-1))
+type: CDS
+location: [3562497:3563010](+)
+id: cds-WP_089612278.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089612278.1']
+    Key: ID, Value: ['cds-WP_089612278.1']
+    Key: Name, Value: ['WP_089612278.1']
+    Key: Parent, Value: ['gene-CEQ75_RS17315']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019191.4']
+    Key: locus_tag, Value: ['CEQ75_RS17315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Ltp family lipoprotein']
+    Key: protein_id, Value: ['WP_089612278.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Ltp family lipoprotein, 18231-18744 (1))
+type: CDS
+location: [3563159:3563390](+)
+id: cds-CEQ75_RS17320
+qualifiers:
+    Key: ID, Value: ['cds-CEQ75_RS17320']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-CEQ75_RS17320']
+    Key: end_range, Value: ['3563390', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015550.4']
+    Key: locus_tag, Value: ['CEQ75_RS17320']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['terminase small subunit']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(terminase small subunit, 18893-19124 (1))
+graphic feature from known effectors: GF(can1-2, 11924-13252 (-1))
+[GF(imidazoleglycerol-phosphate dehydratase HisB, 18-603 (-1)), GF(histidinol dehydrogenase, 608-1832 (-1)), GF(ATP phosphoribosyltransferase, 1869-2571 (-1)), GF(ATP phosphoribosyltransferase regulatory subunit, 2620-3757 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6168 (-1)), GF(CRISPR-associated protein Csx19, 6170-6752 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6748-8158 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8154-9681 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9684-10341 (-1)), GF(None, 10331-11921 (-1)), GF(None, 11923-13252 (-1)), GF(CRISPR-associated endonuclease Cas2, 13512-13776 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 13879-14875 (-1)), GF(CRISPR-associated protein Cas4, 14962-15472 (-1)), GF(CRISPR-associated helicase/endonuclease Cas3, 15497-17915 (-1)), GF(Ltp family lipoprotein, 18231-18744 (1)), GF(terminase small subunit, 18893-19124 (1)), GF(can1-2, 11924-13252 (-1)), GF(CRISPR-Cas locus, 4000-17915 (0))]

@@ -1,0 +1,258 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP106992.1  ...  GCF_028226775.1_1  GCF_028226775.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP106992.1
+type: CDS
+location: [1103614:1104037](+)
+id: cds-WP_272048337.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048337.1']
+    Key: ID, Value: ['cds-WP_272048337.1']
+    Key: Name, Value: ['WP_272048337.1']
+    Key: Parent, Value: ['gene-NDS46_RS05045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005547650.1']
+    Key: locus_tag, Value: ['NDS46_RS05045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['thioesterase']
+    Key: protein_id, Value: ['WP_272048337.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(thioesterase, 764-1187 (1))
+type: CDS
+location: [1104220:1105075](+)
+id: cds-WP_272048338.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048338.1']
+    Key: ID, Value: ['cds-WP_272048338.1']
+    Key: Name, Value: ['WP_272048338.1']
+    Key: Ontology_term, Value: ['GO:0006351']
+    Key: Parent, Value: ['gene-NDS46_RS05050']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['paaX']
+    Key: go_process, Value: ['DNA-templated transcription|0006351||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005547652.1']
+    Key: locus_tag, Value: ['NDS46_RS05050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phenylacetic acid degradation operon negative regulatory protein PaaX']
+    Key: protein_id, Value: ['WP_272048338.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phenylacetic acid degradation operon negative regulatory protein PaaX, 1370-2225 (1))
+type: CDS
+location: [1106849:1107785](+)
+id: cds-WP_272048339.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048339.1']
+    Key: ID, Value: ['cds-WP_272048339.1']
+    Key: Name, Value: ['WP_272048339.1']
+    Key: Parent, Value: ['gene-NDS46_RS05055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017472778.1']
+    Key: locus_tag, Value: ['NDS46_RS05055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_272048339.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4935 (1))
+type: CDS
+location: [1107781:1108747](+)
+id: cds-WP_272048340.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048340.1']
+    Key: ID, Value: ['cds-WP_272048340.1']
+    Key: Name, Value: ['WP_272048340.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NDS46_RS05060']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['NDS46_RS05060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_272048340.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 4931-5897 (1))
+type: CDS
+location: [1108743:1110507](+)
+id: cds-WP_272048341.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048341.1']
+    Key: ID, Value: ['cds-WP_272048341.1']
+    Key: Name, Value: ['WP_272048341.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NDS46_RS05065']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['NDS46_RS05065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_272048341.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5893-7657 (1))
+type: CDS
+location: [1110482:1111637](+)
+id: cds-WP_272048342.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048342.1']
+    Key: ID, Value: ['cds-WP_272048342.1']
+    Key: Name, Value: ['WP_272048342.1']
+    Key: Parent, Value: ['gene-NDS46_RS05070']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.2']
+    Key: locus_tag, Value: ['NDS46_RS05070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_272048342.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 7632-8787 (1))
+type: CDS
+location: [1111624:1112593](+)
+id: cds-WP_272048343.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048343.1']
+    Key: ID, Value: ['cds-WP_272048343.1']
+    Key: Name, Value: ['WP_272048343.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NDS46_RS05075']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006284525.1']
+    Key: locus_tag, Value: ['NDS46_RS05075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_272048343.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 8774-9743 (1))
+type: CDS
+location: [1112582:1112987](+)
+id: cds-WP_272048344.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048344.1']
+    Key: ID, Value: ['cds-WP_272048344.1']
+    Key: Name, Value: ['WP_272048344.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NDS46_RS05080']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01881.1']
+    Key: locus_tag, Value: ['NDS46_RS05080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_272048344.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 9732-10137 (1))
+type: CDS
+location: [1113108:1113843](+)
+id: cds-WP_272048345.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048345.1']
+    Key: ID, Value: ['cds-WP_272048345.1']
+    Key: Name, Value: ['WP_272048345.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NDS46_RS05085']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['NDS46_RS05085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_272048345.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 10258-10993 (1))
+type: CDS
+location: [1113974:1114955](-)
+id: cds-WP_272048346.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048346.1']
+    Key: ID, Value: ['cds-WP_272048346.1']
+    Key: Name, Value: ['WP_272048346.1']
+    Key: Parent, Value: ['gene-NDS46_RS05090']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009590168.1']
+    Key: locus_tag, Value: ['NDS46_RS05090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['electron transfer flavoprotein subunit alpha/FixB family protein']
+    Key: protein_id, Value: ['WP_272048346.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(electron transfer flavoprotein subunit alpha/FixB family protein, 11124-12105 (-1))
+type: CDS
+location: [1115044:1115803](-)
+id: cds-WP_272048347.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048347.1']
+    Key: ID, Value: ['cds-WP_272048347.1']
+    Key: Name, Value: ['WP_272048347.1']
+    Key: Parent, Value: ['gene-NDS46_RS05095']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009590186.1']
+    Key: locus_tag, Value: ['NDS46_RS05095']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['electron transfer flavoprotein subunit beta/FixA family protein']
+    Key: protein_id, Value: ['WP_272048347.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(electron transfer flavoprotein subunit beta/FixA family protein, 12194-12953 (-1))
+type: CDS
+location: [1116003:1116588](-)
+id: cds-WP_272048348.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272048348.1']
+    Key: ID, Value: ['cds-WP_272048348.1']
+    Key: Name, Value: ['WP_272048348.1']
+    Key: Parent, Value: ['gene-NDS46_RS05100']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019421544.1']
+    Key: locus_tag, Value: ['NDS46_RS05100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TetR/AcrR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_272048348.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TetR/AcrR family transcriptional regulator, 13153-13738 (-1))
+type: repeat_region
+location: [1105686:1106246](+)
+id: NZ_CP106992.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP106992.1_1']
+    Key: Note, Value: ['GTCGCATCCTACGCGGATGCGTGGATTGAAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['560']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 2836-3396 (0))
+graphic feature from known effectors: GF(nucc, 4000-4935 (1))
+[GF(thioesterase, 764-1187 (1)), GF(phenylacetic acid degradation operon negative regulatory protein PaaX, 1370-2225 (1)), GF(None, 3999-4935 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 4931-5897 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5893-7657 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7632-8787 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8774-9743 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9732-10137 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10258-10993 (1)), GF(electron transfer flavoprotein subunit alpha/FixB family protein, 11124-12105 (-1)), GF(electron transfer flavoprotein subunit beta/FixA family protein, 12194-12953 (-1)), GF(TetR/AcrR family transcriptional regulator, 13153-13738 (-1)), GF(Repeat region, 2836-3396 (0)), GF(nucc, 4000-4935 (1)), GF(CRISPR-Cas locus, 4000-10993 (0))]

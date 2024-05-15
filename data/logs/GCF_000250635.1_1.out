@@ -1,0 +1,224 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_016940.1  ...  GCF_000250635.1_1  GCF_000250635.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_016940.1
+type: CDS
+location: [197088:197547](-)
+id: cds-WP_014373200.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373200.1']
+    Key: ID, Value: ['cds-WP_014373200.1']
+    Key: Name, Value: ['WP_014373200.1']
+    Key: Parent, Value: ['gene-SGRA_RS00895']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002661092.1']
+    Key: locus_tag, Value: ['SGRA_RS00895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014373200.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 507-966 (-1))
+type: CDS
+location: [197688:200529](-)
+id: cds-WP_014373201.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373201.1']
+    Key: ID, Value: ['cds-WP_014373201.1']
+    Key: Name, Value: ['WP_014373201.1']
+    Key: Parent, Value: ['gene-SGRA_RS00900']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024573.2']
+    Key: locus_tag, Value: ['SGRA_RS00900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_014373201.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 1107-3948 (-1))
+type: CDS
+location: [200580:201795](-)
+id: cds-WP_014373202.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373202.1']
+    Key: ID, Value: ['cds-WP_014373202.1']
+    Key: Name, Value: ['WP_014373202.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS00905']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['SGRA_RS00905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_014373202.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5214 (-1))
+type: CDS
+location: [201794:202895](-)
+id: cds-WP_014373203.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373203.1']
+    Key: ID, Value: ['cds-WP_014373203.1']
+    Key: Name, Value: ['WP_014373203.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS00910']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01903.1']
+    Key: locus_tag, Value: ['SGRA_RS00910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_014373203.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 5213-6314 (-1))
+type: CDS
+location: [202944:203691](-)
+id: cds-WP_014373204.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373204.1']
+    Key: ID, Value: ['cds-WP_014373204.1']
+    Key: Name, Value: ['WP_014373204.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS00915']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['SGRA_RS00915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_014373204.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 6363-7110 (-1))
+type: CDS
+location: [203735:204206](-)
+id: cds-WP_014373205.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373205.1']
+    Key: ID, Value: ['cds-WP_014373205.1']
+    Key: Name, Value: ['WP_014373205.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS00920']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.2']
+    Key: locus_tag, Value: ['SGRA_RS00920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_014373205.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7154-7625 (-1))
+type: CDS
+location: [204219:206934](-)
+id: cds-WP_148268236.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148268236.1']
+    Key: ID, Value: ['cds-WP_148268236.1']
+    Key: Name, Value: ['WP_148268236.1']
+    Key: Parent, Value: ['gene-SGRA_RS00925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037066.2']
+    Key: locus_tag, Value: ['SGRA_RS00925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_148268236.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7638-10353 (-1))
+type: CDS
+location: [207963:208584](-)
+id: cds-WP_014373209.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373209.1']
+    Key: ID, Value: ['cds-WP_014373209.1']
+    Key: Name, Value: ['WP_014373209.1']
+    Key: Parent, Value: ['gene-SGRA_RS00935']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002660487.1']
+    Key: locus_tag, Value: ['SGRA_RS00935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CatA-like O-acetyltransferase']
+    Key: protein_id, Value: ['WP_014373209.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CatA-like O-acetyltransferase, 11382-12003 (-1))
+type: CDS
+location: [208638:209277](-)
+id: cds-WP_014373210.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373210.1']
+    Key: ID, Value: ['cds-WP_014373210.1']
+    Key: Name, Value: ['WP_014373210.1']
+    Key: Ontology_term, Value: ['GO:0005524']
+    Key: Parent, Value: ['gene-SGRA_RS00940']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002660485.1']
+    Key: locus_tag, Value: ['SGRA_RS00940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding cassette domain-containing protein']
+    Key: protein_id, Value: ['WP_014373210.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding cassette domain-containing protein, 12057-12696 (-1))
+type: CDS
+location: [209278:210652](-)
+id: cds-WP_014373211.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373211.1']
+    Key: ID, Value: ['cds-WP_014373211.1']
+    Key: Name, Value: ['WP_014373211.1']
+    Key: Ontology_term, Value: ['GO:0016491']
+    Key: Parent, Value: ['gene-SGRA_RS00945']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity|0016491||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014373211.1']
+    Key: locus_tag, Value: ['SGRA_RS00945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TlpA disulfide reductase family protein']
+    Key: protein_id, Value: ['WP_014373211.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TlpA disulfide reductase family protein, 12697-14071 (-1))
+type: CDS
+location: [210608:210812](-)
+id: cds-WP_245538609.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245538609.1']
+    Key: ID, Value: ['cds-WP_245538609.1']
+    Key: Name, Value: ['WP_245538609.1']
+    Key: Parent, Value: ['gene-SGRA_RS23975']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015693800.1']
+    Key: locus_tag, Value: ['SGRA_RS23975']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_245538609.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14027-14231 (-1))
+[GF(None, 507-966 (-1)), GF(AAA family ATPase, 1107-3948 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5214 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5213-6314 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6363-7110 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7154-7625 (-1)), GF(None, 7638-10353 (-1)), GF(CatA-like O-acetyltransferase, 11382-12003 (-1)), GF(ATP-binding cassette domain-containing protein, 12057-12696 (-1)), GF(TlpA disulfide reductase family protein, 12697-14071 (-1)), GF(None, 14027-14231 (-1)), GF(CRISPR-Cas locus, 4000-10338 (0))]

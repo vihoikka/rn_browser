@@ -1,0 +1,184 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_013385.1  ...  GCF_000024605.1_0  GCF_000024605.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_013385.1
+type: CDS
+location: [929757:930792](+)
+id: cds-WP_015738925.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738925.1']
+    Key: ID, Value: ['cds-WP_015738925.1']
+    Key: Name, Value: ['WP_015738925.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ADEG_RS04630']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['ADEG_RS04630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_015738925.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5034 (1))
+type: CDS
+location: [930788:931880](+)
+id: cds-WP_015738926.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738926.1']
+    Key: ID, Value: ['cds-WP_015738926.1']
+    Key: Name, Value: ['WP_015738926.1']
+    Key: Parent, Value: ['gene-ADEG_RS04635']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['ADEG_RS04635']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_015738926.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 5030-6122 (1))
+type: CDS
+location: [931960:934858](+)
+id: cds-WP_245527969.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245527969.1']
+    Key: ID, Value: ['cds-WP_245527969.1']
+    Key: Name, Value: ['WP_245527969.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-ADEG_RS04640']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02682.1']
+    Key: locus_tag, Value: ['ADEG_RS04640']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_245527969.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 6202-9100 (1))
+type: CDS
+location: [934871:935936](+)
+id: cds-WP_015738928.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738928.1']
+    Key: ID, Value: ['cds-WP_015738928.1']
+    Key: Name, Value: ['WP_015738928.1']
+    Key: Parent, Value: ['gene-ADEG_RS04645']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['ADEG_RS04645']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_015738928.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9113-10178 (1))
+type: CDS
+location: [935947:936313](+)
+id: cds-WP_211204603.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211204603.1']
+    Key: ID, Value: ['cds-WP_211204603.1']
+    Key: Name, Value: ['WP_211204603.1']
+    Key: Parent, Value: ['gene-ADEG_RS04650']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ADEG_RS04650']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211204603.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10189-10555 (1))
+type: CDS
+location: [936309:937185](+)
+id: cds-WP_015738930.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738930.1']
+    Key: ID, Value: ['cds-WP_015738930.1']
+    Key: Name, Value: ['WP_015738930.1']
+    Key: Parent, Value: ['gene-ADEG_RS04655']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ADEG_RS04655']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015738930.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10551-11427 (1))
+type: CDS
+location: [937332:938508](-)
+id: cds-WP_015738931.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738931.1']
+    Key: ID, Value: ['cds-WP_015738931.1']
+    Key: Name, Value: ['WP_015738931.1']
+    Key: Parent, Value: ['gene-ADEG_RS04660']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037429.2']
+    Key: locus_tag, Value: ['ADEG_RS04660']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['VLRF1 family aeRF1-type release factor']
+    Key: protein_id, Value: ['WP_015738931.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(VLRF1 family aeRF1-type release factor, 11574-12750 (-1))
+type: CDS
+location: [938636:939845](+)
+id: cds-WP_015738932.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015738932.1']
+    Key: ID, Value: ['cds-WP_015738932.1']
+    Key: Name, Value: ['WP_015738932.1']
+    Key: Ontology_term, Value: ['GO:0030151', 'GO:0046872']
+    Key: Parent, Value: ['gene-ADEG_RS04665']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molybdenum ion binding|0030151||IEA', 'metal ion binding|0046872||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015049942.1']
+    Key: locus_tag, Value: ['ADEG_RS04665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['molybdopterin molybdotransferase MoeA']
+    Key: protein_id, Value: ['WP_015738932.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(molybdopterin molybdotransferase MoeA, 12878-14087 (1))
+type: repeat_region
+location: [927176:928403](+)
+id: NC_013385.1_4
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_013385.1_4']
+    Key: Note, Value: ['GTTTGTAGCCTACCTATGAGGGATTGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1227']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1418-2645 (0))
+type: repeat_region
+location: [928542:929635](+)
+id: NC_013385.1_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_013385.1_5']
+    Key: Note, Value: ['GTTTGTAGCCTACCTATGAGGGATTGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1093']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 2784-3877 (0))
+[GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5034 (1)), GF(RAMP superfamily CRISPR-associated protein, 5030-6122 (1)), GF(CRISPR-associated protein Csx11, 6202-9100 (1)), GF(RAMP superfamily CRISPR-associated protein, 9113-10178 (1)), GF(None, 10189-10555 (1)), GF(None, 10551-11427 (1)), GF(VLRF1 family aeRF1-type release factor, 11574-12750 (-1)), GF(molybdopterin molybdotransferase MoeA, 12878-14087 (1)), GF(Repeat region, 1418-2645 (0)), GF(Repeat region, 2784-3877 (0)), GF(CRISPR-Cas locus, 4000-11427 (0))]

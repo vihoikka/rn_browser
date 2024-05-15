@@ -1,0 +1,228 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_011296.1  ...  GCF_000020985.1_1  GCF_000020985.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_011296.1
+type: CDS
+location: [621508:621907](-)
+id: cds-WP_012546098.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546098.1']
+    Key: ID, Value: ['cds-WP_012546098.1']
+    Key: Name, Value: ['WP_012546098.1']
+    Key: Ontology_term, Value: ['GO:0047617']
+    Key: Parent, Value: ['gene-THEYE_RS03130']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['acyl-CoA hydrolase activity|0047617||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00369.1']
+    Key: locus_tag, Value: ['THEYE_RS03130']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PaaI family thioesterase']
+    Key: protein_id, Value: ['WP_012546098.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PaaI family thioesterase, 1754-2153 (-1))
+type: CDS
+location: [621903:623154](-)
+id: cds-WP_028842629.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_028842629.1']
+    Key: ID, Value: ['cds-WP_028842629.1']
+    Key: Name, Value: ['WP_028842629.1']
+    Key: Ontology_term, Value: ['GO:0006353', 'GO:0003723', 'GO:0005524', 'GO:0008186']
+    Key: Parent, Value: ['gene-THEYE_RS03135']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rho']
+    Key: go_function, Value: ['RNA binding|0003723||IEA', 'ATP binding|0005524||IEA', 'ATP-dependent activity, acting on RNA|0008186||IEA']
+    Key: go_process, Value: ['DNA-templated transcription termination|0006353||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017492510.1']
+    Key: locus_tag, Value: ['THEYE_RS03135']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transcription termination factor Rho']
+    Key: protein_id, Value: ['WP_028842629.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transcription termination factor Rho, 2149-3400 (-1))
+type: CDS
+location: [623753:624863](+)
+id: cds-WP_012546577.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546577.1']
+    Key: ID, Value: ['cds-WP_012546577.1']
+    Key: Name, Value: ['WP_012546577.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THEYE_RS03140']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02584.1']
+    Key: locus_tag, Value: ['THEYE_RS03140']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Csm6']
+    Key: protein_id, Value: ['WP_012546577.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Csm6, 3999-5109 (1))
+type: CDS
+location: [624967:627553](+)
+id: cds-WP_012545463.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012545463.1']
+    Key: ID, Value: ['cds-WP_012545463.1']
+    Key: Name, Value: ['WP_012545463.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THEYE_RS03145']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['THEYE_RS03145']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_012545463.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 5213-7799 (1))
+type: CDS
+location: [627549:627981](+)
+id: cds-WP_012546668.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546668.1']
+    Key: ID, Value: ['cds-WP_012546668.1']
+    Key: Name, Value: ['WP_012546668.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THEYE_RS03150']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.2']
+    Key: locus_tag, Value: ['THEYE_RS03150']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_012546668.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7795-8227 (1))
+type: CDS
+location: [627984:628719](+)
+id: cds-WP_012545508.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012545508.1']
+    Key: ID, Value: ['cds-WP_012545508.1']
+    Key: Name, Value: ['WP_012545508.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THEYE_RS03155']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['THEYE_RS03155']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_012545508.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 8230-8965 (1))
+type: CDS
+location: [628722:629637](+)
+id: cds-WP_012546365.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546365.1']
+    Key: ID, Value: ['cds-WP_012546365.1']
+    Key: Name, Value: ['WP_012546365.1']
+    Key: Parent, Value: ['gene-THEYE_RS03160']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THEYE_RS03160']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein, Csm4 family']
+    Key: protein_id, Value: ['WP_012546365.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein, Csm4 family, 8968-9883 (1))
+type: CDS
+location: [629638:630724](+)
+id: cds-WP_012546605.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546605.1']
+    Key: ID, Value: ['cds-WP_012546605.1']
+    Key: Name, Value: ['WP_012546605.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THEYE_RS03165']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['THEYE_RS03165']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_012546605.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 9884-10970 (1))
+type: CDS
+location: [630725:631622](+)
+id: cds-WP_012545702.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012545702.1']
+    Key: ID, Value: ['cds-WP_012545702.1']
+    Key: Name, Value: ['WP_012545702.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-THEYE_RS03170']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012545643.1']
+    Key: locus_tag, Value: ['THEYE_RS03170']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_012545702.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 10971-11868 (1))
+type: CDS
+location: [634161:634512](+)
+id: cds-WP_012546826.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012546826.1']
+    Key: ID, Value: ['cds-WP_012546826.1']
+    Key: Name, Value: ['WP_012546826.1']
+    Key: Parent, Value: ['gene-THEYE_RS03175']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THEYE_RS03175']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012546826.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14407-14758 (1))
+type: repeat_region
+location: [632029:633918](+)
+id: NC_011296.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_011296.1_2']
+    Key: Note, Value: ['GTAGGAAACAAGACCTCATTTAAAAGGGATTGCGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1889']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12275-14164 (0))
+[GF(PaaI family thioesterase, 1754-2153 (-1)), GF(transcription termination factor Rho, 2149-3400 (-1)), GF(CRISPR-associated ring nuclease Csm6, 3999-5109 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5213-7799 (1)), GF(type III-A CRISPR-associated protein Csm2, 7795-8227 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8230-8965 (1)), GF(CRISPR-associated protein, Csm4 family, 8968-9883 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9884-10970 (1)), GF(CRISPR-associated endoribonuclease Cas6, 10971-11868 (1)), GF(None, 14407-14758 (1)), GF(Repeat region, 12275-14164 (0)), GF(CRISPR-Cas locus, 4000-11868 (0))]

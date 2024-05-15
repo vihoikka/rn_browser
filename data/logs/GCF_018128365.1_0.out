@@ -1,0 +1,280 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP072385.1  ...  GCF_018128365.1_0  GCF_018128365.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP072385.1
+type: CDS
+location: [1291183:1291411](+)
+id: cds-WP_095532222.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_095532222.1']
+    Key: ID, Value: ['cds-WP_095532222.1']
+    Key: Name, Value: ['WP_095532222.1']
+    Key: Parent, Value: ['gene-J5A53_RS05955']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015071955.1']
+    Key: locus_tag, Value: ['J5A53_RS05955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ribbon-helix-helix domain-containing protein']
+    Key: protein_id, Value: ['WP_095532222.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ribbon-helix-helix domain-containing protein, 2359-2587 (1))
+type: CDS
+location: [1291410:1291758](+)
+id: cds-WP_014846982.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846982.1']
+    Key: ID, Value: ['cds-WP_014846982.1']
+    Key: Name, Value: ['WP_014846982.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0003723', 'GO:0004521']
+    Key: Parent, Value: ['gene-J5A53_RS05960']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'RNA binding|0003723||IEA', 'endoribonuclease activity|0004521||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015071954.1']
+    Key: locus_tag, Value: ['J5A53_RS05960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system PemK/MazF family toxin']
+    Key: protein_id, Value: ['WP_014846982.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system PemK/MazF family toxin, 2586-2934 (1))
+type: CDS
+location: [1292360:1292589](-)
+id: cds-J5A53_RS15625
+qualifiers:
+    Key: ID, Value: ['cds-J5A53_RS15625']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-J5A53_RS15625']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076612328.1']
+    Key: locus_tag, Value: ['J5A53_RS15625']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISL3 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1292361']
+    Key: transl_table, Value: ['11']
+
+GF(ISL3 family transposase, 3536-3765 (-1))
+type: CDS
+location: [1292823:1294854](-)
+id: cds-WP_123824201.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_123824201.1']
+    Key: ID, Value: ['cds-WP_123824201.1']
+    Key: Name, Value: ['WP_123824201.1']
+    Key: Parent, Value: ['gene-J5A53_RS05965']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05965']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_123824201.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-6030 (-1))
+type: CDS
+location: [1295135:1297145](-)
+id: cds-WP_123824203.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_123824203.1']
+    Key: ID, Value: ['cds-WP_123824203.1']
+    Key: Name, Value: ['WP_123824203.1']
+    Key: Parent, Value: ['gene-J5A53_RS05970']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05970']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_123824203.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6311-8321 (-1))
+type: CDS
+location: [1297208:1297343](+)
+id: cds-WP_267900029.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_267900029.1']
+    Key: ID, Value: ['cds-WP_267900029.1']
+    Key: Name, Value: ['WP_267900029.1']
+    Key: Parent, Value: ['gene-J5A53_RS15815']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS15815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_267900029.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8384-8519 (1))
+type: CDS
+location: [1297479:1297986](-)
+id: cds-WP_014846980.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846980.1']
+    Key: ID, Value: ['cds-WP_014846980.1']
+    Key: Name, Value: ['WP_014846980.1']
+    Key: Parent, Value: ['gene-J5A53_RS05975']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05975']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014846980.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8655-9162 (-1))
+type: CDS
+location: [1297978:1299751](-)
+id: cds-WP_014846979.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846979.1']
+    Key: ID, Value: ['cds-WP_014846979.1']
+    Key: Name, Value: ['WP_014846979.1']
+    Key: Parent, Value: ['gene-J5A53_RS05980']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['J5A53_RS05980']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014846979.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9154-10927 (-1))
+type: CDS
+location: [1299747:1301736](-)
+id: cds-WP_014846978.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846978.1']
+    Key: ID, Value: ['cds-WP_014846978.1']
+    Key: Name, Value: ['WP_014846978.1']
+    Key: Parent, Value: ['gene-J5A53_RS05985']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05985']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014846978.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10923-12912 (-1))
+type: CDS
+location: [1301732:1303856](-)
+id: cds-WP_051015008.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_051015008.1']
+    Key: ID, Value: ['cds-WP_051015008.1']
+    Key: Name, Value: ['WP_051015008.1']
+    Key: Parent, Value: ['gene-J5A53_RS05990']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05990']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_051015008.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12908-15032 (-1))
+type: CDS
+location: [1304038:1306555](+)
+id: cds-WP_041696529.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041696529.1']
+    Key: ID, Value: ['cds-WP_041696529.1']
+    Key: Name, Value: ['WP_041696529.1']
+    Key: Parent, Value: ['gene-J5A53_RS05995']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS05995']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_041696529.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15214-17731 (1))
+type: CDS
+location: [1306717:1306978](+)
+id: cds-WP_014846976.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846976.1']
+    Key: ID, Value: ['cds-WP_014846976.1']
+    Key: Name, Value: ['WP_014846976.1']
+    Key: Parent, Value: ['gene-J5A53_RS06000']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5A53_RS06000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014846976.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17893-18154 (1))
+type: CDS
+location: [1307197:1308553](+)
+id: cds-WP_014846975.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014846975.1']
+    Key: ID, Value: ['cds-WP_014846975.1']
+    Key: Name, Value: ['WP_014846975.1']
+    Key: Parent, Value: ['gene-J5A53_RS06005']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF018448.2']
+    Key: locus_tag, Value: ['J5A53_RS06005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['threonine/serine exporter family protein']
+    Key: protein_id, Value: ['WP_014846975.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(threonine/serine exporter family protein, 18373-19729 (1))
+type: CDS
+location: [1308847:1309642](-)
+id: cds-WP_157682474.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_157682474.1']
+    Key: ID, Value: ['cds-WP_157682474.1']
+    Key: Name, Value: ['WP_157682474.1']
+    Key: Parent, Value: ['gene-J5A53_RS06010']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013382.2']
+    Key: locus_tag, Value: ['J5A53_RS06010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['class I SAM-dependent methyltransferase']
+    Key: protein_id, Value: ['WP_157682474.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(class I SAM-dependent methyltransferase, 20023-20818 (-1))
+type: CDS
+location: [1309661:1309907](+)
+id: cds-WP_123824208.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_123824208.1']
+    Key: ID, Value: ['cds-WP_123824208.1']
+    Key: Name, Value: ['WP_123824208.1']
+    Key: Parent, Value: ['gene-J5A53_RS15630']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024230.2']
+    Key: locus_tag, Value: ['J5A53_RS15630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['threonine/serine exporter family protein']
+    Key: protein_id, Value: ['WP_123824208.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(threonine/serine exporter family protein, 20837-21083 (1))
+graphic feature from validated effectors: GF(can3, 15215-17731 (1))
+[GF(ribbon-helix-helix domain-containing protein, 2359-2587 (1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 2586-2934 (1)), GF(ISL3 family transposase, 3536-3765 (-1)), GF(None, 3999-6030 (-1)), GF(None, 6311-8321 (-1)), GF(None, 8384-8519 (1)), GF(None, 8655-9162 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9154-10927 (-1)), GF(None, 10923-12912 (-1)), GF(None, 12908-15032 (-1)), GF(None, 15214-17731 (1)), GF(None, 17893-18154 (1)), GF(threonine/serine exporter family protein, 18373-19729 (1)), GF(class I SAM-dependent methyltransferase, 20023-20818 (-1)), GF(threonine/serine exporter family protein, 20837-21083 (1)), GF(can3, 15215-17731 (1)), GF(CRISPR-Cas locus, 4000-18154 (0))]

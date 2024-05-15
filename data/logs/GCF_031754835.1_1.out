@@ -1,0 +1,272 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP134413.1  ...  GCF_031754835.1_1  GCF_031754835.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP134413.1
+type: CDS
+location: [4788663:4790097](+)
+id: cds-WP_016515609.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_016515609.1']
+    Key: ID, Value: ['cds-WP_016515609.1']
+    Key: Name, Value: ['WP_016515609.1']
+    Key: Parent, Value: ['gene-RKE53_RS22370']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004161327.1']
+    Key: locus_tag, Value: ['RKE53_RS22370']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphoglucomutase/phosphomannomutase family protein']
+    Key: protein_id, Value: ['WP_016515609.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphoglucomutase/phosphomannomutase family protein, 343-1777 (1))
+type: CDS
+location: [4790137:4791157](-)
+id: cds-WP_287745630.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_287745630.1']
+    Key: ID, Value: ['cds-WP_287745630.1']
+    Key: Name, Value: ['WP_287745630.1']
+    Key: Ontology_term, Value: ['GO:0008171']
+    Key: Parent, Value: ['gene-RKE53_RS22375']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['O-methyltransferase activity|0008171||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002791056.1']
+    Key: locus_tag, Value: ['RKE53_RS22375']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['methyltransferase']
+    Key: protein_id, Value: ['WP_287745630.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(methyltransferase, 1817-2837 (-1))
+type: CDS
+location: [4792319:4795358](+)
+id: cds-WP_311131123.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_311131123.1']
+    Key: ID, Value: ['cds-WP_311131123.1']
+    Key: Name, Value: ['WP_311131123.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-RKE53_RS22380']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002773403.1']
+    Key: locus_tag, Value: ['RKE53_RS22380']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_311131123.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7038 (1))
+type: CDS
+location: [4795330:4796458](+)
+id: cds-WP_311131124.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_311131124.1']
+    Key: ID, Value: ['cds-WP_311131124.1']
+    Key: Name, Value: ['WP_311131124.1']
+    Key: Parent, Value: ['gene-RKE53_RS22385']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009546843.1']
+    Key: locus_tag, Value: ['RKE53_RS22385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_311131124.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 7010-8138 (1))
+type: CDS
+location: [4796900:4797680](+)
+id: cds-WP_287658070.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_287658070.1']
+    Key: ID, Value: ['cds-WP_287658070.1']
+    Key: Name, Value: ['WP_287658070.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-RKE53_RS22390']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008200464.1']
+    Key: locus_tag, Value: ['RKE53_RS22390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_287658070.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 8580-9360 (1))
+type: CDS
+location: [4797689:4798253](+)
+id: cds-WP_311131125.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_311131125.1']
+    Key: ID, Value: ['cds-WP_311131125.1']
+    Key: Name, Value: ['WP_311131125.1']
+    Key: Ontology_term, Value: ['GO:0003676', 'GO:0004519']
+    Key: Parent, Value: ['gene-RKE53_RS22395']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'endonuclease activity|0004519||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002736502.1']
+    Key: locus_tag, Value: ['RKE53_RS22395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Uma2 family endonuclease']
+    Key: protein_id, Value: ['WP_311131125.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Uma2 family endonuclease, 9369-9933 (1))
+type: CDS
+location: [4798273:4798663](+)
+id: cds-WP_287743567.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_287743567.1']
+    Key: ID, Value: ['cds-WP_287743567.1']
+    Key: Name, Value: ['WP_287743567.1']
+    Key: Parent, Value: ['gene-RKE53_RS22400']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002735800.1']
+    Key: locus_tag, Value: ['RKE53_RS22400']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_287743567.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9953-10343 (1))
+type: CDS
+location: [4798726:4800670](+)
+id: cds-WP_311131126.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_311131126.1']
+    Key: ID, Value: ['cds-WP_311131126.1']
+    Key: Name, Value: ['WP_311131126.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-RKE53_RS22405']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002736699.1']
+    Key: locus_tag, Value: ['RKE53_RS22405']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_311131126.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 10406-12350 (1))
+type: CDS
+location: [4800942:4801215](-)
+id: cds-WP_104395665.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_104395665.1']
+    Key: ID, Value: ['cds-WP_104395665.1']
+    Key: Name, Value: ['WP_104395665.1']
+    Key: Ontology_term, Value: ['GO:0005886']
+    Key: Parent, Value: ['gene-RKE53_RS22410']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['plasma membrane|0005886||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002791043.1']
+    Key: locus_tag, Value: ['RKE53_RS22410']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['lipopolysaccharide assembly protein LapA domain-containing protein']
+    Key: protein_id, Value: ['WP_104395665.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(lipopolysaccharide assembly protein LapA domain-containing protein, 12622-12895 (-1))
+type: CDS
+location: [4801545:4801998](-)
+id: cds-WP_104395960.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_104395960.1']
+    Key: ID, Value: ['cds-WP_104395960.1']
+    Key: Name, Value: ['WP_104395960.1']
+    Key: Parent, Value: ['gene-RKE53_RS22415']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008197050.1']
+    Key: locus_tag, Value: ['RKE53_RS22415']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_104395960.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13225-13678 (-1))
+type: CDS
+location: [4802230:4803082](+)
+id: cds-WP_104395664.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_104395664.1']
+    Key: ID, Value: ['cds-WP_104395664.1']
+    Key: Name, Value: ['WP_104395664.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-RKE53_RS22420']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002741917.1']
+    Key: locus_tag, Value: ['RKE53_RS22420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['alpha/beta hydrolase']
+    Key: protein_id, Value: ['WP_104395664.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(alpha/beta hydrolase, 13910-14762 (1))
+type: CDS
+location: [4803419:4803728](+)
+id: cds-WP_002735547.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_002735547.1']
+    Key: ID, Value: ['cds-WP_002735547.1']
+    Key: Name, Value: ['WP_002735547.1']
+    Key: Parent, Value: ['gene-RKE53_RS22425']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002757875.1']
+    Key: locus_tag, Value: ['RKE53_RS22425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6679 family protein']
+    Key: protein_id, Value: ['WP_002735547.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6679 family protein, 15099-15408 (1))
+type: CDS
+location: [4803887:4804349](+)
+id: cds-WP_002735338.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_002735338.1']
+    Key: ID, Value: ['cds-WP_002735338.1']
+    Key: Name, Value: ['WP_002735338.1']
+    Key: Parent, Value: ['gene-RKE53_RS22430']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002741915.1']
+    Key: locus_tag, Value: ['RKE53_RS22430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cupredoxin domain-containing protein']
+    Key: protein_id, Value: ['WP_002735338.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cupredoxin domain-containing protein, 15567-16029 (1))
+type: repeat_region
+location: [4791710:4791952](+)
+id: NZ_CP134413.1_7
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP134413.1_7']
+    Key: Note, Value: ['TGTTTCCATTCAATTAATTTCTAAGCAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['242']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3390-3632 (0))
+[GF(phosphoglucomutase/phosphomannomutase family protein, 343-1777 (1)), GF(methyltransferase, 1817-2837 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7038 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7010-8138 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8580-9360 (1)), GF(Uma2 family endonuclease, 9369-9933 (1)), GF(None, 9953-10343 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10406-12350 (1)), GF(lipopolysaccharide assembly protein LapA domain-containing protein, 12622-12895 (-1)), GF(None, 13225-13678 (-1)), GF(alpha/beta hydrolase, 13910-14762 (1)), GF(DUF6679 family protein, 15099-15408 (1)), GF(cupredoxin domain-containing protein, 15567-16029 (1)), GF(Repeat region, 3390-3632 (0)), GF(CRISPR-Cas locus, 4000-12350 (0))]

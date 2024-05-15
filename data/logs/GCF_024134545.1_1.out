@@ -1,0 +1,339 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP099837.1  ...  GCF_024134545.1_1  GCF_024134545.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP099837.1
+type: CDS
+location: [5132866:5133334](-)
+id: cds-WP_254417585.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417585.1']
+    Key: ID, Value: ['cds-WP_254417585.1']
+    Key: Name, Value: ['WP_254417585.1']
+    Key: Parent, Value: ['gene-NE857_RS22710']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NE857_RS22710']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417585.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 981-1449 (-1))
+type: CDS
+location: [5133536:5135762](-)
+id: cds-WP_254417586.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417586.1']
+    Key: ID, Value: ['cds-WP_254417586.1']
+    Key: Name, Value: ['WP_254417586.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0004519']
+    Key: Parent, Value: ['gene-NE857_RS22715']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'endonuclease activity|0004519||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582606.1']
+    Key: locus_tag, Value: ['NE857_RS22715']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['nuclease-related domain-containing protein']
+    Key: protein_id, Value: ['WP_254417586.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(nuclease-related domain-containing protein, 1651-3877 (-1))
+type: CDS
+location: [5135884:5136259](-)
+id: cds-WP_254417587.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417587.1']
+    Key: ID, Value: ['cds-WP_254417587.1']
+    Key: Name, Value: ['WP_254417587.1']
+    Key: Parent, Value: ['gene-NE857_RS22720']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582607.1']
+    Key: locus_tag, Value: ['NE857_RS22720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417587.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4374 (-1))
+type: CDS
+location: [5136634:5137927](+)
+id: cds-WP_254417588.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417588.1']
+    Key: ID, Value: ['cds-WP_254417588.1']
+    Key: Name, Value: ['WP_254417588.1']
+    Key: Parent, Value: ['gene-NE857_RS22725']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582608.1']
+    Key: locus_tag, Value: ['NE857_RS22725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417588.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4749-6042 (1))
+type: CDS
+location: [5138030:5138930](-)
+id: cds-WP_254417589.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417589.1']
+    Key: ID, Value: ['cds-WP_254417589.1']
+    Key: Name, Value: ['WP_254417589.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-NE857_RS22730']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017537535.1']
+    Key: locus_tag, Value: ['NE857_RS22730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix transcriptional regulator']
+    Key: protein_id, Value: ['WP_254417589.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix transcriptional regulator, 6145-7045 (-1))
+type: CDS
+location: [5139034:5140564](+)
+id: cds-WP_254417590.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417590.1']
+    Key: ID, Value: ['cds-WP_254417590.1']
+    Key: Name, Value: ['WP_254417590.1']
+    Key: Ontology_term, Value: ['GO:0055085', 'GO:0022857']
+    Key: Parent, Value: ['gene-NE857_RS22735']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transmembrane transporter activity|0022857||IEA']
+    Key: go_process, Value: ['transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582610.1']
+    Key: locus_tag, Value: ['NE857_RS22735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MFS transporter']
+    Key: protein_id, Value: ['WP_254417590.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MFS transporter, 7149-8679 (1))
+type: CDS
+location: [5140493:5142716](-)
+id: cds-WP_254422063.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254422063.1']
+    Key: ID, Value: ['cds-WP_254422063.1']
+    Key: Name, Value: ['WP_254422063.1']
+    Key: Parent, Value: ['gene-NE857_RS22740']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582611.1']
+    Key: locus_tag, Value: ['NE857_RS22740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_254422063.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 8608-10831 (-1))
+type: CDS
+location: [5142936:5144052](-)
+id: cds-WP_254417591.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417591.1']
+    Key: ID, Value: ['cds-WP_254417591.1']
+    Key: Name, Value: ['WP_254417591.1']
+    Key: Parent, Value: ['gene-NE857_RS22745']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011291150.1']
+    Key: locus_tag, Value: ['NE857_RS22745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_254417591.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 11051-12167 (-1))
+type: CDS
+location: [5144154:5144955](-)
+id: cds-WP_254417592.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417592.1']
+    Key: ID, Value: ['cds-WP_254417592.1']
+    Key: Name, Value: ['WP_254417592.1']
+    Key: Parent, Value: ['gene-NE857_RS22750']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582612.1']
+    Key: locus_tag, Value: ['NE857_RS22750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417592.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12269-13070 (-1))
+type: CDS
+location: [5144951:5146763](-)
+id: cds-WP_254417593.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417593.1']
+    Key: ID, Value: ['cds-WP_254417593.1']
+    Key: Name, Value: ['WP_254417593.1']
+    Key: Parent, Value: ['gene-NE857_RS22755']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582613.1']
+    Key: locus_tag, Value: ['NE857_RS22755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_254417593.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13066-14878 (-1))
+type: CDS
+location: [5146756:5148766](-)
+id: cds-WP_254417594.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417594.1']
+    Key: ID, Value: ['cds-WP_254417594.1']
+    Key: Name, Value: ['WP_254417594.1']
+    Key: Parent, Value: ['gene-NE857_RS22760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582614.1']
+    Key: locus_tag, Value: ['NE857_RS22760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417594.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14871-16881 (-1))
+type: CDS
+location: [5148762:5149440](-)
+id: cds-WP_254417595.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417595.1']
+    Key: ID, Value: ['cds-WP_254417595.1']
+    Key: Name, Value: ['WP_254417595.1']
+    Key: Parent, Value: ['gene-NE857_RS22765']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582615.1']
+    Key: locus_tag, Value: ['NE857_RS22765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417595.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16877-17555 (-1))
+type: CDS
+location: [5149436:5151164](-)
+id: cds-WP_254422064.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254422064.1']
+    Key: ID, Value: ['cds-WP_254422064.1']
+    Key: Name, Value: ['WP_254422064.1']
+    Key: Parent, Value: ['gene-NE857_RS22770']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017606292.1']
+    Key: locus_tag, Value: ['NE857_RS22770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254422064.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17551-19279 (-1))
+type: CDS
+location: [5151515:5151704](+)
+id: cds-WP_254417596.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417596.1']
+    Key: ID, Value: ['cds-WP_254417596.1']
+    Key: Name, Value: ['WP_254417596.1']
+    Key: Parent, Value: ['gene-NE857_RS22775']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582618.1']
+    Key: locus_tag, Value: ['NE857_RS22775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417596.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19630-19819 (1))
+type: CDS
+location: [5152039:5152987](-)
+id: cds-WP_254417597.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417597.1']
+    Key: ID, Value: ['cds-WP_254417597.1']
+    Key: Name, Value: ['WP_254417597.1']
+    Key: Parent, Value: ['gene-NE857_RS22780']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014910973.1']
+    Key: locus_tag, Value: ['NE857_RS22780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_254417597.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20154-21102 (-1))
+type: CDS
+location: [5153166:5153709](-)
+id: cds-WP_254422065.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254422065.1']
+    Key: ID, Value: ['cds-WP_254422065.1']
+    Key: Name, Value: ['WP_254422065.1']
+    Key: Parent, Value: ['gene-NE857_RS22785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017589759.1']
+    Key: locus_tag, Value: ['NE857_RS22785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1697 domain-containing protein']
+    Key: protein_id, Value: ['WP_254422065.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1697 domain-containing protein, 21281-21824 (-1))
+type: CDS
+location: [5153829:5154888](+)
+id: cds-WP_254417598.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417598.1']
+    Key: ID, Value: ['cds-WP_254417598.1']
+    Key: Name, Value: ['WP_254417598.1']
+    Key: Parent, Value: ['gene-NE857_RS22790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582621.1']
+    Key: locus_tag, Value: ['NE857_RS22790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_254417598.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21944-23003 (1))
+type: CDS
+location: [5154909:5156682](-)
+id: cds-WP_254417599.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_254417599.1']
+    Key: ID, Value: ['cds-WP_254417599.1']
+    Key: Name, Value: ['WP_254417599.1']
+    Key: Parent, Value: ['gene-NE857_RS22795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017582622.1']
+    Key: locus_tag, Value: ['NE857_RS22795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cation acetate symporter']
+    Key: protein_id, Value: ['WP_254417599.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cation acetate symporter, 23024-24797 (-1))
+graphic feature from known effectors: GF(can1-2, 1652-3877 (-1))
+[GF(None, 981-1449 (-1)), GF(nuclease-related domain-containing protein, 1651-3877 (-1)), GF(None, 3999-4374 (-1)), GF(None, 4749-6042 (1)), GF(helix-turn-helix transcriptional regulator, 6145-7045 (-1)), GF(MFS transporter, 7149-8679 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 8608-10831 (-1)), GF(transposase, 11051-12167 (-1)), GF(None, 12269-13070 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13066-14878 (-1)), GF(None, 14871-16881 (-1)), GF(None, 16877-17555 (-1)), GF(None, 17551-19279 (-1)), GF(None, 19630-19819 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20154-21102 (-1)), GF(DUF1697 domain-containing protein, 21281-21824 (-1)), GF(None, 21944-23003 (1)), GF(cation acetate symporter, 23024-24797 (-1)), GF(can1-2, 1652-3877 (-1)), GF(CRISPR-Cas locus, 4000-21102 (0))]

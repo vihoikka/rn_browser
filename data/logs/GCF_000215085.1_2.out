@@ -1,0 +1,247 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_015589.1  ...  GCF_000215085.1_2  GCF_000215085.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_015589.1
+type: CDS
+location: [1201676:1203500](+)
+id: cds-WP_013841216.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841216.1']
+    Key: ID, Value: ['cds-WP_013841216.1']
+    Key: Name, Value: ['WP_013841216.1']
+    Key: Ontology_term, Value: ['GO:0006269', 'GO:0003896']
+    Key: Parent, Value: ['gene-DESRU_RS05955']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['dnaG']
+    Key: go_function, Value: ['DNA primase activity|0003896||IEA']
+    Key: go_process, Value: ['DNA replication, synthesis of RNA primer|0006269||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003544304.1']
+    Key: locus_tag, Value: ['DESRU_RS05955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DNA primase']
+    Key: protein_id, Value: ['WP_013841216.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DNA primase, 253-2077 (1))
+type: CDS
+location: [1203496:1204597](+)
+id: cds-WP_013841217.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841217.1']
+    Key: ID, Value: ['cds-WP_013841217.1']
+    Key: Name, Value: ['WP_013841217.1']
+    Key: Ontology_term, Value: ['GO:0006355', 'GO:0003677', 'GO:0016987']
+    Key: Parent, Value: ['gene-DESRU_RS05960']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rpoD']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'sigma factor activity|0016987||IEA']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003544309.1']
+    Key: locus_tag, Value: ['DESRU_RS05960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RNA polymerase sigma factor RpoD']
+    Key: protein_id, Value: ['WP_013841217.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RNA polymerase sigma factor RpoD, 2073-3174 (1))
+type: CDS
+location: [1205362:1206442](+)
+id: cds-WP_013841218.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841218.1']
+    Key: ID, Value: ['cds-WP_013841218.1']
+    Key: Name, Value: ['WP_013841218.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DESRU_RS05985']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012031878.1']
+    Key: locus_tag, Value: ['DESRU_RS05985']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_013841218.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 3939-5019 (1))
+type: CDS
+location: [1206443:1207802](+)
+id: cds-WP_013841219.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841219.1']
+    Key: ID, Value: ['cds-WP_013841219.1']
+    Key: Name, Value: ['WP_013841219.1']
+    Key: Parent, Value: ['gene-DESRU_RS05990']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DESRU_RS05990']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013841219.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5020-6379 (1))
+type: CDS
+location: [1207798:1210642](+)
+id: cds-WP_013841220.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841220.1']
+    Key: ID, Value: ['cds-WP_013841220.1']
+    Key: Name, Value: ['WP_013841220.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-DESRU_RS05995']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02682.1']
+    Key: locus_tag, Value: ['DESRU_RS05995']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_013841220.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 6375-9219 (1))
+type: CDS
+location: [1210656:1211691](+)
+id: cds-WP_013841221.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841221.1']
+    Key: ID, Value: ['cds-WP_013841221.1']
+    Key: Name, Value: ['WP_013841221.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DESRU_RS06000']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012031883.1']
+    Key: locus_tag, Value: ['DESRU_RS06000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_013841221.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 9233-10268 (1))
+type: CDS
+location: [1211635:1212067](+)
+id: cds-WP_238446373.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_238446373.1']
+    Key: ID, Value: ['cds-WP_238446373.1']
+    Key: Name, Value: ['WP_238446373.1']
+    Key: Parent, Value: ['gene-DESRU_RS06005']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012031884.1']
+    Key: locus_tag, Value: ['DESRU_RS06005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_238446373.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10212-10644 (1))
+type: CDS
+location: [1212072:1212942](+)
+id: cds-WP_013841223.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841223.1']
+    Key: ID, Value: ['cds-WP_013841223.1']
+    Key: Name, Value: ['WP_013841223.1']
+    Key: Parent, Value: ['gene-DESRU_RS06010']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012031885.1']
+    Key: locus_tag, Value: ['DESRU_RS06010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013841223.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10649-11519 (1))
+type: CDS
+location: [1213089:1213365](+)
+id: cds-WP_013841224.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841224.1']
+    Key: ID, Value: ['cds-WP_013841224.1']
+    Key: Name, Value: ['WP_013841224.1']
+    Key: Parent, Value: ['gene-DESRU_RS06015']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011928476.1']
+    Key: locus_tag, Value: ['DESRU_RS06015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AbrB/MazE/SpoVT family DNA-binding domain-containing protein']
+    Key: protein_id, Value: ['WP_013841224.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 11666-11942 (1))
+type: CDS
+location: [1213364:1213628](+)
+id: cds-WP_081462059.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_081462059.1']
+    Key: ID, Value: ['cds-WP_081462059.1']
+    Key: Name, Value: ['WP_081462059.1']
+    Key: Parent, Value: ['gene-DESRU_RS06020']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013175471.1']
+    Key: locus_tag, Value: ['DESRU_RS06020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_081462059.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11941-12205 (1))
+type: CDS
+location: [1213974:1215864](+)
+id: cds-WP_013841226.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013841226.1']
+    Key: ID, Value: ['cds-WP_013841226.1']
+    Key: Name, Value: ['WP_013841226.1']
+    Key: Ontology_term, Value: ['GO:0007165', 'GO:0016020']
+    Key: Parent, Value: ['gene-DESRU_RS06030']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['signal transduction|0007165||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013810412.1']
+    Key: locus_tag, Value: ['DESRU_RS06030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['methyl-accepting chemotaxis protein']
+    Key: protein_id, Value: ['WP_013841226.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(methyl-accepting chemotaxis protein, 12551-14441 (1))
+type: CDS
+location: [1216028:1216721](+)
+id: cds-WP_041275625.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041275625.1']
+    Key: ID, Value: ['cds-WP_041275625.1']
+    Key: Name, Value: ['WP_041275625.1']
+    Key: Ontology_term, Value: ['GO:0008168', 'GO:1904047']
+    Key: Parent, Value: ['gene-DESRU_RS06035']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['methyltransferase activity|0008168||IEA', 'S-adenosyl-L-methionine binding|1904047||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003544311.1']
+    Key: locus_tag, Value: ['DESRU_RS06035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['class I SAM-dependent methyltransferase']
+    Key: protein_id, Value: ['WP_041275625.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(class I SAM-dependent methyltransferase, 14605-15298 (1))
+[GF(DNA primase, 253-2077 (1)), GF(RNA polymerase sigma factor RpoD, 2073-3174 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3939-5019 (1)), GF(None, 5020-6379 (1)), GF(CRISPR-associated protein Csx11, 6375-9219 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9233-10268 (1)), GF(None, 10212-10644 (1)), GF(RAMP superfamily CRISPR-associated protein, 10649-11519 (1)), GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 11666-11942 (1)), GF(None, 11941-12205 (1)), GF(methyl-accepting chemotaxis protein, 12551-14441 (1)), GF(class I SAM-dependent methyltransferase, 14605-15298 (1)), GF(CRISPR-Cas locus, 4000-11519 (0))]

@@ -1,0 +1,381 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_018012.1  ...  GCF_000227745.2_2  GCF_000227745.2
+
+[1 rows x 19 columns]
+The chosen contig: NC_018012.1
+type: CDS
+location: [4879750:4880935](-)
+id: cds-WP_014776993.1-18
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014776993.1']
+    Key: ID, Value: ['cds-WP_014776993.1-18']
+    Key: Name, Value: ['WP_014776993.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-THIVI_RS21800']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014778458.1']
+    Key: locus_tag, Value: ['THIVI_RS21800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISAs1 family transposase']
+    Key: protein_id, Value: ['WP_014776993.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISAs1 family transposase, 297-1482 (-1))
+type: CDS
+location: [4882233:4883418](-)
+id: cds-WP_014776993.1-19
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014776993.1']
+    Key: ID, Value: ['cds-WP_014776993.1-19']
+    Key: Name, Value: ['WP_014776993.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-THIVI_RS21805']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014778458.1']
+    Key: locus_tag, Value: ['THIVI_RS21805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISAs1 family transposase']
+    Key: protein_id, Value: ['WP_014776993.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISAs1 family transposase, 2780-3965 (-1))
+type: CDS
+location: [4883452:4884019](-)
+id: cds-WP_014780680.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780680.1']
+    Key: ID, Value: ['cds-WP_014780680.1']
+    Key: Name, Value: ['WP_014780680.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004518']
+    Key: Parent, Value: ['gene-THIVI_RS21810']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas4']
+    Key: go_function, Value: ['nuclease activity|0004518||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007039818.1']
+    Key: locus_tag, Value: ['THIVI_RS21810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cas4']
+    Key: protein_id, Value: ['WP_014780680.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cas4, 3999-4566 (-1))
+type: CDS
+location: [4884015:4884321](-)
+id: cds-WP_014780681.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780681.1']
+    Key: ID, Value: ['cds-WP_014780681.1']
+    Key: Name, Value: ['WP_014780681.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-THIVI_RS21815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014780681.1']
+    Key: locus_tag, Value: ['THIVI_RS21815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_014780681.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 4562-4868 (-1))
+type: CDS
+location: [4884342:4885371](-)
+id: cds-WP_014780682.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780682.1']
+    Key: ID, Value: ['cds-WP_014780682.1']
+    Key: Name, Value: ['WP_014780682.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-THIVI_RS21820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007039820.1']
+    Key: locus_tag, Value: ['THIVI_RS21820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_014780682.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4889-5918 (-1))
+type: CDS
+location: [4885700:4886270](-)
+id: cds-WP_014780683.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780683.1']
+    Key: ID, Value: ['cds-WP_014780683.1']
+    Key: Name, Value: ['WP_014780683.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0004519']
+    Key: Parent, Value: ['gene-THIVI_RS21825']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'endonuclease activity|0004519||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009150911.1']
+    Key: locus_tag, Value: ['THIVI_RS21825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['Uma2 family endonuclease']
+    Key: protein_id, Value: ['WP_014780683.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(Uma2 family endonuclease, 6247-6817 (-1))
+type: CDS
+location: [4886296:4887037](-)
+id: cds-WP_014780684.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780684.1']
+    Key: ID, Value: ['cds-WP_014780684.1']
+    Key: Name, Value: ['WP_014780684.1']
+    Key: Parent, Value: ['gene-THIVI_RS21830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006788403.1']
+    Key: locus_tag, Value: ['THIVI_RS21830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas6']
+    Key: protein_id, Value: ['WP_014780684.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas6, 6843-7584 (-1))
+type: CDS
+location: [4887024:4887378](-)
+id: cds-WP_014780685.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780685.1']
+    Key: ID, Value: ['cds-WP_014780685.1']
+    Key: Name, Value: ['WP_014780685.1']
+    Key: Parent, Value: ['gene-THIVI_RS21835']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THIVI_RS21835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014780685.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7571-7925 (-1))
+type: CDS
+location: [4887499:4888609](+)
+id: cds-WP_041447215.1-64
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041447215.1']
+    Key: ID, Value: ['cds-WP_041447215.1-64']
+    Key: Name, Value: ['WP_041447215.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-THIVI_RS21840']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014776811.1']
+    Key: locus_tag, Value: ['THIVI_RS21840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS5 family transposase']
+    Key: protein_id, Value: ['WP_041447215.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS5 family transposase, 8046-9156 (1))
+type: CDS
+location: [4888521:4889118](-)
+id: cds-WP_014780686.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780686.1']
+    Key: ID, Value: ['cds-WP_014780686.1']
+    Key: Name, Value: ['WP_014780686.1']
+    Key: Parent, Value: ['gene-THIVI_RS21845']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.2']
+    Key: locus_tag, Value: ['THIVI_RS21845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_014780686.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 9068-9665 (-1))
+type: CDS
+location: [4889114:4891064](-)
+id: cds-WP_014780687.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780687.1']
+    Key: ID, Value: ['cds-WP_014780687.1']
+    Key: Name, Value: ['WP_014780687.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIVI_RS21850']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007039834.1']
+    Key: locus_tag, Value: ['THIVI_RS21850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_014780687.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9661-11611 (-1))
+type: CDS
+location: [4891060:4892050](-)
+id: cds-WP_014780688.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780688.1']
+    Key: ID, Value: ['cds-WP_014780688.1']
+    Key: Name, Value: ['WP_014780688.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIVI_RS21855']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['THIVI_RS21855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_014780688.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 11607-12597 (-1))
+type: CDS
+location: [4892105:4893338](-)
+id: cds-WP_014780689.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780689.1']
+    Key: ID, Value: ['cds-WP_014780689.1']
+    Key: Name, Value: ['WP_014780689.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIVI_RS21860']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007039836.1']
+    Key: locus_tag, Value: ['THIVI_RS21860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014780689.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 12652-13885 (-1))
+type: CDS
+location: [4893415:4893949](-)
+id: cds-WP_157174543.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_157174543.1']
+    Key: ID, Value: ['cds-WP_157174543.1']
+    Key: Name, Value: ['WP_157174543.1']
+    Key: Parent, Value: ['gene-THIVI_RS21865']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THIVI_RS21865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_157174543.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13962-14496 (-1))
+type: CDS
+location: [4894057:4895167](-)
+id: cds-WP_041447215.1-65
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041447215.1']
+    Key: ID, Value: ['cds-WP_041447215.1-65']
+    Key: Name, Value: ['WP_041447215.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-THIVI_RS21870']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014776811.1']
+    Key: locus_tag, Value: ['THIVI_RS21870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS5 family transposase']
+    Key: protein_id, Value: ['WP_041447215.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS5 family transposase, 14604-15714 (-1))
+type: CDS
+location: [4895215:4895800](-)
+id: cds-WP_083845803.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_083845803.1']
+    Key: ID, Value: ['cds-WP_083845803.1']
+    Key: Name, Value: ['WP_083845803.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIVI_RS21875']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02584.1']
+    Key: locus_tag, Value: ['THIVI_RS21875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Csm6']
+    Key: protein_id, Value: ['WP_083845803.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Csm6, 15762-16347 (-1))
+type: CDS
+location: [4896266:4897790](+)
+id: cds-WP_041447857.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041447857.1']
+    Key: ID, Value: ['cds-WP_041447857.1']
+    Key: Name, Value: ['WP_041447857.1']
+    Key: Parent, Value: ['gene-THIVI_RS21880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007194188.1']
+    Key: locus_tag, Value: ['THIVI_RS21880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['fumarate hydratase']
+    Key: protein_id, Value: ['WP_041447857.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(fumarate hydratase, 16813-18337 (1))
+type: CDS
+location: [4897839:4898526](+)
+id: cds-WP_014780691.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014780691.1']
+    Key: ID, Value: ['cds-WP_014780691.1']
+    Key: Name, Value: ['WP_014780691.1']
+    Key: Parent, Value: ['gene-THIVI_RS21885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007192715.1']
+    Key: locus_tag, Value: ['THIVI_RS21885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['YceH family protein']
+    Key: protein_id, Value: ['WP_014780691.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(YceH family protein, 18386-19073 (1))
+type: repeat_region
+location: [4881005:4881922](+)
+id: NC_018012.1_4
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_018012.1_4']
+    Key: Note, Value: ['GTTTCAATCCTTGTTGTATTGGATTGGGTGCTGCAGC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['917']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1552-2469 (0))
+graphic feature from known effectors: GF(csx1, 12653-13885 (-1))
+[GF(ISAs1 family transposase, 297-1482 (-1)), GF(ISAs1 family transposase, 2780-3965 (-1)), GF(CRISPR-associated protein Cas4, 3999-4566 (-1)), GF(CRISPR-associated endonuclease Cas2, 4562-4868 (-1)), GF(CRISPR-associated endonuclease Cas1, 4889-5918 (-1)), GF(Uma2 family endonuclease, 6247-6817 (-1)), GF(CRISPR-associated endonuclease Cas6, 6843-7584 (-1)), GF(None, 7571-7925 (-1)), GF(IS5 family transposase, 8046-9156 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9068-9665 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9661-11611 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11607-12597 (-1)), GF(TIGR02221 family CRISPR-associated protein, 12652-13885 (-1)), GF(None, 13962-14496 (-1)), GF(IS5 family transposase, 14604-15714 (-1)), GF(CRISPR-associated ring nuclease Csm6, 15762-16347 (-1)), GF(fumarate hydratase, 16813-18337 (1)), GF(YceH family protein, 18386-19073 (1)), GF(Repeat region, 1552-2469 (0)), GF(csx1, 12653-13885 (-1)), GF(CRISPR-Cas locus, 4000-16347 (0))]

@@ -1,0 +1,375 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_013156.1  ...  GCF_000023985.1_2  GCF_000023985.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_013156.1
+type: CDS
+location: [897966:898962](-)
+id: cds-WP_015791511.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791511.1', 'GeneID:8365646']
+    Key: ID, Value: ['cds-WP_015791511.1']
+    Key: Name, Value: ['WP_015791511.1']
+    Key: Parent, Value: ['gene-MEFER_RS04865']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012979674.1']
+    Key: locus_tag, Value: ['MEFER_RS04865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['UPF0104 family protein']
+    Key: protein_id, Value: ['WP_015791511.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(UPF0104 family protein, 437-1433 (-1))
+type: CDS
+location: [898964:900005](-)
+id: cds-WP_015791512.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791512.1', 'GeneID:8365647']
+    Key: ID, Value: ['cds-WP_015791512.1']
+    Key: Name, Value: ['WP_015791512.1']
+    Key: Ontology_term, Value: ['GO:0047046']
+    Key: Parent, Value: ['gene-MEFER_RS04870']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['aksF']
+    Key: go_function, Value: ['homoisocitrate dehydrogenase activity|0047046||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871120.1']
+    Key: locus_tag, Value: ['MEFER_RS04870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['homoisocitrate dehydrogenase']
+    Key: protein_id, Value: ['WP_015791512.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(homoisocitrate dehydrogenase, 1435-2476 (-1))
+type: CDS
+location: [900109:901399](+)
+id: cds-WP_015791513.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791513.1', 'GeneID:8365648']
+    Key: ID, Value: ['cds-WP_015791513.1']
+    Key: Name, Value: ['WP_015791513.1']
+    Key: Ontology_term, Value: ['GO:0019264', 'GO:0035999', 'GO:0004372']
+    Key: Parent, Value: ['gene-MEFER_RS04875']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['glyA']
+    Key: go_function, Value: ['glycine hydroxymethyltransferase activity|0004372||IEA']
+    Key: go_process, Value: ['glycine biosynthetic process from serine|0019264||IEA', 'tetrahydrofolate interconversion|0035999||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871121.1']
+    Key: locus_tag, Value: ['MEFER_RS04875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['bifunctional serine hydroxymethyltransferase/L-allo-threonine aldolase']
+    Key: protein_id, Value: ['WP_015791513.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(bifunctional serine hydroxymethyltransferase/L-allo-threonine aldolase, 2580-3870 (1))
+type: CDS
+location: [901528:903196](-)
+id: cds-WP_015791514.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791514.1', 'GeneID:8365649']
+    Key: ID, Value: ['cds-WP_015791514.1']
+    Key: Name, Value: ['WP_015791514.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887', 'GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-MEFER_RS04880']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA', 'ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871186.1']
+    Key: locus_tag, Value: ['MEFER_RS04880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter ATP-binding protein']
+    Key: protein_id, Value: ['WP_015791514.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter ATP-binding protein, 3999-5667 (-1))
+type: CDS
+location: [903274:903889](+)
+id: cds-WP_048056436.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048056436.1', 'GeneID:8365650']
+    Key: ID, Value: ['cds-WP_048056436.1']
+    Key: Name, Value: ['WP_048056436.1']
+    Key: Parent, Value: ['gene-MEFER_RS04885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871187.1']
+    Key: locus_tag, Value: ['MEFER_RS04885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['molybdenum cofactor guanylyltransferase']
+    Key: protein_id, Value: ['WP_048056436.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(molybdenum cofactor guanylyltransferase, 5745-6360 (1))
+type: CDS
+location: [903878:904562](+)
+id: cds-WP_015791516.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791516.1', 'GeneID:8365651']
+    Key: ID, Value: ['cds-WP_015791516.1']
+    Key: Name, Value: ['WP_015791516.1']
+    Key: Parent, Value: ['gene-MEFER_RS04890']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871188.1']
+    Key: locus_tag, Value: ['MEFER_RS04890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015791516.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6349-7033 (1))
+type: CDS
+location: [904550:905927](-)
+id: cds-WP_015791517.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791517.1', 'GeneID:8365652']
+    Key: ID, Value: ['cds-WP_015791517.1']
+    Key: Name, Value: ['WP_015791517.1']
+    Key: Parent, Value: ['gene-MEFER_RS04895']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011867928.1']
+    Key: locus_tag, Value: ['MEFER_RS04895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PFL family protein']
+    Key: protein_id, Value: ['WP_015791517.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PFL family protein, 7021-8398 (-1))
+type: CDS
+location: [905948:907576](-)
+id: cds-MEFER_RS08525
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:71811432']
+    Key: ID, Value: ['cds-MEFER_RS08525']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS08525']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.2']
+    Key: locus_tag, Value: ['MEFER_RS08525']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 8419-10047 (-1))
+type: CDS
+location: [907777:909136](-)
+id: cds-WP_015791521.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791521.1', 'GeneID:8365656']
+    Key: ID, Value: ['cds-WP_015791521.1']
+    Key: Name, Value: ['WP_015791521.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04905']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871190.1']
+    Key: locus_tag, Value: ['MEFER_RS04905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated CARF protein Csx1']
+    Key: protein_id, Value: ['WP_015791521.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated CARF protein Csx1, 10248-11607 (-1))
+type: CDS
+location: [909135:910269](-)
+id: cds-WP_015791522.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791522.1', 'GeneID:8365657']
+    Key: ID, Value: ['cds-WP_015791522.1']
+    Key: Name, Value: ['WP_015791522.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04910']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012980185.1']
+    Key: locus_tag, Value: ['MEFER_RS04910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_015791522.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 11606-12740 (-1))
+type: CDS
+location: [910258:911389](-)
+id: cds-WP_015791523.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791523.1', 'GeneID:8365658']
+    Key: ID, Value: ['cds-WP_015791523.1']
+    Key: Name, Value: ['WP_015791523.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04915']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012980184.1']
+    Key: locus_tag, Value: ['MEFER_RS04915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_015791523.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 12729-13860 (-1))
+type: CDS
+location: [911416:912310](-)
+id: cds-WP_015791524.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791524.1', 'GeneID:8365659']
+    Key: ID, Value: ['cds-WP_015791524.1']
+    Key: Name, Value: ['WP_015791524.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04920']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013799385.1']
+    Key: locus_tag, Value: ['MEFER_RS04920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_015791524.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 13887-14781 (-1))
+type: CDS
+location: [912349:912760](-)
+id: cds-WP_015791525.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791525.1', 'GeneID:8365660']
+    Key: ID, Value: ['cds-WP_015791525.1']
+    Key: Name, Value: ['WP_015791525.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04925']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.2']
+    Key: locus_tag, Value: ['MEFER_RS04925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_015791525.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 14820-15231 (-1))
+type: CDS
+location: [912764:915473](-)
+id: cds-WP_015791526.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791526.1', 'GeneID:8365661']
+    Key: ID, Value: ['cds-WP_015791526.1']
+    Key: Name, Value: ['WP_015791526.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MEFER_RS04930']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011973792.1']
+    Key: locus_tag, Value: ['MEFER_RS04930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_015791526.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 15235-17944 (-1))
+type: CDS
+location: [915591:916371](+)
+id: cds-WP_015791527.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791527.1', 'GeneID:8365662']
+    Key: ID, Value: ['cds-WP_015791527.1']
+    Key: Name, Value: ['WP_015791527.1']
+    Key: Ontology_term, Value: ['GO:0006400', 'GO:0009982']
+    Key: Parent, Value: ['gene-MEFER_RS04935']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['truA']
+    Key: go_function, Value: ['pseudouridine synthase activity|0009982||IEA']
+    Key: go_process, Value: ['tRNA modification|0006400||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010871199.1']
+    Key: locus_tag, Value: ['MEFER_RS04935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tRNA pseudouridine(38-40) synthase TruA']
+    Key: protein_id, Value: ['WP_015791527.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tRNA pseudouridine(38-40) synthase TruA, 18062-18842 (1))
+type: CDS
+location: [916525:917242](+)
+id: cds-WP_015791528.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791528.1', 'GeneID:8365663']
+    Key: ID, Value: ['cds-WP_015791528.1']
+    Key: Name, Value: ['WP_015791528.1']
+    Key: Parent, Value: ['gene-MEFER_RS04940']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015791528.1']
+    Key: locus_tag, Value: ['MEFER_RS04940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_015791528.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18996-19713 (1))
+type: CDS
+location: [917251:917869](+)
+id: cds-WP_015791529.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_015791529.1', 'GeneID:8365664']
+    Key: ID, Value: ['cds-WP_015791529.1']
+    Key: Name, Value: ['WP_015791529.1']
+    Key: Ontology_term, Value: ['GO:0005886']
+    Key: Parent, Value: ['gene-MEFER_RS04945']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['plasma membrane|0005886||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015791529.1']
+    Key: locus_tag, Value: ['MEFER_RS04945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NAAT family transporter']
+    Key: protein_id, Value: ['WP_015791529.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NAAT family transporter, 19722-20340 (1))
+type: CDS
+location: [917890:919033](+)
+id: cds-WP_048056437.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048056437.1', 'GeneID:8365665']
+    Key: ID, Value: ['cds-WP_048056437.1']
+    Key: Name, Value: ['WP_048056437.1']
+    Key: Parent, Value: ['gene-MEFER_RS04950']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['pscS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004590117.1']
+    Key: locus_tag, Value: ['MEFER_RS04950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['O-phospho-L-seryl-tRNA:Cys-tRNA synthase']
+    Key: protein_id, Value: ['WP_048056437.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 20361-21504 (1))
+graphic feature from known effectors: GF(csx1, 10249-11607 (-1))
+[GF(UPF0104 family protein, 437-1433 (-1)), GF(homoisocitrate dehydrogenase, 1435-2476 (-1)), GF(bifunctional serine hydroxymethyltransferase/L-allo-threonine aldolase, 2580-3870 (1)), GF(ABC transporter ATP-binding protein, 3999-5667 (-1)), GF(molybdenum cofactor guanylyltransferase, 5745-6360 (1)), GF(None, 6349-7033 (1)), GF(PFL family protein, 7021-8398 (-1)), GF(TIGR02221 family CRISPR-associated protein, 8419-10047 (-1)), GF(CRISPR-associated CARF protein Csx1, 10248-11607 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 11606-12740 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 12729-13860 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 13887-14781 (-1)), GF(type III-A CRISPR-associated protein Csm2, 14820-15231 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 15235-17944 (-1)), GF(tRNA pseudouridine(38-40) synthase TruA, 18062-18842 (1)), GF(None, 18996-19713 (1)), GF(NAAT family transporter, 19722-20340 (1)), GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 20361-21504 (1)), GF(csx1, 10249-11607 (-1)), GF(CRISPR-Cas locus, 4000-17944 (0))]

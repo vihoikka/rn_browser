@@ -1,0 +1,242 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP116808.1  ...  GCF_028464065.1_1  GCF_028464065.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP116808.1
+type: CDS
+location: [234801:235263](-)
+id: cds-WP_272619925.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619925.1']
+    Key: ID, Value: ['cds-WP_272619925.1']
+    Key: Name, Value: ['WP_272619925.1']
+    Key: Parent, Value: ['gene-PPO43_RS01000']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PPO43_RS01000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_272619925.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 866-1328 (-1))
+type: CDS
+location: [235259:237893](-)
+id: cds-WP_272619926.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619926.1']
+    Key: ID, Value: ['cds-WP_272619926.1']
+    Key: Name, Value: ['WP_272619926.1']
+    Key: Parent, Value: ['gene-PPO43_RS01005']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024573.4']
+    Key: locus_tag, Value: ['PPO43_RS01005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_272619926.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 1324-3958 (-1))
+type: CDS
+location: [237934:239155](-)
+id: cds-WP_272619927.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619927.1']
+    Key: ID, Value: ['cds-WP_272619927.1']
+    Key: Name, Value: ['WP_272619927.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PPO43_RS01010']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['PPO43_RS01010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_272619927.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5220 (-1))
+type: CDS
+location: [239154:240255](-)
+id: cds-WP_272619928.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619928.1']
+    Key: ID, Value: ['cds-WP_272619928.1']
+    Key: Name, Value: ['WP_272619928.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PPO43_RS01015']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01903.1']
+    Key: locus_tag, Value: ['PPO43_RS01015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_272619928.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 5219-6320 (-1))
+type: CDS
+location: [240304:241054](-)
+id: cds-WP_272619929.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619929.1']
+    Key: ID, Value: ['cds-WP_272619929.1']
+    Key: Name, Value: ['WP_272619929.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PPO43_RS01020']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['PPO43_RS01020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_272619929.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 6369-7119 (-1))
+type: CDS
+location: [241098:241572](-)
+id: cds-WP_272619930.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619930.1']
+    Key: ID, Value: ['cds-WP_272619930.1']
+    Key: Name, Value: ['WP_272619930.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PPO43_RS01025']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.4']
+    Key: locus_tag, Value: ['PPO43_RS01025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_272619930.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7163-7637 (-1))
+type: CDS
+location: [241581:244314](-)
+id: cds-WP_272619931.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619931.1']
+    Key: ID, Value: ['cds-WP_272619931.1']
+    Key: Name, Value: ['WP_272619931.1']
+    Key: Parent, Value: ['gene-PPO43_RS01030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037066.4']
+    Key: locus_tag, Value: ['PPO43_RS01030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_272619931.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7646-10379 (-1))
+type: CDS
+location: [244574:245006](+)
+id: cds-WP_272621339.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272621339.1']
+    Key: ID, Value: ['cds-WP_272621339.1']
+    Key: Name, Value: ['WP_272621339.1']
+    Key: Parent, Value: ['gene-PPO43_RS01035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025113.4']
+    Key: locus_tag, Value: ['PPO43_RS01035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_272621339.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 10639-11071 (1))
+type: CDS
+location: [244948:245488](+)
+id: cds-WP_272619932.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619932.1']
+    Key: ID, Value: ['cds-WP_272619932.1']
+    Key: Name, Value: ['WP_272619932.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-PPO43_RS01040']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033579.1']
+    Key: locus_tag, Value: ['PPO43_RS01040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS5 family transposase']
+    Key: protein_id, Value: ['WP_272619932.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS5 family transposase, 11013-11553 (1))
+type: CDS
+location: [246465:247308](-)
+id: cds-WP_272619933.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619933.1']
+    Key: ID, Value: ['cds-WP_272619933.1']
+    Key: Name, Value: ['WP_272619933.1']
+    Key: Parent, Value: ['gene-PPO43_RS01045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF017206.4']
+    Key: locus_tag, Value: ['PPO43_RS01045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NmrA family NAD(P)-binding protein']
+    Key: protein_id, Value: ['WP_272619933.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NmrA family NAD(P)-binding protein, 12530-13373 (-1))
+type: CDS
+location: [247438:247795](+)
+id: cds-WP_272619934.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619934.1']
+    Key: ID, Value: ['cds-WP_272619934.1']
+    Key: Name, Value: ['WP_272619934.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-PPO43_RS01050']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_020535374.1']
+    Key: locus_tag, Value: ['PPO43_RS01050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix domain-containing protein']
+    Key: protein_id, Value: ['WP_272619934.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix domain-containing protein, 13503-13860 (1))
+type: CDS
+location: [247797:248256](-)
+id: cds-WP_272619935.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_272619935.1']
+    Key: ID, Value: ['cds-WP_272619935.1']
+    Key: Name, Value: ['WP_272619935.1']
+    Key: Parent, Value: ['gene-PPO43_RS01055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014373200.1']
+    Key: locus_tag, Value: ['PPO43_RS01055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_272619935.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13862-14321 (-1))
+[GF(None, 866-1328 (-1)), GF(AAA family ATPase, 1324-3958 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5220 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5219-6320 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6369-7119 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7163-7637 (-1)), GF(None, 7646-10379 (-1)), GF(transposase, 10639-11071 (1)), GF(IS5 family transposase, 11013-11553 (1)), GF(NmrA family NAD(P)-binding protein, 12530-13373 (-1)), GF(helix-turn-helix domain-containing protein, 13503-13860 (1)), GF(None, 13862-14321 (-1)), GF(CRISPR-Cas locus, 4000-10379 (0))]

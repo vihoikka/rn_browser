@@ -1,0 +1,230 @@
+Cas operons file:    Unnamed: 0         Contig  ...            locus_id           sample
+0          32  NZ_CP009515.1  ...  GCF_000970265.1_32  GCF_000970265.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP009515.1
+type: CDS
+location: [2693362:2693500](+)
+id: cds-WP_332309194.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_332309194.1', 'GeneID:88183210']
+    Key: ID, Value: ['cds-WP_332309194.1']
+    Key: Name, Value: ['WP_332309194.1']
+    Key: Ontology_term, Value: ['GO:0008168', 'GO:0008757']
+    Key: Parent, Value: ['gene-MSLAZ_RS20320']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['methyltransferase activity|0008168||IEA', 'S-adenosylmethionine-dependent methyltransferase activity|0008757||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019846.4']
+    Key: locus_tag, Value: ['MSLAZ_RS20320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['methyltransferase domain-containing protein']
+    Key: protein_id, Value: ['WP_332309194.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(methyltransferase domain-containing protein, 271-409 (1))
+type: CDS
+location: [2693619:2694339](+)
+id: cds-WP_232308529.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_232308529.1', 'GeneID:24806864']
+    Key: ID, Value: ['cds-WP_232308529.1']
+    Key: Name, Value: ['WP_232308529.1']
+    Key: Ontology_term, Value: ['GO:0051537', 'GO:0043231']
+    Key: Parent, Value: ['gene-MSLAZ_RS11035']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['intracellular membrane-bounded organelle|0043231||IEA']
+    Key: go_function, Value: ['2 iron, 2 sulfur cluster binding|0051537||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011307268.1']
+    Key: locus_tag, Value: ['MSLAZ_RS11035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CDGSH iron-sulfur domain-containing protein']
+    Key: protein_id, Value: ['WP_232308529.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CDGSH iron-sulfur domain-containing protein, 528-1248 (1))
+type: CDS
+location: [2694474:2694954](-)
+id: cds-WP_048126760.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126760.1', 'GeneID:24806865']
+    Key: ID, Value: ['cds-WP_048126760.1']
+    Key: Name, Value: ['WP_048126760.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11040']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011035232.1']
+    Key: locus_tag, Value: ['MSLAZ_RS11040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hydrolase']
+    Key: protein_id, Value: ['WP_048126760.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hydrolase, 1383-1863 (-1))
+type: CDS
+location: [2695137:2695455](-)
+id: cds-WP_052722944.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_052722944.1', 'GeneID:24806866']
+    Key: ID, Value: ['cds-WP_052722944.1']
+    Key: Name, Value: ['WP_052722944.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MSLAZ_RS11045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_052722944.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2046-2364 (-1))
+type: CDS
+location: [2695735:2696008](-)
+id: cds-WP_048126762.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126762.1', 'GeneID:24806867']
+    Key: ID, Value: ['cds-WP_048126762.1']
+    Key: Name, Value: ['WP_048126762.1']
+    Key: Ontology_term, Value: ['GO:0030541', 'GO:0051290', 'GO:0008657', 'GO:0042803']
+    Key: Parent, Value: ['gene-MSLAZ_RS11050']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity|0008657||IEA', 'protein homodimerization activity|0042803||IEA']
+    Key: go_process, Value: ['plasmid partitioning|0030541||IEA', 'protein heterotetramerization|0051290||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011305475.1']
+    Key: locus_tag, Value: ['MSLAZ_RS11050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system RelE/ParE family toxin']
+    Key: protein_id, Value: ['WP_048126762.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system RelE/ParE family toxin, 2644-2917 (-1))
+type: CDS
+location: [2695997:2696192](-)
+id: cds-WP_157197146.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_157197146.1', 'GeneID:24806868']
+    Key: ID, Value: ['cds-WP_157197146.1']
+    Key: Name, Value: ['WP_157197146.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MSLAZ_RS11055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_157197146.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2906-3101 (-1))
+type: CDS
+location: [2696373:2696853](-)
+id: cds-WP_048126767.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126767.1', 'GeneID:24806869']
+    Key: ID, Value: ['cds-WP_048126767.1']
+    Key: Name, Value: ['WP_048126767.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11060']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011035232.1']
+    Key: locus_tag, Value: ['MSLAZ_RS11060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hydrolase']
+    Key: protein_id, Value: ['WP_048126767.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hydrolase, 3282-3762 (-1))
+type: CDS
+location: [2697090:2697753](-)
+id: cds-WP_048126769.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126769.1', 'GeneID:24806870']
+    Key: ID, Value: ['cds-WP_048126769.1']
+    Key: Name, Value: ['WP_048126769.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11065']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF036560.4']
+    Key: locus_tag, Value: ['MSLAZ_RS11065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas6']
+    Key: protein_id, Value: ['WP_048126769.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas6, 3999-4662 (-1))
+type: CDS
+location: [2698043:2698856](-)
+id: cds-WP_048126771.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126771.1', 'GeneID:24806871']
+    Key: ID, Value: ['cds-WP_048126771.1']
+    Key: Name, Value: ['WP_048126771.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11070']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['MSLAZ_RS11070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_048126771.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 4952-5765 (-1))
+type: CDS
+location: [2698848:2699898](-)
+id: cds-WP_048126774.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126774.1', 'GeneID:24806872']
+    Key: ID, Value: ['cds-WP_048126774.1']
+    Key: Name, Value: ['WP_048126774.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11075']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MSLAZ_RS11075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_048126774.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5757-6807 (-1))
+type: CDS
+location: [2699884:2701918](-)
+id: cds-WP_048126776.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126776.1', 'GeneID:24806873']
+    Key: ID, Value: ['cds-WP_048126776.1']
+    Key: Name, Value: ['WP_048126776.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MSLAZ_RS11080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_048126776.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6793-8827 (-1))
+type: CDS
+location: [2702054:2704796](-)
+id: cds-WP_048126778.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048126778.1', 'GeneID:24806874']
+    Key: ID, Value: ['cds-WP_048126778.1']
+    Key: Name, Value: ['WP_048126778.1']
+    Key: Parent, Value: ['gene-MSLAZ_RS11085']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF045198.1']
+    Key: locus_tag, Value: ['MSLAZ_RS11085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_048126778.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8963-11705 (-1))
+[GF(methyltransferase domain-containing protein, 271-409 (1)), GF(CDGSH iron-sulfur domain-containing protein, 528-1248 (1)), GF(hydrolase, 1383-1863 (-1)), GF(None, 2046-2364 (-1)), GF(type II toxin-antitoxin system RelE/ParE family toxin, 2644-2917 (-1)), GF(None, 2906-3101 (-1)), GF(hydrolase, 3282-3762 (-1)), GF(CRISPR-associated endonuclease Cas6, 3999-4662 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4952-5765 (-1)), GF(None, 5757-6807 (-1)), GF(None, 6793-8827 (-1)), GF(None, 8963-11705 (-1)), GF(CRISPR-Cas locus, 4000-8827 (0))]

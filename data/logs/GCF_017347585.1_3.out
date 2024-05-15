@@ -1,0 +1,242 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           3  NZ_AP024480.1  ...  GCF_017347585.1_3  GCF_017347585.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_AP024480.1
+type: CDS
+location: [2389637:2391662](-)
+id: cds-WP_207182848.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207182848.1']
+    Key: ID, Value: ['cds-WP_207182848.1']
+    Key: Name, Value: ['WP_207182848.1']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11290']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431310.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SPFH domain-containing protein']
+    Key: protein_id, Value: ['WP_207182848.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(SPFH domain-containing protein, 1669-3694 (-1))
+type: CDS
+location: [2391967:2392468](-)
+id: cds-WP_207179815.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179815.1']
+    Key: ID, Value: ['cds-WP_207179815.1']
+    Key: Name, Value: ['WP_207179815.1']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11295']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['CaldiYA01_RS11295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_207179815.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4500 (-1))
+type: CDS
+location: [2392510:2392846](-)
+id: cds-WP_207179816.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179816.1']
+    Key: ID, Value: ['cds-WP_207179816.1']
+    Key: Name, Value: ['WP_207179816.1']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11300']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['CaldiYA01_RS11300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_207179816.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4542-4878 (-1))
+type: CDS
+location: [2393015:2395961](+)
+id: cds-WP_207179824.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179824.1']
+    Key: ID, Value: ['cds-WP_207179824.1']
+    Key: Name, Value: ['WP_207179824.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11305']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013289505.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_207179824.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5047-7993 (1))
+type: CDS
+location: [2396004:2397234](+)
+id: cds-WP_238480535.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_238480535.1']
+    Key: ID, Value: ['cds-WP_238480535.1']
+    Key: Name, Value: ['WP_238480535.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11310']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431313.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_238480535.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 8036-9266 (1))
+type: CDS
+location: [2397230:2398433](+)
+id: cds-WP_207179825.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179825.1']
+    Key: ID, Value: ['cds-WP_207179825.1']
+    Key: Name, Value: ['WP_207179825.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11315']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431314.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_207179825.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 9262-10465 (1))
+type: CDS
+location: [2398468:2399575](+)
+id: cds-WP_207179827.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179827.1']
+    Key: ID, Value: ['cds-WP_207179827.1']
+    Key: Name, Value: ['WP_207179827.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11320']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431315.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_207179827.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 10500-11607 (1))
+type: CDS
+location: [2399576:2399948](+)
+id: cds-WP_207179828.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179828.1']
+    Key: ID, Value: ['cds-WP_207179828.1']
+    Key: Name, Value: ['WP_207179828.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11325']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431316.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_207179828.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 11608-11980 (1))
+type: CDS
+location: [2399925:2400987](+)
+id: cds-WP_207179830.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207179830.1']
+    Key: ID, Value: ['cds-WP_207179830.1']
+    Key: Name, Value: ['WP_207179830.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11330']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013431317.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_207179830.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 11957-13019 (1))
+type: CDS
+location: [2401115:2401412](-)
+id: cds-CaldiYA01_RS11335
+qualifiers:
+    Key: ID, Value: ['cds-CaldiYA01_RS11335']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-CaldiYA01_RS11335']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013429593.1']
+    Key: locus_tag, Value: ['CaldiYA01_RS11335']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS21 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '2401116']
+    Key: transl_table, Value: ['11']
+
+GF(IS21 family transposase, 13147-13444 (-1))
+type: CDS
+location: [2404542:2404683](-)
+id: cds-WP_238480536.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_238480536.1']
+    Key: ID, Value: ['cds-WP_238480536.1']
+    Key: Name, Value: ['WP_238480536.1']
+    Key: Parent, Value: ['gene-CaldiYA01_RS12355']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['CaldiYA01_RS12355']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_238480536.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16574-16715 (-1))
+type: repeat_region
+location: [2401732:2404379](+)
+id: NZ_AP024480.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_AP024480.1_1']
+    Key: Note, Value: ['GTTTACATCCCTAATAGTTCAGATAAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['2647']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13764-16411 (0))
+[GF(SPFH domain-containing protein, 1669-3694 (-1)), GF(None, 3999-4500 (-1)), GF(None, 4542-4878 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5047-7993 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8036-9266 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9262-10465 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10500-11607 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11608-11980 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 11957-13019 (1)), GF(IS21 family transposase, 13147-13444 (-1)), GF(None, 16574-16715 (-1)), GF(Repeat region, 13764-16411 (0)), GF(CRISPR-Cas locus, 4000-13019 (0))]

@@ -1,0 +1,228 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_015562.1  ...  GCF_000214415.1_1  GCF_000214415.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_015562.1
+type: CDS
+location: [1353325:1353793](-)
+id: cds-WP_083809498.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_083809498.1', 'GeneID:24780499']
+    Key: ID, Value: ['cds-WP_083809498.1']
+    Key: Name, Value: ['WP_083809498.1']
+    Key: Parent, Value: ['gene-METIG_RS06730']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.3']
+    Key: locus_tag, Value: ['METIG_RS06730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TM1812 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_083809498.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TM1812 family CRISPR-associated protein, 2260-2728 (-1))
+type: CDS
+location: [1354038:1354791](-)
+id: cds-WP_322785246.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_322785246.1', 'GeneID:55575287']
+    Key: ID, Value: ['cds-WP_322785246.1']
+    Key: Name, Value: ['WP_322785246.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS09570']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.3']
+    Key: locus_tag, Value: ['METIG_RS09570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_322785246.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 2973-3726 (-1))
+type: CDS
+location: [1355064:1357572](+)
+id: cds-WP_013799472.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799472.1', 'GeneID:10644203']
+    Key: ID, Value: ['cds-WP_013799472.1']
+    Key: Name, Value: ['WP_013799472.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS06745']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['METIG_RS06745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_013799472.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6507 (1))
+type: CDS
+location: [1357577:1358189](+)
+id: cds-WP_013799473.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799473.1', 'GeneID:25395059']
+    Key: ID, Value: ['cds-WP_013799473.1']
+    Key: Name, Value: ['WP_013799473.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS09120']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.3']
+    Key: locus_tag, Value: ['METIG_RS09120']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_013799473.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 6512-7124 (1))
+type: CDS
+location: [1358188:1359004](+)
+id: cds-WP_013799474.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799474.1', 'GeneID:10644205']
+    Key: ID, Value: ['cds-WP_013799474.1']
+    Key: Name, Value: ['WP_013799474.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS06755']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015733300.1']
+    Key: locus_tag, Value: ['METIG_RS06755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_013799474.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7123-7939 (1))
+type: CDS
+location: [1359015:1359948](+)
+id: cds-WP_157209589.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_157209589.1', 'GeneID:10644206']
+    Key: ID, Value: ['cds-WP_157209589.1']
+    Key: Name, Value: ['WP_157209589.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS06760']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015733301.1']
+    Key: locus_tag, Value: ['METIG_RS06760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_157209589.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 7950-8883 (1))
+type: CDS
+location: [1359944:1361039](+)
+id: cds-WP_013799476.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799476.1', 'GeneID:10644207']
+    Key: ID, Value: ['cds-WP_013799476.1']
+    Key: Name, Value: ['WP_013799476.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIG_RS06765']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015733302.1']
+    Key: locus_tag, Value: ['METIG_RS06765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_013799476.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 8879-9974 (1))
+type: CDS
+location: [1361357:1362500](+)
+id: cds-WP_048055573.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048055573.1', 'GeneID:10644208']
+    Key: ID, Value: ['cds-WP_048055573.1']
+    Key: Name, Value: ['WP_048055573.1']
+    Key: Parent, Value: ['gene-METIG_RS06770']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['pscS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007045142.1']
+    Key: locus_tag, Value: ['METIG_RS06770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['O-phospho-L-seryl-tRNA:Cys-tRNA synthase']
+    Key: protein_id, Value: ['WP_048055573.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 10292-11435 (1))
+type: CDS
+location: [1362712:1364329](+)
+id: cds-WP_013799478.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799478.1', 'GeneID:10644209']
+    Key: ID, Value: ['cds-WP_013799478.1']
+    Key: Name, Value: ['WP_013799478.1']
+    Key: Ontology_term, Value: ['GO:0043039', 'GO:0043816']
+    Key: Parent, Value: ['gene-METIG_RS06775']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['sepS']
+    Key: go_function, Value: ['phosphoserine-tRNA(Cys) ligase activity|0043816||IEA']
+    Key: go_process, Value: ['tRNA aminoacylation|0043039||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012066376.1']
+    Key: locus_tag, Value: ['METIG_RS06775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['O-phosphoserine--tRNA ligase']
+    Key: protein_id, Value: ['WP_013799478.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(O-phosphoserine--tRNA ligase, 11647-13264 (1))
+type: CDS
+location: [1364487:1364949](+)
+id: cds-WP_013799479.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013799479.1', 'GeneID:10644210']
+    Key: ID, Value: ['cds-WP_013799479.1']
+    Key: Name, Value: ['WP_013799479.1']
+    Key: Parent, Value: ['gene-METIG_RS06780']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013799479.1']
+    Key: locus_tag, Value: ['METIG_RS06780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['peptidylprolyl isomerase']
+    Key: protein_id, Value: ['WP_013799479.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(peptidylprolyl isomerase, 13422-13884 (1))
+type: repeat_region
+location: [1352424:1353018](+)
+id: NC_015562.1_17
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_015562.1_17']
+    Key: Note, Value: ['GTTAAAATCAGACCCTTAGGGGGATGGAAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['594']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1359-1953 (0))
+graphic feature from known effectors: GF(csx1, 2974-3726 (-1))
+[GF(TM1812 family CRISPR-associated protein, 2260-2728 (-1)), GF(TIGR02221 family CRISPR-associated protein, 2973-3726 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6507 (1)), GF(type III-A CRISPR-associated protein Csm2, 6512-7124 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7123-7939 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7950-8883 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8879-9974 (1)), GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 10292-11435 (1)), GF(O-phosphoserine--tRNA ligase, 11647-13264 (1)), GF(peptidylprolyl isomerase, 13422-13884 (1)), GF(Repeat region, 1359-1953 (0)), GF(csx1, 2974-3726 (-1)), GF(CRISPR-Cas locus, 4000-9974 (0))]

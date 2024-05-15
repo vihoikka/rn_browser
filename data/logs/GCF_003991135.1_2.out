@@ -1,0 +1,250 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           2  NZ_CP016379.1  ...  GCF_003991135.1_2  GCF_003991135.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP016379.1
+type: CDS
+location: [2610094:2611345](-)
+id: cds-WP_236777936.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_236777936.1']
+    Key: ID, Value: ['cds-WP_236777936.1']
+    Key: Name, Value: ['WP_236777936.1']
+    Key: Ontology_term, Value: ['GO:0006353', 'GO:0003723', 'GO:0005524', 'GO:0008186']
+    Key: Parent, Value: ['gene-BBF96_RS11925']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rho']
+    Key: go_function, Value: ['RNA binding|0003723||IEA', 'ATP binding|0005524||IEA', 'ATP-dependent activity, acting on RNA|0008186||IEA']
+    Key: go_process, Value: ['DNA-templated transcription termination|0006353||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_018248217.1']
+    Key: locus_tag, Value: ['BBF96_RS11925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transcription termination factor Rho']
+    Key: protein_id, Value: ['WP_236777936.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transcription termination factor Rho, 34-1285 (-1))
+type: CDS
+location: [2611684:2612887](+)
+id: cds-WP_127015490.1-3
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127015490.1']
+    Key: ID, Value: ['cds-WP_127015490.1-3']
+    Key: Name, Value: ['WP_127015490.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-BBF96_RS11930']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033550.5']
+    Key: locus_tag, Value: ['BBF96_RS11930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISL3 family transposase']
+    Key: protein_id, Value: ['WP_127015490.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISL3 family transposase, 1624-2827 (1))
+type: CDS
+location: [2613426:2613963](+)
+id: cds-WP_127017369.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017369.1']
+    Key: ID, Value: ['cds-WP_127017369.1']
+    Key: Name, Value: ['WP_127017369.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-BBF96_RS11935']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013540.4']
+    Key: locus_tag, Value: ['BBF96_RS11935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix transcriptional regulator']
+    Key: protein_id, Value: ['WP_127017369.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix transcriptional regulator, 3366-3903 (1))
+type: CDS
+location: [2614059:2614989](-)
+id: cds-WP_127017370.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017370.1']
+    Key: ID, Value: ['cds-WP_127017370.1']
+    Key: Name, Value: ['WP_127017370.1']
+    Key: Parent, Value: ['gene-BBF96_RS11940']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['BBF96_RS11940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_127017370.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 3999-4929 (-1))
+type: CDS
+location: [2614978:2615560](-)
+id: cds-WP_127017371.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017371.1']
+    Key: ID, Value: ['cds-WP_127017371.1']
+    Key: Name, Value: ['WP_127017371.1']
+    Key: Parent, Value: ['gene-BBF96_RS11945']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BBF96_RS11945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_127017371.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4918-5500 (-1))
+type: CDS
+location: [2615540:2616188](-)
+id: cds-WP_127017372.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017372.1']
+    Key: ID, Value: ['cds-WP_127017372.1']
+    Key: Name, Value: ['WP_127017372.1']
+    Key: Parent, Value: ['gene-BBF96_RS11950']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BBF96_RS11950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_127017372.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5480-6128 (-1))
+type: CDS
+location: [2616180:2618433](-)
+id: cds-WP_127017373.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017373.1']
+    Key: ID, Value: ['cds-WP_127017373.1']
+    Key: Name, Value: ['WP_127017373.1']
+    Key: Parent, Value: ['gene-BBF96_RS11955']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BBF96_RS11955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_127017373.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6120-8373 (-1))
+type: CDS
+location: [2618670:2619312](-)
+id: cds-WP_269467424.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_269467424.1']
+    Key: ID, Value: ['cds-WP_269467424.1']
+    Key: Name, Value: ['WP_269467424.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0004635', 'GO:0004636']
+    Key: Parent, Value: ['gene-BBF96_RS11960']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisIE']
+    Key: go_function, Value: ['phosphoribosyl-AMP cyclohydrolase activity|0004635||IEA', 'phosphoribosyl-ATP diphosphatase activity|0004636||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012635184.1']
+    Key: locus_tag, Value: ['BBF96_RS11960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE']
+    Key: protein_id, Value: ['WP_269467424.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE, 8610-9252 (-1))
+type: CDS
+location: [2619329:2620097](-)
+id: cds-WP_127017374.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017374.1']
+    Key: ID, Value: ['cds-WP_127017374.1']
+    Key: Name, Value: ['WP_127017374.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0000107']
+    Key: Parent, Value: ['gene-BBF96_RS11965']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisF']
+    Key: go_function, Value: ['imidazoleglycerol-phosphate synthase activity|0000107||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_018248755.1']
+    Key: locus_tag, Value: ['BBF96_RS11965']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['imidazole glycerol phosphate synthase subunit HisF']
+    Key: protein_id, Value: ['WP_127017374.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(imidazole glycerol phosphate synthase subunit HisF, 9269-10037 (-1))
+type: CDS
+location: [2620103:2620820](-)
+id: cds-WP_127017375.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017375.1']
+    Key: ID, Value: ['cds-WP_127017375.1']
+    Key: Name, Value: ['WP_127017375.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0003949']
+    Key: Parent, Value: ['gene-BBF96_RS11970']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisA']
+    Key: go_function, Value: ['1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity|0003949||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005488979.1']
+    Key: locus_tag, Value: ['BBF96_RS11970']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase']
+    Key: protein_id, Value: ['WP_127017375.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase, 10043-10760 (-1))
+type: CDS
+location: [2620819:2621419](-)
+id: cds-WP_127017376.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017376.1']
+    Key: ID, Value: ['cds-WP_127017376.1']
+    Key: Name, Value: ['WP_127017376.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0000107', 'GO:0016884']
+    Key: Parent, Value: ['gene-BBF96_RS11975']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisH']
+    Key: go_function, Value: ['imidazoleglycerol-phosphate synthase activity|0000107||IEA', 'carbon-nitrogen ligase activity, with glutamine as amido-N-donor|0016884||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005488977.1']
+    Key: locus_tag, Value: ['BBF96_RS11975']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['imidazole glycerol phosphate synthase subunit HisH']
+    Key: protein_id, Value: ['WP_127017376.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(imidazole glycerol phosphate synthase subunit HisH, 10759-11359 (-1))
+type: CDS
+location: [2621419:2622004](-)
+id: cds-WP_127017377.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_127017377.1']
+    Key: ID, Value: ['cds-WP_127017377.1']
+    Key: Name, Value: ['WP_127017377.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0004424']
+    Key: Parent, Value: ['gene-BBF96_RS11980']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisB']
+    Key: go_function, Value: ['imidazoleglycerol-phosphate dehydratase activity|0004424||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005488975.1']
+    Key: locus_tag, Value: ['BBF96_RS11980']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['imidazoleglycerol-phosphate dehydratase HisB']
+    Key: protein_id, Value: ['WP_127017377.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(imidazoleglycerol-phosphate dehydratase HisB, 11359-11944 (-1))
+[GF(transcription termination factor Rho, 34-1285 (-1)), GF(ISL3 family transposase, 1624-2827 (1)), GF(helix-turn-helix transcriptional regulator, 3366-3903 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-4929 (-1)), GF(None, 4918-5500 (-1)), GF(None, 5480-6128 (-1)), GF(None, 6120-8373 (-1)), GF(bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE, 8610-9252 (-1)), GF(imidazole glycerol phosphate synthase subunit HisF, 9269-10037 (-1)), GF(1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase, 10043-10760 (-1)), GF(imidazole glycerol phosphate synthase subunit HisH, 10759-11359 (-1)), GF(imidazoleglycerol-phosphate dehydratase HisB, 11359-11944 (-1)), GF(CRISPR-Cas locus, 4000-8373 (0))]

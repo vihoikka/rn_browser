@@ -1,0 +1,238 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP053642.1  ...  GCF_013177295.1_0  GCF_013177295.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP053642.1
+type: CDS
+location: [2004365:2004938](-)
+id: cds-WP_159522117.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522117.1']
+    Key: ID, Value: ['cds-WP_159522117.1']
+    Key: Name, Value: ['WP_159522117.1']
+    Key: Ontology_term, Value: ['GO:0042559', 'GO:0046654', 'GO:0003934']
+    Key: Parent, Value: ['gene-HPC72_RS08380']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['folE']
+    Key: go_function, Value: ['GTP cyclohydrolase I activity|0003934||IEA']
+    Key: go_process, Value: ['pteridine-containing compound biosynthetic process|0042559||IEA', 'tetrahydrofolate biosynthetic process|0046654||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017177429.1']
+    Key: locus_tag, Value: ['HPC72_RS08380']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GTP cyclohydrolase I FolE']
+    Key: protein_id, Value: ['WP_159522117.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GTP cyclohydrolase I FolE, 1173-1746 (-1))
+type: CDS
+location: [2004934:2007055](-)
+id: cds-WP_159522115.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522115.1']
+    Key: ID, Value: ['cds-WP_159522115.1']
+    Key: Name, Value: ['WP_159522115.1']
+    Key: Ontology_term, Value: ['GO:0006508', 'GO:0051301', 'GO:0004222', 'GO:0016887']
+    Key: Parent, Value: ['gene-HPC72_RS08385']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['ftsH']
+    Key: go_function, Value: ['metalloendopeptidase activity|0004222||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: go_process, Value: ['proteolysis|0006508||IEA', 'cell division|0051301||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017177430.1']
+    Key: locus_tag, Value: ['HPC72_RS08385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-dependent zinc metalloprotease FtsH']
+    Key: protein_id, Value: ['WP_159522115.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-dependent zinc metalloprotease FtsH, 1742-3863 (-1))
+type: CDS
+location: [2007191:2007590](-)
+id: cds-WP_235904890.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_235904890.1']
+    Key: ID, Value: ['cds-WP_235904890.1']
+    Key: Name, Value: ['WP_235904890.1']
+    Key: Parent, Value: ['gene-HPC72_RS08390']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['HPC72_RS08390']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_235904890.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4398 (-1))
+type: CDS
+location: [2007586:2009941](-)
+id: cds-WP_159522113.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522113.1']
+    Key: ID, Value: ['cds-WP_159522113.1']
+    Key: Name, Value: ['WP_159522113.1']
+    Key: Parent, Value: ['gene-HPC72_RS08395']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['HPC72_RS08395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_159522113.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4394-6749 (-1))
+type: CDS
+location: [2010134:2011892](+)
+id: cds-WP_159522111.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522111.1']
+    Key: ID, Value: ['cds-WP_159522111.1']
+    Key: Name, Value: ['WP_159522111.1']
+    Key: Parent, Value: ['gene-HPC72_RS08400']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['HPC72_RS08400']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_159522111.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6942-8700 (1))
+type: CDS
+location: [2011888:2013871](+)
+id: cds-WP_159522109.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522109.1']
+    Key: ID, Value: ['cds-WP_159522109.1']
+    Key: Name, Value: ['WP_159522109.1']
+    Key: Parent, Value: ['gene-HPC72_RS08405']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['HPC72_RS08405']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_159522109.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8696-10679 (1))
+type: CDS
+location: [2013867:2015589](+)
+id: cds-WP_159522107.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522107.1']
+    Key: ID, Value: ['cds-WP_159522107.1']
+    Key: Name, Value: ['WP_159522107.1']
+    Key: Parent, Value: ['gene-HPC72_RS08410']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009234281.1']
+    Key: locus_tag, Value: ['HPC72_RS08410']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_159522107.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10675-12397 (1))
+type: CDS
+location: [2015803:2016160](+)
+id: cds-WP_159522105.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522105.1']
+    Key: ID, Value: ['cds-WP_159522105.1']
+    Key: Name, Value: ['WP_159522105.1']
+    Key: Parent, Value: ['gene-HPC72_RS08415']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['HPC72_RS08415']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_159522105.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12611-12968 (1))
+type: CDS
+location: [2016161:2018510](+)
+id: cds-WP_159522103.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522103.1']
+    Key: ID, Value: ['cds-WP_159522103.1']
+    Key: Name, Value: ['WP_159522103.1']
+    Key: Parent, Value: ['gene-HPC72_RS08420']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['HPC72_RS08420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_159522103.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 12969-15318 (1))
+type: CDS
+location: [2018785:2019340](-)
+id: cds-WP_159522101.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522101.1']
+    Key: ID, Value: ['cds-WP_159522101.1']
+    Key: Name, Value: ['WP_159522101.1']
+    Key: Ontology_term, Value: ['GO:0006166']
+    Key: Parent, Value: ['gene-HPC72_RS08425']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hpt']
+    Key: go_process, Value: ['purine ribonucleoside salvage|0006166||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009212520.1']
+    Key: locus_tag, Value: ['HPC72_RS08425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypoxanthine phosphoribosyltransferase']
+    Key: protein_id, Value: ['WP_159522101.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hypoxanthine phosphoribosyltransferase, 15593-16148 (-1))
+type: CDS
+location: [2019567:2020737](-)
+id: cds-WP_175994060.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_175994060.1']
+    Key: ID, Value: ['cds-WP_175994060.1']
+    Key: Name, Value: ['WP_175994060.1']
+    Key: Parent, Value: ['gene-HPC72_RS08430']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021608.4']
+    Key: locus_tag, Value: ['HPC72_RS08430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['zinc-dependent metalloprotease']
+    Key: protein_id, Value: ['WP_175994060.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(zinc-dependent metalloprotease, 16375-17545 (-1))
+type: CDS
+location: [2020778:2022179](-)
+id: cds-WP_159522097.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159522097.1']
+    Key: ID, Value: ['cds-WP_159522097.1']
+    Key: Name, Value: ['WP_159522097.1']
+    Key: Ontology_term, Value: ['GO:0009252', 'GO:0004175', 'GO:0009002']
+    Key: Parent, Value: ['gene-HPC72_RS08435']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['dacB']
+    Key: go_function, Value: ['endopeptidase activity|0004175||IEA', 'serine-type D-Ala-D-Ala carboxypeptidase activity|0009002||IEA']
+    Key: go_process, Value: ['peptidoglycan biosynthetic process|0009252||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017177434.1']
+    Key: locus_tag, Value: ['HPC72_RS08435']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase']
+    Key: protein_id, Value: ['WP_159522097.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase, 17586-18987 (-1))
+graphic feature from validated effectors: GF(can3, 4395-6749 (-1))
+[GF(GTP cyclohydrolase I FolE, 1173-1746 (-1)), GF(ATP-dependent zinc metalloprotease FtsH, 1742-3863 (-1)), GF(None, 3999-4398 (-1)), GF(None, 4394-6749 (-1)), GF(None, 6942-8700 (1)), GF(RAMP superfamily CRISPR-associated protein, 8696-10679 (1)), GF(RAMP superfamily CRISPR-associated protein, 10675-12397 (1)), GF(None, 12611-12968 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12969-15318 (1)), GF(hypoxanthine phosphoribosyltransferase, 15593-16148 (-1)), GF(zinc-dependent metalloprotease, 16375-17545 (-1)), GF(D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase, 17586-18987 (-1)), GF(can3, 4395-6749 (-1)), GF(CRISPR-Cas locus, 4000-15318 (0))]

@@ -1,0 +1,263 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP102272.1  ...  GCF_025149125.1_0  GCF_025149125.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP102272.1
+type: CDS
+location: [4213431:4214109](-)
+id: cds-WP_007710795.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710795.1']
+    Key: ID, Value: ['cds-WP_007710795.1']
+    Key: Name, Value: ['WP_007710795.1']
+    Key: Ontology_term, Value: ['GO:0000160', 'GO:0006355', 'GO:0003677']
+    Key: Parent, Value: ['gene-NQ535_RS19150']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: go_process, Value: ['phosphorelay signal transduction system|0000160||IEA', 'regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002585105.1']
+    Key: locus_tag, Value: ['NQ535_RS19150']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['response regulator transcription factor']
+    Key: protein_id, Value: ['WP_007710795.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(response regulator transcription factor, 203-881 (-1))
+type: CDS
+location: [4214195:4215203](-)
+id: cds-WP_007710792.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710792.1']
+    Key: ID, Value: ['cds-WP_007710792.1']
+    Key: Name, Value: ['WP_007710792.1']
+    Key: Parent, Value: ['gene-NQ535_RS19155']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00254.1']
+    Key: locus_tag, Value: ['NQ535_RS19155']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['diguanylate cyclase']
+    Key: protein_id, Value: ['WP_007710792.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(diguanylate cyclase, 967-1975 (-1))
+type: CDS
+location: [4215475:4216333](-)
+id: cds-WP_007710790.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710790.1']
+    Key: ID, Value: ['cds-WP_007710790.1']
+    Key: Name, Value: ['WP_007710790.1']
+    Key: Ontology_term, Value: ['GO:0006310', 'GO:0015074', 'GO:0003677']
+    Key: Parent, Value: ['gene-NQ535_RS19160']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: go_process, Value: ['DNA recombination|0006310||IEA', 'DNA integration|0015074||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002577989.1']
+    Key: locus_tag, Value: ['NQ535_RS19160']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tyrosine-type recombinase/integrase']
+    Key: protein_id, Value: ['WP_007710790.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tyrosine-type recombinase/integrase, 2247-3105 (-1))
+type: CDS
+location: [4217227:4219129](-)
+id: cds-WP_166442385.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_166442385.1']
+    Key: ID, Value: ['cds-WP_166442385.1']
+    Key: Name, Value: ['WP_166442385.1']
+    Key: Parent, Value: ['gene-NQ535_RS19165']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['NQ535_RS19165']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_166442385.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5901 (-1))
+type: CDS
+location: [4219128:4219707](-)
+id: cds-WP_024736758.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_024736758.1']
+    Key: ID, Value: ['cds-WP_024736758.1']
+    Key: Name, Value: ['WP_024736758.1']
+    Key: Parent, Value: ['gene-NQ535_RS19170']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx19']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03984.2']
+    Key: locus_tag, Value: ['NQ535_RS19170']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx19']
+    Key: protein_id, Value: ['WP_024736758.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx19, 5900-6479 (-1))
+type: CDS
+location: [4219663:4221139](-)
+id: cds-WP_007710778.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710778.1']
+    Key: ID, Value: ['cds-WP_007710778.1']
+    Key: Name, Value: ['WP_007710778.1']
+    Key: Parent, Value: ['gene-NQ535_RS19175']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['NQ535_RS19175']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_007710778.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6435-7911 (-1))
+type: CDS
+location: [4221119:4223318](-)
+id: cds-WP_117778253.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_117778253.1']
+    Key: ID, Value: ['cds-WP_117778253.1']
+    Key: Name, Value: ['WP_117778253.1']
+    Key: Parent, Value: ['gene-NQ535_RS19180']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['NQ535_RS19180']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_117778253.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7891-10090 (-1))
+type: CDS
+location: [4223314:4224853](-)
+id: cds-WP_007710772.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710772.1']
+    Key: ID, Value: ['cds-WP_007710772.1']
+    Key: Name, Value: ['WP_007710772.1']
+    Key: Parent, Value: ['gene-NQ535_RS19185']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NQ535_RS19185']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_007710772.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10086-11625 (-1))
+type: CDS
+location: [4224856:4225813](-)
+id: cds-WP_007710759.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710759.1']
+    Key: ID, Value: ['cds-WP_007710759.1']
+    Key: Name, Value: ['WP_007710759.1']
+    Key: Parent, Value: ['gene-NQ535_RS19190']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009299161.1']
+    Key: locus_tag, Value: ['NQ535_RS19190']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6602 domain-containing protein']
+    Key: protein_id, Value: ['WP_007710759.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6602 domain-containing protein, 11628-12585 (-1))
+type: CDS
+location: [4225809:4226718](-)
+id: cds-WP_259956783.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_259956783.1']
+    Key: ID, Value: ['cds-WP_259956783.1']
+    Key: Name, Value: ['WP_259956783.1']
+    Key: Parent, Value: ['gene-NQ535_RS19195']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_018596191.1']
+    Key: locus_tag, Value: ['NQ535_RS19195']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_259956783.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12581-13490 (-1))
+type: CDS
+location: [4226932:4227268](-)
+id: cds-WP_007710753.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710753.1']
+    Key: ID, Value: ['cds-WP_007710753.1']
+    Key: Name, Value: ['WP_007710753.1']
+    Key: Parent, Value: ['gene-NQ535_RS19200']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007869817.1']
+    Key: locus_tag, Value: ['NQ535_RS19200']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1292 domain-containing protein']
+    Key: protein_id, Value: ['WP_007710753.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1292 domain-containing protein, 13704-14040 (-1))
+type: CDS
+location: [4227348:4228098](-)
+id: cds-WP_007710751.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710751.1']
+    Key: ID, Value: ['cds-WP_007710751.1']
+    Key: Name, Value: ['WP_007710751.1']
+    Key: Parent, Value: ['gene-NQ535_RS19205']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014614.4']
+    Key: locus_tag, Value: ['NQ535_RS19205']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cob(I)yrinic acid a,c-diamide adenosyltransferase']
+    Key: protein_id, Value: ['WP_007710751.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cob(I)yrinic acid a,c-diamide adenosyltransferase, 14120-14870 (-1))
+type: CDS
+location: [4228103:4229933](-)
+id: cds-WP_007710749.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_007710749.1']
+    Key: ID, Value: ['cds-WP_007710749.1']
+    Key: Name, Value: ['WP_007710749.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0004386', 'GO:0005524', 'GO:0016887']
+    Key: Parent, Value: ['gene-NQ535_RS19210']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'helicase activity|0004386||IEA', 'ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003526211.1']
+    Key: locus_tag, Value: ['NQ535_RS19210']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-dependent helicase']
+    Key: protein_id, Value: ['WP_007710749.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-dependent helicase, 14875-16705 (-1))
+type: repeat_region
+location: [4216510:4217078](+)
+id: NZ_CP102272.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP102272.1_1']
+    Key: Note, Value: ['ATTTCAATCCACACAGCCTTCGCAGGCTGTGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['568']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3282-3850 (0))
+graphic feature from known effectors: GF(nucc, 11629-12585 (-1))
+[GF(response regulator transcription factor, 203-881 (-1)), GF(diguanylate cyclase, 967-1975 (-1)), GF(tyrosine-type recombinase/integrase, 2247-3105 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5901 (-1)), GF(CRISPR-associated protein Csx19, 5900-6479 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6435-7911 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7891-10090 (-1)), GF(None, 10086-11625 (-1)), GF(DUF6602 domain-containing protein, 11628-12585 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12581-13490 (-1)), GF(DUF1292 domain-containing protein, 13704-14040 (-1)), GF(cob(I)yrinic acid a,c-diamide adenosyltransferase, 14120-14870 (-1)), GF(ATP-dependent helicase, 14875-16705 (-1)), GF(Repeat region, 3282-3850 (0)), GF(nucc, 11629-12585 (-1)), GF(CRISPR-Cas locus, 4000-13502 (0))]

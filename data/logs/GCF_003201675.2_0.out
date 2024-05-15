@@ -1,0 +1,396 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP029287.2  ...  GCF_003201675.2_0  GCF_003201675.2
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP029287.2
+type: CDS
+location: [2508943:2509606](+)
+id: cds-DFR87_RS25970
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36836268']
+    Key: ID, Value: ['cds-DFR87_RS25970']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-DFR87_RS25970']
+    Key: end_range, Value: ['2509606', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717385.1']
+    Key: locus_tag, Value: ['DFR87_RS25970']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4322 domain-containing protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4322 domain-containing protein, 1074-1737 (1))
+type: CDS
+location: [2509648:2510882](+)
+id: cds-DFR87_RS25975
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36836269']
+    Key: ID, Value: ['cds-DFR87_RS25975']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-DFR87_RS25975']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923708.1']
+    Key: locus_tag, Value: ['DFR87_RS25975']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS256 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS256 family transposase, 1779-3013 (1))
+type: CDS
+location: [2510926:2511322](+)
+id: cds-DFR87_RS25980
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36836270']
+    Key: ID, Value: ['cds-DFR87_RS25980']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-DFR87_RS25980']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923664.1']
+    Key: locus_tag, Value: ['DFR87_RS25980']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISH3 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '2510927']
+    Key: transl_table, Value: ['11']
+
+GF(ISH3 family transposase, 3057-3453 (1))
+type: CDS
+location: [2511868:2512768](+)
+id: cds-WP_054837109.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837109.1', 'GeneID:36836271']
+    Key: ID, Value: ['cds-WP_054837109.1']
+    Key: Name, Value: ['WP_054837109.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-DFR87_RS25985']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009988404.1']
+    Key: locus_tag, Value: ['DFR87_RS25985']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_054837109.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 3999-4899 (1))
+type: CDS
+location: [2512777:2513074](+)
+id: cds-WP_054837108.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837108.1', 'GeneID:36836272']
+    Key: ID, Value: ['cds-WP_054837108.1']
+    Key: Name, Value: ['WP_054837108.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-DFR87_RS25990']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012710931.1']
+    Key: locus_tag, Value: ['DFR87_RS25990']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_054837108.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 4908-5205 (1))
+type: CDS
+location: [2513510:2514044](-)
+id: cds-WP_054837107.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837107.1', 'GeneID:36836273']
+    Key: ID, Value: ['cds-WP_054837107.1']
+    Key: Name, Value: ['WP_054837107.1']
+    Key: Parent, Value: ['gene-DFR87_RS25995']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['crn1']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012710935.1']
+    Key: locus_tag, Value: ['DFR87_RS25995']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Crn1']
+    Key: protein_id, Value: ['WP_054837107.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Crn1, 5641-6175 (-1))
+type: CDS
+location: [2514867:2517240](-)
+id: cds-WP_110369681.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369681.1', 'GeneID:36836274']
+    Key: ID, Value: ['cds-WP_110369681.1']
+    Key: Name, Value: ['WP_110369681.1']
+    Key: Parent, Value: ['gene-DFR87_RS26000']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717762.1']
+    Key: locus_tag, Value: ['DFR87_RS26000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hydrolase']
+    Key: protein_id, Value: ['WP_110369681.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hydrolase, 6998-9371 (-1))
+type: CDS
+location: [2517246:2518257](-)
+id: cds-WP_054837106.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837106.1', 'GeneID:36836275']
+    Key: ID, Value: ['cds-WP_054837106.1']
+    Key: Name, Value: ['WP_054837106.1']
+    Key: Parent, Value: ['gene-DFR87_RS26005']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717761.1']
+    Key: locus_tag, Value: ['DFR87_RS26005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_054837106.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9377-10388 (-1))
+type: CDS
+location: [2518253:2519216](-)
+id: cds-WP_240938814.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_240938814.1', 'GeneID:36836276']
+    Key: ID, Value: ['cds-WP_240938814.1']
+    Key: Name, Value: ['WP_240938814.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DFR87_RS26010']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717760.1']
+    Key: locus_tag, Value: ['DFR87_RS26010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_240938814.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 10384-11347 (-1))
+type: CDS
+location: [2519215:2519626](-)
+id: cds-WP_054837105.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837105.1', 'GeneID:36836277']
+    Key: ID, Value: ['cds-WP_054837105.1']
+    Key: Name, Value: ['WP_054837105.1']
+    Key: Parent, Value: ['gene-DFR87_RS26015']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016729965.1']
+    Key: locus_tag, Value: ['DFR87_RS26015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_054837105.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11346-11757 (-1))
+type: CDS
+location: [2519989:2520578](-)
+id: cds-DFR87_RS26020
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36836279']
+    Key: ID, Value: ['cds-DFR87_RS26020']
+    Key: Note, Value: ['frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Ontology_term, Value: ['GO:0006313', 'GO:0003677', 'GO:0004803']
+    Key: Parent, Value: ['gene-DFR87_RS26020']
+    Key: end_range, Value: ['2520578', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'transposase activity|0004803||IEA']
+    Key: go_process, Value: ['transposition, DNA-mediated|0006313||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923028.1']
+    Key: locus_tag, Value: ['DFR87_RS26020']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1 family transposase, 12120-12709 (-1))
+type: CDS
+location: [2521064:2522015](-)
+id: cds-WP_110369712.1-7
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369712.1', 'GeneID:36836280']
+    Key: ID, Value: ['cds-WP_110369712.1-7']
+    Key: Name, Value: ['WP_110369712.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-DFR87_RS26025']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923028.1']
+    Key: locus_tag, Value: ['DFR87_RS26025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1 family transposase']
+    Key: protein_id, Value: ['WP_110369712.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1 family transposase, 13195-14146 (-1))
+type: CDS
+location: [2522283:2522487](-)
+id: cds-WP_168364300.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168364300.1', 'GeneID:54264182']
+    Key: ID, Value: ['cds-WP_168364300.1']
+    Key: Name, Value: ['WP_168364300.1']
+    Key: Parent, Value: ['gene-DFR87_RS26030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DFR87_RS26030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_168364300.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14414-14618 (-1))
+type: CDS
+location: [2522498:2523446](-)
+id: cds-WP_110369683.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369683.1', 'GeneID:36836282']
+    Key: ID, Value: ['cds-WP_110369683.1']
+    Key: Name, Value: ['WP_110369683.1']
+    Key: Parent, Value: ['gene-DFR87_RS26035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016729967.1']
+    Key: locus_tag, Value: ['DFR87_RS26035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_110369683.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14629-15577 (-1))
+type: CDS
+location: [2523967:2524393](-)
+id: cds-WP_054837103.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_054837103.1', 'GeneID:36836284']
+    Key: ID, Value: ['cds-WP_054837103.1']
+    Key: Name, Value: ['WP_054837103.1']
+    Key: Parent, Value: ['gene-DFR87_RS26040']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717754.1']
+    Key: locus_tag, Value: ['DFR87_RS26040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_054837103.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16098-16524 (-1))
+type: CDS
+location: [2524880:2525720](+)
+id: cds-WP_110369685.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369685.1', 'GeneID:36836285']
+    Key: ID, Value: ['cds-WP_110369685.1']
+    Key: Name, Value: ['WP_110369685.1']
+    Key: Parent, Value: ['gene-DFR87_RS26045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012717756.1']
+    Key: locus_tag, Value: ['DFR87_RS26045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_110369685.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 17011-17851 (1))
+type: CDS
+location: [2525948:2526149](-)
+id: cds-DFR87_RS26050
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36836286']
+    Key: ID, Value: ['cds-DFR87_RS26050']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-DFR87_RS26050']
+    Key: end_range, Value: ['2526149', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923028.1']
+    Key: locus_tag, Value: ['DFR87_RS26050']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1 family transposase, 18079-18280 (-1))
+type: CDS
+location: [2527276:2528095](-)
+id: cds-WP_110369686.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369686.1', 'GeneID:36836287']
+    Key: ID, Value: ['cds-WP_110369686.1']
+    Key: Name, Value: ['WP_110369686.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-DFR87_RS26055']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013775186.1']
+    Key: locus_tag, Value: ['DFR87_RS26055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_110369686.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 19407-20226 (-1))
+type: CDS
+location: [2528684:2529560](-)
+id: cds-WP_110369687.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110369687.1', 'GeneID:36836288']
+    Key: ID, Value: ['cds-WP_110369687.1']
+    Key: Name, Value: ['WP_110369687.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DFR87_RS26060']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas4a']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731494.1']
+    Key: locus_tag, Value: ['DFR87_RS26060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-A CRISPR-associated protein Cas4/Csa1']
+    Key: protein_id, Value: ['WP_110369687.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-A CRISPR-associated protein Cas4/Csa1, 20815-21691 (-1))
+type: repeat_region
+location: [2530047:2533301](+)
+id: NZ_CP029287.2_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP029287.2_5']
+    Key: Note, Value: ['GTTGCATCCCAAAAAGGAATTGAAAG']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['3254']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 22178-25432 (0))
+[GF(DUF4322 domain-containing protein, 1074-1737 (1)), GF(IS256 family transposase, 1779-3013 (1)), GF(ISH3 family transposase, 3057-3453 (1)), GF(CRISPR-associated endonuclease Cas1, 3999-4899 (1)), GF(CRISPR-associated endonuclease Cas2, 4908-5205 (1)), GF(CRISPR-associated ring nuclease Crn1, 5641-6175 (-1)), GF(hydrolase, 6998-9371 (-1)), GF(None, 9377-10388 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 10384-11347 (-1)), GF(None, 11346-11757 (-1)), GF(IS1 family transposase, 12120-12709 (-1)), GF(IS1 family transposase, 13195-14146 (-1)), GF(None, 14414-14618 (-1)), GF(None, 14629-15577 (-1)), GF(None, 16098-16524 (-1)), GF(RAMP superfamily CRISPR-associated protein, 17011-17851 (1)), GF(IS1 family transposase, 18079-18280 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 19407-20226 (-1)), GF(type I-A CRISPR-associated protein Cas4/Csa1, 20815-21691 (-1)), GF(Repeat region, 22178-25432 (0)), GF(CRISPR-Cas locus, 4000-21691 (0))]

@@ -1,0 +1,327 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           3  NC_009523.1  ...  GCF_000016665.1_3  GCF_000016665.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_009523.1
+type: CDS
+location: [458353:458569](+)
+id: cds-WP_011955147.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955147.1']
+    Key: ID, Value: ['cds-WP_011955147.1']
+    Key: Name, Value: ['WP_011955147.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01855']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ROSERS_RS01855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicB family antitoxin']
+    Key: protein_id, Value: ['WP_011955147.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicB family antitoxin, 444-660 (1))
+type: CDS
+location: [459529:460507](+)
+id: cds-WP_011955148.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955148.1']
+    Key: ID, Value: ['cds-WP_011955148.1']
+    Key: Name, Value: ['WP_011955148.1']
+    Key: Ontology_term, Value: ['GO:0003824']
+    Key: Parent, Value: ['gene-ROSERS_RS01860']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['catalytic activity|0003824||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997720.1']
+    Key: locus_tag, Value: ['ROSERS_RS01860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NAD-dependent epimerase/dehydratase family protein']
+    Key: protein_id, Value: ['WP_011955148.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NAD-dependent epimerase/dehydratase family protein, 1620-2598 (1))
+type: CDS
+location: [460527:461109](+)
+id: cds-WP_198136343.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_198136343.1']
+    Key: ID, Value: ['cds-WP_198136343.1']
+    Key: Name, Value: ['WP_198136343.1']
+    Key: Ontology_term, Value: ['GO:0071704', 'GO:0004553']
+    Key: Parent, Value: ['gene-ROSERS_RS27100']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity, hydrolyzing O-glycosyl compounds|0004553||IEA']
+    Key: go_process, Value: ['organic substance metabolic process|0071704||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012377.4']
+    Key: locus_tag, Value: ['ROSERS_RS27100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cellulase family glycosylhydrolase']
+    Key: protein_id, Value: ['WP_198136343.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cellulase family glycosylhydrolase, 2618-3200 (1))
+type: CDS
+location: [461147:461672](+)
+id: cds-WP_041332751.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041332751.1']
+    Key: ID, Value: ['cds-WP_041332751.1']
+    Key: Name, Value: ['WP_041332751.1']
+    Key: Ontology_term, Value: ['GO:0071704', 'GO:0004553']
+    Key: Parent, Value: ['gene-ROSERS_RS27105']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity, hydrolyzing O-glycosyl compounds|0004553||IEA']
+    Key: go_process, Value: ['organic substance metabolic process|0071704||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012377.4']
+    Key: locus_tag, Value: ['ROSERS_RS27105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cellulase family glycosylhydrolase']
+    Key: protein_id, Value: ['WP_041332751.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cellulase family glycosylhydrolase, 3238-3763 (1))
+type: CDS
+location: [461908:462679](-)
+id: cds-WP_011955149.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955149.1']
+    Key: ID, Value: ['cds-WP_011955149.1']
+    Key: Name, Value: ['WP_011955149.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01875']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ROSERS_RS01875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['S1 RNA-binding domain protein']
+    Key: protein_id, Value: ['WP_011955149.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(S1 RNA-binding domain protein, 3999-4770 (-1))
+type: CDS
+location: [462681:463647](-)
+id: cds-WP_011955150.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955150.1']
+    Key: ID, Value: ['cds-WP_011955150.1']
+    Key: Name, Value: ['WP_011955150.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997723.1']
+    Key: locus_tag, Value: ['ROSERS_RS01880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_011955150.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 4772-5738 (-1))
+type: CDS
+location: [463643:464123](-)
+id: cds-WP_011955151.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955151.1']
+    Key: ID, Value: ['cds-WP_011955151.1']
+    Key: Name, Value: ['WP_011955151.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997724.1']
+    Key: locus_tag, Value: ['ROSERS_RS01885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011955151.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5734-6214 (-1))
+type: CDS
+location: [464119:465184](-)
+id: cds-WP_011955152.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955152.1']
+    Key: ID, Value: ['cds-WP_011955152.1']
+    Key: Name, Value: ['WP_011955152.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01890']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997725.1']
+    Key: locus_tag, Value: ['ROSERS_RS01890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_011955152.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6210-7275 (-1))
+type: CDS
+location: [465176:466046](-)
+id: cds-WP_011955153.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955153.1']
+    Key: ID, Value: ['cds-WP_011955153.1']
+    Key: Name, Value: ['WP_011955153.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ROSERS_RS01895']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx7']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997726.1']
+    Key: locus_tag, Value: ['ROSERS_RS01895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated RAMP protein Csx7']
+    Key: protein_id, Value: ['WP_011955153.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated RAMP protein Csx7, 7267-8137 (-1))
+type: CDS
+location: [466035:466506](-)
+id: cds-WP_011955154.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955154.1']
+    Key: ID, Value: ['cds-WP_011955154.1']
+    Key: Name, Value: ['WP_011955154.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01900']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997727.1']
+    Key: locus_tag, Value: ['ROSERS_RS01900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011955154.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8126-8597 (-1))
+type: CDS
+location: [466486:467668](-)
+id: cds-WP_011955155.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955155.1']
+    Key: ID, Value: ['cds-WP_011955155.1']
+    Key: Name, Value: ['WP_011955155.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997728.1']
+    Key: locus_tag, Value: ['ROSERS_RS01905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_011955155.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 8577-9759 (-1))
+type: CDS
+location: [467664:468318](-)
+id: cds-WP_011955156.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955156.1']
+    Key: ID, Value: ['cds-WP_011955156.1']
+    Key: Name, Value: ['WP_011955156.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01910']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997729.1']
+    Key: locus_tag, Value: ['ROSERS_RS01910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_011955156.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9755-10409 (-1))
+type: CDS
+location: [468314:470489](-)
+id: cds-WP_011955157.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955157.1']
+    Key: ID, Value: ['cds-WP_011955157.1']
+    Key: Name, Value: ['WP_011955157.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01915']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997730.1']
+    Key: locus_tag, Value: ['ROSERS_RS01915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hydrolase']
+    Key: protein_id, Value: ['WP_011955157.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hydrolase, 10405-12580 (-1))
+type: CDS
+location: [470743:471796](-)
+id: cds-WP_011955158.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955158.1']
+    Key: ID, Value: ['cds-WP_011955158.1']
+    Key: Name, Value: ['WP_011955158.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01920']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006560629.1']
+    Key: locus_tag, Value: ['ROSERS_RS01920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_011955158.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12834-13887 (-1))
+type: CDS
+location: [472079:473132](+)
+id: cds-WP_011955159.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011955159.1']
+    Key: ID, Value: ['cds-WP_011955159.1']
+    Key: Name, Value: ['WP_011955159.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011997737.1']
+    Key: locus_tag, Value: ['ROSERS_RS01925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['thermonuclease family protein']
+    Key: protein_id, Value: ['WP_011955159.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(thermonuclease family protein, 14170-15223 (1))
+type: CDS
+location: [473365:474139](-)
+id: cds-WP_232282744.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_232282744.1']
+    Key: ID, Value: ['cds-WP_232282744.1']
+    Key: Name, Value: ['WP_232282744.1']
+    Key: Parent, Value: ['gene-ROSERS_RS01930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024751.4']
+    Key: locus_tag, Value: ['ROSERS_RS01930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_232282744.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 15456-16230 (-1))
+type: CDS
+location: [474254:474557](-)
+id: cds-WP_232282745.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_232282745.1']
+    Key: ID, Value: ['cds-WP_232282745.1']
+    Key: Name, Value: ['WP_232282745.1']
+    Key: Ontology_term, Value: ['GO:0043565']
+    Key: Parent, Value: ['gene-ROSERS_RS26630']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['sequence-specific DNA binding|0043565||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024940.4']
+    Key: locus_tag, Value: ['ROSERS_RS26630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix domain-containing protein']
+    Key: protein_id, Value: ['WP_232282745.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix domain-containing protein, 16345-16648 (-1))
+[GF(type II toxin-antitoxin system HicB family antitoxin, 444-660 (1)), GF(NAD-dependent epimerase/dehydratase family protein, 1620-2598 (1)), GF(cellulase family glycosylhydrolase, 2618-3200 (1)), GF(cellulase family glycosylhydrolase, 3238-3763 (1)), GF(S1 RNA-binding domain protein, 3999-4770 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4772-5738 (-1)), GF(None, 5734-6214 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6210-7275 (-1)), GF(CRISPR-associated RAMP protein Csx7, 7267-8137 (-1)), GF(None, 8126-8597 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8577-9759 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9755-10409 (-1)), GF(hydrolase, 10405-12580 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12834-13887 (-1)), GF(thermonuclease family protein, 14170-15223 (1)), GF(transposase, 15456-16230 (-1)), GF(helix-turn-helix domain-containing protein, 16345-16648 (-1)), GF(CRISPR-Cas locus, 4000-13887 (0))]

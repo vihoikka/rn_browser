@@ -1,0 +1,279 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_014122.1  ...  GCF_000092305.1_1  GCF_000092305.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_014122.1
+type: CDS
+location: [146650:148426](+)
+id: cds-WP_048203260.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048203260.1', 'GeneID:9131158']
+    Key: ID, Value: ['cds-WP_048203260.1']
+    Key: Name, Value: ['WP_048203260.1']
+    Key: Ontology_term, Value: ['GO:0008152', 'GO:0016853', 'GO:0051539', 'GO:1904047']
+    Key: Parent, Value: ['gene-METIN_RS00775']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['isomerase activity|0016853||IEA', '4 iron, 4 sulfur cluster binding|0051539||IEA', 'S-adenosyl-L-methionine binding|1904047||IEA']
+    Key: go_process, Value: ['metabolic process|0008152||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004592020.1']
+    Key: locus_tag, Value: ['METIN_RS00775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['KamA family radical SAM protein']
+    Key: protein_id, Value: ['WP_048203260.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(KamA family radical SAM protein, 635-2411 (1))
+type: CDS
+location: [148422:149418](-)
+id: cds-WP_013099577.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099577.1', 'GeneID:9131159']
+    Key: ID, Value: ['cds-WP_013099577.1']
+    Key: Name, Value: ['WP_013099577.1']
+    Key: Ontology_term, Value: ['GO:0015948', 'GO:0018537', 'GO:0070967']
+    Key: Parent, Value: ['gene-METIN_RS00780']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['mer']
+    Key: go_function, Value: ['coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase activity|0018537||IEA', 'coenzyme F420 binding|0070967||IEA']
+    Key: go_process, Value: ['methanogenesis|0015948||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013799427.1']
+    Key: locus_tag, Value: ['METIN_RS00780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['5,10-methylenetetrahydromethanopterin reductase']
+    Key: protein_id, Value: ['WP_013099577.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(5,10-methylenetetrahydromethanopterin reductase, 2407-3403 (-1))
+type: CDS
+location: [149561:149954](+)
+id: cds-WP_013099578.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099578.1', 'GeneID:9131160']
+    Key: ID, Value: ['cds-WP_013099578.1']
+    Key: Name, Value: ['WP_013099578.1']
+    Key: Ontology_term, Value: ['GO:0004540']
+    Key: Parent, Value: ['gene-METIN_RS00785']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['RNA nuclease activity|0004540||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010870837.1']
+    Key: locus_tag, Value: ['METIN_RS00785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PIN domain-containing protein']
+    Key: protein_id, Value: ['WP_013099578.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PIN domain-containing protein, 3546-3939 (1))
+type: CDS
+location: [150014:151295](+)
+id: cds-WP_013099579.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099579.1', 'GeneID:9131161']
+    Key: ID, Value: ['cds-WP_013099579.1']
+    Key: Name, Value: ['WP_013099579.1']
+    Key: Parent, Value: ['gene-METIN_RS00790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['METIN_RS00790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013099579.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 3999-5280 (1))
+type: CDS
+location: [151287:151677](+)
+id: cds-WP_013099580.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099580.1', 'GeneID:9131162']
+    Key: ID, Value: ['cds-WP_013099580.1']
+    Key: Name, Value: ['WP_013099580.1']
+    Key: Parent, Value: ['gene-METIN_RS00795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['METIN_RS00795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013099580.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5272-5662 (1))
+type: CDS
+location: [151678:152536](+)
+id: cds-WP_013099581.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099581.1', 'GeneID:9131163']
+    Key: ID, Value: ['cds-WP_013099581.1']
+    Key: Name, Value: ['WP_013099581.1']
+    Key: Parent, Value: ['gene-METIN_RS00800']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015733371.1']
+    Key: locus_tag, Value: ['METIN_RS00800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013099581.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 5663-6521 (1))
+type: CDS
+location: [152537:153860](+)
+id: cds-WP_048203262.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048203262.1', 'GeneID:9131164']
+    Key: ID, Value: ['cds-WP_048203262.1']
+    Key: Name, Value: ['WP_048203262.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-METIN_RS00805']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['METIN_RS00805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_048203262.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 6522-7845 (1))
+type: CDS
+location: [153856:154996](+)
+id: cds-WP_013099583.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099583.1', 'GeneID:9131165']
+    Key: ID, Value: ['cds-WP_013099583.1']
+    Key: Name, Value: ['WP_013099583.1']
+    Key: Parent, Value: ['gene-METIN_RS00810']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['METIN_RS00810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013099583.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7841-8981 (1))
+type: CDS
+location: [154997:158597](+)
+id: cds-WP_048203263.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048203263.1', 'GeneID:9131166']
+    Key: ID, Value: ['cds-WP_048203263.1']
+    Key: Name, Value: ['WP_048203263.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-METIN_RS00815']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02682.1']
+    Key: locus_tag, Value: ['METIN_RS00815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_048203263.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 8982-12582 (1))
+type: CDS
+location: [158593:159460](-)
+id: cds-WP_048203265.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048203265.1', 'GeneID:9131167']
+    Key: ID, Value: ['cds-WP_048203265.1']
+    Key: Name, Value: ['WP_048203265.1']
+    Key: Parent, Value: ['gene-METIN_RS00820']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012819671.1']
+    Key: locus_tag, Value: ['METIN_RS00820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR00341 family protein']
+    Key: protein_id, Value: ['WP_048203265.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR00341 family protein, 12578-13445 (-1))
+type: CDS
+location: [159431:159803](-)
+id: cds-WP_198002841.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_198002841.1', 'GeneID:9131168']
+    Key: ID, Value: ['cds-WP_198002841.1']
+    Key: Name, Value: ['WP_198002841.1']
+    Key: Ontology_term, Value: ['GO:0000105', 'GO:0004635']
+    Key: Parent, Value: ['gene-METIN_RS00825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['hisI']
+    Key: go_function, Value: ['phosphoribosyl-AMP cyclohydrolase activity|0004635||IEA']
+    Key: go_process, Value: ['histidine biosynthetic process|0000105||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004590288.1']
+    Key: locus_tag, Value: ['METIN_RS00825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphoribosyl-AMP cyclohydrolase']
+    Key: protein_id, Value: ['WP_198002841.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphoribosyl-AMP cyclohydrolase, 13416-13788 (-1))
+type: CDS
+location: [159790:160339](-)
+id: cds-WP_013099587.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099587.1', 'GeneID:9131169']
+    Key: ID, Value: ['cds-WP_013099587.1']
+    Key: Name, Value: ['WP_013099587.1']
+    Key: Parent, Value: ['gene-METIN_RS00830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017981082.1']
+    Key: locus_tag, Value: ['METIN_RS00830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['UbiX family flavin prenyltransferase']
+    Key: protein_id, Value: ['WP_013099587.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(UbiX family flavin prenyltransferase, 13775-14324 (-1))
+type: CDS
+location: [160335:160890](-)
+id: cds-WP_013099588.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013099588.1', 'GeneID:9131170']
+    Key: ID, Value: ['cds-WP_013099588.1']
+    Key: Name, Value: ['WP_013099588.1']
+    Key: Parent, Value: ['gene-METIN_RS00835']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004592125.1']
+    Key: locus_tag, Value: ['METIN_RS00835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF99 family protein']
+    Key: protein_id, Value: ['WP_013099588.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF99 family protein, 14320-14875 (-1))
+type: CDS
+location: [160959:161978](+)
+id: cds-METIN_RS00840
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:9131171']
+    Key: ID, Value: ['cds-METIN_RS00840']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-METIN_RS00840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010870588.1']
+    Key: locus_tag, Value: ['METIN_RS00840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 14944-15963 (1))
+[GF(KamA family radical SAM protein, 635-2411 (1)), GF(5,10-methylenetetrahydromethanopterin reductase, 2407-3403 (-1)), GF(PIN domain-containing protein, 3546-3939 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5280 (1)), GF(None, 5272-5662 (1)), GF(RAMP superfamily CRISPR-associated protein, 5663-6521 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 6522-7845 (1)), GF(RAMP superfamily CRISPR-associated protein, 7841-8981 (1)), GF(CRISPR-associated protein Csx11, 8982-12582 (1)), GF(TIGR00341 family protein, 12578-13445 (-1)), GF(phosphoribosyl-AMP cyclohydrolase, 13416-13788 (-1)), GF(UbiX family flavin prenyltransferase, 13775-14324 (-1)), GF(DUF99 family protein, 14320-14875 (-1)), GF(ATP-binding protein, 14944-15963 (1)), GF(CRISPR-Cas locus, 4000-12582 (0))]

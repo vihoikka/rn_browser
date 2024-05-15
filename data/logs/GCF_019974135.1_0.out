@@ -1,0 +1,355 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_AP025017.1  ...  GCF_019974135.1_0  GCF_019974135.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_AP025017.1
+type: CDS
+location: [2893798:2894302](+)
+id: cds-WP_179901418.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_179901418.1']
+    Key: ID, Value: ['cds-WP_179901418.1']
+    Key: Name, Value: ['WP_179901418.1']
+    Key: Ontology_term, Value: ['GO:0006355']
+    Key: Parent, Value: ['gene-MANAM107_RS11850']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['nusB']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009233015.1']
+    Key: locus_tag, Value: ['MANAM107_RS11850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transcription antitermination factor NusB']
+    Key: protein_id, Value: ['WP_179901418.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transcription antitermination factor NusB, 66-570 (1))
+type: CDS
+location: [2894415:2895135](+)
+id: cds-WP_223908900.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908900.1']
+    Key: ID, Value: ['cds-WP_223908900.1']
+    Key: Name, Value: ['WP_223908900.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11855']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MANAM107_RS11855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_223908900.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 683-1403 (1))
+type: CDS
+location: [2895136:2895799](-)
+id: cds-WP_223908907.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908907.1']
+    Key: ID, Value: ['cds-WP_223908907.1']
+    Key: Name, Value: ['WP_223908907.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11860']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017195233.1']
+    Key: locus_tag, Value: ['MANAM107_RS11860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FMN-binding negative transcriptional regulator']
+    Key: protein_id, Value: ['WP_223908907.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FMN-binding negative transcriptional regulator, 1404-2067 (-1))
+type: CDS
+location: [2895820:2896513](-)
+id: cds-WP_179901416.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_179901416.1']
+    Key: ID, Value: ['cds-WP_179901416.1']
+    Key: Name, Value: ['WP_179901416.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11865']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017195233.1']
+    Key: locus_tag, Value: ['MANAM107_RS11865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FMN-binding negative transcriptional regulator']
+    Key: protein_id, Value: ['WP_179901416.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FMN-binding negative transcriptional regulator, 2088-2781 (-1))
+type: CDS
+location: [2897767:2899813](+)
+id: cds-WP_223908917.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908917.1']
+    Key: ID, Value: ['cds-WP_223908917.1']
+    Key: Name, Value: ['WP_223908917.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-MANAM107_RS11870']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['MANAM107_RS11870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_223908917.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4035-6081 (1))
+type: CDS
+location: [2899803:2900091](+)
+id: cds-WP_223908919.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908919.1']
+    Key: ID, Value: ['cds-WP_223908919.1']
+    Key: Name, Value: ['WP_223908919.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-MANAM107_RS11875']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009747600.1']
+    Key: locus_tag, Value: ['MANAM107_RS11875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_223908919.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 6071-6359 (1))
+type: CDS
+location: [2901677:2903549](+)
+id: cds-WP_223908923.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908923.1']
+    Key: ID, Value: ['cds-WP_223908923.1']
+    Key: Name, Value: ['WP_223908923.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MANAM107_RS11880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_223908923.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7945-9817 (1))
+type: CDS
+location: [2903545:2905576](+)
+id: cds-WP_223908926.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908926.1']
+    Key: ID, Value: ['cds-WP_223908926.1']
+    Key: Name, Value: ['WP_223908926.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009406291.1']
+    Key: locus_tag, Value: ['MANAM107_RS11885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_223908926.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 9813-11844 (1))
+type: CDS
+location: [2905572:2907165](+)
+id: cds-WP_223908929.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908929.1']
+    Key: ID, Value: ['cds-WP_223908929.1']
+    Key: Name, Value: ['WP_223908929.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11890']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['MANAM107_RS11890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_223908929.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 11840-13433 (1))
+type: CDS
+location: [2907164:2907704](+)
+id: cds-WP_223908932.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908932.1']
+    Key: ID, Value: ['cds-WP_223908932.1']
+    Key: Name, Value: ['WP_223908932.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11895']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MANAM107_RS11895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_223908932.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13432-13972 (1))
+type: CDS
+location: [2907741:2909907](+)
+id: cds-WP_223908934.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908934.1']
+    Key: ID, Value: ['cds-WP_223908934.1']
+    Key: Name, Value: ['WP_223908934.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11900']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['MANAM107_RS11900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_223908934.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 14009-16175 (1))
+type: CDS
+location: [2910091:2912539](+)
+id: cds-WP_223908936.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908936.1']
+    Key: ID, Value: ['cds-WP_223908936.1']
+    Key: Name, Value: ['WP_223908936.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MANAM107_RS11905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_223908936.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16359-18807 (1))
+type: CDS
+location: [2912535:2914182](+)
+id: cds-WP_223908943.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908943.1']
+    Key: ID, Value: ['cds-WP_223908943.1']
+    Key: Name, Value: ['WP_223908943.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11910']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MANAM107_RS11910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_223908943.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18803-20450 (1))
+type: CDS
+location: [2914338:2915145](-)
+id: cds-WP_223908946.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908946.1']
+    Key: ID, Value: ['cds-WP_223908946.1']
+    Key: Name, Value: ['WP_223908946.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11915']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009400119.1']
+    Key: locus_tag, Value: ['MANAM107_RS11915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_223908946.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20606-21413 (-1))
+type: CDS
+location: [2915297:2916605](-)
+id: cds-WP_223908954.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908954.1']
+    Key: ID, Value: ['cds-WP_223908954.1']
+    Key: Name, Value: ['WP_223908954.1']
+    Key: Parent, Value: ['gene-MANAM107_RS11920']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012925.3']
+    Key: locus_tag, Value: ['MANAM107_RS11920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycoside hydrolase family 16 protein']
+    Key: protein_id, Value: ['WP_223908954.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycoside hydrolase family 16 protein, 21565-22873 (-1))
+type: CDS
+location: [2917011:2917902](-)
+id: cds-WP_223908956.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908956.1']
+    Key: ID, Value: ['cds-WP_223908956.1']
+    Key: Name, Value: ['WP_223908956.1']
+    Key: Ontology_term, Value: ['GO:0016655']
+    Key: Parent, Value: ['gene-MANAM107_RS11925']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor|0016655||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009647730.1']
+    Key: locus_tag, Value: ['MANAM107_RS11925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SDR family oxidoreductase']
+    Key: protein_id, Value: ['WP_223908956.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(SDR family oxidoreductase, 23279-24170 (-1))
+type: CDS
+location: [2918556:2919177](+)
+id: cds-WP_223908959.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223908959.1']
+    Key: ID, Value: ['cds-WP_223908959.1']
+    Key: Name, Value: ['WP_223908959.1']
+    Key: Ontology_term, Value: ['GO:0009116']
+    Key: Parent, Value: ['gene-MANAM107_RS11930']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['pyrR']
+    Key: go_process, Value: ['nucleoside metabolic process|0009116||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017178641.1']
+    Key: locus_tag, Value: ['MANAM107_RS11930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR']
+    Key: protein_id, Value: ['WP_223908959.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR, 24824-25445 (1))
+type: repeat_region
+location: [2896983:2897667](+)
+id: NZ_AP025017.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_AP025017.1_3']
+    Key: Note, Value: ['GTCAGAAGGCACCCCGCGCCATAAGGTGCATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['684']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3251-3935 (0))
+type: repeat_region
+location: [2900380:2900992](+)
+id: NZ_AP025017.1-33_6
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_AP025017.1-33_6']
+    Key: Note, Value: ['GTCAGAAGGCACCCCGCGCCATAAGGTGCATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['612']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 6648-7260 (0))
+graphic feature from validated effectors: GF(can3, 16360-18807 (1))
+graphic feature from known effectors: GF(cora, 18804-20450 (1))
+[GF(transcription antitermination factor NusB, 66-570 (1)), GF(None, 683-1403 (1)), GF(FMN-binding negative transcriptional regulator, 1404-2067 (-1)), GF(FMN-binding negative transcriptional regulator, 2088-2781 (-1)), GF(CRISPR-associated endonuclease Cas1, 4035-6081 (1)), GF(CRISPR-associated endonuclease Cas2, 6071-6359 (1)), GF(None, 7945-9817 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 9813-11844 (1)), GF(RAMP superfamily CRISPR-associated protein, 11840-13433 (1)), GF(None, 13432-13972 (1)), GF(RAMP superfamily CRISPR-associated protein, 14009-16175 (1)), GF(None, 16359-18807 (1)), GF(None, 18803-20450 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20606-21413 (-1)), GF(glycoside hydrolase family 16 protein, 21565-22873 (-1)), GF(SDR family oxidoreductase, 23279-24170 (-1)), GF(bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR, 24824-25445 (1)), GF(Repeat region, 3251-3935 (0)), GF(Repeat region, 6648-7260 (0)), GF(can3, 16360-18807 (1)), GF(cora, 18804-20450 (1)), GF(CRISPR-Cas locus, 4000-21494 (0))]

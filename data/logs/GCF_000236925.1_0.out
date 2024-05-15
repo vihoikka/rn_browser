@@ -1,0 +1,403 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_016941.1  ...  GCF_000236925.1_0  GCF_000236925.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_016941.1
+type: CDS
+location: [58455:58740](-)
+id: cds-SAMSHR1132_RS14035
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:66840977']
+    Key: ID, Value: ['cds-SAMSHR1132_RS14035']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS14035']
+    Key: end_range, Value: ['58740', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002494449.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS14035']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 37-322 (-1))
+type: CDS
+location: [58782:60033](-)
+id: cds-SAMSHR1132_RS00260
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:66838385']
+    Key: ID, Value: ['cds-SAMSHR1132_RS00260']
+    Key: Note, Value: ['internal stop']
+    Key: Ontology_term, Value: ['GO:0009307', 'GO:0009035', 'GO:0019812']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00260']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['type I site-specific deoxyribonuclease complex|0019812||IEA']
+    Key: go_function, Value: ['type I site-specific deoxyribonuclease activity|0009035||IEA']
+    Key: go_process, Value: ['DNA restriction-modification system|0009307||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF023295.4']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HsdR family type I site-specific deoxyribonuclease']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HsdR family type I site-specific deoxyribonuclease, 364-1615 (-1))
+type: CDS
+location: [60020:60893](-)
+id: cds-WP_318842418.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_318842418.1', 'GeneID:66840979']
+    Key: ID, Value: ['cds-WP_318842418.1']
+    Key: Name, Value: ['WP_318842418.1']
+    Key: Ontology_term, Value: ['GO:0006304', 'GO:0003677', 'GO:0004519']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS14045']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'endonuclease activity|0004519||IEA']
+    Key: go_process, Value: ['DNA modification|0006304||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF016724.4']
+    Key: locus_tag, Value: ['SAMSHR1132_RS14045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I restriction endonuclease']
+    Key: protein_id, Value: ['WP_318842418.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I restriction endonuclease, 1602-2475 (-1))
+type: CDS
+location: [61018:61645](-)
+id: cds-WP_000567257.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000567257.1', 'GeneID:66838386']
+    Key: ID, Value: ['cds-WP_000567257.1']
+    Key: Name, Value: ['WP_000567257.1']
+    Key: Ontology_term, Value: ['GO:0006304', 'GO:0003677']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00265']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: go_process, Value: ['DNA modification|0006304||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000567257.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['restriction endonuclease subunit S']
+    Key: protein_id, Value: ['WP_000567257.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(restriction endonuclease subunit S, 2600-3227 (-1))
+type: CDS
+location: [62417:63323](+)
+id: cds-WP_000655858.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000655858.1', 'GeneID:66838387']
+    Key: ID, Value: ['cds-WP_000655858.1']
+    Key: Name, Value: ['WP_000655858.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0051607', 'GO:0003676', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00270']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA', 'defense response to virus|0051607||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002502667.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_000655858.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II CRISPR-associated endonuclease Cas1, 3999-4905 (1))
+type: CDS
+location: [63322:63628](+)
+id: cds-WP_000281075.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000281075.1', 'GeneID:66838388']
+    Key: ID, Value: ['cds-WP_000281075.1']
+    Key: Name, Value: ['WP_000281075.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00275']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000281076.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_000281075.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 4904-5210 (1))
+type: CDS
+location: [63641:65915](+)
+id: cds-WP_000359018.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000359018.1', 'GeneID:66838389']
+    Key: ID, Value: ['cds-WP_000359018.1']
+    Key: Name, Value: ['WP_000359018.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00280']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002502666.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_000359018.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 5223-7497 (1))
+type: CDS
+location: [65917:66343](+)
+id: cds-WP_000599363.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000599363.1', 'GeneID:66838390']
+    Key: ID, Value: ['cds-WP_000599363.1']
+    Key: Name, Value: ['WP_000599363.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00285']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000599362.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_000599363.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 7499-7925 (1))
+type: CDS
+location: [66344:66989](+)
+id: cds-WP_000286996.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000286996.1', 'GeneID:66838391']
+    Key: ID, Value: ['cds-WP_000286996.1']
+    Key: Name, Value: ['WP_000286996.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00290']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002486018.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_000286996.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7926-8571 (1))
+type: CDS
+location: [66999:67908](+)
+id: cds-WP_000208938.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000208938.1', 'GeneID:66838392']
+    Key: ID, Value: ['cds-WP_000208938.1']
+    Key: Name, Value: ['WP_000208938.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00295']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002502663.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_000208938.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 8581-9490 (1))
+type: CDS
+location: [67910:68933](+)
+id: cds-WP_000153150.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000153150.1', 'GeneID:66838393']
+    Key: ID, Value: ['cds-WP_000153150.1']
+    Key: Name, Value: ['WP_000153150.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00300']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002486031.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_000153150.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 9492-10515 (1))
+type: CDS
+location: [68932:70201](+)
+id: cds-WP_000865882.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000865882.1', 'GeneID:66838394']
+    Key: ID, Value: ['cds-WP_000865882.1']
+    Key: Name, Value: ['WP_000865882.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00305']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002502662.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated CARF protein Csm6']
+    Key: protein_id, Value: ['WP_000865882.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated CARF protein Csm6, 10514-11783 (1))
+type: CDS
+location: [70197:70932](+)
+id: cds-WP_000608706.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000608706.1', 'GeneID:66838395']
+    Key: ID, Value: ['cds-WP_000608706.1']
+    Key: Name, Value: ['WP_000608706.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00310']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002502661.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_000608706.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 11779-12514 (1))
+type: CDS
+location: [72124:73651](+)
+id: cds-WP_000359390.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000359390.1', 'GeneID:66838396']
+    Key: ID, Value: ['cds-WP_000359390.1']
+    Key: Name, Value: ['WP_000359390.1']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00320']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002464583.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RNA-directed DNA polymerase']
+    Key: protein_id, Value: ['WP_000359390.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RNA-directed DNA polymerase, 13706-15233 (1))
+type: CDS
+location: [74370:74652](+)
+id: cds-WP_001171263.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_001171263.1', 'GeneID:66838397']
+    Key: ID, Value: ['cds-WP_001171263.1']
+    Key: Name, Value: ['WP_001171263.1']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00330']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_001171263.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15952-16234 (1))
+type: CDS
+location: [74862:75849](-)
+id: cds-WP_000662038.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000662038.1', 'GeneID:66838398']
+    Key: ID, Value: ['cds-WP_000662038.1']
+    Key: Name, Value: ['WP_000662038.1']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00335']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000662030.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tRNA-dihydrouridine synthase']
+    Key: protein_id, Value: ['WP_000662038.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tRNA-dihydrouridine synthase, 16444-17431 (-1))
+type: CDS
+location: [76157:76361](+)
+id: cds-WP_000502636.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000502636.1', 'GeneID:66838399']
+    Key: ID, Value: ['cds-WP_000502636.1']
+    Key: Name, Value: ['WP_000502636.1']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00340']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:YP_498646.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00340']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6007 family protein']
+    Key: protein_id, Value: ['WP_000502636.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6007 family protein, 17739-17943 (1))
+type: CDS
+location: [76409:76706](+)
+id: cds-WP_000190004.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_000190004.1', 'GeneID:66838400']
+    Key: ID, Value: ['cds-WP_000190004.1']
+    Key: Name, Value: ['WP_000190004.1']
+    Key: Parent, Value: ['gene-SAMSHR1132_RS00345']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_000179889.1']
+    Key: locus_tag, Value: ['SAMSHR1132_RS00345']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TfoX/Sxy family protein']
+    Key: protein_id, Value: ['WP_000190004.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TfoX/Sxy family protein, 17991-18288 (1))
+type: repeat_region
+location: [61874:62344](+)
+id: NC_016941.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_016941.1_1']
+    Key: Note, Value: ['GATCGATAACTACCCCGAAGAATAGGGGACGAGAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['470']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3456-3926 (0))
+type: repeat_region
+location: [71063:71389](+)
+id: NC_016941.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_016941.1_2']
+    Key: Note, Value: ['TATTCGATAAATACCCCGGAGAACAGGGGGCGAAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['326']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 12645-12971 (0))
+graphic feature from known effectors: GF(csm6-ca6, 10515-11783 (1))
+[GF(transposase, 37-322 (-1)), GF(HsdR family type I site-specific deoxyribonuclease, 364-1615 (-1)), GF(type I restriction endonuclease, 1602-2475 (-1)), GF(restriction endonuclease subunit S, 2600-3227 (-1)), GF(type II CRISPR-associated endonuclease Cas1, 3999-4905 (1)), GF(CRISPR-associated endonuclease Cas2, 4904-5210 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5223-7497 (1)), GF(type III-A CRISPR-associated protein Csm2, 7499-7925 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7926-8571 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8581-9490 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9492-10515 (1)), GF(type III-A CRISPR-associated CARF protein Csm6, 10514-11783 (1)), GF(CRISPR-associated endoribonuclease Cas6, 11779-12514 (1)), GF(RNA-directed DNA polymerase, 13706-15233 (1)), GF(None, 15952-16234 (1)), GF(tRNA-dihydrouridine synthase, 16444-17431 (-1)), GF(DUF6007 family protein, 17739-17943 (1)), GF(TfoX/Sxy family protein, 17991-18288 (1)), GF(Repeat region, 3456-3926 (0)), GF(Repeat region, 12645-12971 (0)), GF(csm6-ca6, 10515-11783 (1)), GF(CRISPR-Cas locus, 4000-15233 (0))]

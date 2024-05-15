@@ -1,0 +1,599 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_008344.1  ...  GCF_000014765.1_1  GCF_000014765.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_008344.1
+type: CDS
+location: [2340456:2341686](+)
+id: cds-WP_207204473.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_207204473.1']
+    Key: ID, Value: ['cds-WP_207204473.1']
+    Key: Name, Value: ['WP_207204473.1']
+    Key: Parent, Value: ['gene-NEUT_RS11230']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019310.2']
+    Key: locus_tag, Value: ['NEUT_RS11230']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MFS transporter']
+    Key: protein_id, Value: ['WP_207204473.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MFS transporter, 240-1470 (1))
+type: CDS
+location: [2343060:2343993](+)
+id: cds-WP_011635224.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635224.1']
+    Key: ID, Value: ['cds-WP_011635224.1']
+    Key: Name, Value: ['WP_011635224.1']
+    Key: Parent, Value: ['gene-NEUT_RS11240']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEUT_RS11240']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011635224.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2844-3777 (1))
+type: CDS
+location: [2344043:2344214](-)
+id: cds-WP_160803437.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_160803437.1']
+    Key: ID, Value: ['cds-WP_160803437.1']
+    Key: Name, Value: ['WP_160803437.1']
+    Key: Parent, Value: ['gene-NEUT_RS14785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEUT_RS14785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_160803437.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3827-3998 (-1))
+type: CDS
+location: [2344251:2346834](+)
+id: cds-WP_041353579.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041353579.1']
+    Key: ID, Value: ['cds-WP_041353579.1']
+    Key: Name, Value: ['WP_041353579.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11250']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110775.1']
+    Key: locus_tag, Value: ['NEUT_RS11250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_041353579.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 4035-6618 (1))
+type: CDS
+location: [2346916:2347288](+)
+id: cds-WP_011635226.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635226.1']
+    Key: ID, Value: ['cds-WP_011635226.1']
+    Key: Name, Value: ['WP_011635226.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11255']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110774.1']
+    Key: locus_tag, Value: ['NEUT_RS11255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_011635226.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 6700-7072 (1))
+type: CDS
+location: [2347340:2348057](+)
+id: cds-WP_011635227.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635227.1']
+    Key: ID, Value: ['cds-WP_011635227.1']
+    Key: Name, Value: ['WP_011635227.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11260']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011635227.1']
+    Key: locus_tag, Value: ['NEUT_RS11260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_011635227.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 7124-7841 (1))
+type: CDS
+location: [2348061:2349030](+)
+id: cds-WP_011635228.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635228.1']
+    Key: ID, Value: ['cds-WP_011635228.1']
+    Key: Name, Value: ['WP_011635228.1']
+    Key: Parent, Value: ['gene-NEUT_RS11265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110772.1']
+    Key: locus_tag, Value: ['NEUT_RS11265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011635228.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7845-8814 (1))
+type: CDS
+location: [2349026:2350628](+)
+id: cds-WP_011635229.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635229.1']
+    Key: ID, Value: ['cds-WP_011635229.1']
+    Key: Name, Value: ['WP_011635229.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11270']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['NEUT_RS11270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_011635229.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 8810-10412 (1))
+type: CDS
+location: [2350650:2351607](+)
+id: cds-WP_011635230.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635230.1']
+    Key: ID, Value: ['cds-WP_011635230.1']
+    Key: Name, Value: ['WP_011635230.1']
+    Key: Parent, Value: ['gene-NEUT_RS11275']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110769.1']
+    Key: locus_tag, Value: ['NEUT_RS11275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_011635230.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10434-11391 (1))
+type: CDS
+location: [2351603:2351900](+)
+id: cds-WP_011635231.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635231.1']
+    Key: ID, Value: ['cds-WP_011635231.1']
+    Key: Name, Value: ['WP_011635231.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11280']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx16']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110768.1']
+    Key: locus_tag, Value: ['NEUT_RS11280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx16']
+    Key: protein_id, Value: ['WP_011635231.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx16, 11387-11684 (1))
+type: CDS
+location: [2351896:2353066](+)
+id: cds-WP_011635232.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635232.1']
+    Key: ID, Value: ['cds-WP_011635232.1']
+    Key: Name, Value: ['WP_011635232.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11285']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110767.1']
+    Key: locus_tag, Value: ['NEUT_RS11285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_011635232.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 11680-12850 (1))
+type: CDS
+location: [2353223:2353370](+)
+id: cds-WP_160803609.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_160803609.1']
+    Key: ID, Value: ['cds-WP_160803609.1']
+    Key: Name, Value: ['WP_160803609.1']
+    Key: Parent, Value: ['gene-NEUT_RS11290']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEUT_RS11290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_160803609.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13007-13154 (1))
+type: CDS
+location: [2353562:2354693](+)
+id: cds-WP_011635234.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635234.1']
+    Key: ID, Value: ['cds-WP_011635234.1']
+    Key: Name, Value: ['WP_011635234.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NEUT_RS11295']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110765.1']
+    Key: locus_tag, Value: ['NEUT_RS11295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated ring nuclease Csm6']
+    Key: protein_id, Value: ['WP_011635234.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated ring nuclease Csm6, 13346-14477 (1))
+type: CDS
+location: [2354719:2354902](-)
+id: cds-NEUT_RS15455
+qualifiers:
+    Key: ID, Value: ['cds-NEUT_RS15455']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Ontology_term, Value: ['GO:0006276', 'GO:0008657']
+    Key: Parent, Value: ['gene-NEUT_RS15455']
+    Key: end_range, Value: ['2354902', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity|0008657||IEA']
+    Key: go_process, Value: ['plasmid maintenance|0006276||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013965.2']
+    Key: locus_tag, Value: ['NEUT_RS15455']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CcdB family protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CcdB family protein, 14503-14686 (-1))
+type: CDS
+location: [2354820:2354997](-)
+id: cds-WP_242500254.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_242500254.1']
+    Key: ID, Value: ['cds-WP_242500254.1']
+    Key: Name, Value: ['WP_242500254.1']
+    Key: Ontology_term, Value: ['GO:0006276', 'GO:0008657']
+    Key: Parent, Value: ['gene-NEUT_RS15460']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity|0008657||IEA']
+    Key: go_process, Value: ['plasmid maintenance|0006276||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013965.2']
+    Key: locus_tag, Value: ['NEUT_RS15460']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CcdB family protein']
+    Key: protein_id, Value: ['WP_242500254.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CcdB family protein, 14604-14781 (-1))
+type: CDS
+location: [2355033:2355216](-)
+id: cds-NEUT_RS11305
+qualifiers:
+    Key: ID, Value: ['cds-NEUT_RS11305']
+    Key: Note, Value: ['internal stop']
+    Key: Parent, Value: ['gene-NEUT_RS11305']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019009.2']
+    Key: locus_tag, Value: ['NEUT_RS11305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system CcdA family antitoxin']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system CcdA family antitoxin, 14817-15000 (-1))
+type: CDS
+location: [2355366:2355582](-)
+id: cds-WP_074685601.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_074685601.1']
+    Key: ID, Value: ['cds-WP_074685601.1']
+    Key: Name, Value: ['WP_074685601.1']
+    Key: Parent, Value: ['gene-NEUT_RS14235']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEUT_RS14235']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_074685601.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15150-15366 (-1))
+type: CDS
+location: [2355580:2355859](+)
+id: cds-WP_240142320.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_240142320.1']
+    Key: ID, Value: ['cds-WP_240142320.1']
+    Key: Name, Value: ['WP_240142320.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-NEUT_RS11315']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110764.1']
+    Key: locus_tag, Value: ['NEUT_RS11315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_240142320.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 15364-15643 (1))
+type: CDS
+location: [2355876:2356863](+)
+id: cds-WP_011635238.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635238.1']
+    Key: ID, Value: ['cds-WP_011635238.1']
+    Key: Name, Value: ['WP_011635238.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-NEUT_RS11320']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110763.1']
+    Key: locus_tag, Value: ['NEUT_RS11320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_011635238.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 15660-16647 (1))
+type: CDS
+location: [2356871:2357156](+)
+id: cds-WP_011635239.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635239.1']
+    Key: ID, Value: ['cds-WP_011635239.1']
+    Key: Name, Value: ['WP_011635239.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-NEUT_RS11325']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110762.1']
+    Key: locus_tag, Value: ['NEUT_RS11325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_011635239.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 16655-16940 (1))
+type: CDS
+location: [2358175:2358316](-)
+id: cds-WP_160803436.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_160803436.1']
+    Key: ID, Value: ['cds-WP_160803436.1']
+    Key: Name, Value: ['WP_160803436.1']
+    Key: Parent, Value: ['gene-NEUT_RS14790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEUT_RS14790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_160803436.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17959-18100 (-1))
+type: CDS
+location: [2358510:2359149](+)
+id: cds-WP_011635241.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635241.1']
+    Key: ID, Value: ['cds-WP_011635241.1']
+    Key: Name, Value: ['WP_011635241.1']
+    Key: Parent, Value: ['gene-NEUT_RS11330']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011111430.1']
+    Key: locus_tag, Value: ['NEUT_RS11330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011635241.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18294-18933 (1))
+type: CDS
+location: [2359335:2359806](+)
+id: cds-WP_011635242.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635242.1']
+    Key: ID, Value: ['cds-WP_011635242.1']
+    Key: Name, Value: ['WP_011635242.1']
+    Key: Parent, Value: ['gene-NEUT_RS11335']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110761.1']
+    Key: locus_tag, Value: ['NEUT_RS11335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_011635242.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 19119-19590 (1))
+type: CDS
+location: [2360029:2361166](-)
+id: cds-WP_011635243.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635243.1']
+    Key: ID, Value: ['cds-WP_011635243.1']
+    Key: Name, Value: ['WP_011635243.1']
+    Key: Ontology_term, Value: ['GO:0009089', 'GO:0009014']
+    Key: Parent, Value: ['gene-NEUT_RS11340']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['dapE']
+    Key: go_function, Value: ['succinyl-diaminopimelate desuccinylase activity|0009014||IEA']
+    Key: go_process, Value: ['lysine biosynthetic process via diaminopimelate|0009089||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011635243.1']
+    Key: locus_tag, Value: ['NEUT_RS11340']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['succinyl-diaminopimelate desuccinylase']
+    Key: protein_id, Value: ['WP_011635243.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(succinyl-diaminopimelate desuccinylase, 19813-20950 (-1))
+type: CDS
+location: [2361214:2361997](-)
+id: cds-WP_011635244.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635244.1']
+    Key: ID, Value: ['cds-WP_011635244.1']
+    Key: Name, Value: ['WP_011635244.1']
+    Key: Ontology_term, Value: ['GO:0005524']
+    Key: Parent, Value: ['gene-NEUT_RS11345']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110759.1']
+    Key: locus_tag, Value: ['NEUT_RS11345']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding cassette domain-containing protein']
+    Key: protein_id, Value: ['WP_011635244.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding cassette domain-containing protein, 20998-21781 (-1))
+type: CDS
+location: [2361996:2363142](-)
+id: cds-WP_011635245.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635245.1']
+    Key: ID, Value: ['cds-WP_011635245.1']
+    Key: Name, Value: ['WP_011635245.1']
+    Key: Ontology_term, Value: ['GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-NEUT_RS11350']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110758.1']
+    Key: locus_tag, Value: ['NEUT_RS11350']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter permease']
+    Key: protein_id, Value: ['WP_011635245.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter permease, 21780-22926 (-1))
+type: CDS
+location: [2363166:2364003](-)
+id: cds-WP_041353581.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041353581.1']
+    Key: ID, Value: ['cds-WP_041353581.1']
+    Key: Name, Value: ['WP_041353581.1']
+    Key: Ontology_term, Value: ['GO:0009249', 'GO:0008961', 'GO:0016020']
+    Key: Parent, Value: ['gene-NEUT_RS11355']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['lgt']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_function, Value: ['phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity|0008961||IEA']
+    Key: go_process, Value: ['protein lipoylation|0009249||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110757.1']
+    Key: locus_tag, Value: ['NEUT_RS11355']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['prolipoprotein diacylglyceryl transferase']
+    Key: protein_id, Value: ['WP_041353581.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(prolipoprotein diacylglyceryl transferase, 22950-23787 (-1))
+type: CDS
+location: [2364135:2365809](+)
+id: cds-WP_011635247.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011635247.1']
+    Key: ID, Value: ['cds-WP_011635247.1']
+    Key: Name, Value: ['WP_011635247.1']
+    Key: Ontology_term, Value: ['GO:0009097', 'GO:0009099', 'GO:0004160']
+    Key: Parent, Value: ['gene-NEUT_RS11360']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['ilvD']
+    Key: go_function, Value: ['dihydroxy-acid dehydratase activity|0004160||IEA']
+    Key: go_process, Value: ['isoleucine biosynthetic process|0009097||IEA', 'valine biosynthetic process|0009099||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011110756.1']
+    Key: locus_tag, Value: ['NEUT_RS11360']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['dihydroxy-acid dehydratase']
+    Key: protein_id, Value: ['WP_011635247.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(dihydroxy-acid dehydratase, 23919-25593 (1))
+type: repeat_region
+location: [2341825:2342637](+)
+id: NC_008344.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_008344.1_2']
+    Key: Note, Value: ['GTCTCAATCCCTTTGAAATCAGGGCATGGGTGTTTC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['812']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1609-2421 (0))
+type: repeat_region
+location: [2357405:2358142](+)
+id: NC_008344.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_008344.1_3']
+    Key: Note, Value: ['GAAACACCCATGCCCTGATTTCAAAGGGATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['737']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17189-17926 (0))
+graphic feature from known effectors: GF(csx1, 11681-12850 (1))
+[GF(MFS transporter, 240-1470 (1)), GF(None, 2844-3777 (1)), GF(None, 3827-3998 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4035-6618 (1)), GF(type III-A CRISPR-associated protein Csm2, 6700-7072 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7124-7841 (1)), GF(None, 7845-8814 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8810-10412 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10434-11391 (1)), GF(CRISPR-associated protein Csx16, 11387-11684 (1)), GF(TIGR02221 family CRISPR-associated protein, 11680-12850 (1)), GF(None, 13007-13154 (1)), GF(CRISPR-associated ring nuclease Csm6, 13346-14477 (1)), GF(CcdB family protein, 14503-14686 (-1)), GF(CcdB family protein, 14604-14781 (-1)), GF(type II toxin-antitoxin system CcdA family antitoxin, 14817-15000 (-1)), GF(None, 15150-15366 (-1)), GF(CRISPR-associated endonuclease Cas2, 15364-15643 (1)), GF(CRISPR-associated endonuclease Cas1, 15660-16647 (1)), GF(CRISPR-associated endonuclease Cas2, 16655-16940 (1)), GF(None, 17959-18100 (-1)), GF(None, 18294-18933 (1)), GF(None, 19119-19590 (1)), GF(succinyl-diaminopimelate desuccinylase, 19813-20950 (-1)), GF(ATP-binding cassette domain-containing protein, 20998-21781 (-1)), GF(ABC transporter permease, 21780-22926 (-1)), GF(prolipoprotein diacylglyceryl transferase, 22950-23787 (-1)), GF(dihydroxy-acid dehydratase, 23919-25593 (1)), GF(Repeat region, 1609-2421 (0)), GF(Repeat region, 17189-17926 (0)), GF(csx1, 11681-12850 (1)), GF(CRISPR-Cas locus, 4000-21781 (0))]

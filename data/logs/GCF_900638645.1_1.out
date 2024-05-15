@@ -1,0 +1,268 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_LR134535.1  ...  GCF_900638645.1_1  GCF_900638645.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_LR134535.1
+type: CDS
+location: [2125642:2126407](+)
+id: cds-WP_126378462.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378462.1']
+    Key: ID, Value: ['cds-WP_126378462.1']
+    Key: Name, Value: ['WP_126378462.1']
+    Key: Ontology_term, Value: ['GO:0009423', 'GO:0003855']
+    Key: Parent, Value: ['gene-EL396_RS09270']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['aroD']
+    Key: go_function, Value: ['3-dehydroquinate dehydratase activity|0003855||IEA']
+    Key: go_process, Value: ['chorismate biosynthetic process|0009423||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01093.1']
+    Key: locus_tag, Value: ['EL396_RS09270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I 3-dehydroquinate dehydratase']
+    Key: protein_id, Value: ['WP_126378462.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I 3-dehydroquinate dehydratase, 119-884 (1))
+type: CDS
+location: [2126629:2127154](+)
+id: cds-WP_126378464.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378464.1']
+    Key: ID, Value: ['cds-WP_126378464.1']
+    Key: Name, Value: ['WP_126378464.1']
+    Key: Ontology_term, Value: ['GO:0008652', 'GO:0009073', 'GO:0000287', 'GO:0004765', 'GO:0005524']
+    Key: Parent, Value: ['gene-EL396_RS09275']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['magnesium ion binding|0000287||IEA', 'shikimate kinase activity|0004765||IEA', 'ATP binding|0005524||IEA']
+    Key: go_process, Value: ['amino acid biosynthetic process|0008652||IEA', 'aromatic amino acid family biosynthetic process|0009073||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004811316.1']
+    Key: locus_tag, Value: ['EL396_RS09275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['shikimate kinase']
+    Key: protein_id, Value: ['WP_126378464.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(shikimate kinase, 1106-1631 (1))
+type: CDS
+location: [2127259:2127916](-)
+id: cds-WP_282958429.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_282958429.1']
+    Key: ID, Value: ['cds-WP_282958429.1']
+    Key: Name, Value: ['WP_282958429.1']
+    Key: Parent, Value: ['gene-EL396_RS09280']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024230.2']
+    Key: locus_tag, Value: ['EL396_RS09280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['threonine/serine exporter family protein']
+    Key: protein_id, Value: ['WP_282958429.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(threonine/serine exporter family protein, 1736-2393 (-1))
+type: CDS
+location: [2127947:2129303](-)
+id: cds-WP_126378466.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378466.1']
+    Key: ID, Value: ['cds-WP_126378466.1']
+    Key: Name, Value: ['WP_126378466.1']
+    Key: Parent, Value: ['gene-EL396_RS09285']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014846975.1']
+    Key: locus_tag, Value: ['EL396_RS09285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['threonine/serine exporter family protein']
+    Key: protein_id, Value: ['WP_126378466.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(threonine/serine exporter family protein, 2424-3780 (-1))
+type: CDS
+location: [2129522:2129783](-)
+id: cds-WP_126378468.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378468.1']
+    Key: ID, Value: ['cds-WP_126378468.1']
+    Key: Name, Value: ['WP_126378468.1']
+    Key: Parent, Value: ['gene-EL396_RS09290']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014846976.1']
+    Key: locus_tag, Value: ['EL396_RS09290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_126378468.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4260 (-1))
+type: CDS
+location: [2129945:2132456](-)
+id: cds-WP_126378470.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378470.1']
+    Key: ID, Value: ['cds-WP_126378470.1']
+    Key: Name, Value: ['WP_126378470.1']
+    Key: Parent, Value: ['gene-EL396_RS09295']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EL396_RS09295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_126378470.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4422-6933 (-1))
+type: CDS
+location: [2132638:2134792](+)
+id: cds-WP_126378472.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378472.1']
+    Key: ID, Value: ['cds-WP_126378472.1']
+    Key: Name, Value: ['WP_126378472.1']
+    Key: Parent, Value: ['gene-EL396_RS09300']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EL396_RS09300']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_126378472.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7115-9269 (1))
+type: CDS
+location: [2134788:2136777](+)
+id: cds-WP_126378474.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378474.1']
+    Key: ID, Value: ['cds-WP_126378474.1']
+    Key: Name, Value: ['WP_126378474.1']
+    Key: Parent, Value: ['gene-EL396_RS09305']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EL396_RS09305']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_126378474.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cmr3, 9265-11254 (1))
+type: CDS
+location: [2136773:2138552](+)
+id: cds-WP_126378476.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378476.1']
+    Key: ID, Value: ['cds-WP_126378476.1']
+    Key: Name, Value: ['WP_126378476.1']
+    Key: Parent, Value: ['gene-EL396_RS09310']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['EL396_RS09310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_126378476.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 11250-13029 (1))
+type: CDS
+location: [2138544:2139069](+)
+id: cds-WP_126378478.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378478.1']
+    Key: ID, Value: ['cds-WP_126378478.1']
+    Key: Name, Value: ['WP_126378478.1']
+    Key: Parent, Value: ['gene-EL396_RS09315']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EL396_RS09315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_126378478.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13021-13546 (1))
+type: CDS
+location: [2139052:2141371](+)
+id: cds-WP_126378480.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378480.1']
+    Key: ID, Value: ['cds-WP_126378480.1']
+    Key: Name, Value: ['WP_126378480.1']
+    Key: Parent, Value: ['gene-EL396_RS09320']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['EL396_RS09320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_126378480.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 13529-15848 (1))
+type: CDS
+location: [2141649:2143680](+)
+id: cds-WP_126378482.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378482.1']
+    Key: ID, Value: ['cds-WP_126378482.1']
+    Key: Name, Value: ['WP_126378482.1']
+    Key: Parent, Value: ['gene-EL396_RS09325']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EL396_RS09325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_126378482.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16126-18157 (1))
+type: CDS
+location: [2144745:2145093](-)
+id: cds-WP_126378484.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_126378484.1']
+    Key: ID, Value: ['cds-WP_126378484.1']
+    Key: Name, Value: ['WP_126378484.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0003723', 'GO:0004521']
+    Key: Parent, Value: ['gene-EL396_RS09330']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'RNA binding|0003723||IEA', 'RNA endonuclease activity|0004521||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014846982.1']
+    Key: locus_tag, Value: ['EL396_RS09330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system PemK/MazF family toxin']
+    Key: protein_id, Value: ['WP_126378484.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system PemK/MazF family toxin, 19222-19570 (-1))
+type: CDS
+location: [2145092:2145320](-)
+id: cds-WP_249038515.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_249038515.1']
+    Key: ID, Value: ['cds-WP_249038515.1']
+    Key: Name, Value: ['WP_249038515.1']
+    Key: Parent, Value: ['gene-EL396_RS09335']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015071955.1']
+    Key: locus_tag, Value: ['EL396_RS09335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ribbon-helix-helix domain-containing protein']
+    Key: protein_id, Value: ['WP_249038515.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ribbon-helix-helix domain-containing protein, 19569-19797 (-1))
+graphic feature from validated effectors: GF(can3, 4423-6933 (-1))
+[GF(type I 3-dehydroquinate dehydratase, 119-884 (1)), GF(shikimate kinase, 1106-1631 (1)), GF(threonine/serine exporter family protein, 1736-2393 (-1)), GF(threonine/serine exporter family protein, 2424-3780 (-1)), GF(None, 3999-4260 (-1)), GF(None, 4422-6933 (-1)), GF(None, 7115-9269 (1)), GF(CRISPR-associated protein Cmr3, 9265-11254 (1)), GF(RAMP superfamily CRISPR-associated protein, 11250-13029 (1)), GF(None, 13021-13546 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 13529-15848 (1)), GF(None, 16126-18157 (1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 19222-19570 (-1)), GF(ribbon-helix-helix domain-containing protein, 19569-19797 (-1)), GF(can3, 4423-6933 (-1)), GF(CRISPR-Cas locus, 4000-18157 (0))]

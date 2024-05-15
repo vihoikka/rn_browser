@@ -1,0 +1,284 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           3  NZ_CP091284.1  ...  GCF_021650815.1_3  GCF_021650815.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP091284.1
+type: CDS
+location: [3648099:3649440](+)
+id: cds-WP_057177051.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177051.1']
+    Key: ID, Value: ['cds-WP_057177051.1']
+    Key: Name, Value: ['WP_057177051.1']
+    Key: Parent, Value: ['gene-L3I90_RS16105']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276355.1']
+    Key: locus_tag, Value: ['L3I90_RS16105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: protein_id, Value: ['WP_057177051.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 316-1657 (1))
+type: CDS
+location: [3649487:3650153](+)
+id: cds-WP_006276356.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006276356.1']
+    Key: ID, Value: ['cds-WP_006276356.1']
+    Key: Name, Value: ['WP_006276356.1']
+    Key: Ontology_term, Value: ['GO:0051049', 'GO:0003700']
+    Key: Parent, Value: ['gene-L3I90_RS16110']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['phoU']
+    Key: go_function, Value: ['DNA-binding transcription factor activity|0003700||IEA']
+    Key: go_process, Value: ['regulation of transport|0051049||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276356.1']
+    Key: locus_tag, Value: ['L3I90_RS16110']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphate signaling complex protein PhoU']
+    Key: protein_id, Value: ['WP_006276356.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphate signaling complex protein PhoU, 1704-2370 (1))
+type: CDS
+location: [3650275:3650864](-)
+id: cds-L3I90_RS16115
+qualifiers:
+    Key: ID, Value: ['cds-L3I90_RS16115']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-L3I90_RS16115']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276836.1']
+    Key: locus_tag, Value: ['L3I90_RS16115']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '3650276']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2492-3081 (-1))
+type: CDS
+location: [3651221:3651485](-)
+id: cds-WP_115538169.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538169.1']
+    Key: ID, Value: ['cds-WP_115538169.1']
+    Key: Name, Value: ['WP_115538169.1']
+    Key: Parent, Value: ['gene-L3I90_RS16120']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01414.1']
+    Key: locus_tag, Value: ['L3I90_RS16120']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['autotransporter domain-containing protein']
+    Key: protein_id, Value: ['WP_115538169.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(autotransporter domain-containing protein, 3438-3702 (-1))
+type: CDS
+location: [3651534:3651729](-)
+id: cds-WP_181407008.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_181407008.1']
+    Key: ID, Value: ['cds-WP_181407008.1']
+    Key: Name, Value: ['WP_181407008.1']
+    Key: Parent, Value: ['gene-L3I90_RS16125']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278347.1']
+    Key: locus_tag, Value: ['L3I90_RS16125']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_181407008.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3751-3946 (-1))
+type: CDS
+location: [3651782:3652889](-)
+id: cds-WP_115538170.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538170.1']
+    Key: ID, Value: ['cds-WP_115538170.1']
+    Key: Name, Value: ['WP_115538170.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-L3I90_RS16130']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009343608.1']
+    Key: locus_tag, Value: ['L3I90_RS16130']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['putative CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_115538170.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(putative CRISPR-associated protein, 3999-5106 (-1))
+type: CDS
+location: [3653070:3654339](-)
+id: cds-WP_115538171.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538171.1']
+    Key: ID, Value: ['cds-WP_115538171.1']
+    Key: Name, Value: ['WP_115538171.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-L3I90_RS16135']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277547.1']
+    Key: locus_tag, Value: ['L3I90_RS16135']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_115538171.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 5287-6556 (-1))
+type: CDS
+location: [3654505:3656020](-)
+id: cds-WP_115538172.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538172.1']
+    Key: ID, Value: ['cds-WP_115538172.1']
+    Key: Name, Value: ['WP_115538172.1']
+    Key: Parent, Value: ['gene-L3I90_RS16140']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['L3I90_RS16140']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_115538172.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6722-8237 (-1))
+type: CDS
+location: [3656061:3656502](-)
+id: cds-WP_057177044.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177044.1']
+    Key: ID, Value: ['cds-WP_057177044.1']
+    Key: Name, Value: ['WP_057177044.1']
+    Key: Parent, Value: ['gene-L3I90_RS16145']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277549.1']
+    Key: locus_tag, Value: ['L3I90_RS16145']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_057177044.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8278-8719 (-1))
+type: CDS
+location: [3656523:3657303](-)
+id: cds-WP_115538173.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538173.1']
+    Key: ID, Value: ['cds-WP_115538173.1']
+    Key: Name, Value: ['WP_115538173.1']
+    Key: Parent, Value: ['gene-L3I90_RS16150']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277550.1']
+    Key: locus_tag, Value: ['L3I90_RS16150']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_115538173.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8740-9520 (-1))
+type: CDS
+location: [3657299:3658271](-)
+id: cds-WP_115538174.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538174.1']
+    Key: ID, Value: ['cds-WP_115538174.1']
+    Key: Name, Value: ['WP_115538174.1']
+    Key: Parent, Value: ['gene-L3I90_RS16155']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['L3I90_RS16155']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_115538174.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9516-10488 (-1))
+type: CDS
+location: [3658267:3660532](-)
+id: cds-WP_115538175.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_115538175.1']
+    Key: ID, Value: ['cds-WP_115538175.1']
+    Key: Name, Value: ['WP_115538175.1']
+    Key: Parent, Value: ['gene-L3I90_RS16160']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF023885.2']
+    Key: locus_tag, Value: ['L3I90_RS16160']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_115538175.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10484-12749 (-1))
+type: CDS
+location: [3662017:3662809](+)
+id: cds-WP_256450146.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_256450146.1']
+    Key: ID, Value: ['cds-WP_256450146.1']
+    Key: Name, Value: ['WP_256450146.1']
+    Key: Parent, Value: ['gene-L3I90_RS16165']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024808.2']
+    Key: locus_tag, Value: ['L3I90_RS16165']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['extracellular solute-binding protein']
+    Key: protein_id, Value: ['WP_256450146.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(extracellular solute-binding protein, 14234-15026 (1))
+type: CDS
+location: [3662828:3663341](-)
+id: cds-WP_006277555.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006277555.1']
+    Key: ID, Value: ['cds-WP_006277555.1']
+    Key: Name, Value: ['WP_006277555.1']
+    Key: Parent, Value: ['gene-L3I90_RS16170']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009342567.1']
+    Key: locus_tag, Value: ['L3I90_RS16170']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF456 family protein']
+    Key: protein_id, Value: ['WP_006277555.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF456 family protein, 15045-15558 (-1))
+type: repeat_region
+location: [3661510:3661917](+)
+id: NZ_CP091284.1_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP091284.1_5']
+    Key: Note, Value: ['GTCTTGACCTTCATAAGAAGGAATAGGTATTGCGAA']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['407']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13727-14134 (0))
+graphic feature from known effectors: GF(cami1, 4000-5106 (-1))
+graphic feature from known effectors: GF(csx1, 5288-6556 (-1))
+[GF(ATP-binding protein, 316-1657 (1)), GF(phosphate signaling complex protein PhoU, 1704-2370 (1)), GF(None, 2492-3081 (-1)), GF(autotransporter domain-containing protein, 3438-3702 (-1)), GF(None, 3751-3946 (-1)), GF(putative CRISPR-associated protein, 3999-5106 (-1)), GF(TIGR02221 family CRISPR-associated protein, 5287-6556 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6722-8237 (-1)), GF(None, 8278-8719 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8740-9520 (-1)), GF(None, 9516-10488 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10484-12749 (-1)), GF(extracellular solute-binding protein, 14234-15026 (1)), GF(DUF456 family protein, 15045-15558 (-1)), GF(Repeat region, 13727-14134 (0)), GF(cami1, 4000-5106 (-1)), GF(csx1, 5288-6556 (-1)), GF(CRISPR-Cas locus, 4000-12749 (0))]

@@ -1,0 +1,238 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_AP018336.1  ...  GCF_002356395.1_0  GCF_002356395.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_AP018336.1
+type: CDS
+location: [246140:246416](+)
+id: cds-WP_245942868.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245942868.1', 'GeneID:82296784']
+    Key: ID, Value: ['cds-WP_245942868.1']
+    Key: Name, Value: ['WP_245942868.1']
+    Key: Parent, Value: ['gene-tca_RS01430']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875960.1']
+    Key: locus_tag, Value: ['tca_RS01430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicB family antitoxin']
+    Key: protein_id, Value: ['WP_245942868.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicB family antitoxin, 3071-3347 (1))
+type: CDS
+location: [246402:246603](+)
+id: cds-WP_211305655.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211305655.1', 'GeneID:82296785']
+    Key: ID, Value: ['cds-WP_211305655.1']
+    Key: Name, Value: ['WP_211305655.1']
+    Key: Ontology_term, Value: ['GO:0003729']
+    Key: Parent, Value: ['gene-tca_RS01435']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['mRNA binding|0003729||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019540.2']
+    Key: locus_tag, Value: ['tca_RS01435']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicA family toxin']
+    Key: protein_id, Value: ['WP_211305655.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicA family toxin, 3333-3534 (1))
+type: CDS
+location: [247068:247968](-)
+id: cds-WP_286708989.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708989.1', 'GeneID:82296786']
+    Key: ID, Value: ['cds-WP_286708989.1']
+    Key: Name, Value: ['WP_286708989.1']
+    Key: Parent, Value: ['gene-tca_RS01440']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875962.1']
+    Key: locus_tag, Value: ['tca_RS01440']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_286708989.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4899 (-1))
+type: CDS
+location: [247971:248337](-)
+id: cds-WP_286708990.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708990.1', 'GeneID:82296787']
+    Key: ID, Value: ['cds-WP_286708990.1']
+    Key: Name, Value: ['WP_286708990.1']
+    Key: Parent, Value: ['gene-tca_RS01445']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875963.1']
+    Key: locus_tag, Value: ['tca_RS01445']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_286708990.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4902-5268 (-1))
+type: CDS
+location: [248336:249188](-)
+id: cds-WP_286708991.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708991.1', 'GeneID:82296788']
+    Key: ID, Value: ['cds-WP_286708991.1']
+    Key: Name, Value: ['WP_286708991.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-tca_RS01450']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['tca_RS01450']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_286708991.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5267-6119 (-1))
+type: CDS
+location: [249180:252060](-)
+id: cds-WP_286708992.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708992.1', 'GeneID:82296789']
+    Key: ID, Value: ['cds-WP_286708992.1']
+    Key: Name, Value: ['WP_286708992.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-tca_RS01455']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875965.1']
+    Key: locus_tag, Value: ['tca_RS01455']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_286708992.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 6111-8991 (-1))
+type: CDS
+location: [252013:252799](-)
+id: cds-WP_286708993.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708993.1', 'GeneID:82296790']
+    Key: ID, Value: ['cds-WP_286708993.1']
+    Key: Name, Value: ['WP_286708993.1']
+    Key: Parent, Value: ['gene-tca_RS01460']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875966.1']
+    Key: locus_tag, Value: ['tca_RS01460']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_286708993.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8944-9730 (-1))
+type: CDS
+location: [252795:253536](-)
+id: cds-WP_048060794.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_048060794.1', 'GeneID:82296791']
+    Key: ID, Value: ['cds-WP_048060794.1']
+    Key: Name, Value: ['WP_048060794.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-tca_RS01465']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['tca_RS01465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_048060794.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 9726-10467 (-1))
+type: CDS
+location: [253764:254382](+)
+id: cds-WP_286709258.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286709258.1', 'GeneID:82296792']
+    Key: ID, Value: ['cds-WP_286709258.1']
+    Key: Name, Value: ['WP_286709258.1']
+    Key: Parent, Value: ['gene-tca_RS01470']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025089.2']
+    Key: locus_tag, Value: ['tca_RS01470']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycosyltransferase']
+    Key: protein_id, Value: ['WP_286709258.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycosyltransferase, 10695-11313 (1))
+type: CDS
+location: [254392:255589](-)
+id: cds-WP_286708994.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708994.1', 'GeneID:82296793']
+    Key: ID, Value: ['cds-WP_286708994.1']
+    Key: Name, Value: ['WP_286708994.1']
+    Key: Parent, Value: ['gene-tca_RS01475']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010875969.1']
+    Key: locus_tag, Value: ['tca_RS01475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['D-glucuronyl C5-epimerase family protein']
+    Key: protein_id, Value: ['WP_286708994.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(D-glucuronyl C5-epimerase family protein, 11323-12520 (-1))
+type: CDS
+location: [255787:256477](+)
+id: cds-WP_286708995.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708995.1', 'GeneID:82296794']
+    Key: ID, Value: ['cds-WP_286708995.1']
+    Key: Name, Value: ['WP_286708995.1']
+    Key: Ontology_term, Value: ['GO:0016757']
+    Key: Parent, Value: ['gene-tca_RS01480']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['glycosyltransferase activity|0016757||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013825451.1']
+    Key: locus_tag, Value: ['tca_RS01480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycosyltransferase family 2 protein']
+    Key: protein_id, Value: ['WP_286708995.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycosyltransferase family 2 protein, 12718-13408 (1))
+type: CDS
+location: [256499:257465](+)
+id: cds-WP_286708996.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286708996.1', 'GeneID:82296795']
+    Key: ID, Value: ['cds-WP_286708996.1']
+    Key: Name, Value: ['WP_286708996.1']
+    Key: Parent, Value: ['gene-tca_RS01485']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025025.2']
+    Key: locus_tag, Value: ['tca_RS01485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycosyltransferase']
+    Key: protein_id, Value: ['WP_286708996.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycosyltransferase, 13430-14396 (1))
+[GF(type II toxin-antitoxin system HicB family antitoxin, 3071-3347 (1)), GF(type II toxin-antitoxin system HicA family toxin, 3333-3534 (1)), GF(None, 3999-4899 (-1)), GF(None, 4902-5268 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5267-6119 (-1)), GF(CRISPR-associated protein Csx11, 6111-8991 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8944-9730 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9726-10467 (-1)), GF(glycosyltransferase, 10695-11313 (1)), GF(D-glucuronyl C5-epimerase family protein, 11323-12520 (-1)), GF(glycosyltransferase family 2 protein, 12718-13408 (1)), GF(glycosyltransferase, 13430-14396 (1)), GF(CRISPR-Cas locus, 4000-10467 (0))]

@@ -1,0 +1,327 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_003869.1  ...  GCF_000007085.1_0  GCF_000007085.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_003869.1
+type: CDS
+location: [2519613:2520546](-)
+id: cds-WP_011026621.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026621.1']
+    Key: ID, Value: ['cds-WP_011026621.1']
+    Key: Name, Value: ['WP_011026621.1']
+    Key: Parent, Value: ['gene-TTE_RS12550']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011026621.1']
+    Key: locus_tag, Value: ['TTE_RS12550']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['glycosidase']
+    Key: protein_id, Value: ['WP_011026621.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(glycosidase, 143-1076 (-1))
+type: CDS
+location: [2520535:2521084](-)
+id: cds-WP_011026622.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026622.1']
+    Key: ID, Value: ['cds-WP_011026622.1']
+    Key: Name, Value: ['WP_011026622.1']
+    Key: Parent, Value: ['gene-TTE_RS12555']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025743.3']
+    Key: locus_tag, Value: ['TTE_RS12555']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4416 family protein']
+    Key: protein_id, Value: ['WP_011026622.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4416 family protein, 1065-1614 (-1))
+type: CDS
+location: [2521101:2521728](-)
+id: cds-WP_102008974.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_102008974.1']
+    Key: ID, Value: ['cds-WP_102008974.1']
+    Key: Name, Value: ['WP_102008974.1']
+    Key: Ontology_term, Value: ['GO:0016812', 'GO:0046872']
+    Key: Parent, Value: ['gene-TTE_RS12560']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides|0016812||IEA', 'metal ion binding|0046872||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609702.1']
+    Key: locus_tag, Value: ['TTE_RS12560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cyclase family protein']
+    Key: protein_id, Value: ['WP_102008974.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cyclase family protein, 1631-2258 (-1))
+type: CDS
+location: [2521809:2522706](-)
+id: cds-WP_011026624.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026624.1']
+    Key: ID, Value: ['cds-WP_011026624.1']
+    Key: Name, Value: ['WP_011026624.1']
+    Key: Ontology_term, Value: ['GO:0016020']
+    Key: Parent, Value: ['gene-TTE_RS12565']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609704.1']
+    Key: locus_tag, Value: ['TTE_RS12565']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['EamA family transporter']
+    Key: protein_id, Value: ['WP_011026624.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(EamA family transporter, 2339-3236 (-1))
+type: CDS
+location: [2522708:2523341](-)
+id: cds-WP_011026625.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026625.1']
+    Key: ID, Value: ['cds-WP_011026625.1']
+    Key: Name, Value: ['WP_011026625.1']
+    Key: Ontology_term, Value: ['GO:0006396', 'GO:0003723', 'GO:0008173']
+    Key: Parent, Value: ['gene-TTE_RS12570']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['RNA binding|0003723||IEA', 'RNA methyltransferase activity|0008173||IEA']
+    Key: go_process, Value: ['RNA processing|0006396||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609705.1']
+    Key: locus_tag, Value: ['TTE_RS12570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TrmH family RNA methyltransferase']
+    Key: protein_id, Value: ['WP_011026625.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TrmH family RNA methyltransferase, 3238-3871 (-1))
+type: CDS
+location: [2523469:2524447](-)
+id: cds-WP_011026626.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026626.1']
+    Key: ID, Value: ['cds-WP_011026626.1']
+    Key: Name, Value: ['WP_011026626.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12575']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609692.1']
+    Key: locus_tag, Value: ['TTE_RS12575']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_011026626.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 3999-4977 (-1))
+type: CDS
+location: [2524443:2524851](-)
+id: cds-WP_011026627.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026627.1']
+    Key: ID, Value: ['cds-WP_011026627.1']
+    Key: Name, Value: ['WP_011026627.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12580']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01881.1']
+    Key: locus_tag, Value: ['TTE_RS12580']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_011026627.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 4973-5381 (-1))
+type: CDS
+location: [2524875:2525925](-)
+id: cds-WP_011026628.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026628.1']
+    Key: ID, Value: ['cds-WP_011026628.1']
+    Key: Name, Value: ['WP_011026628.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12585']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609733.1']
+    Key: locus_tag, Value: ['TTE_RS12585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_011026628.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5405-6455 (-1))
+type: CDS
+location: [2525917:2527051](-)
+id: cds-WP_011026629.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026629.1']
+    Key: ID, Value: ['cds-WP_011026629.1']
+    Key: Name, Value: ['WP_011026629.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-TTE_RS12590']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01888.1']
+    Key: locus_tag, Value: ['TTE_RS12590']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_011026629.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 6447-7581 (-1))
+type: CDS
+location: [2527057:2527948](-)
+id: cds-WP_235619553.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_235619553.1']
+    Key: ID, Value: ['cds-WP_235619553.1']
+    Key: Name, Value: ['WP_235619553.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12595']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609723.1']
+    Key: locus_tag, Value: ['TTE_RS12595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_235619553.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 7587-8478 (-1))
+type: CDS
+location: [2528001:2529435](-)
+id: cds-WP_011026631.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026631.1']
+    Key: ID, Value: ['cds-WP_011026631.1']
+    Key: Name, Value: ['WP_011026631.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12600']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609714.1']
+    Key: locus_tag, Value: ['TTE_RS12600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated CARF protein Csx1']
+    Key: protein_id, Value: ['WP_011026631.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated CARF protein Csx1, 8531-9965 (-1))
+type: CDS
+location: [2529620:2530988](+)
+id: cds-WP_011024557.1-6
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011024557.1']
+    Key: ID, Value: ['cds-WP_011024557.1-6']
+    Key: Name, Value: ['WP_011024557.1']
+    Key: Parent, Value: ['gene-TTE_RS12605']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011026282.1']
+    Key: locus_tag, Value: ['TTE_RS12605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DDE-type integrase/transposase/recombinase']
+    Key: protein_id, Value: ['WP_011024557.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DDE-type integrase/transposase/recombinase, 10150-11518 (1))
+type: CDS
+location: [2531728:2533012](-)
+id: cds-WP_011024548.1-9
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011024548.1']
+    Key: ID, Value: ['cds-WP_011024548.1-9']
+    Key: Name, Value: ['WP_011024548.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-TTE_RS12610']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012269267.1']
+    Key: locus_tag, Value: ['TTE_RS12610']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS110 family transposase']
+    Key: protein_id, Value: ['WP_011024548.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS110 family transposase, 12258-13542 (-1))
+type: CDS
+location: [2533120:2535850](-)
+id: cds-WP_011026632.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026632.1']
+    Key: ID, Value: ['cds-WP_011026632.1']
+    Key: Name, Value: ['WP_011026632.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TTE_RS12615']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609703.1']
+    Key: locus_tag, Value: ['TTE_RS12615']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_011026632.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 13650-16380 (-1))
+type: CDS
+location: [2536036:2536387](-)
+id: cds-WP_011026634.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_011026634.1']
+    Key: ID, Value: ['cds-WP_011026634.1']
+    Key: Name, Value: ['WP_011026634.1']
+    Key: Parent, Value: ['gene-TTE_RS12620']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009609726.1']
+    Key: locus_tag, Value: ['TTE_RS12620']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['copper amine oxidase N-terminal domain-containing protein']
+    Key: protein_id, Value: ['WP_011026634.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(copper amine oxidase N-terminal domain-containing protein, 16566-16917 (-1))
+type: repeat_region
+location: [2537223:2538952](+)
+id: NC_003869.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_003869.1_2']
+    Key: Note, Value: ['GTTTCAATCCCTCTTAGGTAGGCTAAAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1729']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17753-19482 (0))
+graphic feature from known effectors: GF(csx1, 8532-9965 (-1))
+[GF(glycosidase, 143-1076 (-1)), GF(DUF4416 family protein, 1065-1614 (-1)), GF(cyclase family protein, 1631-2258 (-1)), GF(EamA family transporter, 2339-3236 (-1)), GF(TrmH family RNA methyltransferase, 3238-3871 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-4977 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 4973-5381 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5405-6455 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6447-7581 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 7587-8478 (-1)), GF(CRISPR-associated CARF protein Csx1, 8531-9965 (-1)), GF(DDE-type integrase/transposase/recombinase, 10150-11518 (1)), GF(IS110 family transposase, 12258-13542 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 13650-16380 (-1)), GF(copper amine oxidase N-terminal domain-containing protein, 16566-16917 (-1)), GF(Repeat region, 17753-19482 (0)), GF(csx1, 8532-9965 (-1)), GF(CRISPR-Cas locus, 4000-16380 (0))]

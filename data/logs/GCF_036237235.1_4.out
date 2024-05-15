@@ -1,0 +1,253 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           4  NZ_CP108350.1  ...  GCF_036237235.1_4  GCF_036237235.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP108350.1
+type: CDS
+location: [2765:3053](+)
+id: cds-WP_329549988.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329549988.1']
+    Key: ID, Value: ['cds-WP_329549988.1']
+    Key: Name, Value: ['WP_329549988.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0051607', 'GO:0003676', 'GO:0004519', 'GO:0046872']
+    Key: Parent, Value: ['gene-OG548_RS00005']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'endonuclease activity|0004519||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA', 'defense response to virus|0051607||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013984.4']
+    Key: locus_tag, Value: ['OG548_RS00005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_329549988.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 3701-3989 (1))
+type: CDS
+location: [3063:3348](+)
+id: cds-WP_329543349.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543349.1']
+    Key: ID, Value: ['cds-WP_329543349.1']
+    Key: Name, Value: ['WP_329543349.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-OG548_RS00010']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['OG548_RS00010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_329543349.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 3999-4284 (1))
+type: CDS
+location: [4616:5756](+)
+id: cds-WP_329543350.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543350.1']
+    Key: ID, Value: ['cds-WP_329543350.1']
+    Key: Name, Value: ['WP_329543350.1']
+    Key: Parent, Value: ['gene-OG548_RS00015']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['OG548_RS00015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_329543350.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5552-6692 (1))
+type: CDS
+location: [5752:8137](+)
+id: cds-WP_329543351.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543351.1']
+    Key: ID, Value: ['cds-WP_329543351.1']
+    Key: Name, Value: ['WP_329543351.1']
+    Key: Parent, Value: ['gene-OG548_RS00020']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['OG548_RS00020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_329543351.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 6688-9073 (1))
+type: CDS
+location: [8139:9933](+)
+id: cds-WP_329543352.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543352.1']
+    Key: ID, Value: ['cds-WP_329543352.1']
+    Key: Name, Value: ['WP_329543352.1']
+    Key: Parent, Value: ['gene-OG548_RS00025']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['OG548_RS00025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_329543352.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9075-10869 (1))
+type: CDS
+location: [9929:10664](+)
+id: cds-WP_329543353.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543353.1']
+    Key: ID, Value: ['cds-WP_329543353.1']
+    Key: Name, Value: ['WP_329543353.1']
+    Key: Parent, Value: ['gene-OG548_RS00030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['OG548_RS00030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_329543353.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10865-11600 (1))
+type: CDS
+location: [10660:12184](+)
+id: cds-WP_329543354.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543354.1']
+    Key: ID, Value: ['cds-WP_329543354.1']
+    Key: Name, Value: ['WP_329543354.1']
+    Key: Parent, Value: ['gene-OG548_RS00035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.4']
+    Key: locus_tag, Value: ['OG548_RS00035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_329543354.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 11596-13120 (1))
+type: CDS
+location: [12180:13818](+)
+id: cds-WP_329543355.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543355.1']
+    Key: ID, Value: ['cds-WP_329543355.1']
+    Key: Name, Value: ['WP_329543355.1']
+    Key: Parent, Value: ['gene-OG548_RS00040']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['OG548_RS00040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_329543355.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13116-14754 (1))
+type: CDS
+location: [13814:14315](+)
+id: cds-WP_329543356.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543356.1']
+    Key: ID, Value: ['cds-WP_329543356.1']
+    Key: Name, Value: ['WP_329543356.1']
+    Key: Parent, Value: ['gene-OG548_RS00045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['OG548_RS00045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_329543356.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14750-15251 (1))
+type: CDS
+location: [14314:15055](+)
+id: cds-WP_329543357.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543357.1']
+    Key: ID, Value: ['cds-WP_329543357.1']
+    Key: Name, Value: ['WP_329543357.1']
+    Key: Parent, Value: ['gene-OG548_RS00050']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.4']
+    Key: locus_tag, Value: ['OG548_RS00050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_329543357.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 15250-15991 (1))
+type: CDS
+location: [16166:16370](-)
+id: cds-WP_329543358.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_329543358.1']
+    Key: ID, Value: ['cds-WP_329543358.1']
+    Key: Name, Value: ['WP_329543358.1']
+    Key: Parent, Value: ['gene-OG548_RS00055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['OG548_RS00055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_329543358.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17102-17306 (-1))
+type: CDS
+location: [17868:18252](-)
+id: cds-OG548_RS00060
+qualifiers:
+    Key: ID, Value: ['cds-OG548_RS00060']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-OG548_RS00060']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007268491.1']
+    Key: locus_tag, Value: ['OG548_RS00060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6009 family protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6009 family protein, 18804-19188 (-1))
+type: repeat_region
+location: [3594:4201](+)
+id: NZ_CP108350.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP108350.1_1']
+    Key: Note, Value: ['ACGCCCGCCCGAAGGGCATAGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['607']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 4530-5137 (0))
+type: repeat_region
+location: [16534:17344](+)
+id: NZ_CP108350.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP108350.1_2']
+    Key: Note, Value: ['GTTTCCATGCCCTACGGGCTTCGG']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['810']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17470-18280 (0))
+[GF(CRISPR-associated endonuclease Cas1, 3701-3989 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4284 (1)), GF(None, 5552-6692 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 6688-9073 (1)), GF(None, 9075-10869 (1)), GF(RAMP superfamily CRISPR-associated protein, 10865-11600 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 11596-13120 (1)), GF(RAMP superfamily CRISPR-associated protein, 13116-14754 (1)), GF(None, 14750-15251 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 15250-15991 (1)), GF(None, 17102-17306 (-1)), GF(DUF6009 family protein, 18804-19188 (-1)), GF(Repeat region, 4530-5137 (0)), GF(Repeat region, 17470-18280 (0)), GF(CRISPR-Cas locus, 4000-15991 (0))]

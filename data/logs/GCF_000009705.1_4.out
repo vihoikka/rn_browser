@@ -1,0 +1,413 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           4  NC_003272.1  ...  GCF_000009705.1_4  GCF_000009705.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_003272.1
+type: CDS
+location: [1723259:1724165](-)
+id: cds-WP_010995634.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995634.1']
+    Key: ID, Value: ['cds-WP_010995634.1']
+    Key: Name, Value: ['WP_010995634.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09125']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09125']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995634.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 874-1780 (-1))
+type: CDS
+location: [1724324:1726406](-)
+id: cds-WP_084789077.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084789077.1']
+    Key: ID, Value: ['cds-WP_084789077.1']
+    Key: Name, Value: ['WP_084789077.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS32930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024180.4']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS32930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CHAT domain-containing tetratricopeptide repeat protein']
+    Key: protein_id, Value: ['WP_084789077.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CHAT domain-containing tetratricopeptide repeat protein, 1939-4021 (-1))
+type: CDS
+location: [1726384:1727734](-)
+id: cds-WP_010995636.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995636.1']
+    Key: ID, Value: ['cds-WP_010995636.1']
+    Key: Name, Value: ['WP_010995636.1']
+    Key: Ontology_term, Value: ['GO:0005515']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS32935']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['protein binding|0005515||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024816.4']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS32935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['tetratricopeptide repeat protein']
+    Key: protein_id, Value: ['WP_010995636.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(tetratricopeptide repeat protein, 3999-5349 (-1))
+type: CDS
+location: [1728407:1729151](-)
+id: cds-WP_010995637.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995637.1']
+    Key: ID, Value: ['cds-WP_010995637.1']
+    Key: Name, Value: ['WP_010995637.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09135']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015113656.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09135']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4384 domain-containing protein']
+    Key: protein_id, Value: ['WP_010995637.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4384 domain-containing protein, 6022-6766 (-1))
+type: CDS
+location: [1729648:1731655](+)
+id: cds-WP_010995638.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995638.1']
+    Key: ID, Value: ['cds-WP_010995638.1']
+    Key: Name, Value: ['WP_010995638.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09140']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015196021.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09140']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_010995638.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 7263-9270 (1))
+type: CDS
+location: [1733487:1734309](+)
+id: cds-WP_010995640.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995640.1']
+    Key: ID, Value: ['cds-WP_010995640.1']
+    Key: Name, Value: ['WP_010995640.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09145']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015128929.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09145']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995640.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11102-11924 (1))
+type: CDS
+location: [1734361:1735078](-)
+id: cds-WP_010995641.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995641.1']
+    Key: ID, Value: ['cds-WP_010995641.1']
+    Key: Name, Value: ['WP_010995641.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS30385']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS30385']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995641.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11976-12693 (-1))
+type: CDS
+location: [1735087:1736143](-)
+id: cds-WP_010995642.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995642.1']
+    Key: ID, Value: ['cds-WP_010995642.1']
+    Key: Name, Value: ['WP_010995642.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09155']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015119443.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09155']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_010995642.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 12702-13758 (-1))
+type: CDS
+location: [1736144:1736672](-)
+id: cds-WP_010995643.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995643.1']
+    Key: ID, Value: ['cds-WP_010995643.1']
+    Key: Name, Value: ['WP_010995643.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09160']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017311121.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09160']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995643.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13759-14287 (-1))
+type: CDS
+location: [1736659:1737673](-)
+id: cds-WP_010995644.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995644.1']
+    Key: ID, Value: ['cds-WP_010995644.1']
+    Key: Name, Value: ['WP_010995644.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09165']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006197827.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09165']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_010995644.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 14274-15288 (-1))
+type: CDS
+location: [1737677:1738604](-)
+id: cds-WP_010995645.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995645.1']
+    Key: ID, Value: ['cds-WP_010995645.1']
+    Key: Name, Value: ['WP_010995645.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09170']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx7']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015119440.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09170']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated RAMP protein Csx7']
+    Key: protein_id, Value: ['WP_010995645.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated RAMP protein Csx7, 15292-16219 (-1))
+type: CDS
+location: [1738619:1739075](-)
+id: cds-WP_010995646.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995646.1']
+    Key: ID, Value: ['cds-WP_010995646.1']
+    Key: Name, Value: ['WP_010995646.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09175']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015216200.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09175']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995646.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16234-16690 (-1))
+type: CDS
+location: [1739071:1740376](-)
+id: cds-WP_010995647.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995647.1']
+    Key: ID, Value: ['cds-WP_010995647.1']
+    Key: Name, Value: ['WP_010995647.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09180']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017741239.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09180']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated RAMP protein Csx10']
+    Key: protein_id, Value: ['WP_010995647.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated RAMP protein Csx10, 16686-17991 (-1))
+type: CDS
+location: [1740372:1741131](-)
+id: cds-WP_010995648.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995648.1']
+    Key: ID, Value: ['cds-WP_010995648.1']
+    Key: Name, Value: ['WP_010995648.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09185']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015119437.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09185']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_010995648.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 17987-18746 (-1))
+type: CDS
+location: [1741127:1743494](-)
+id: cds-WP_010995649.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995649.1']
+    Key: ID, Value: ['cds-WP_010995649.1']
+    Key: Name, Value: ['WP_010995649.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09190']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016864705.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09190']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_010995649.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 18742-21109 (-1))
+type: CDS
+location: [1743699:1744026](-)
+id: cds-WP_044520963.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_044520963.1']
+    Key: ID, Value: ['cds-WP_044520963.1']
+    Key: Name, Value: ['WP_044520963.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09195']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09195']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_044520963.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21314-21641 (-1))
+type: CDS
+location: [1744832:1745966](+)
+id: cds-WP_010995652.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995652.1']
+    Key: ID, Value: ['cds-WP_010995652.1']
+    Key: Name, Value: ['WP_010995652.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09200']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015216193.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09200']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endoribonuclease Cas6']
+    Key: protein_id, Value: ['WP_010995652.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endoribonuclease Cas6, 22447-23581 (1))
+type: CDS
+location: [1746055:1748482](-)
+id: cds-WP_010995653.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995653.1']
+    Key: ID, Value: ['cds-WP_010995653.1']
+    Key: Name, Value: ['WP_010995653.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09205']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017312814.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09205']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphoketolase family protein']
+    Key: protein_id, Value: ['WP_010995653.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphoketolase family protein, 23670-26097 (-1))
+type: CDS
+location: [1748689:1749139](-)
+id: cds-WP_010995654.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995654.1']
+    Key: ID, Value: ['cds-WP_010995654.1']
+    Key: Name, Value: ['WP_010995654.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09210']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09210']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995654.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 26304-26754 (-1))
+type: CDS
+location: [1749707:1749890](+)
+id: cds-WP_010995656.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_010995656.1']
+    Key: ID, Value: ['cds-WP_010995656.1']
+    Key: Name, Value: ['WP_010995656.1']
+    Key: Parent, Value: ['gene-PCC7120DELTA_RS09220']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015131757.1']
+    Key: locus_tag, Value: ['PCC7120DELTA_RS09220']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_010995656.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 27322-27505 (1))
+type: repeat_region
+location: [1727816:1728071](+)
+id: NC_003272.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_003272.1_2']
+    Key: Note, Value: ['GTTTCCATCCCCGTGAGGGGTAAAGGAATTAAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['255']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 5431-5686 (0))
+type: repeat_region
+location: [1732268:1733321](+)
+id: NC_003272.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_003272.1_3']
+    Key: Note, Value: ['GTTTTAATTCCTTTACCCCTCACGGGGATGGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1053']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 9883-10936 (0))
+graphic feature from validated effectors: GF(cam2, 11103-11924 (1))
+[GF(None, 874-1780 (-1)), GF(CHAT domain-containing tetratricopeptide repeat protein, 1939-4021 (-1)), GF(tetratricopeptide repeat protein, 3999-5349 (-1)), GF(DUF4384 domain-containing protein, 6022-6766 (-1)), GF(CRISPR-associated endonuclease Cas1, 7263-9270 (1)), GF(None, 11102-11924 (1)), GF(None, 11976-12693 (-1)), GF(RAMP superfamily CRISPR-associated protein, 12702-13758 (-1)), GF(None, 13759-14287 (-1)), GF(RAMP superfamily CRISPR-associated protein, 14274-15288 (-1)), GF(CRISPR-associated RAMP protein Csx7, 15292-16219 (-1)), GF(None, 16234-16690 (-1)), GF(CRISPR-associated RAMP protein Csx10, 16686-17991 (-1)), GF(RAMP superfamily CRISPR-associated protein, 17987-18746 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 18742-21109 (-1)), GF(None, 21314-21641 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 22447-23581 (1)), GF(phosphoketolase family protein, 23670-26097 (-1)), GF(None, 26304-26754 (-1)), GF(None, 27322-27505 (1)), GF(Repeat region, 5431-5686 (0)), GF(Repeat region, 9883-10936 (0)), GF(cam2, 11103-11924 (1)), GF(CRISPR-Cas locus, 4000-23581 (0))]

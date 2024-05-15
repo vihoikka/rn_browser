@@ -1,0 +1,273 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_016940.1  ...  GCF_000250635.1_0  GCF_000250635.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_016940.1
+type: CDS
+location: [428109:428916](-)
+id: cds-WP_281046527.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_281046527.1']
+    Key: ID, Value: ['cds-WP_281046527.1']
+    Key: Name, Value: ['WP_281046527.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-SGRA_RS01890']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033516.0']
+    Key: locus_tag, Value: ['SGRA_RS01890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS3 family transposase']
+    Key: protein_id, Value: ['WP_281046527.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS3 family transposase, 2567-3374 (-1))
+type: CDS
+location: [428938:429226](-)
+id: cds-WP_014373321.1-2
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373321.1']
+    Key: ID, Value: ['cds-WP_014373321.1-2']
+    Key: Name, Value: ['WP_014373321.1']
+    Key: Ontology_term, Value: ['GO:0006313', 'GO:0003677', 'GO:0004803']
+    Key: Parent, Value: ['gene-SGRA_RS01895']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'transposase activity|0004803||IEA']
+    Key: go_process, Value: ['transposition, DNA-mediated|0006313||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013677.2']
+    Key: locus_tag, Value: ['SGRA_RS01895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_014373321.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 3396-3684 (-1))
+type: CDS
+location: [429541:430867](-)
+id: cds-WP_014373433.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373433.1']
+    Key: ID, Value: ['cds-WP_014373433.1']
+    Key: Name, Value: ['WP_014373433.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS01900']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002660214.1']
+    Key: locus_tag, Value: ['SGRA_RS01900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014373433.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 3999-5325 (-1))
+type: CDS
+location: [430870:431389](-)
+id: cds-WP_014373434.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373434.1']
+    Key: ID, Value: ['cds-WP_014373434.1']
+    Key: Name, Value: ['WP_014373434.1']
+    Key: Parent, Value: ['gene-SGRA_RS01905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SGRA_RS01905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014373434.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5328-5847 (-1))
+type: CDS
+location: [431442:432666](-)
+id: cds-WP_014373435.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373435.1']
+    Key: ID, Value: ['cds-WP_014373435.1']
+    Key: Name, Value: ['WP_014373435.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SGRA_RS01910']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.2']
+    Key: locus_tag, Value: ['SGRA_RS01910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014373435.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 5900-7124 (-1))
+type: CDS
+location: [432732:435243](-)
+id: cds-WP_014373436.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373436.1']
+    Key: ID, Value: ['cds-WP_014373436.1']
+    Key: Name, Value: ['WP_014373436.1']
+    Key: Parent, Value: ['gene-SGRA_RS01915']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['SGRA_RS01915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_014373436.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 7190-9701 (-1))
+type: CDS
+location: [435244:435733](-)
+id: cds-WP_014373437.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373437.1']
+    Key: ID, Value: ['cds-WP_014373437.1']
+    Key: Name, Value: ['WP_014373437.1']
+    Key: Parent, Value: ['gene-SGRA_RS01920']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR04423.1']
+    Key: locus_tag, Value: ['SGRA_RS01920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR04423 family type III CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014373437.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR04423 family type III CRISPR-associated protein, 9702-10191 (-1))
+type: CDS
+location: [435914:437591](-)
+id: cds-WP_014373438.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373438.1']
+    Key: ID, Value: ['cds-WP_014373438.1']
+    Key: Name, Value: ['WP_014373438.1']
+    Key: Parent, Value: ['gene-SGRA_RS01925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['SGRA_RS01925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014373438.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10372-12049 (-1))
+type: CDS
+location: [437819:439316](-)
+id: cds-WP_014373439.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373439.1']
+    Key: ID, Value: ['cds-WP_014373439.1']
+    Key: Name, Value: ['WP_014373439.1']
+    Key: Parent, Value: ['gene-SGRA_RS01930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SGRA_RS01930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014373439.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12277-13774 (-1))
+type: CDS
+location: [439330:439915](-)
+id: cds-WP_014373440.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373440.1']
+    Key: ID, Value: ['cds-WP_014373440.1']
+    Key: Name, Value: ['WP_014373440.1']
+    Key: Parent, Value: ['gene-SGRA_RS01935']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['SGRA_RS01935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_014373440.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13788-14373 (-1))
+type: CDS
+location: [439929:441705](-)
+id: cds-WP_014373441.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373441.1']
+    Key: ID, Value: ['cds-WP_014373441.1']
+    Key: Name, Value: ['WP_014373441.1']
+    Key: Parent, Value: ['gene-SGRA_RS01940']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SGRA_RS01940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014373441.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14387-16163 (-1))
+type: CDS
+location: [442193:443111](+)
+id: cds-WP_014373444.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373444.1']
+    Key: ID, Value: ['cds-WP_014373444.1']
+    Key: Name, Value: ['WP_014373444.1']
+    Key: Parent, Value: ['gene-SGRA_RS01950']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014373444.1']
+    Key: locus_tag, Value: ['SGRA_RS01950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_014373444.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16651-17569 (1))
+type: CDS
+location: [443343:444648](-)
+id: cds-WP_014373445.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373445.1']
+    Key: ID, Value: ['cds-WP_014373445.1']
+    Key: Name, Value: ['WP_014373445.1']
+    Key: Parent, Value: ['gene-SGRA_RS01955']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014373445.1']
+    Key: locus_tag, Value: ['SGRA_RS01955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HTTM domain-containing protein']
+    Key: protein_id, Value: ['WP_014373445.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HTTM domain-containing protein, 17801-19106 (-1))
+type: CDS
+location: [444634:445681](-)
+id: cds-WP_014373446.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_014373446.1']
+    Key: ID, Value: ['cds-WP_014373446.1']
+    Key: Name, Value: ['WP_014373446.1']
+    Key: Parent, Value: ['gene-SGRA_RS01960']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_002660202.1']
+    Key: locus_tag, Value: ['SGRA_RS01960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['imelysin family protein']
+    Key: protein_id, Value: ['WP_014373446.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(imelysin family protein, 19092-20139 (-1))
+graphic feature from known effectors: GF(csx1, 4000-5325 (-1))
+graphic feature from known effectors: GF(csx1, 5901-7124 (-1))
+[GF(IS3 family transposase, 2567-3374 (-1)), GF(transposase, 3396-3684 (-1)), GF(TIGR02221 family CRISPR-associated protein, 3999-5325 (-1)), GF(None, 5328-5847 (-1)), GF(TIGR02221 family CRISPR-associated protein, 5900-7124 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 7190-9701 (-1)), GF(TIGR04423 family type III CRISPR-associated protein, 9702-10191 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10372-12049 (-1)), GF(None, 12277-13774 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13788-14373 (-1)), GF(None, 14387-16163 (-1)), GF(None, 16651-17569 (1)), GF(HTTM domain-containing protein, 17801-19106 (-1)), GF(imelysin family protein, 19092-20139 (-1)), GF(csx1, 4000-5325 (-1)), GF(csx1, 5901-7124 (-1)), GF(CRISPR-Cas locus, 4000-16163 (0))]

@@ -1,0 +1,370 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           1  NC_013854.1  ...  GCF_000010725.1_1  GCF_000010725.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_013854.1
+type: CDS
+location: [1163273:1164566](-)
+id: cds-WP_012973655.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973655.1']
+    Key: ID, Value: ['cds-WP_012973655.1']
+    Key: Name, Value: ['WP_012973655.1']
+    Key: Parent, Value: ['gene-AZL_RS05450']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012973655.1']
+    Key: locus_tag, Value: ['AZL_RS05450']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS701-like element ISAzs6 family transposase']
+    Key: protein_id, Value: ['WP_012973655.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS701-like element ISAzs6 family transposase, 54-1347 (-1))
+type: inferred_parent
+location: [1164660:1165412](-)
+id: gene-AZL_RS34030
+qualifiers:
+    Key: ID, Value: ['gene-AZL_RS34030']
+
+GF(None, 1441-2193 (-1))
+type: CDS
+location: [1165490:1165868](-)
+id: cds-AZL_RS34035
+qualifiers:
+    Key: ID, Value: ['cds-AZL_RS34035']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-AZL_RS34035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076612189.1']
+    Key: locus_tag, Value: ['AZL_RS34035']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase family protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1165491']
+    Key: transl_table, Value: ['11']
+
+GF(transposase family protein, 2271-2649 (-1))
+type: CDS
+location: [1166512:1166815](+)
+id: cds-WP_042442594.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_042442594.1']
+    Key: ID, Value: ['cds-WP_042442594.1']
+    Key: Name, Value: ['WP_042442594.1']
+    Key: Parent, Value: ['gene-AZL_RS05465']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS05465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_042442594.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3293-3596 (1))
+type: CDS
+location: [1166852:1167173](+)
+id: cds-WP_012973657.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973657.1']
+    Key: ID, Value: ['cds-WP_012973657.1']
+    Key: Name, Value: ['WP_012973657.1']
+    Key: Parent, Value: ['gene-AZL_RS05470']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011389041.1']
+    Key: locus_tag, Value: ['AZL_RS05470']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CU044_2847 family protein']
+    Key: protein_id, Value: ['WP_012973657.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CU044_2847 family protein, 3633-3954 (1))
+type: CDS
+location: [1167218:1168829](+)
+id: cds-WP_042442596.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_042442596.1']
+    Key: ID, Value: ['cds-WP_042442596.1']
+    Key: Name, Value: ['WP_042442596.1']
+    Key: Parent, Value: ['gene-AZL_RS05475']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS05475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_042442596.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5610 (1))
+type: CDS
+location: [1168825:1170592](+)
+id: cds-WP_042442599.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_042442599.1']
+    Key: ID, Value: ['cds-WP_042442599.1']
+    Key: Name, Value: ['WP_042442599.1']
+    Key: Parent, Value: ['gene-AZL_RS05480']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS05480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_042442599.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5606-7373 (1))
+type: CDS
+location: [1170584:1173296](+)
+id: cds-WP_012973660.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973660.1']
+    Key: ID, Value: ['cds-WP_012973660.1']
+    Key: Name, Value: ['WP_012973660.1']
+    Key: Parent, Value: ['gene-AZL_RS05485']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['AZL_RS05485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012973660.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7365-10077 (1))
+type: CDS
+location: [1173331:1173970](+)
+id: cds-WP_012973661.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973661.1']
+    Key: ID, Value: ['cds-WP_012973661.1']
+    Key: Name, Value: ['WP_012973661.1']
+    Key: Parent, Value: ['gene-AZL_RS05490']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS05490']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012973661.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10112-10751 (1))
+type: CDS
+location: [1174160:1175114](-)
+id: cds-WP_012973662.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973662.1']
+    Key: ID, Value: ['cds-WP_012973662.1']
+    Key: Name, Value: ['WP_012973662.1']
+    Key: Parent, Value: ['gene-AZL_RS05495']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.2']
+    Key: locus_tag, Value: ['AZL_RS05495']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_012973662.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10941-11895 (-1))
+type: CDS
+location: [1175566:1175854](-)
+id: cds-WP_012973663.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973663.1']
+    Key: ID, Value: ['cds-WP_012973663.1']
+    Key: Name, Value: ['WP_012973663.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-AZL_RS05500']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014188712.1']
+    Key: locus_tag, Value: ['AZL_RS05500']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_012973663.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 12347-12635 (-1))
+type: CDS
+location: [1175896:1177894](-)
+id: cds-WP_012973664.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973664.1']
+    Key: ID, Value: ['cds-WP_012973664.1']
+    Key: Name, Value: ['WP_012973664.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-AZL_RS05505']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014747450.1']
+    Key: locus_tag, Value: ['AZL_RS05505']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_012973664.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 12677-14675 (-1))
+type: CDS
+location: [1178624:1179398](-)
+id: cds-WP_052293634.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_052293634.1']
+    Key: ID, Value: ['cds-WP_052293634.1']
+    Key: Name, Value: ['WP_052293634.1']
+    Key: Parent, Value: ['gene-AZL_RS34040']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS34040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_052293634.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15405-16179 (-1))
+type: CDS
+location: [1179394:1180966](-)
+id: cds-WP_042442600.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_042442600.1']
+    Key: ID, Value: ['cds-WP_042442600.1']
+    Key: Name, Value: ['WP_042442600.1']
+    Key: Parent, Value: ['gene-AZL_RS05515']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['AZL_RS05515']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_042442600.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16175-17747 (-1))
+type: CDS
+location: [1181334:1181754](+)
+id: cds-WP_012973667.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973667.1']
+    Key: ID, Value: ['cds-WP_012973667.1']
+    Key: Name, Value: ['WP_012973667.1']
+    Key: Parent, Value: ['gene-AZL_RS05520']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014247285.1']
+    Key: locus_tag, Value: ['AZL_RS05520']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['organic hydroperoxide resistance protein']
+    Key: protein_id, Value: ['WP_012973667.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(organic hydroperoxide resistance protein, 18115-18535 (1))
+type: CDS
+location: [1181921:1182395](+)
+id: cds-WP_012973668.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973668.1']
+    Key: ID, Value: ['cds-WP_012973668.1']
+    Key: Name, Value: ['WP_012973668.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0003700']
+    Key: Parent, Value: ['gene-AZL_RS05525']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'DNA-binding transcription factor activity|0003700||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014241955.1']
+    Key: locus_tag, Value: ['AZL_RS05525']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MarR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_012973668.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MarR family transcriptional regulator, 18702-19176 (1))
+type: CDS
+location: [1182469:1183072](+)
+id: cds-WP_012973669.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973669.1']
+    Key: ID, Value: ['cds-WP_012973669.1']
+    Key: Name, Value: ['WP_012973669.1']
+    Key: Parent, Value: ['gene-AZL_RS05530']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014247287.1']
+    Key: locus_tag, Value: ['AZL_RS05530']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GNAT family N-acetyltransferase']
+    Key: protein_id, Value: ['WP_012973669.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GNAT family N-acetyltransferase, 19250-19853 (1))
+type: CDS
+location: [1183369:1184302](-)
+id: cds-WP_012973670.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973670.1']
+    Key: ID, Value: ['cds-WP_012973670.1']
+    Key: Name, Value: ['WP_012973670.1']
+    Key: Ontology_term, Value: ['GO:0018364', 'GO:0042273', 'GO:0008276', 'GO:0008757']
+    Key: Parent, Value: ['gene-AZL_RS05535']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['prmB']
+    Key: go_function, Value: ['protein methyltransferase activity|0008276||IEA', 'S-adenosylmethionine-dependent methyltransferase activity|0008757||IEA']
+    Key: go_process, Value: ['peptidyl-glutamine methylation|0018364||IEA', 'ribosomal large subunit biogenesis|0042273||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014247289.1']
+    Key: locus_tag, Value: ['AZL_RS05535']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['50S ribosomal protein L3 N(5)-glutamine methyltransferase']
+    Key: protein_id, Value: ['WP_012973670.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(50S ribosomal protein L3 N(5)-glutamine methyltransferase, 20150-21083 (-1))
+type: CDS
+location: [1184332:1184674](-)
+id: cds-WP_012973671.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012973671.1']
+    Key: ID, Value: ['cds-WP_012973671.1']
+    Key: Name, Value: ['WP_012973671.1']
+    Key: Note, Value: ['This arsenate reductase requires both glutathione and glutaredoxin to convert arsenate to arsenite, after which the efflux transporter formed by ArsA and ArsB can extrude the arsenite from the cell, providing resistance.']
+    Key: Ontology_term, Value: ['GO:0008794']
+    Key: Parent, Value: ['gene-AZL_RS05540']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['arsC']
+    Key: go_function, Value: ['arsenate reductase (glutaredoxin) activity|0008794||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_258191240.1']
+    Key: locus_tag, Value: ['AZL_RS05540']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['arsenate reductase (glutaredoxin)']
+    Key: protein_id, Value: ['WP_012973671.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(arsenate reductase (glutaredoxin), 21113-21455 (-1))
+type: repeat_region
+location: [1178057:1178606](+)
+id: NC_013854.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_013854.1_2']
+    Key: Note, Value: ['AGTTCGGAGGCGTTCCGCTATGGGAAGCGGATTGGAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['549']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 14838-15387 (0))
+graphic feature from known effectors: GF(cora, 16176-17747 (-1))
+[GF(IS701-like element ISAzs6 family transposase, 54-1347 (-1)), GF(None, 1441-2193 (-1)), GF(transposase family protein, 2271-2649 (-1)), GF(None, 3293-3596 (1)), GF(CU044_2847 family protein, 3633-3954 (1)), GF(None, 3999-5610 (1)), GF(None, 5606-7373 (1)), GF(RAMP superfamily CRISPR-associated protein, 7365-10077 (1)), GF(None, 10112-10751 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10941-11895 (-1)), GF(CRISPR-associated endonuclease Cas2, 12347-12635 (-1)), GF(CRISPR-associated endonuclease Cas1, 12677-14675 (-1)), GF(None, 15405-16179 (-1)), GF(None, 16175-17747 (-1)), GF(organic hydroperoxide resistance protein, 18115-18535 (1)), GF(MarR family transcriptional regulator, 18702-19176 (1)), GF(GNAT family N-acetyltransferase, 19250-19853 (1)), GF(50S ribosomal protein L3 N(5)-glutamine methyltransferase, 20150-21083 (-1)), GF(arsenate reductase (glutaredoxin), 21113-21455 (-1)), GF(Repeat region, 14838-15387 (0)), GF(cora, 16176-17747 (-1)), GF(CRISPR-Cas locus, 4000-17747 (0))]

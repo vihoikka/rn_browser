@@ -1,0 +1,218 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_013921.1  ...  GCF_000025645.1_2  GCF_000025645.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_013921.1
+type: CDS
+location: [748517:749840](+)
+id: cds-WP_012994790.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994790.1']
+    Key: ID, Value: ['cds-WP_012994790.1']
+    Key: Name, Value: ['WP_012994790.1']
+    Key: Parent, Value: ['gene-THIT_RS03465']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012994790.1']
+    Key: locus_tag, Value: ['THIT_RS03465']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02679 family protein']
+    Key: protein_id, Value: ['WP_012994790.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02679 family protein, 2333-3656 (1))
+type: CDS
+location: [749875:750163](+)
+id: cds-THIT_RS03470
+qualifiers:
+    Key: ID, Value: ['cds-THIT_RS03470']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-THIT_RS03470']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF037100.2']
+    Key: locus_tag, Value: ['THIT_RS03470']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['nucleotidyltransferase domain-containing protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '749876']
+    Key: transl_table, Value: ['11']
+
+GF(nucleotidyltransferase domain-containing protein, 3691-3979 (1))
+type: CDS
+location: [750183:751515](+)
+id: cds-WP_012994791.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994791.1']
+    Key: ID, Value: ['cds-WP_012994791.1']
+    Key: Name, Value: ['WP_012994791.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03475']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012994791.1']
+    Key: locus_tag, Value: ['THIT_RS03475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_012994791.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5331 (1))
+type: CDS
+location: [751498:751900](+)
+id: cds-WP_012994792.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994792.1']
+    Key: ID, Value: ['cds-WP_012994792.1']
+    Key: Name, Value: ['WP_012994792.1']
+    Key: Ontology_term, Value: ['GO:0016779']
+    Key: Parent, Value: ['gene-THIT_RS03480']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleotidyltransferase activity|0016779||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012269508.1']
+    Key: locus_tag, Value: ['THIT_RS03480']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HI0074 family nucleotidyltransferase substrate-binding subunit']
+    Key: protein_id, Value: ['WP_012994792.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HI0074 family nucleotidyltransferase substrate-binding subunit, 5314-5716 (1))
+type: CDS
+location: [751981:753457](+)
+id: cds-WP_012994793.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994793.1']
+    Key: ID, Value: ['cds-WP_012994793.1']
+    Key: Name, Value: ['WP_012994793.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03485']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015311241.1']
+    Key: locus_tag, Value: ['THIT_RS03485']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02710 family CRISPR-associated CARF protein']
+    Key: protein_id, Value: ['WP_012994793.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02710 family CRISPR-associated CARF protein, 5797-7273 (1))
+type: CDS
+location: [753486:754455](+)
+id: cds-WP_012994794.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994794.1']
+    Key: ID, Value: ['cds-WP_012994794.1']
+    Key: Name, Value: ['WP_012994794.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03490']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013150028.1']
+    Key: locus_tag, Value: ['THIT_RS03490']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_012994794.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 7302-8271 (1))
+type: CDS
+location: [754451:754859](+)
+id: cds-WP_012994795.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994795.1']
+    Key: ID, Value: ['cds-WP_012994795.1']
+    Key: Name, Value: ['WP_012994795.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03495']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012994795.1']
+    Key: locus_tag, Value: ['THIT_RS03495']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_012994795.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 8267-8675 (1))
+type: CDS
+location: [754848:755652](+)
+id: cds-WP_012994796.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994796.1']
+    Key: ID, Value: ['cds-WP_012994796.1']
+    Key: Name, Value: ['WP_012994796.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03500']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012994796.1']
+    Key: locus_tag, Value: ['THIT_RS03500']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_012994796.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 8664-9468 (1))
+type: CDS
+location: [755799:758520](+)
+id: cds-WP_012994797.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994797.1']
+    Key: ID, Value: ['cds-WP_012994797.1']
+    Key: Name, Value: ['WP_012994797.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THIT_RS03505']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013150031.1']
+    Key: locus_tag, Value: ['THIT_RS03505']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_012994797.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9615-12336 (1))
+type: CDS
+location: [758523:759594](+)
+id: cds-WP_012994798.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012994798.1']
+    Key: ID, Value: ['cds-WP_012994798.1']
+    Key: Name, Value: ['WP_012994798.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-THIT_RS03510']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012994798.1']
+    Key: locus_tag, Value: ['THIT_RS03510']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_012994798.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 12339-13410 (1))
+graphic feature from known effectors: GF(csx1, 5798-7273 (1))
+[GF(TIGR02679 family protein, 2333-3656 (1)), GF(nucleotidyltransferase domain-containing protein, 3691-3979 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5331 (1)), GF(HI0074 family nucleotidyltransferase substrate-binding subunit, 5314-5716 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 5797-7273 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7302-8271 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 8267-8675 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8664-9468 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9615-12336 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 12339-13410 (1)), GF(csx1, 5798-7273 (1)), GF(CRISPR-Cas locus, 4000-13410 (0))]

@@ -1,0 +1,462 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_LR797830.1  ...  GCF_903064525.1_0  GCF_903064525.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_LR797830.1
+type: CDS
+location: [1330125:1330281](-)
+id: cds-WP_202214010.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214010.1']
+    Key: ID, Value: ['cds-WP_202214010.1']
+    Key: Name, Value: ['WP_202214010.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06200']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS06200']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214010.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 544-700 (-1))
+type: CDS
+location: [1330400:1330502](-)
+id: cds-MTHMO_RS10935
+qualifiers:
+    Key: ID, Value: ['cds-MTHMO_RS10935']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-MTHMO_RS10935']
+    Key: end_range, Value: ['1330502', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011000070.1']
+    Key: locus_tag, Value: ['MTHMO_RS10935']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS630 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1330401']
+    Key: transl_table, Value: ['11']
+
+GF(IS630 family transposase, 819-921 (-1))
+type: CDS
+location: [1330597:1331047](-)
+id: cds-WP_237394919.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_237394919.1']
+    Key: ID, Value: ['cds-WP_237394919.1']
+    Key: Name, Value: ['WP_237394919.1']
+    Key: Ontology_term, Value: ['GO:0006313', 'GO:0003677', 'GO:0004803']
+    Key: Parent, Value: ['gene-MTHMO_RS10940']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'transposase activity|0004803||IEA']
+    Key: go_process, Value: ['DNA transposition|0006313||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013752.2']
+    Key: locus_tag, Value: ['MTHMO_RS10940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_237394919.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 1016-1466 (-1))
+type: CDS
+location: [1330968:1331682](-)
+id: cds-WP_237394801.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_237394801.1']
+    Key: ID, Value: ['cds-WP_237394801.1']
+    Key: Name, Value: ['WP_237394801.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-MTHMO_RS10945']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033559.1']
+    Key: locus_tag, Value: ['MTHMO_RS10945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1634 family transposase']
+    Key: protein_id, Value: ['WP_237394801.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1634 family transposase, 1387-2101 (-1))
+type: CDS
+location: [1331689:1332208](-)
+id: cds-WP_237394802.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_237394802.1']
+    Key: ID, Value: ['cds-WP_237394802.1']
+    Key: Name, Value: ['WP_237394802.1']
+    Key: Parent, Value: ['gene-MTHMO_RS10950']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS10950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_237394802.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2108-2627 (-1))
+type: CDS
+location: [1333580:1333874](-)
+id: cds-WP_202214012.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214012.1']
+    Key: ID, Value: ['cds-WP_202214012.1']
+    Key: Name, Value: ['WP_202214012.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-MTHMO_RS06215']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012975299.1']
+    Key: locus_tag, Value: ['MTHMO_RS06215']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_202214012.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 3999-4293 (-1))
+type: CDS
+location: [1333882:1335607](-)
+id: cds-WP_202214013.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214013.1']
+    Key: ID, Value: ['cds-WP_202214013.1']
+    Key: Name, Value: ['WP_202214013.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-MTHMO_RS06220']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_020484984.1']
+    Key: locus_tag, Value: ['MTHMO_RS06220']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_202214013.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4301-6026 (-1))
+type: CDS
+location: [1335647:1335809](+)
+id: cds-WP_202214014.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214014.1']
+    Key: ID, Value: ['cds-WP_202214014.1']
+    Key: Name, Value: ['WP_202214014.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06225']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS06225']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214014.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6066-6228 (1))
+type: CDS
+location: [1336519:1337422](-)
+id: cds-WP_202214015.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214015.1']
+    Key: ID, Value: ['cds-WP_202214015.1']
+    Key: Name, Value: ['WP_202214015.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06230']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS06230']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214015.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6938-7841 (-1))
+type: CDS
+location: [1337424:1337769](-)
+id: cds-WP_202214016.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214016.1']
+    Key: ID, Value: ['cds-WP_202214016.1']
+    Key: Name, Value: ['WP_202214016.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06235']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS06235']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214016.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7843-8188 (-1))
+type: CDS
+location: [1337768:1338767](-)
+id: cds-WP_202214017.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214017.1']
+    Key: ID, Value: ['cds-WP_202214017.1']
+    Key: Name, Value: ['WP_202214017.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MTHMO_RS06240']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015942493.1']
+    Key: locus_tag, Value: ['MTHMO_RS06240']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_202214017.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 8187-9186 (-1))
+type: CDS
+location: [1338763:1341811](-)
+id: cds-WP_202214018.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214018.1']
+    Key: ID, Value: ['cds-WP_202214018.1']
+    Key: Name, Value: ['WP_202214018.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-MTHMO_RS06245']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015738927.1']
+    Key: locus_tag, Value: ['MTHMO_RS06245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx11']
+    Key: protein_id, Value: ['WP_202214018.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx11, 9182-12230 (-1))
+type: CDS
+location: [1341807:1342563](-)
+id: cds-WP_202214019.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214019.1']
+    Key: ID, Value: ['cds-WP_202214019.1']
+    Key: Name, Value: ['WP_202214019.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06250']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017874226.1']
+    Key: locus_tag, Value: ['MTHMO_RS06250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214019.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12226-12982 (-1))
+type: CDS
+location: [1342709:1343651](-)
+id: cds-WP_202214020.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214020.1']
+    Key: ID, Value: ['cds-WP_202214020.1']
+    Key: Name, Value: ['WP_202214020.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MTHMO_RS06255']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['MTHMO_RS06255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_202214020.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 13128-14070 (-1))
+type: CDS
+location: [1343904:1345152](+)
+id: cds-WP_202214021.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214021.1']
+    Key: ID, Value: ['cds-WP_202214021.1']
+    Key: Name, Value: ['WP_202214021.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MTHMO_RS06260']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas7u']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012975292.1']
+    Key: locus_tag, Value: ['MTHMO_RS06260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-U CRISPR-associated RAMP protein Csb1/Cas7u']
+    Key: protein_id, Value: ['WP_202214021.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-U CRISPR-associated RAMP protein Csb1/Cas7u, 14323-15571 (1))
+type: CDS
+location: [1345129:1346686](+)
+id: cds-WP_202214022.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214022.1']
+    Key: ID, Value: ['cds-WP_202214022.1']
+    Key: Name, Value: ['WP_202214022.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-MTHMO_RS06265']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csb2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02165.1']
+    Key: locus_tag, Value: ['MTHMO_RS06265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-U CRISPR-associated protein Csb2']
+    Key: protein_id, Value: ['WP_202214022.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-U CRISPR-associated protein Csb2, 15548-17105 (1))
+type: CDS
+location: [1346682:1349643](+)
+id: cds-WP_202214023.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214023.1']
+    Key: ID, Value: ['cds-WP_202214023.1']
+    Key: Name, Value: ['WP_202214023.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004386']
+    Key: Parent, Value: ['gene-MTHMO_RS06270']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas3u']
+    Key: go_function, Value: ['helicase activity|0004386||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02621.1']
+    Key: locus_tag, Value: ['MTHMO_RS06270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-U CRISPR-associated helicase/endonuclease Cas3']
+    Key: protein_id, Value: ['WP_202214023.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-U CRISPR-associated helicase/endonuclease Cas3, 17101-20062 (1))
+type: CDS
+location: [1349654:1350641](+)
+id: cds-WP_202214024.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214024.1']
+    Key: ID, Value: ['cds-WP_202214024.1']
+    Key: Name, Value: ['WP_202214024.1']
+    Key: Parent, Value: ['gene-MTHMO_RS06275']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['MTHMO_RS06275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_202214024.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 20073-21060 (1))
+type: CDS
+location: [1350947:1352078](-)
+id: cds-WP_237394803.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_237394803.1']
+    Key: ID, Value: ['cds-WP_237394803.1']
+    Key: Name, Value: ['WP_237394803.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-MTHMO_RS06280']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006983348.1']
+    Key: locus_tag, Value: ['MTHMO_RS06280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISL3 family transposase']
+    Key: protein_id, Value: ['WP_237394803.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISL3 family transposase, 21366-22497 (-1))
+type: CDS
+location: [1352146:1352476](+)
+id: cds-WP_255535447.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_255535447.1']
+    Key: ID, Value: ['cds-WP_255535447.1']
+    Key: Name, Value: ['WP_255535447.1']
+    Key: Ontology_term, Value: ['GO:0006313', 'GO:0003677', 'GO:0004803']
+    Key: Parent, Value: ['gene-MTHMO_RS06285']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'transposase activity|0004803||IEA']
+    Key: go_process, Value: ['DNA transposition|0006313||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013677.2']
+    Key: locus_tag, Value: ['MTHMO_RS06285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_255535447.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 22565-22895 (1))
+type: CDS
+location: [1352475:1353333](+)
+id: cds-WP_237394804.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_237394804.1']
+    Key: ID, Value: ['cds-WP_237394804.1']
+    Key: Name, Value: ['WP_237394804.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-MTHMO_RS06290']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF033516.0']
+    Key: locus_tag, Value: ['MTHMO_RS06290']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS3 family transposase']
+    Key: protein_id, Value: ['WP_237394804.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS3 family transposase, 22894-23752 (1))
+type: CDS
+location: [1353329:1353824](-)
+id: cds-WP_202214027.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_202214027.1']
+    Key: ID, Value: ['cds-WP_202214027.1']
+    Key: Name, Value: ['WP_202214027.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-MTHMO_RS06295']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012655.2']
+    Key: locus_tag, Value: ['MTHMO_RS06295']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TetR/AcrR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_202214027.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TetR/AcrR family transcriptional regulator, 23748-24243 (-1))
+type: repeat_region
+location: [1332389:1333312](+)
+id: NZ_LR797830.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_LR797830.1_2']
+    Key: Note, Value: ['GCTTCAATGAGGCCGAGGCGCGAACGCCTCGGATAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['923']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 2808-3731 (0))
+[GF(None, 544-700 (-1)), GF(IS630 family transposase, 819-921 (-1)), GF(transposase, 1016-1466 (-1)), GF(IS1634 family transposase, 1387-2101 (-1)), GF(None, 2108-2627 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4293 (-1)), GF(CRISPR-associated endonuclease Cas1, 4301-6026 (-1)), GF(None, 6066-6228 (1)), GF(None, 6938-7841 (-1)), GF(None, 7843-8188 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8187-9186 (-1)), GF(CRISPR-associated protein Csx11, 9182-12230 (-1)), GF(None, 12226-12982 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 13128-14070 (-1)), GF(type I-U CRISPR-associated RAMP protein Csb1/Cas7u, 14323-15571 (1)), GF(type I-U CRISPR-associated protein Csb2, 15548-17105 (1)), GF(type I-U CRISPR-associated helicase/endonuclease Cas3, 17101-20062 (1)), GF(None, 20073-21060 (1)), GF(ISL3 family transposase, 21366-22497 (-1)), GF(transposase, 22565-22895 (1)), GF(IS3 family transposase, 22894-23752 (1)), GF(TetR/AcrR family transcriptional regulator, 23748-24243 (-1)), GF(Repeat region, 2808-3731 (0)), GF(CRISPR-Cas locus, 4000-21060 (0))]

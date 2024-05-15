@@ -1,0 +1,410 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           3  NZ_CP073250.1  ...  GCF_018139025.1_3  GCF_018139025.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP073250.1
+type: CDS
+location: [565797:566790](+)
+id: cds-WP_057176789.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057176789.1', 'GeneID:67518790']
+    Key: ID, Value: ['cds-WP_057176789.1']
+    Key: Name, Value: ['WP_057176789.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-J9B92_RS02565']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277912.1']
+    Key: locus_tag, Value: ['J9B92_RS02565']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_057176789.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 110-1103 (1))
+type: CDS
+location: [566871:567153](+)
+id: cds-WP_006277913.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006277913.1', 'GeneID:67518791']
+    Key: ID, Value: ['cds-WP_006277913.1']
+    Key: Name, Value: ['WP_006277913.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-J9B92_RS02570']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015116143.1']
+    Key: locus_tag, Value: ['J9B92_RS02570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_006277913.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 1184-1466 (1))
+type: CDS
+location: [569205:569406](+)
+id: cds-WP_006278807.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006278807.1', 'GeneID:67518792']
+    Key: ID, Value: ['cds-WP_006278807.1']
+    Key: Name, Value: ['WP_006278807.1']
+    Key: Parent, Value: ['gene-J9B92_RS02575']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015081078.1']
+    Key: locus_tag, Value: ['J9B92_RS02575']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicB family antitoxin']
+    Key: protein_id, Value: ['WP_006278807.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicB family antitoxin, 3518-3719 (1))
+type: CDS
+location: [569402:569612](+)
+id: cds-WP_006278808.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006278808.1', 'GeneID:67518793']
+    Key: ID, Value: ['cds-WP_006278808.1']
+    Key: Name, Value: ['WP_006278808.1']
+    Key: Ontology_term, Value: ['GO:0003729']
+    Key: Parent, Value: ['gene-J9B92_RS02580']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['mRNA binding|0003729||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015216522.1']
+    Key: locus_tag, Value: ['J9B92_RS02580']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicA family toxin']
+    Key: protein_id, Value: ['WP_006278808.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicA family toxin, 3715-3925 (1))
+type: CDS
+location: [569686:571753](-)
+id: cds-WP_244982379.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_244982379.1', 'GeneID:67518794']
+    Key: ID, Value: ['cds-WP_244982379.1']
+    Key: Name, Value: ['WP_244982379.1']
+    Key: Parent, Value: ['gene-J9B92_RS02585']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024676.2']
+    Key: locus_tag, Value: ['J9B92_RS02585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['WYL domain-containing protein']
+    Key: protein_id, Value: ['WP_244982379.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(WYL domain-containing protein, 3999-6066 (-1))
+type: CDS
+location: [572390:573500](+)
+id: cds-WP_211942112.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942112.1', 'GeneID:67518795']
+    Key: ID, Value: ['cds-WP_211942112.1']
+    Key: Name, Value: ['WP_211942112.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J9B92_RS02590']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278818.1']
+    Key: locus_tag, Value: ['J9B92_RS02590']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['putative CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_211942112.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(putative CRISPR-associated protein, 6703-7813 (1))
+type: CDS
+location: [573699:574971](-)
+id: cds-WP_211942446.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942446.1', 'GeneID:67518796']
+    Key: ID, Value: ['cds-WP_211942446.1']
+    Key: Name, Value: ['WP_211942446.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-J9B92_RS02595']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015213097.1']
+    Key: locus_tag, Value: ['J9B92_RS02595']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RNA-guided endonuclease TnpB family protein']
+    Key: protein_id, Value: ['WP_211942446.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RNA-guided endonuclease TnpB family protein, 8012-9284 (-1))
+type: CDS
+location: [575353:576907](-)
+id: cds-WP_211942113.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942113.1', 'GeneID:67518797']
+    Key: ID, Value: ['cds-WP_211942113.1']
+    Key: Name, Value: ['WP_211942113.1']
+    Key: Parent, Value: ['gene-J9B92_RS02600']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS02600']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211942113.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9666-11220 (-1))
+type: CDS
+location: [577015:578842](-)
+id: cds-WP_211942114.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942114.1', 'GeneID:67518798']
+    Key: ID, Value: ['cds-WP_211942114.1']
+    Key: Name, Value: ['WP_211942114.1']
+    Key: Parent, Value: ['gene-J9B92_RS02605']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS02605']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211942114.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11328-13155 (-1))
+type: CDS
+location: [578884:579277](-)
+id: cds-WP_057178735.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057178735.1', 'GeneID:67518799']
+    Key: ID, Value: ['cds-WP_057178735.1']
+    Key: Name, Value: ['WP_057178735.1']
+    Key: Parent, Value: ['gene-J9B92_RS02610']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015209510.1']
+    Key: locus_tag, Value: ['J9B92_RS02610']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_057178735.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13197-13590 (-1))
+type: CDS
+location: [579328:580204](-)
+id: cds-WP_057178736.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057178736.1', 'GeneID:67518800']
+    Key: ID, Value: ['cds-WP_057178736.1']
+    Key: Name, Value: ['WP_057178736.1']
+    Key: Parent, Value: ['gene-J9B92_RS02615']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009342986.1']
+    Key: locus_tag, Value: ['J9B92_RS02615']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_057178736.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13641-14517 (-1))
+type: CDS
+location: [580304:581321](-)
+id: cds-WP_057178737.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057178737.1', 'GeneID:67518801']
+    Key: ID, Value: ['cds-WP_057178737.1']
+    Key: Name, Value: ['WP_057178737.1']
+    Key: Parent, Value: ['gene-J9B92_RS02620']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009342987.1']
+    Key: locus_tag, Value: ['J9B92_RS02620']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_057178737.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein, 14617-15634 (-1))
+type: CDS
+location: [581305:582961](-)
+id: cds-WP_057178738.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057178738.1', 'GeneID:67518802']
+    Key: ID, Value: ['cds-WP_057178738.1']
+    Key: Name, Value: ['WP_057178738.1']
+    Key: Parent, Value: ['gene-J9B92_RS02625']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009342988.1']
+    Key: locus_tag, Value: ['J9B92_RS02625']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_057178738.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 15618-17274 (-1))
+type: CDS
+location: [583214:583910](+)
+id: cds-WP_057178739.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057178739.1', 'GeneID:67518803']
+    Key: ID, Value: ['cds-WP_057178739.1']
+    Key: Name, Value: ['WP_057178739.1']
+    Key: Parent, Value: ['gene-J9B92_RS02630']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['fabG']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017310015.1']
+    Key: locus_tag, Value: ['J9B92_RS02630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['3-oxoacyl-ACP reductase FabG']
+    Key: protein_id, Value: ['WP_057178739.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(3-oxoacyl-ACP reductase FabG, 17527-18223 (1))
+type: CDS
+location: [584246:584438](+)
+id: cds-WP_211942116.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942116.1', 'GeneID:67518804']
+    Key: ID, Value: ['cds-WP_211942116.1']
+    Key: Name, Value: ['WP_211942116.1']
+    Key: Parent, Value: ['gene-J9B92_RS02635']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS02635']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211942116.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18559-18751 (1))
+type: CDS
+location: [584483:585116](-)
+id: cds-WP_211942118.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942118.1', 'GeneID:67518805']
+    Key: ID, Value: ['cds-WP_211942118.1']
+    Key: Name, Value: ['WP_211942118.1']
+    Key: Ontology_term, Value: ['GO:0016787']
+    Key: Parent, Value: ['gene-J9B92_RS02640']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278822.1']
+    Key: locus_tag, Value: ['J9B92_RS02640']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['dienelactone hydrolase family protein']
+    Key: protein_id, Value: ['WP_211942118.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(dienelactone hydrolase family protein, 18796-19429 (-1))
+type: CDS
+location: [585233:585437](+)
+id: cds-WP_141302998.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_141302998.1', 'GeneID:67518806']
+    Key: ID, Value: ['cds-WP_141302998.1']
+    Key: Name, Value: ['WP_141302998.1']
+    Key: Parent, Value: ['gene-J9B92_RS02645']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015078627.1']
+    Key: locus_tag, Value: ['J9B92_RS02645']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicB family antitoxin']
+    Key: protein_id, Value: ['WP_141302998.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicB family antitoxin, 19546-19750 (1))
+type: CDS
+location: [585510:585728](-)
+id: cds-J9B92_RS02650
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:67518807']
+    Key: ID, Value: ['cds-J9B92_RS02650']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-J9B92_RS02650']
+    Key: end_range, Value: ['585728', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['tnpA']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010999646.1']
+    Key: locus_tag, Value: ['J9B92_RS02650']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS200/IS605 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS200/IS605 family transposase, 19823-20041 (-1))
+type: CDS
+location: [585886:586730](+)
+id: cds-J9B92_RS02655
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:67518808']
+    Key: ID, Value: ['cds-J9B92_RS02655']
+    Key: Note, Value: ['frameshifted; incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-J9B92_RS02655']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015200538.1']
+    Key: locus_tag, Value: ['J9B92_RS02655']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '585887']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 20199-21043 (1))
+type: CDS
+location: [586800:586905](-)
+id: cds-J9B92_RS02660
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:67518809']
+    Key: ID, Value: ['cds-J9B92_RS02660']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-J9B92_RS02660']
+    Key: end_range, Value: ['586905', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278822.1']
+    Key: locus_tag, Value: ['J9B92_RS02660']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['alpha/beta hydrolase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '586801']
+    Key: transl_table, Value: ['11']
+
+GF(alpha/beta hydrolase, 21113-21218 (-1))
+type: repeat_region
+location: [567556:568984](+)
+id: NZ_CP073250.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP073250.1_2']
+    Key: Note, Value: ['CCCCGCTTCCCTCTGGGAAGTGGAATCAATGGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1428']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1869-3297 (0))
+graphic feature from known effectors: GF(cami1, 6704-7813 (1))
+graphic feature from known effectors: GF(csx1, 9667-11220 (-1))
+[GF(CRISPR-associated endonuclease Cas1, 110-1103 (1)), GF(CRISPR-associated endonuclease Cas2, 1184-1466 (1)), GF(type II toxin-antitoxin system HicB family antitoxin, 3518-3719 (1)), GF(type II toxin-antitoxin system HicA family toxin, 3715-3925 (1)), GF(WYL domain-containing protein, 3999-6066 (-1)), GF(putative CRISPR-associated protein, 6703-7813 (1)), GF(RNA-guided endonuclease TnpB family protein, 8012-9284 (-1)), GF(None, 9666-11220 (-1)), GF(None, 11328-13155 (-1)), GF(None, 13197-13590 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13641-14517 (-1)), GF(CRISPR-associated protein, 14617-15634 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 15618-17274 (-1)), GF(3-oxoacyl-ACP reductase FabG, 17527-18223 (1)), GF(None, 18559-18751 (1)), GF(dienelactone hydrolase family protein, 18796-19429 (-1)), GF(type II toxin-antitoxin system HicB family antitoxin, 19546-19750 (1)), GF(IS200/IS605 family transposase, 19823-20041 (-1)), GF(transposase, 20199-21043 (1)), GF(alpha/beta hydrolase, 21113-21218 (-1)), GF(Repeat region, 1869-3297 (0)), GF(cami1, 6704-7813 (1)), GF(csx1, 9667-11220 (-1)), GF(CRISPR-Cas locus, 4000-17274 (0))]

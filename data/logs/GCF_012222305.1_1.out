@@ -1,0 +1,336 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP035730.1  ...  GCF_012222305.1_1  GCF_012222305.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP035730.1
+type: CDS
+location: [1963726:1963978](+)
+id: cds-EWF20_RS10390
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:54123539']
+    Key: ID, Value: ['cds-EWF20_RS10390']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Parent, Value: ['gene-EWF20_RS10390']
+    Key: end_range, Value: ['1963978', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076611319.1']
+    Key: locus_tag, Value: ['EWF20_RS10390']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS6 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS6 family transposase, 247-499 (1))
+type: CDS
+location: [1964029:1964973](-)
+id: cds-EWF20_RS10395
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:54123540']
+    Key: ID, Value: ['cds-EWF20_RS10395']
+    Key: Note, Value: ['frameshifted']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-EWF20_RS10395']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923028.1']
+    Key: locus_tag, Value: ['EWF20_RS10395']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1 family transposase, 550-1494 (-1))
+type: CDS
+location: [1965136:1965274](+)
+id: cds-EWF20_RS10400
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:54123541']
+    Key: ID, Value: ['cds-EWF20_RS10400']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-EWF20_RS10400']
+    Key: end_range, Value: ['1965274', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010978853.1']
+    Key: locus_tag, Value: ['EWF20_RS10400']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS6 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1965137']
+    Key: transl_table, Value: ['11']
+
+GF(IS6 family transposase, 1657-1795 (1))
+type: CDS
+location: [1965436:1966355](+)
+id: cds-EWF20_RS10405
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:54123542']
+    Key: ID, Value: ['cds-EWF20_RS10405']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-EWF20_RS10405']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012718001.1']
+    Key: locus_tag, Value: ['EWF20_RS10405']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS5/IS1182 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS5/IS1182 family transposase, 1957-2876 (1))
+type: CDS
+location: [1966549:1966834](+)
+id: cds-EWF20_RS10410
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:54123543']
+    Key: ID, Value: ['cds-EWF20_RS10410']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-EWF20_RS10410']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010978853.1']
+    Key: locus_tag, Value: ['EWF20_RS10410']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS6 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '1966550']
+    Key: transl_table, Value: ['11']
+
+GF(IS6 family transposase, 3070-3355 (1))
+type: CDS
+location: [1967176:1967353](+)
+id: cds-EWF20_RS15185
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:82294093']
+    Key: ID, Value: ['cds-EWF20_RS15185']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Ontology_term, Value: ['GO:0016740']
+    Key: Parent, Value: ['gene-EWF20_RS15185']
+    Key: end_range, Value: ['1967353', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transferase activity|0016740||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01444.1']
+    Key: locus_tag, Value: ['EWF20_RS15185']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FkbM family methyltransferase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FkbM family methyltransferase, 3697-3874 (1))
+type: CDS
+location: [1967478:1968492](-)
+id: cds-WP_168065574.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065574.1', 'GeneID:54123545']
+    Key: ID, Value: ['cds-WP_168065574.1']
+    Key: Name, Value: ['WP_168065574.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-EWF20_RS10420']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014513652.1']
+    Key: locus_tag, Value: ['EWF20_RS10420']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_168065574.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 3999-5013 (-1))
+type: CDS
+location: [1968491:1971728](-)
+id: cds-WP_168065576.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065576.1', 'GeneID:54123546']
+    Key: ID, Value: ['cds-WP_168065576.1']
+    Key: Name, Value: ['WP_168065576.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-EWF20_RS10425']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009992992.1']
+    Key: locus_tag, Value: ['EWF20_RS10425']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_168065576.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5012-8249 (-1))
+type: CDS
+location: [1971724:1972573](-)
+id: cds-WP_168065577.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065577.1', 'GeneID:54123547']
+    Key: ID, Value: ['cds-WP_168065577.1']
+    Key: Name, Value: ['WP_168065577.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-EWF20_RS10430']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012715833.1']
+    Key: locus_tag, Value: ['EWF20_RS10430']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_168065577.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 8245-9094 (-1))
+type: CDS
+location: [1972559:1974005](-)
+id: cds-WP_168065578.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065578.1', 'GeneID:54123548']
+    Key: ID, Value: ['cds-WP_168065578.1']
+    Key: Name, Value: ['WP_168065578.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-EWF20_RS10435']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009992994.1']
+    Key: locus_tag, Value: ['EWF20_RS10435']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_168065578.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 9080-10526 (-1))
+type: CDS
+location: [1974005:1974470](-)
+id: cds-WP_168065580.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065580.1', 'GeneID:54123549']
+    Key: ID, Value: ['cds-WP_168065580.1']
+    Key: Name, Value: ['WP_168065580.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-EWF20_RS10440']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012715831.1']
+    Key: locus_tag, Value: ['EWF20_RS10440']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_168065580.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 10526-10991 (-1))
+type: CDS
+location: [1974459:1975329](-)
+id: cds-WP_168065582.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065582.1', 'GeneID:54123550']
+    Key: ID, Value: ['cds-WP_168065582.1']
+    Key: Name, Value: ['WP_168065582.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-EWF20_RS10445']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016732225.1']
+    Key: locus_tag, Value: ['EWF20_RS10445']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_168065582.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 10980-11850 (-1))
+type: CDS
+location: [1975347:1975956](-)
+id: cds-WP_168065584.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065584.1', 'GeneID:54123551']
+    Key: ID, Value: ['cds-WP_168065584.1']
+    Key: Name, Value: ['WP_168065584.1']
+    Key: Parent, Value: ['gene-EWF20_RS10450']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040176.1']
+    Key: locus_tag, Value: ['EWF20_RS10450']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_168065584.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11868-12477 (-1))
+type: CDS
+location: [1976529:1977114](+)
+id: cds-WP_286188803.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286188803.1', 'GeneID:54123552']
+    Key: ID, Value: ['cds-WP_286188803.1']
+    Key: Name, Value: ['WP_286188803.1']
+    Key: Ontology_term, Value: ['GO:0016740']
+    Key: Parent, Value: ['gene-EWF20_RS10455']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transferase activity|0016740||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF016908.2']
+    Key: locus_tag, Value: ['EWF20_RS10455']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FkbM family methyltransferase']
+    Key: protein_id, Value: ['WP_286188803.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FkbM family methyltransferase, 13050-13635 (1))
+type: CDS
+location: [1977295:1977418](-)
+id: cds-WP_286188804.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_286188804.1', 'GeneID:82294094']
+    Key: ID, Value: ['cds-WP_286188804.1']
+    Key: Name, Value: ['WP_286188804.1']
+    Key: Parent, Value: ['gene-EWF20_RS15190']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EWF20_RS15190']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_286188804.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13816-13939 (-1))
+type: CDS
+location: [1977671:1978574](+)
+id: cds-WP_168065586.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168065586.1', 'GeneID:54123553']
+    Key: ID, Value: ['cds-WP_168065586.1']
+    Key: Name, Value: ['WP_168065586.1']
+    Key: Ontology_term, Value: ['GO:0016740']
+    Key: Parent, Value: ['gene-EWF20_RS10460']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transferase activity|0016740||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014513809.1']
+    Key: locus_tag, Value: ['EWF20_RS10460']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FkbM family methyltransferase']
+    Key: protein_id, Value: ['WP_168065586.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FkbM family methyltransferase, 14192-15095 (1))
+[GF(IS6 family transposase, 247-499 (1)), GF(IS1 family transposase, 550-1494 (-1)), GF(IS6 family transposase, 1657-1795 (1)), GF(IS5/IS1182 family transposase, 1957-2876 (1)), GF(IS6 family transposase, 3070-3355 (1)), GF(FkbM family methyltransferase, 3697-3874 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 3999-5013 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5012-8249 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8245-9094 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9080-10526 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 10526-10991 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10980-11850 (-1)), GF(None, 11868-12477 (-1)), GF(FkbM family methyltransferase, 13050-13635 (1)), GF(None, 13816-13939 (-1)), GF(FkbM family methyltransferase, 14192-15095 (1)), GF(CRISPR-Cas locus, 4000-12477 (0))]

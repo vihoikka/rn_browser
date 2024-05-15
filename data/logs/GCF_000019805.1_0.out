@@ -1,0 +1,624 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           0  NC_010525.1  ...  GCF_000019805.1_0  GCF_000019805.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_010525.1
+type: CDS
+location: [509884:510175](+)
+id: cds-WP_012349920.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349920.1', 'GeneID:6165714']
+    Key: ID, Value: ['cds-WP_012349920.1']
+    Key: Name, Value: ['WP_012349920.1']
+    Key: Parent, Value: ['gene-TNEU_RS02790']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011763268.1']
+    Key: locus_tag, Value: ['TNEU_RS02790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349920.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 40-331 (1))
+type: CDS
+location: [510246:510582](+)
+id: cds-WP_245521978.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245521978.1', 'GeneID:6165794']
+    Key: ID, Value: ['cds-WP_245521978.1']
+    Key: Name, Value: ['WP_245521978.1']
+    Key: Parent, Value: ['gene-TNEU_RS02795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014287805.1']
+    Key: locus_tag, Value: ['TNEU_RS02795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_245521978.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 402-738 (1))
+type: CDS
+location: [510619:510745](-)
+id: cds-WP_281011710.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_281011710.1', 'GeneID:80457823']
+    Key: ID, Value: ['cds-WP_281011710.1']
+    Key: Name, Value: ['WP_281011710.1']
+    Key: Parent, Value: ['gene-TNEU_RS10475']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS10475']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_281011710.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 775-901 (-1))
+type: CDS
+location: [511189:511555](-)
+id: cds-WP_012349922.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349922.1', 'GeneID:6165882']
+    Key: ID, Value: ['cds-WP_012349922.1']
+    Key: Name, Value: ['WP_012349922.1']
+    Key: Parent, Value: ['gene-TNEU_RS02805']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011761762.1']
+    Key: locus_tag, Value: ['TNEU_RS02805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349922.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1345-1711 (-1))
+type: CDS
+location: [513843:514716](-)
+id: cds-WP_148682301.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148682301.1', 'GeneID:6165762']
+    Key: ID, Value: ['cds-WP_148682301.1']
+    Key: Name, Value: ['WP_148682301.1']
+    Key: Parent, Value: ['gene-TNEU_RS02810']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_148682301.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4872 (-1))
+type: CDS
+location: [514712:517409](-)
+id: cds-WP_012349925.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349925.1', 'GeneID:6165902']
+    Key: ID, Value: ['cds-WP_012349925.1']
+    Key: Name, Value: ['WP_012349925.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TNEU_RS02815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['TNEU_RS02815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_012349925.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4868-7565 (-1))
+type: CDS
+location: [517449:518361](+)
+id: cds-WP_148682302.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148682302.1', 'GeneID:6165739']
+    Key: ID, Value: ['cds-WP_148682302.1']
+    Key: Name, Value: ['WP_148682302.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TNEU_RS02820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011848967.1']
+    Key: locus_tag, Value: ['TNEU_RS02820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_148682302.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 7605-8517 (1))
+type: CDS
+location: [518357:518783](+)
+id: cds-WP_012349927.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349927.1', 'GeneID:6165785']
+    Key: ID, Value: ['cds-WP_012349927.1']
+    Key: Name, Value: ['WP_012349927.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TNEU_RS02825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011848968.1']
+    Key: locus_tag, Value: ['TNEU_RS02825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_012349927.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 8513-8939 (1))
+type: CDS
+location: [518782:519952](+)
+id: cds-WP_012349928.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349928.1', 'GeneID:6165798']
+    Key: ID, Value: ['cds-WP_012349928.1']
+    Key: Name, Value: ['WP_012349928.1']
+    Key: Parent, Value: ['gene-TNEU_RS02830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011848969.1']
+    Key: locus_tag, Value: ['TNEU_RS02830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cmr1']
+    Key: protein_id, Value: ['WP_012349928.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cmr1, 8938-10108 (1))
+type: CDS
+location: [519942:520737](+)
+id: cds-WP_245521979.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245521979.1', 'GeneID:6165635']
+    Key: ID, Value: ['cds-WP_245521979.1']
+    Key: Name, Value: ['WP_245521979.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TNEU_RS02835']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014288144.1']
+    Key: locus_tag, Value: ['TNEU_RS02835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_245521979.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 10098-10893 (1))
+type: CDS
+location: [520984:521533](+)
+id: cds-WP_012349930.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349930.1', 'GeneID:6165791']
+    Key: ID, Value: ['cds-WP_012349930.1']
+    Key: Name, Value: ['WP_012349930.1']
+    Key: Parent, Value: ['gene-TNEU_RS02840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012349933.1']
+    Key: locus_tag, Value: ['TNEU_RS02840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349930.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11140-11689 (1))
+type: CDS
+location: [521545:522364](+)
+id: cds-WP_012349931.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349931.1', 'GeneID:6165751']
+    Key: ID, Value: ['cds-WP_012349931.1']
+    Key: Name, Value: ['WP_012349931.1']
+    Key: Parent, Value: ['gene-TNEU_RS02845']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF2813 domain-containing protein']
+    Key: protein_id, Value: ['WP_012349931.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(DUF2813 domain-containing protein, 11701-12520 (1))
+type: CDS
+location: [522350:522758](+)
+id: cds-WP_012349932.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349932.1', 'GeneID:6165828']
+    Key: ID, Value: ['cds-WP_012349932.1']
+    Key: Name, Value: ['WP_012349932.1']
+    Key: Parent, Value: ['gene-TNEU_RS02850']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349932.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12506-12914 (1))
+type: CDS
+location: [522751:523291](+)
+id: cds-WP_012349933.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349933.1', 'GeneID:6165792']
+    Key: ID, Value: ['cds-WP_012349933.1']
+    Key: Name, Value: ['WP_012349933.1']
+    Key: Parent, Value: ['gene-TNEU_RS02855']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349933.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12907-13447 (1))
+type: CDS
+location: [523300:525082](+)
+id: cds-WP_012349934.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349934.1', 'GeneID:6165663']
+    Key: ID, Value: ['cds-WP_012349934.1']
+    Key: Name, Value: ['WP_012349934.1']
+    Key: Parent, Value: ['gene-TNEU_RS02860']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349934.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13456-15238 (1))
+type: CDS
+location: [525566:525980](+)
+id: cds-WP_012349935.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349935.1', 'GeneID:6165736']
+    Key: ID, Value: ['cds-WP_012349935.1']
+    Key: Name, Value: ['WP_012349935.1']
+    Key: Parent, Value: ['gene-TNEU_RS02865']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349935.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15722-16136 (1))
+type: CDS
+location: [525918:526344](+)
+id: cds-WP_148682303.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148682303.1', 'GeneID:6165656']
+    Key: ID, Value: ['cds-WP_148682303.1']
+    Key: Name, Value: ['WP_148682303.1']
+    Key: Parent, Value: ['gene-TNEU_RS02870']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_148682303.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16074-16500 (1))
+type: CDS
+location: [527013:527379](+)
+id: cds-WP_012349937.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349937.1', 'GeneID:6165716']
+    Key: ID, Value: ['cds-WP_012349937.1']
+    Key: Name, Value: ['WP_012349937.1']
+    Key: Parent, Value: ['gene-TNEU_RS02875']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011761762.1']
+    Key: locus_tag, Value: ['TNEU_RS02875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349937.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17169-17535 (1))
+type: CDS
+location: [527948:528491](-)
+id: cds-WP_012349938.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349938.1', 'GeneID:6165674']
+    Key: ID, Value: ['cds-WP_012349938.1']
+    Key: Name, Value: ['WP_012349938.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004518']
+    Key: Parent, Value: ['gene-TNEU_RS02880']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas4']
+    Key: go_function, Value: ['nuclease activity|0004518||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014288171.1']
+    Key: locus_tag, Value: ['TNEU_RS02880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cas4']
+    Key: protein_id, Value: ['WP_012349938.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cas4, 18104-18647 (-1))
+type: CDS
+location: [528468:528756](-)
+id: cds-WP_012349939.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349939.1', 'GeneID:6165692']
+    Key: ID, Value: ['cds-WP_012349939.1']
+    Key: Name, Value: ['WP_012349939.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-TNEU_RS02885']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011007019.1']
+    Key: locus_tag, Value: ['TNEU_RS02885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_012349939.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 18624-18912 (-1))
+type: CDS
+location: [528752:529664](-)
+id: cds-WP_012349940.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349940.1', 'GeneID:6164759']
+    Key: ID, Value: ['cds-WP_012349940.1']
+    Key: Name, Value: ['WP_012349940.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-TNEU_RS02890']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011007020.1']
+    Key: locus_tag, Value: ['TNEU_RS02890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_012349940.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 18908-19820 (-1))
+type: CDS
+location: [529647:530511](-)
+id: cds-WP_012349941.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349941.1', 'GeneID:6165689']
+    Key: ID, Value: ['cds-WP_012349941.1']
+    Key: Name, Value: ['WP_012349941.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-TNEU_RS02895']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas4a']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011007021.1']
+    Key: locus_tag, Value: ['TNEU_RS02895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type I-A CRISPR-associated protein Cas4/Csa1']
+    Key: protein_id, Value: ['WP_012349941.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type I-A CRISPR-associated protein Cas4/Csa1, 19803-20667 (-1))
+type: CDS
+location: [531523:531991](-)
+id: cds-WP_148682304.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_148682304.1', 'GeneID:6165686']
+    Key: ID, Value: ['cds-WP_148682304.1']
+    Key: Name, Value: ['WP_148682304.1']
+    Key: Parent, Value: ['gene-TNEU_RS02900']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_148682304.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21679-22147 (-1))
+type: CDS
+location: [532237:532429](+)
+id: cds-WP_187146740.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187146740.1', 'GeneID:41584003']
+    Key: ID, Value: ['cds-WP_187146740.1']
+    Key: Name, Value: ['WP_187146740.1']
+    Key: Ontology_term, Value: ['GO:0005524']
+    Key: Parent, Value: ['gene-TNEU_RS02905']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013776.2']
+    Key: locus_tag, Value: ['TNEU_RS02905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: protein_id, Value: ['WP_187146740.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 22393-22585 (1))
+type: CDS
+location: [532504:532963](+)
+id: cds-WP_187146741.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187146741.1', 'GeneID:41584004']
+    Key: ID, Value: ['cds-WP_187146741.1']
+    Key: Name, Value: ['WP_187146741.1']
+    Key: Ontology_term, Value: ['GO:0005524']
+    Key: Parent, Value: ['gene-TNEU_RS02910']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013776.2']
+    Key: locus_tag, Value: ['TNEU_RS02910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: protein_id, Value: ['WP_187146741.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 22660-23119 (1))
+type: CDS
+location: [533195:533558](+)
+id: cds-TNEU_RS10395
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:71811213']
+    Key: ID, Value: ['cds-TNEU_RS10395']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-TNEU_RS10395']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014999.2']
+    Key: locus_tag, Value: ['TNEU_RS10395']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF234 domain-containing protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '533196']
+    Key: transl_table, Value: ['11']
+
+GF(DUF234 domain-containing protein, 23351-23714 (1))
+type: CDS
+location: [533554:533995](-)
+id: cds-WP_012349943.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349943.1', 'GeneID:6165666']
+    Key: ID, Value: ['cds-WP_012349943.1']
+    Key: Name, Value: ['WP_012349943.1']
+    Key: Ontology_term, Value: ['GO:0000160', 'GO:0101006']
+    Key: Parent, Value: ['gene-TNEU_RS02925']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['sixA']
+    Key: go_function, Value: ['protein histidine phosphatase activity|0101006||IEA']
+    Key: go_process, Value: ['phosphorelay signal transduction system|0000160||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011763283.1']
+    Key: locus_tag, Value: ['TNEU_RS02925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphohistidine phosphatase SixA']
+    Key: protein_id, Value: ['WP_012349943.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphohistidine phosphatase SixA, 23710-24151 (-1))
+type: CDS
+location: [534149:534629](-)
+id: cds-WP_245521992.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_245521992.1', 'GeneID:6165652']
+    Key: ID, Value: ['cds-WP_245521992.1']
+    Key: Name, Value: ['WP_245521992.1']
+    Key: Parent, Value: ['gene-TNEU_RS02930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF017026.2']
+    Key: locus_tag, Value: ['TNEU_RS02930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['50S ribosomal protein L11 methyltransferase']
+    Key: protein_id, Value: ['WP_245521992.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(50S ribosomal protein L11 methyltransferase, 24305-24785 (-1))
+type: CDS
+location: [534790:535048](+)
+id: cds-WP_012349944.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349944.1', 'GeneID:6165590']
+    Key: ID, Value: ['cds-WP_012349944.1']
+    Key: Name, Value: ['WP_012349944.1']
+    Key: Parent, Value: ['gene-TNEU_RS02935']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012349944.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 24946-25204 (1))
+type: CDS
+location: [535091:535700](-)
+id: cds-WP_012349945.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012349945.1', 'GeneID:6165615']
+    Key: ID, Value: ['cds-WP_012349945.1']
+    Key: Name, Value: ['WP_012349945.1']
+    Key: Parent, Value: ['gene-TNEU_RS02940']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['TNEU_RS02940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ParA family protein']
+    Key: protein_id, Value: ['WP_012349945.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(ParA family protein, 25247-25856 (-1))
+type: repeat_region
+location: [511829:513709](+)
+id: NC_010525.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_010525.1_1']
+    Key: Note, Value: ['CCAGAAATCAAAAGATAGTAGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['1880']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 1985-3865 (0))
+type: repeat_region
+location: [526374:526738](+)
+id: NC_010525.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_010525.1_2']
+    Key: Note, Value: ['GTTTCTACTATCTTTTGATTTCTGG']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['364']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 16530-16894 (0))
+type: repeat_region
+location: [530827:531454](+)
+id: NC_010525.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NC_010525.1_3']
+    Key: Note, Value: ['CCAGAAATCAAAAGATAGTAGAAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['627']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 20983-21610 (0))
+[GF(None, 40-331 (1)), GF(None, 402-738 (1)), GF(None, 775-901 (-1)), GF(None, 1345-1711 (-1)), GF(None, 3999-4872 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4868-7565 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7605-8517 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 8513-8939 (1)), GF(CRISPR-associated protein Cmr1, 8938-10108 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10098-10893 (1)), GF(None, 11140-11689 (1)), GF(DUF2813 domain-containing protein, 11701-12520 (1)), GF(None, 12506-12914 (1)), GF(None, 12907-13447 (1)), GF(None, 13456-15238 (1)), GF(None, 15722-16136 (1)), GF(None, 16074-16500 (1)), GF(None, 17169-17535 (1)), GF(CRISPR-associated protein Cas4, 18104-18647 (-1)), GF(CRISPR-associated endonuclease Cas2, 18624-18912 (-1)), GF(CRISPR-associated endonuclease Cas1, 18908-19820 (-1)), GF(type I-A CRISPR-associated protein Cas4/Csa1, 19803-20667 (-1)), GF(None, 21679-22147 (-1)), GF(ATP-binding protein, 22393-22585 (1)), GF(ATP-binding protein, 22660-23119 (1)), GF(DUF234 domain-containing protein, 23351-23714 (1)), GF(phosphohistidine phosphatase SixA, 23710-24151 (-1)), GF(50S ribosomal protein L11 methyltransferase, 24305-24785 (-1)), GF(None, 24946-25204 (1)), GF(ParA family protein, 25247-25856 (-1)), GF(Repeat region, 1985-3865 (0)), GF(Repeat region, 16530-16894 (0)), GF(Repeat region, 20983-21610 (0)), GF(CRISPR-Cas locus, 4000-22156 (0))]

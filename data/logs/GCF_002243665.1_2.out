@@ -1,0 +1,265 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           2  NZ_CP018058.1  ...  GCF_002243665.1_2  GCF_002243665.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP018058.1
+type: CDS
+location: [2525715:2526012](-)
+id: cds-WP_025950577.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025950577.1']
+    Key: ID, Value: ['cds-WP_025950577.1']
+    Key: Name, Value: ['WP_025950577.1']
+    Key: Parent, Value: ['gene-GT3921_RS12855']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GT3921_RS12855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_025950577.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 367-664 (-1))
+type: CDS
+location: [2526176:2526362](+)
+id: cds-WP_047753599.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_047753599.1']
+    Key: ID, Value: ['cds-WP_047753599.1']
+    Key: Name, Value: ['WP_047753599.1']
+    Key: Parent, Value: ['gene-GT3921_RS12860']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GT3921_RS12860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_047753599.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 828-1014 (1))
+type: CDS
+location: [2526780:2528439](-)
+id: cds-WP_089113956.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089113956.1']
+    Key: ID, Value: ['cds-WP_089113956.1']
+    Key: Name, Value: ['WP_089113956.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-GT3921_RS12865']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015374846.1']
+    Key: locus_tag, Value: ['GT3921_RS12865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1634 family transposase']
+    Key: protein_id, Value: ['WP_089113956.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1634 family transposase, 1432-3091 (-1))
+type: CDS
+location: [2528631:2528778](+)
+id: cds-GT3921_RS19760
+qualifiers:
+    Key: ID, Value: ['cds-GT3921_RS19760']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-GT3921_RS19760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010899680.1']
+    Key: locus_tag, Value: ['GT3921_RS19760']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['site-specific integrase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '2528632']
+    Key: transl_table, Value: ['11']
+
+GF(site-specific integrase, 3283-3430 (1))
+type: CDS
+location: [2529008:2529290](-)
+id: cds-WP_167372754.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_167372754.1']
+    Key: ID, Value: ['cds-WP_167372754.1']
+    Key: Name, Value: ['WP_167372754.1']
+    Key: Parent, Value: ['gene-GT3921_RS12880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GT3921_RS12880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_167372754.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3660-3942 (-1))
+type: CDS
+location: [2529347:2531105](-)
+id: cds-WP_025949140.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949140.1']
+    Key: ID, Value: ['cds-WP_025949140.1']
+    Key: Name, Value: ['WP_025949140.1']
+    Key: Parent, Value: ['gene-GT3921_RS12885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['GT3921_RS12885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_025949140.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5757 (-1))
+type: CDS
+location: [2531043:2531619](-)
+id: cds-WP_025949141.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949141.1']
+    Key: ID, Value: ['cds-WP_025949141.1']
+    Key: Name, Value: ['WP_025949141.1']
+    Key: Parent, Value: ['gene-GT3921_RS12890']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx19']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03984.2']
+    Key: locus_tag, Value: ['GT3921_RS12890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx19']
+    Key: protein_id, Value: ['WP_025949141.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx19, 5695-6271 (-1))
+type: CDS
+location: [2531630:2533001](-)
+id: cds-WP_025949142.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949142.1']
+    Key: ID, Value: ['cds-WP_025949142.1']
+    Key: Name, Value: ['WP_025949142.1']
+    Key: Parent, Value: ['gene-GT3921_RS12895']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['GT3921_RS12895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_025949142.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6282-7653 (-1))
+type: CDS
+location: [2532984:2535204](-)
+id: cds-WP_047753282.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_047753282.1']
+    Key: ID, Value: ['cds-WP_047753282.1']
+    Key: Name, Value: ['WP_047753282.1']
+    Key: Parent, Value: ['gene-GT3921_RS12900']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GT3921_RS12900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_047753282.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7636-9856 (-1))
+type: CDS
+location: [2535175:2536771](-)
+id: cds-WP_047753283.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_047753283.1']
+    Key: ID, Value: ['cds-WP_047753283.1']
+    Key: Name, Value: ['WP_047753283.1']
+    Key: Parent, Value: ['gene-GT3921_RS12905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['GT3921_RS12905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_047753283.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9827-11423 (-1))
+type: CDS
+location: [2536802:2538077](-)
+id: cds-WP_089113944.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_089113944.1']
+    Key: ID, Value: ['cds-WP_089113944.1']
+    Key: Name, Value: ['WP_089113944.1']
+    Key: Parent, Value: ['gene-GT3921_RS12910']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF020571.2']
+    Key: locus_tag, Value: ['GT3921_RS12910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_089113944.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 11454-12729 (-1))
+type: CDS
+location: [2538273:2538891](-)
+id: cds-WP_025949146.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949146.1']
+    Key: ID, Value: ['cds-WP_025949146.1']
+    Key: Name, Value: ['WP_025949146.1']
+    Key: Parent, Value: ['gene-GT3921_RS12915']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014045.2']
+    Key: locus_tag, Value: ['GT3921_RS12915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NYN domain-containing protein']
+    Key: protein_id, Value: ['WP_025949146.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NYN domain-containing protein, 12925-13543 (-1))
+type: CDS
+location: [2539181:2540012](+)
+id: cds-WP_025949147.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949147.1']
+    Key: ID, Value: ['cds-WP_025949147.1']
+    Key: Name, Value: ['WP_025949147.1']
+    Key: Parent, Value: ['gene-GT3921_RS12920']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024803.2']
+    Key: locus_tag, Value: ['GT3921_RS12920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MerR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_025949147.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MerR family transcriptional regulator, 13833-14664 (1))
+type: CDS
+location: [2540001:2541750](+)
+id: cds-WP_025949148.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_025949148.1']
+    Key: ID, Value: ['cds-WP_025949148.1']
+    Key: Name, Value: ['WP_025949148.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0042626']
+    Key: Parent, Value: ['gene-GT3921_RS12925']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATPase-coupled transmembrane transporter activity|0042626||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_020754182.1']
+    Key: locus_tag, Value: ['GT3921_RS12925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter ATP-binding protein']
+    Key: protein_id, Value: ['WP_025949148.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter ATP-binding protein, 14653-16402 (1))
+graphic feature from known effectors: GF(can1-2, 11455-12729 (-1))
+[GF(None, 367-664 (-1)), GF(None, 828-1014 (1)), GF(IS1634 family transposase, 1432-3091 (-1)), GF(site-specific integrase, 3283-3430 (1)), GF(None, 3660-3942 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5757 (-1)), GF(CRISPR-associated protein Csx19, 5695-6271 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6282-7653 (-1)), GF(None, 7636-9856 (-1)), GF(None, 9827-11423 (-1)), GF(DUF1887 family CARF protein, 11454-12729 (-1)), GF(NYN domain-containing protein, 12925-13543 (-1)), GF(MerR family transcriptional regulator, 13833-14664 (1)), GF(ABC transporter ATP-binding protein, 14653-16402 (1)), GF(can1-2, 11455-12729 (-1)), GF(CRISPR-Cas locus, 4000-12729 (0))]

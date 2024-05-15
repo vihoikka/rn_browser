@@ -1,0 +1,251 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP115484.1  ...  GCF_027627475.1_0  GCF_027627475.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP115484.1
+type: CDS
+location: [4193404:4194451](-)
+id: cds-WP_270165783.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165783.1']
+    Key: ID, Value: ['cds-WP_270165783.1']
+    Key: Name, Value: ['WP_270165783.1']
+    Key: Parent, Value: ['gene-PDL12_RS17530']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019535095.1']
+    Key: locus_tag, Value: ['PDL12_RS17530']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['2,3-butanediol dehydrogenase']
+    Key: protein_id, Value: ['WP_270165783.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(2,3-butanediol dehydrogenase, 321-1368 (-1))
+type: CDS
+location: [4194691:4195705](+)
+id: cds-WP_270165785.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165785.1']
+    Key: ID, Value: ['cds-WP_270165785.1']
+    Key: Name, Value: ['WP_270165785.1']
+    Key: Ontology_term, Value: ['GO:0006351', 'GO:0006355', 'GO:0045892', 'GO:0000976', 'GO:0003700', 'GO:0043565']
+    Key: Parent, Value: ['gene-PDL12_RS17535']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transcription cis-regulatory region binding|0000976||IEA', 'DNA-binding transcription factor activity|0003700||IEA', 'sequence-specific DNA binding|0043565||IEA']
+    Key: go_process, Value: ['DNA-templated transcription|0006351||IEA', 'regulation of DNA-templated transcription|0006355||IEA', 'negative regulation of DNA-templated transcription|0045892||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019535096.1']
+    Key: locus_tag, Value: ['PDL12_RS17535']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['LacI family DNA-binding transcriptional regulator']
+    Key: protein_id, Value: ['WP_270165785.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(LacI family DNA-binding transcriptional regulator, 1608-2622 (1))
+type: CDS
+location: [4195824:4196907](-)
+id: cds-WP_270165787.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165787.1']
+    Key: ID, Value: ['cds-WP_270165787.1']
+    Key: Name, Value: ['WP_270165787.1']
+    Key: Parent, Value: ['gene-PDL12_RS17540']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['PDL12_RS17540']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_270165787.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2741-3824 (-1))
+type: CDS
+location: [4197082:4198276](-)
+id: cds-WP_270165788.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165788.1']
+    Key: ID, Value: ['cds-WP_270165788.1']
+    Key: Name, Value: ['WP_270165788.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PDL12_RS17545']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['PDL12_RS17545']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_270165788.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5193 (-1))
+type: CDS
+location: [4198262:4198721](-)
+id: cds-WP_270165789.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165789.1']
+    Key: ID, Value: ['cds-WP_270165789.1']
+    Key: Name, Value: ['WP_270165789.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PDL12_RS17550']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012749063.1']
+    Key: locus_tag, Value: ['PDL12_RS17550']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_270165789.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 5179-5638 (-1))
+type: CDS
+location: [4198710:4199688](-)
+id: cds-WP_270165791.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165791.1']
+    Key: ID, Value: ['cds-WP_270165791.1']
+    Key: Name, Value: ['WP_270165791.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PDL12_RS17555']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013522876.1']
+    Key: locus_tag, Value: ['PDL12_RS17555']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_270165791.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 5627-6605 (-1))
+type: CDS
+location: [4199699:4200872](-)
+id: cds-WP_270165793.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165793.1']
+    Key: ID, Value: ['cds-WP_270165793.1']
+    Key: Name, Value: ['WP_270165793.1']
+    Key: Parent, Value: ['gene-PDL12_RS17560']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.4']
+    Key: locus_tag, Value: ['PDL12_RS17560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_270165793.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 6616-7789 (-1))
+type: CDS
+location: [4200874:4202548](-)
+id: cds-WP_270165795.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165795.1']
+    Key: ID, Value: ['cds-WP_270165795.1']
+    Key: Name, Value: ['WP_270165795.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PDL12_RS17565']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['PDL12_RS17565']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_270165795.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7791-9465 (-1))
+type: CDS
+location: [4202544:4203549](-)
+id: cds-WP_270165797.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165797.1']
+    Key: ID, Value: ['cds-WP_270165797.1']
+    Key: Name, Value: ['WP_270165797.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-PDL12_RS17570']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['PDL12_RS17570']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_270165797.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 9461-10466 (-1))
+type: CDS
+location: [4203601:4204525](-)
+id: cds-WP_270165799.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165799.1']
+    Key: ID, Value: ['cds-WP_270165799.1']
+    Key: Name, Value: ['WP_270165799.1']
+    Key: Parent, Value: ['gene-PDL12_RS17575']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_019537482.1']
+    Key: locus_tag, Value: ['PDL12_RS17575']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6602 domain-containing protein']
+    Key: protein_id, Value: ['WP_270165799.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6602 domain-containing protein, 10518-11442 (-1))
+type: CDS
+location: [4205235:4206153](+)
+id: cds-WP_270165800.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165800.1']
+    Key: ID, Value: ['cds-WP_270165800.1']
+    Key: Name, Value: ['WP_270165800.1']
+    Key: Ontology_term, Value: ['GO:0055085', 'GO:0016020']
+    Key: Parent, Value: ['gene-PDL12_RS17580']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017691605.1']
+    Key: locus_tag, Value: ['PDL12_RS17580']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter permease subunit']
+    Key: protein_id, Value: ['WP_270165800.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter permease subunit, 12152-13070 (1))
+type: CDS
+location: [4206204:4207086](+)
+id: cds-WP_270165802.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_270165802.1']
+    Key: ID, Value: ['cds-WP_270165802.1']
+    Key: Name, Value: ['WP_270165802.1']
+    Key: Ontology_term, Value: ['GO:0008643', 'GO:0055085']
+    Key: Parent, Value: ['gene-PDL12_RS17585']
+    Key: gbkey, Value: ['CDS']
+    Key: go_process, Value: ['carbohydrate transport|0008643||IEA', 'transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013917472.1']
+    Key: locus_tag, Value: ['PDL12_RS17585']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['carbohydrate ABC transporter permease']
+    Key: protein_id, Value: ['WP_270165802.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(carbohydrate ABC transporter permease, 13121-14003 (1))
+graphic feature from known effectors: GF(nucc, 10519-11442 (-1))
+[GF(2,3-butanediol dehydrogenase, 321-1368 (-1)), GF(LacI family DNA-binding transcriptional regulator, 1608-2622 (1)), GF(None, 2741-3824 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5193 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 5179-5638 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5627-6605 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 6616-7789 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7791-9465 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9461-10466 (-1)), GF(DUF6602 domain-containing protein, 10518-11442 (-1)), GF(ABC transporter permease subunit, 12152-13070 (1)), GF(carbohydrate ABC transporter permease, 13121-14003 (1)), GF(nucc, 10519-11442 (-1)), GF(CRISPR-Cas locus, 4000-11442 (0))]

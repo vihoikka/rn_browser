@@ -1,0 +1,226 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           3  NC_015589.1  ...  GCF_000215085.1_3  GCF_000215085.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_015589.1
+type: CDS
+location: [3562514:3563318](-)
+id: cds-WP_013843463.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843463.1']
+    Key: ID, Value: ['cds-WP_013843463.1']
+    Key: Name, Value: ['WP_013843463.1']
+    Key: Parent, Value: ['gene-DESRU_RS17720']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012303254.1']
+    Key: locus_tag, Value: ['DESRU_RS17720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['respiratory nitrate reductase subunit gamma']
+    Key: protein_id, Value: ['WP_013843463.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(respiratory nitrate reductase subunit gamma, 958-1762 (-1))
+type: CDS
+location: [3563320:3563923](-)
+id: cds-WP_013843464.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843464.1']
+    Key: ID, Value: ['cds-WP_013843464.1']
+    Key: Name, Value: ['WP_013843464.1']
+    Key: Ontology_term, Value: ['GO:0006355', 'GO:0003677', 'GO:0003700']
+    Key: Parent, Value: ['gene-DESRU_RS17725']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'DNA-binding transcription factor activity|0003700||IEA']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014183787.1']
+    Key: locus_tag, Value: ['DESRU_RS17725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TetR/AcrR family transcriptional regulator']
+    Key: protein_id, Value: ['WP_013843464.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TetR/AcrR family transcriptional regulator, 1764-2367 (-1))
+type: CDS
+location: [3564331:3565156](-)
+id: cds-WP_013843465.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843465.1']
+    Key: ID, Value: ['cds-WP_013843465.1']
+    Key: Name, Value: ['WP_013843465.1']
+    Key: Parent, Value: ['gene-DESRU_RS17730']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF027586.4']
+    Key: locus_tag, Value: ['DESRU_RS17730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4915 domain-containing protein']
+    Key: protein_id, Value: ['WP_013843465.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4915 domain-containing protein, 2775-3600 (-1))
+type: CDS
+location: [3565555:3567778](-)
+id: cds-WP_013843466.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843466.1']
+    Key: ID, Value: ['cds-WP_013843466.1']
+    Key: Name, Value: ['WP_013843466.1']
+    Key: Parent, Value: ['gene-DESRU_RS17735']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['DESRU_RS17735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_013843466.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6222 (-1))
+type: CDS
+location: [3567779:3568184](-)
+id: cds-WP_143758815.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143758815.1']
+    Key: ID, Value: ['cds-WP_143758815.1']
+    Key: Name, Value: ['WP_143758815.1']
+    Key: Parent, Value: ['gene-DESRU_RS17740']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DESRU_RS17740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_143758815.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6223-6628 (-1))
+type: CDS
+location: [3568210:3569548](-)
+id: cds-WP_013843468.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843468.1']
+    Key: ID, Value: ['cds-WP_013843468.1']
+    Key: Name, Value: ['WP_013843468.1']
+    Key: Parent, Value: ['gene-DESRU_RS17745']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['DESRU_RS17745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013843468.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6654-7992 (-1))
+type: CDS
+location: [3569544:3571185](-)
+id: cds-WP_041275474.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041275474.1']
+    Key: ID, Value: ['cds-WP_041275474.1']
+    Key: Name, Value: ['WP_041275474.1']
+    Key: Parent, Value: ['gene-DESRU_RS17750']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['DESRU_RS17750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_041275474.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7988-9629 (-1))
+type: CDS
+location: [3571181:3571856](-)
+id: cds-WP_013843470.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843470.1']
+    Key: ID, Value: ['cds-WP_013843470.1']
+    Key: Name, Value: ['WP_013843470.1']
+    Key: Parent, Value: ['gene-DESRU_RS17755']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['DESRU_RS17755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013843470.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 9625-10300 (-1))
+type: CDS
+location: [3571852:3573484](-)
+id: cds-WP_013843471.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843471.1']
+    Key: ID, Value: ['cds-WP_013843471.1']
+    Key: Name, Value: ['WP_013843471.1']
+    Key: Parent, Value: ['gene-DESRU_RS17760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DESRU_RS17760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013843471.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10296-11928 (-1))
+type: CDS
+location: [3573494:3574412](-)
+id: cds-WP_013843472.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843472.1']
+    Key: ID, Value: ['cds-WP_013843472.1']
+    Key: Name, Value: ['WP_013843472.1']
+    Key: Parent, Value: ['gene-DESRU_RS17765']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF042699.2']
+    Key: locus_tag, Value: ['DESRU_RS17765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF6602 domain-containing protein']
+    Key: protein_id, Value: ['WP_013843472.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF6602 domain-containing protein, 11938-12856 (-1))
+type: CDS
+location: [3574856:3576215](-)
+id: cds-WP_013843473.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843473.1']
+    Key: ID, Value: ['cds-WP_013843473.1']
+    Key: Name, Value: ['WP_013843473.1']
+    Key: Parent, Value: ['gene-DESRU_RS17770']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DESRU_RS17770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013843473.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13300-14659 (-1))
+type: CDS
+location: [3577129:3577717](-)
+id: cds-WP_013843474.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013843474.1']
+    Key: ID, Value: ['cds-WP_013843474.1']
+    Key: Name, Value: ['WP_013843474.1']
+    Key: Parent, Value: ['gene-DESRU_RS17775']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006522968.1']
+    Key: locus_tag, Value: ['DESRU_RS17775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF3841 domain-containing protein']
+    Key: protein_id, Value: ['WP_013843474.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF3841 domain-containing protein, 15573-16161 (-1))
+graphic feature from known effectors: GF(nucc, 11939-12856 (-1))
+[GF(respiratory nitrate reductase subunit gamma, 958-1762 (-1)), GF(TetR/AcrR family transcriptional regulator, 1764-2367 (-1)), GF(DUF4915 domain-containing protein, 2775-3600 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6222 (-1)), GF(None, 6223-6628 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6654-7992 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7988-9629 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9625-10300 (-1)), GF(None, 10296-11928 (-1)), GF(DUF6602 domain-containing protein, 11938-12856 (-1)), GF(None, 13300-14659 (-1)), GF(DUF3841 domain-containing protein, 15573-16161 (-1)), GF(nucc, 11939-12856 (-1)), GF(CRISPR-Cas locus, 4000-12856 (0))]

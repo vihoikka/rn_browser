@@ -1,0 +1,237 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           4  NZ_CP060822.1  ...  GCF_014489415.1_4  GCF_014489415.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP060822.1
+type: CDS
+location: [19901:20318](-)
+id: cds-WP_096544634.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_096544634.1']
+    Key: ID, Value: ['cds-WP_096544634.1']
+    Key: Name, Value: ['WP_096544634.1']
+    Key: Parent, Value: ['gene-IAR63_RS00100']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009343042.1']
+    Key: locus_tag, Value: ['IAR63_RS00100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_096544634.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 201-618 (-1))
+type: CDS
+location: [20392:22288](+)
+id: cds-WP_187706161.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187706161.1']
+    Key: ID, Value: ['cds-WP_187706161.1']
+    Key: Name, Value: ['WP_187706161.1']
+    Key: Ontology_term, Value: ['GO:0006289', 'GO:0009381', 'GO:0009380']
+    Key: Parent, Value: ['gene-IAR63_RS00105']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['uvrC']
+    Key: go_component, Value: ['excinuclease repair complex|0009380||IEA']
+    Key: go_function, Value: ['excinuclease ABC activity|0009381||IEA']
+    Key: go_process, Value: ['nucleotide-excision repair|0006289||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278128.1']
+    Key: locus_tag, Value: ['IAR63_RS00105']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['excinuclease ABC subunit UvrC']
+    Key: protein_id, Value: ['WP_187706161.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(excinuclease ABC subunit UvrC, 692-2588 (1))
+type: CDS
+location: [22340:23249](-)
+id: cds-WP_187707513.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187707513.1']
+    Key: ID, Value: ['cds-WP_187707513.1']
+    Key: Name, Value: ['WP_187707513.1']
+    Key: Parent, Value: ['gene-IAR63_RS00110']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IAR63_RS00110']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187707513.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2640-3549 (-1))
+type: CDS
+location: [23699:25214](-)
+id: cds-WP_235678309.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_235678309.1']
+    Key: ID, Value: ['cds-WP_235678309.1']
+    Key: Name, Value: ['WP_235678309.1']
+    Key: Parent, Value: ['gene-IAR63_RS00115']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['IAR63_RS00115']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_235678309.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 3999-5514 (-1))
+type: CDS
+location: [25534:26074](-)
+id: cds-WP_187707514.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187707514.1']
+    Key: ID, Value: ['cds-WP_187707514.1']
+    Key: Name, Value: ['WP_187707514.1']
+    Key: Parent, Value: ['gene-IAR63_RS00120']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278815.1']
+    Key: locus_tag, Value: ['IAR63_RS00120']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187707514.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5834-6374 (-1))
+type: CDS
+location: [26084:26903](-)
+id: cds-WP_187706163.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187706163.1']
+    Key: ID, Value: ['cds-WP_187706163.1']
+    Key: Name, Value: ['WP_187706163.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-IAR63_RS00125']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278124.1']
+    Key: locus_tag, Value: ['IAR63_RS00125']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_187706163.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 6384-7203 (-1))
+type: CDS
+location: [26899:28087](-)
+id: cds-WP_050784643.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_050784643.1']
+    Key: ID, Value: ['cds-WP_050784643.1']
+    Key: Name, Value: ['WP_050784643.1']
+    Key: Parent, Value: ['gene-IAR63_RS00130']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015217681.1']
+    Key: locus_tag, Value: ['IAR63_RS00130']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_050784643.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 7199-8387 (-1))
+type: CDS
+location: [28090:31075](-)
+id: cds-WP_223007671.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_223007671.1']
+    Key: ID, Value: ['cds-WP_223007671.1']
+    Key: Name, Value: ['WP_223007671.1']
+    Key: Parent, Value: ['gene-IAR63_RS00135']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278122.1']
+    Key: locus_tag, Value: ['IAR63_RS00135']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_223007671.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8390-11375 (-1))
+type: CDS
+location: [31640:32333](-)
+id: cds-WP_187706165.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187706165.1']
+    Key: ID, Value: ['cds-WP_187706165.1']
+    Key: Name, Value: ['WP_187706165.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-IAR63_RS00140']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276853.1']
+    Key: locus_tag, Value: ['IAR63_RS00140']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS1 family transposase']
+    Key: protein_id, Value: ['WP_187706165.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS1 family transposase, 11940-12633 (-1))
+type: CDS
+location: [32631:33714](-)
+id: cds-WP_006277031.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006277031.1']
+    Key: ID, Value: ['cds-WP_006277031.1']
+    Key: Name, Value: ['WP_006277031.1']
+    Key: Ontology_term, Value: ['GO:0009055', 'GO:0009538', 'GO:0009539']
+    Key: Parent, Value: ['gene-IAR63_RS00145']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['psbA']
+    Key: go_component, Value: ['photosystem I reaction center|0009538||IEA', 'photosystem II reaction center|0009539||IEA']
+    Key: go_function, Value: ['electron transfer activity|0009055||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_045870379.1']
+    Key: locus_tag, Value: ['IAR63_RS00145']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['photosystem II q(b) protein']
+    Key: protein_id, Value: ['WP_006277031.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(photosystem II q(b) protein, 12931-14014 (-1))
+type: CDS
+location: [34294:34486](+)
+id: cds-WP_187706166.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187706166.1']
+    Key: ID, Value: ['cds-WP_187706166.1']
+    Key: Name, Value: ['WP_187706166.1']
+    Key: Parent, Value: ['gene-IAR63_RS00150']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IAR63_RS00150']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187706166.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14594-14786 (1))
+type: CDS
+location: [34482:34728](+)
+id: cds-WP_187706167.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_187706167.1']
+    Key: ID, Value: ['cds-WP_187706167.1']
+    Key: Name, Value: ['WP_187706167.1']
+    Key: Parent, Value: ['gene-IAR63_RS00155']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['IAR63_RS00155']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_187706167.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14782-15028 (1))
+[GF(None, 201-618 (-1)), GF(excinuclease ABC subunit UvrC, 692-2588 (1)), GF(None, 2640-3549 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5514 (-1)), GF(None, 5834-6374 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6384-7203 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7199-8387 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8390-11375 (-1)), GF(IS1 family transposase, 11940-12633 (-1)), GF(photosystem II q(b) protein, 12931-14014 (-1)), GF(None, 14594-14786 (1)), GF(None, 14782-15028 (1)), GF(CRISPR-Cas locus, 4000-11381 (0))]

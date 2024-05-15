@@ -1,0 +1,252 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP033719.1  ...  GCF_003798325.1_0  GCF_003798325.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP033719.1
+type: CDS
+location: [151063:151663](-)
+id: cds-WP_021797519.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021797519.1']
+    Key: ID, Value: ['cds-WP_021797519.1']
+    Key: Name, Value: ['WP_021797519.1']
+    Key: Ontology_term, Value: ['GO:0009386', 'GO:0045182', 'GO:0005840', 'GO:0022626']
+    Key: Parent, Value: ['gene-EGX94_RS00630']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['raiA']
+    Key: go_component, Value: ['ribosome|0005840||IEA', 'cytosolic ribosome|0022626||IEA']
+    Key: go_function, Value: ['translation regulator activity|0045182||IEA']
+    Key: go_process, Value: ['translational attenuation|0009386||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013160875.1']
+    Key: locus_tag, Value: ['EGX94_RS00630']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ribosome-associated translation inhibitor RaiA']
+    Key: protein_id, Value: ['WP_021797519.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ribosome-associated translation inhibitor RaiA, 1208-1808 (-1))
+type: CDS
+location: [151792:152605](-)
+id: cds-WP_081660440.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_081660440.1']
+    Key: ID, Value: ['cds-WP_081660440.1']
+    Key: Name, Value: ['WP_081660440.1']
+    Key: Ontology_term, Value: ['GO:0009116']
+    Key: Parent, Value: ['gene-EGX94_RS00635']
+    Key: gbkey, Value: ['CDS']
+    Key: go_process, Value: ['nucleoside metabolic process|0009116||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012383.3']
+    Key: locus_tag, Value: ['EGX94_RS00635']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphoribosyltransferase family protein']
+    Key: protein_id, Value: ['WP_081660440.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphoribosyltransferase family protein, 1937-2750 (-1))
+type: CDS
+location: [152713:153280](-)
+id: cds-WP_021796950.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796950.1']
+    Key: ID, Value: ['cds-WP_021796950.1']
+    Key: Name, Value: ['WP_021796950.1']
+    Key: Parent, Value: ['gene-EGX94_RS00640']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016670250.1']
+    Key: locus_tag, Value: ['EGX94_RS00640']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['YqgE/AlgH family protein']
+    Key: protein_id, Value: ['WP_021796950.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(YqgE/AlgH family protein, 2858-3425 (-1))
+type: CDS
+location: [153854:156818](-)
+id: cds-WP_021796948.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796948.1']
+    Key: ID, Value: ['cds-WP_021796948.1']
+    Key: Name, Value: ['WP_021796948.1']
+    Key: Parent, Value: ['gene-EGX94_RS13245']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EGX94_RS13245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021796948.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-6963 (-1))
+type: CDS
+location: [157030:158782](+)
+id: cds-WP_021796952.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796952.1']
+    Key: ID, Value: ['cds-WP_021796952.1']
+    Key: Name, Value: ['WP_021796952.1']
+    Key: Parent, Value: ['gene-EGX94_RS00650']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EGX94_RS00650']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021796952.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7175-8927 (1))
+type: CDS
+location: [158778:160752](+)
+id: cds-WP_021796945.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796945.1']
+    Key: ID, Value: ['cds-WP_021796945.1']
+    Key: Name, Value: ['WP_021796945.1']
+    Key: Parent, Value: ['gene-EGX94_RS00655']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['EGX94_RS00655']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_021796945.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8923-10897 (1))
+type: CDS
+location: [160748:162461](+)
+id: cds-WP_021796946.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796946.1']
+    Key: ID, Value: ['cds-WP_021796946.1']
+    Key: Name, Value: ['WP_021796946.1']
+    Key: Parent, Value: ['gene-EGX94_RS00660']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['EGX94_RS00660']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_021796946.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10893-12606 (1))
+type: CDS
+location: [162453:162969](+)
+id: cds-WP_021796953.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796953.1']
+    Key: ID, Value: ['cds-WP_021796953.1']
+    Key: Name, Value: ['WP_021796953.1']
+    Key: Parent, Value: ['gene-EGX94_RS00665']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EGX94_RS00665']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021796953.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12598-13114 (1))
+type: CDS
+location: [162961:165250](+)
+id: cds-WP_021796941.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796941.1']
+    Key: ID, Value: ['cds-WP_021796941.1']
+    Key: Name, Value: ['WP_021796941.1']
+    Key: Parent, Value: ['gene-EGX94_RS00670']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EGX94_RS00670']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_021796941.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13106-15395 (1))
+type: CDS
+location: [165432:167571](+)
+id: cds-WP_123825771.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_123825771.1']
+    Key: ID, Value: ['cds-WP_123825771.1']
+    Key: Name, Value: ['WP_123825771.1']
+    Key: Parent, Value: ['gene-EGX94_RS00675']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['EGX94_RS00675']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_123825771.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 15577-17716 (1))
+type: CDS
+location: [168405:168870](-)
+id: cds-WP_021796944.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796944.1']
+    Key: ID, Value: ['cds-WP_021796944.1']
+    Key: Name, Value: ['WP_021796944.1']
+    Key: Parent, Value: ['gene-EGX94_RS00685']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF017691.3']
+    Key: locus_tag, Value: ['EGX94_RS00685']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['excalibur calcium-binding domain-containing protein']
+    Key: protein_id, Value: ['WP_021796944.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(excalibur calcium-binding domain-containing protein, 18550-19015 (-1))
+type: CDS
+location: [169000:169948](-)
+id: cds-WP_021796951.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_021796951.1']
+    Key: ID, Value: ['cds-WP_021796951.1']
+    Key: Name, Value: ['WP_021796951.1']
+    Key: Parent, Value: ['gene-EGX94_RS00690']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012515.3']
+    Key: locus_tag, Value: ['EGX94_RS00690']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PfkB family carbohydrate kinase']
+    Key: protein_id, Value: ['WP_021796951.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PfkB family carbohydrate kinase, 19145-20093 (-1))
+type: CDS
+location: [169944:171381](-)
+id: cds-WP_043120676.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_043120676.1']
+    Key: ID, Value: ['cds-WP_043120676.1']
+    Key: Name, Value: ['WP_043120676.1']
+    Key: Ontology_term, Value: ['GO:0055085', 'GO:0022857', 'GO:0016020']
+    Key: Parent, Value: ['gene-EGX94_RS00695']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_function, Value: ['transmembrane transporter activity|0022857||IEA']
+    Key: go_process, Value: ['transmembrane transport|0055085||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014218.3']
+    Key: locus_tag, Value: ['EGX94_RS00695']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cytosine permease']
+    Key: protein_id, Value: ['WP_043120676.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(cytosine permease, 20089-21526 (-1))
+graphic feature from validated effectors: GF(can3, 4000-6963 (-1))
+[GF(ribosome-associated translation inhibitor RaiA, 1208-1808 (-1)), GF(phosphoribosyltransferase family protein, 1937-2750 (-1)), GF(YqgE/AlgH family protein, 2858-3425 (-1)), GF(None, 3999-6963 (-1)), GF(None, 7175-8927 (1)), GF(RAMP superfamily CRISPR-associated protein, 8923-10897 (1)), GF(RAMP superfamily CRISPR-associated protein, 10893-12606 (1)), GF(None, 12598-13114 (1)), GF(None, 13106-15395 (1)), GF(None, 15577-17716 (1)), GF(excalibur calcium-binding domain-containing protein, 18550-19015 (-1)), GF(PfkB family carbohydrate kinase, 19145-20093 (-1)), GF(cytosine permease, 20089-21526 (-1)), GF(can3, 4000-6963 (-1)), GF(CRISPR-Cas locus, 4000-17716 (0))]

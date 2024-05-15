@@ -1,0 +1,291 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           3  NZ_CP060096.1  ...  GCF_017357865.1_3  GCF_017357865.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP060096.1
+type: CDS
+location: [306916:308044](+)
+id: cds-WP_284680282.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680282.1']
+    Key: ID, Value: ['cds-WP_284680282.1']
+    Key: Name, Value: ['WP_284680282.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01310']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012613.2']
+    Key: locus_tag, Value: ['ACETAC_RS01310']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['S-layer homology domain-containing protein']
+    Key: protein_id, Value: ['WP_284680282.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(S-layer homology domain-containing protein, 2134-3262 (1))
+type: CDS
+location: [308224:308656](+)
+id: cds-WP_284680283.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680283.1']
+    Key: ID, Value: ['cds-WP_284680283.1']
+    Key: Name, Value: ['WP_284680283.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01315']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF018028.2']
+    Key: locus_tag, Value: ['ACETAC_RS01315']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RDD family protein']
+    Key: protein_id, Value: ['WP_284680283.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RDD family protein, 3442-3874 (1))
+type: CDS
+location: [308781:310233](+)
+id: cds-WP_284680284.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680284.1']
+    Key: ID, Value: ['cds-WP_284680284.1']
+    Key: Name, Value: ['WP_284680284.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01320']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015311241.1']
+    Key: locus_tag, Value: ['ACETAC_RS01320']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02710 family CRISPR-associated CARF protein']
+    Key: protein_id, Value: ['WP_284680284.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5451 (1))
+type: CDS
+location: [310265:311096](+)
+id: cds-WP_284680285.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680285.1']
+    Key: ID, Value: ['cds-WP_284680285.1']
+    Key: Name, Value: ['WP_284680285.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01325']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01894.1']
+    Key: locus_tag, Value: ['ACETAC_RS01325']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_284680285.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 5483-6314 (1))
+type: CDS
+location: [311095:313378](+)
+id: cds-WP_284680286.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680286.1']
+    Key: ID, Value: ['cds-WP_284680286.1']
+    Key: Name, Value: ['WP_284680286.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01330']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['ACETAC_RS01330']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_284680286.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6313-8596 (1))
+type: CDS
+location: [313380:314475](+)
+id: cds-WP_284680287.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680287.1']
+    Key: ID, Value: ['cds-WP_284680287.1']
+    Key: Name, Value: ['WP_284680287.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-ACETAC_RS01335']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.2']
+    Key: locus_tag, Value: ['ACETAC_RS01335']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_284680287.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 8598-9693 (1))
+type: CDS
+location: [314471:315698](+)
+id: cds-WP_284680288.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680288.1']
+    Key: ID, Value: ['cds-WP_284680288.1']
+    Key: Name, Value: ['WP_284680288.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01340']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02619.1']
+    Key: locus_tag, Value: ['ACETAC_RS01340']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['putative CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_284680288.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(putative CRISPR-associated protein, 9689-10916 (1))
+type: CDS
+location: [315801:316755](+)
+id: cds-WP_284680289.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680289.1']
+    Key: ID, Value: ['cds-WP_284680289.1']
+    Key: Name, Value: ['WP_284680289.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01345']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['ACETAC_RS01345']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_284680289.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 11019-11973 (1))
+type: CDS
+location: [316756:317362](+)
+id: cds-WP_284680290.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680290.1']
+    Key: ID, Value: ['cds-WP_284680290.1']
+    Key: Name, Value: ['WP_284680290.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01350']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01881.1']
+    Key: locus_tag, Value: ['ACETAC_RS01350']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_284680290.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 11974-12580 (1))
+type: CDS
+location: [317418:318243](+)
+id: cds-WP_284680291.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680291.1']
+    Key: ID, Value: ['cds-WP_284680291.1']
+    Key: Name, Value: ['WP_284680291.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-ACETAC_RS01355']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['ACETAC_RS01355']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_284680291.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 12636-13461 (1))
+type: CDS
+location: [318315:318885](+)
+id: cds-WP_284680292.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680292.1']
+    Key: ID, Value: ['cds-WP_284680292.1']
+    Key: Name, Value: ['WP_284680292.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01360']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ACETAC_RS01360']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_284680292.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 13533-14103 (1))
+type: CDS
+location: [318935:319133](+)
+id: cds-WP_284680293.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680293.1']
+    Key: ID, Value: ['cds-WP_284680293.1']
+    Key: Name, Value: ['WP_284680293.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01365']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ACETAC_RS01365']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_284680293.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14153-14351 (1))
+type: CDS
+location: [320686:321565](+)
+id: cds-WP_284680294.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680294.1']
+    Key: ID, Value: ['cds-WP_284680294.1']
+    Key: Name, Value: ['WP_284680294.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01370']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF012694.2']
+    Key: locus_tag, Value: ['ACETAC_RS01370']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II secretion system F family protein']
+    Key: protein_id, Value: ['WP_284680294.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II secretion system F family protein, 15904-16783 (1))
+type: CDS
+location: [321577:321997](+)
+id: cds-WP_284680295.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_284680295.1']
+    Key: ID, Value: ['cds-WP_284680295.1']
+    Key: Name, Value: ['WP_284680295.1']
+    Key: Parent, Value: ['gene-ACETAC_RS01375']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['ACETAC_RS01375']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_284680295.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16795-17215 (1))
+graphic feature from known effectors: GF(csx1, 4000-5451 (1))
+graphic feature from known effectors: GF(cami1, 9690-10916 (1))
+[GF(S-layer homology domain-containing protein, 2134-3262 (1)), GF(RDD family protein, 3442-3874 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5451 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5483-6314 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6313-8596 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8598-9693 (1)), GF(putative CRISPR-associated protein, 9689-10916 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 11019-11973 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11974-12580 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12636-13461 (1)), GF(None, 13533-14103 (1)), GF(None, 14153-14351 (1)), GF(type II secretion system F family protein, 15904-16783 (1)), GF(None, 16795-17215 (1)), GF(csx1, 4000-5451 (1)), GF(cami1, 9690-10916 (1)), GF(CRISPR-Cas locus, 4000-13461 (0))]

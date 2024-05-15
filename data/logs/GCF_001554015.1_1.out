@@ -1,0 +1,367 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP014239.1  ...  GCF_001554015.1_1  GCF_001554015.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP014239.1
+type: CDS
+location: [1016144:1016564](+)
+id: cds-WP_061945241.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945241.1']
+    Key: ID, Value: ['cds-WP_061945241.1']
+    Key: Name, Value: ['WP_061945241.1']
+    Key: Ontology_term, Value: ['GO:0008615', 'GO:0004733', 'GO:0010181']
+    Key: Parent, Value: ['gene-AXE86_RS04870']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['pyridoxamine phosphate oxidase activity|0004733||IEA', 'FMN binding|0010181||IEA']
+    Key: go_process, Value: ['pyridoxine biosynthetic process|0008615||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006305057.1']
+    Key: locus_tag, Value: ['AXE86_RS04870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ["pyridoxamine 5'-phosphate oxidase family protein"]
+    Key: protein_id, Value: ['WP_061945241.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(pyridoxamine 5'-phosphate oxidase family protein, 1051-1471 (1))
+type: CDS
+location: [1016839:1018108](-)
+id: cds-WP_061945243.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945243.1']
+    Key: ID, Value: ['cds-WP_061945243.1']
+    Key: Name, Value: ['WP_061945243.1']
+    Key: Parent, Value: ['gene-AXE86_RS04875']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006690563.1']
+    Key: locus_tag, Value: ['AXE86_RS04875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['pectate lyase']
+    Key: protein_id, Value: ['WP_061945243.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(pectate lyase, 1746-3015 (-1))
+type: CDS
+location: [1019092:1019410](-)
+id: cds-WP_061945245.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945245.1']
+    Key: ID, Value: ['cds-WP_061945245.1']
+    Key: Name, Value: ['WP_061945245.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-AXE86_RS04880']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695092.1']
+    Key: locus_tag, Value: ['AXE86_RS04880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_061945245.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 3999-4317 (-1))
+type: CDS
+location: [1019420:1019843](-)
+id: cds-WP_257721074.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_257721074.1']
+    Key: ID, Value: ['cds-WP_257721074.1']
+    Key: Name, Value: ['WP_257721074.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-AXE86_RS04885']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['AXE86_RS04885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_257721074.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4327-4750 (-1))
+type: CDS
+location: [1019861:1021214](-)
+id: cds-WP_061945247.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945247.1']
+    Key: ID, Value: ['cds-WP_061945247.1']
+    Key: Name, Value: ['WP_061945247.1']
+    Key: Parent, Value: ['gene-AXE86_RS04890']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006696615.1']
+    Key: locus_tag, Value: ['AXE86_RS04890']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_061945247.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4768-6121 (-1))
+type: CDS
+location: [1021219:1021975](-)
+id: cds-WP_061945248.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945248.1']
+    Key: ID, Value: ['cds-WP_061945248.1']
+    Key: Name, Value: ['WP_061945248.1']
+    Key: Parent, Value: ['gene-AXE86_RS04895']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695096.1']
+    Key: locus_tag, Value: ['AXE86_RS04895']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_061945248.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6126-6882 (-1))
+type: CDS
+location: [1021958:1023191](-)
+id: cds-WP_061945250.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945250.1']
+    Key: ID, Value: ['cds-WP_061945250.1']
+    Key: Name, Value: ['WP_061945250.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AXE86_RS04900']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695097.1']
+    Key: locus_tag, Value: ['AXE86_RS04900']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_061945250.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 6865-8098 (-1))
+type: CDS
+location: [1023187:1024198](-)
+id: cds-WP_061945252.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945252.1']
+    Key: ID, Value: ['cds-WP_061945252.1']
+    Key: Name, Value: ['WP_061945252.1']
+    Key: Parent, Value: ['gene-AXE86_RS04905']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695098.1']
+    Key: locus_tag, Value: ['AXE86_RS04905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_061945252.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8094-9105 (-1))
+type: CDS
+location: [1024194:1024932](-)
+id: cds-WP_335338505.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_335338505.1']
+    Key: ID, Value: ['cds-WP_335338505.1']
+    Key: Name, Value: ['WP_335338505.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AXE86_RS04910']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695099.1']
+    Key: locus_tag, Value: ['AXE86_RS04910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_335338505.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 9101-9839 (-1))
+type: CDS
+location: [1024931:1025357](-)
+id: cds-WP_061945256.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945256.1']
+    Key: ID, Value: ['cds-WP_061945256.1']
+    Key: Name, Value: ['WP_061945256.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AXE86_RS04915']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006696610.1']
+    Key: locus_tag, Value: ['AXE86_RS04915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_061945256.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 9838-10264 (-1))
+type: CDS
+location: [1025349:1027770](-)
+id: cds-WP_061945258.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945258.1']
+    Key: ID, Value: ['cds-WP_061945258.1']
+    Key: Name, Value: ['WP_061945258.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-AXE86_RS04920']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006695101.1']
+    Key: locus_tag, Value: ['AXE86_RS04920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_061945258.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 10256-12677 (-1))
+type: CDS
+location: [1027905:1028040](-)
+id: cds-WP_071884687.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_071884687.1']
+    Key: ID, Value: ['cds-WP_071884687.1']
+    Key: Name, Value: ['WP_071884687.1']
+    Key: Parent, Value: ['gene-AXE86_RS13160']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006693120.1']
+    Key: locus_tag, Value: ['AXE86_RS13160']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['secretion protein HlyD']
+    Key: protein_id, Value: ['WP_071884687.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(secretion protein HlyD, 12812-12947 (-1))
+type: CDS
+location: [1028068:1028473](-)
+id: cds-WP_061945260.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945260.1']
+    Key: ID, Value: ['cds-WP_061945260.1']
+    Key: Name, Value: ['WP_061945260.1']
+    Key: Parent, Value: ['gene-AXE86_RS04925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006305080.1']
+    Key: locus_tag, Value: ['AXE86_RS04925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicB family antitoxin']
+    Key: protein_id, Value: ['WP_061945260.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicB family antitoxin, 12975-13380 (-1))
+type: CDS
+location: [1028490:1028673](-)
+id: cds-WP_061945262.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945262.1']
+    Key: ID, Value: ['cds-WP_061945262.1']
+    Key: Name, Value: ['WP_061945262.1']
+    Key: Ontology_term, Value: ['GO:0003729']
+    Key: Parent, Value: ['gene-AXE86_RS04930']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['mRNA binding|0003729||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014424245.1']
+    Key: locus_tag, Value: ['AXE86_RS04930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HicA family toxin']
+    Key: protein_id, Value: ['WP_061945262.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HicA family toxin, 13397-13580 (-1))
+type: CDS
+location: [1028730:1029219](-)
+id: cds-WP_061945264.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945264.1']
+    Key: ID, Value: ['cds-WP_061945264.1']
+    Key: Name, Value: ['WP_061945264.1']
+    Key: Ontology_term, Value: ['GO:0006810', 'GO:0009228', 'GO:0005215']
+    Key: Parent, Value: ['gene-AXE86_RS04935']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['thiW']
+    Key: go_function, Value: ['transporter activity|0005215||IEA']
+    Key: go_process, Value: ['transport|0006810||IEA', 'thiamine biosynthetic process|0009228||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006692179.1']
+    Key: locus_tag, Value: ['AXE86_RS04935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['energy coupling factor transporter S component ThiW']
+    Key: protein_id, Value: ['WP_061945264.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(energy coupling factor transporter S component ThiW, 13637-14126 (-1))
+type: CDS
+location: [1029212:1030016](-)
+id: cds-WP_083501156.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_083501156.1']
+    Key: ID, Value: ['cds-WP_083501156.1']
+    Key: Name, Value: ['WP_083501156.1']
+    Key: Ontology_term, Value: ['GO:0009228', 'GO:0008902', 'GO:0008972']
+    Key: Parent, Value: ['gene-AXE86_RS04940']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['thiD']
+    Key: go_function, Value: ['hydroxymethylpyrimidine kinase activity|0008902||IEA', 'phosphomethylpyrimidine kinase activity|0008972||IEA']
+    Key: go_process, Value: ['thiamine biosynthetic process|0009228||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006692180.1']
+    Key: locus_tag, Value: ['AXE86_RS04940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase']
+    Key: protein_id, Value: ['WP_083501156.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase, 14119-14923 (-1))
+type: CDS
+location: [1030028:1030850](-)
+id: cds-WP_061945266.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_061945266.1']
+    Key: ID, Value: ['cds-WP_061945266.1']
+    Key: Name, Value: ['WP_061945266.1']
+    Key: Ontology_term, Value: ['GO:0009228', 'GO:0004417']
+    Key: Parent, Value: ['gene-AXE86_RS04945']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['thiM']
+    Key: go_function, Value: ['hydroxyethylthiazole kinase activity|0004417||IEA']
+    Key: go_process, Value: ['thiamine biosynthetic process|0009228||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006692181.1']
+    Key: locus_tag, Value: ['AXE86_RS04945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hydroxyethylthiazole kinase']
+    Key: protein_id, Value: ['WP_061945266.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hydroxyethylthiazole kinase, 14935-15757 (-1))
+type: repeat_region
+location: [1018342:1018738](+)
+id: NZ_CP014239.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP014239.1_1']
+    Key: Note, Value: ['GTTTCCGTCCCCTTGCGGGGATGTGGTTTTAAAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['396']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3249-3645 (0))
+graphic feature from known effectors: GF(csm6-ca6, 4769-6121 (-1))
+[GF(pyridoxamine 5'-phosphate oxidase family protein, 1051-1471 (1)), GF(pectate lyase, 1746-3015 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4317 (-1)), GF(CRISPR-associated endonuclease Cas1, 4327-4750 (-1)), GF(None, 4768-6121 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6126-6882 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 6865-8098 (-1)), GF(None, 8094-9105 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9101-9839 (-1)), GF(type III-A CRISPR-associated protein Csm2, 9838-10264 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 10256-12677 (-1)), GF(secretion protein HlyD, 12812-12947 (-1)), GF(type II toxin-antitoxin system HicB family antitoxin, 12975-13380 (-1)), GF(type II toxin-antitoxin system HicA family toxin, 13397-13580 (-1)), GF(energy coupling factor transporter S component ThiW, 13637-14126 (-1)), GF(bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase, 14119-14923 (-1)), GF(hydroxyethylthiazole kinase, 14935-15757 (-1)), GF(Repeat region, 3249-3645 (0)), GF(csm6-ca6, 4769-6121 (-1)), GF(CRISPR-Cas locus, 4000-12677 (0))]

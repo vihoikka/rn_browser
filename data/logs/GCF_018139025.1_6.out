@@ -1,0 +1,232 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           6  NZ_CP073250.1  ...  GCF_018139025.1_6  GCF_018139025.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP073250.1
+type: CDS
+location: [332210:332876](+)
+id: cds-WP_006276356.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_006276356.1', 'GeneID:67518579']
+    Key: ID, Value: ['cds-WP_006276356.1']
+    Key: Name, Value: ['WP_006276356.1']
+    Key: Ontology_term, Value: ['GO:0051049', 'GO:0003700']
+    Key: Parent, Value: ['gene-J9B92_RS01510']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['phoU']
+    Key: go_function, Value: ['DNA-binding transcription factor activity|0003700||IEA']
+    Key: go_process, Value: ['regulation of transport|0051049||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276356.1']
+    Key: locus_tag, Value: ['J9B92_RS01510']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['phosphate signaling complex protein PhoU']
+    Key: protein_id, Value: ['WP_006276356.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(phosphate signaling complex protein PhoU, 157-823 (1))
+type: CDS
+location: [333004:333295](-)
+id: cds-J9B92_RS01515
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:67518580']
+    Key: ID, Value: ['cds-J9B92_RS01515']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus and C-terminus']
+    Key: Parent, Value: ['gene-J9B92_RS01515']
+    Key: end_range, Value: ['333295', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006276358.1']
+    Key: locus_tag, Value: ['J9B92_RS01515']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '333005']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 951-1242 (-1))
+type: CDS
+location: [333646:335536](-)
+id: cds-WP_211942067.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942067.1', 'GeneID:67518581']
+    Key: ID, Value: ['cds-WP_211942067.1']
+    Key: Name, Value: ['WP_211942067.1']
+    Key: Parent, Value: ['gene-J9B92_RS01520']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01414.1']
+    Key: locus_tag, Value: ['J9B92_RS01520']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['autotransporter domain-containing protein']
+    Key: protein_id, Value: ['WP_211942067.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(autotransporter domain-containing protein, 1593-3483 (-1))
+type: CDS
+location: [335804:335999](-)
+id: cds-WP_072149065.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_072149065.1', 'GeneID:67518582']
+    Key: ID, Value: ['cds-WP_072149065.1']
+    Key: Name, Value: ['WP_072149065.1']
+    Key: Parent, Value: ['gene-J9B92_RS01525']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006278347.1']
+    Key: locus_tag, Value: ['J9B92_RS01525']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_072149065.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3751-3946 (-1))
+type: CDS
+location: [336052:337159](-)
+id: cds-WP_057177047.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177047.1', 'GeneID:67518583']
+    Key: ID, Value: ['cds-WP_057177047.1']
+    Key: Name, Value: ['WP_057177047.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J9B92_RS01530']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009343608.1']
+    Key: locus_tag, Value: ['J9B92_RS01530']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['putative CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_057177047.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(putative CRISPR-associated protein, 3999-5106 (-1))
+type: CDS
+location: [337342:338611](-)
+id: cds-WP_211942068.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942068.1', 'GeneID:67518584']
+    Key: ID, Value: ['cds-WP_211942068.1']
+    Key: Name, Value: ['WP_211942068.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J9B92_RS01535']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277547.1']
+    Key: locus_tag, Value: ['J9B92_RS01535']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_211942068.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 5289-6558 (-1))
+type: CDS
+location: [338777:340286](-)
+id: cds-WP_057177045.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177045.1', 'GeneID:67518585']
+    Key: ID, Value: ['cds-WP_057177045.1']
+    Key: Name, Value: ['WP_057177045.1']
+    Key: Parent, Value: ['gene-J9B92_RS01540']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.2']
+    Key: locus_tag, Value: ['J9B92_RS01540']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_057177045.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6724-8233 (-1))
+type: CDS
+location: [340327:340768](-)
+id: cds-WP_057177044.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177044.1', 'GeneID:67518586']
+    Key: ID, Value: ['cds-WP_057177044.1']
+    Key: Name, Value: ['WP_057177044.1']
+    Key: Parent, Value: ['gene-J9B92_RS01545']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277549.1']
+    Key: locus_tag, Value: ['J9B92_RS01545']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_057177044.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 8274-8715 (-1))
+type: CDS
+location: [340789:341566](-)
+id: cds-WP_057177043.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_057177043.1', 'GeneID:67518587']
+    Key: ID, Value: ['cds-WP_057177043.1']
+    Key: Name, Value: ['WP_057177043.1']
+    Key: Parent, Value: ['gene-J9B92_RS01550']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006277550.1']
+    Key: locus_tag, Value: ['J9B92_RS01550']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_057177043.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8736-9513 (-1))
+type: CDS
+location: [341562:342534](-)
+id: cds-WP_211942069.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942069.1', 'GeneID:67518588']
+    Key: ID, Value: ['cds-WP_211942069.1']
+    Key: Name, Value: ['WP_211942069.1']
+    Key: Parent, Value: ['gene-J9B92_RS01555']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J9B92_RS01555']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_211942069.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9509-10481 (-1))
+type: CDS
+location: [342530:344795](-)
+id: cds-WP_211942070.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_211942070.1', 'GeneID:67518589']
+    Key: ID, Value: ['cds-WP_211942070.1']
+    Key: Name, Value: ['WP_211942070.1']
+    Key: Parent, Value: ['gene-J9B92_RS01560']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF023885.2']
+    Key: locus_tag, Value: ['J9B92_RS01560']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_211942070.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10477-12742 (-1))
+type: repeat_region
+location: [345384:348615](+)
+id: NZ_CP073250.1_1
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_CP073250.1_1']
+    Key: Note, Value: ['GTCTTGACCTTCATAAGAAGGAATAGGTATTGCGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['3231']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 13331-16562 (0))
+graphic feature from known effectors: GF(cami1, 4000-5106 (-1))
+graphic feature from known effectors: GF(csx1, 5290-6558 (-1))
+[GF(phosphate signaling complex protein PhoU, 157-823 (1)), GF(ATP-binding protein, 951-1242 (-1)), GF(autotransporter domain-containing protein, 1593-3483 (-1)), GF(None, 3751-3946 (-1)), GF(putative CRISPR-associated protein, 3999-5106 (-1)), GF(TIGR02221 family CRISPR-associated protein, 5289-6558 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6724-8233 (-1)), GF(None, 8274-8715 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8736-9513 (-1)), GF(None, 9509-10481 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10477-12742 (-1)), GF(Repeat region, 13331-16562 (0)), GF(cami1, 4000-5106 (-1)), GF(csx1, 5290-6558 (-1)), GF(CRISPR-Cas locus, 4000-12742 (0))]

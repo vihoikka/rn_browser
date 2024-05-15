@@ -1,0 +1,394 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           4  NC_010175.1  ...  GCF_000018865.1_4  GCF_000018865.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_010175.1
+type: CDS
+location: [3115020:3116034](-)
+id: cds-WP_012258150.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258150.1']
+    Key: ID, Value: ['cds-WP_012258150.1']
+    Key: Name, Value: ['WP_012258150.1']
+    Key: Ontology_term, Value: ['GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-CAUR_RS12000']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258150.1']
+    Key: locus_tag, Value: ['CAUR_RS12000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter permease']
+    Key: protein_id, Value: ['WP_012258150.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter permease, 367-1381 (-1))
+type: CDS
+location: [3116023:3117055](-)
+id: cds-WP_012258151.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258151.1']
+    Key: ID, Value: ['cds-WP_012258151.1']
+    Key: Name, Value: ['WP_012258151.1']
+    Key: Ontology_term, Value: ['GO:0008643', 'GO:0022857', 'GO:0005886']
+    Key: Parent, Value: ['gene-CAUR_RS12005']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['plasma membrane|0005886||IEA']
+    Key: go_function, Value: ['transmembrane transporter activity|0022857||IEA']
+    Key: go_process, Value: ['carbohydrate transport|0008643||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258151.1']
+    Key: locus_tag, Value: ['CAUR_RS12005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ABC transporter permease']
+    Key: protein_id, Value: ['WP_012258151.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ABC transporter permease, 1370-2402 (-1))
+type: CDS
+location: [3117130:3118642](-)
+id: cds-WP_012258152.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258152.1']
+    Key: ID, Value: ['cds-WP_012258152.1']
+    Key: Name, Value: ['WP_012258152.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887', 'GO:0042626', 'GO:0140359']
+    Key: Parent, Value: ['gene-CAUR_RS12010']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA', 'ATPase-coupled transmembrane transporter activity|0042626||IEA', 'ABC-type transporter activity|0140359||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258152.1']
+    Key: locus_tag, Value: ['CAUR_RS12010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['sugar ABC transporter ATP-binding protein']
+    Key: protein_id, Value: ['WP_012258152.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(sugar ABC transporter ATP-binding protein, 2477-3989 (-1))
+type: CDS
+location: [3118652:3119435](-)
+id: cds-WP_012258153.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258153.1']
+    Key: ID, Value: ['cds-WP_012258153.1']
+    Key: Name, Value: ['WP_012258153.1']
+    Key: Ontology_term, Value: ['GO:0003700']
+    Key: Parent, Value: ['gene-CAUR_RS12015']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA-binding transcription factor activity|0003700||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258153.1']
+    Key: locus_tag, Value: ['CAUR_RS12015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DeoR/GlpR family DNA-binding transcription regulator']
+    Key: protein_id, Value: ['WP_012258153.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DeoR/GlpR family DNA-binding transcription regulator, 3999-4782 (-1))
+type: CDS
+location: [3120645:3122310](+)
+id: cds-WP_012258154.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258154.1']
+    Key: ID, Value: ['cds-WP_012258154.1']
+    Key: Name, Value: ['WP_012258154.1']
+    Key: Parent, Value: ['gene-CAUR_RS12020']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258154.1']
+    Key: locus_tag, Value: ['CAUR_RS12020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258154.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5992-7657 (1))
+type: CDS
+location: [3122309:3122978](+)
+id: cds-WP_012258155.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258155.1']
+    Key: ID, Value: ['cds-WP_012258155.1']
+    Key: Name, Value: ['WP_012258155.1']
+    Key: Parent, Value: ['gene-CAUR_RS12025']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258155.1']
+    Key: locus_tag, Value: ['CAUR_RS12025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012258155.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 7656-8325 (1))
+type: CDS
+location: [3122961:3124164](+)
+id: cds-WP_012258156.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258156.1']
+    Key: ID, Value: ['cds-WP_012258156.1']
+    Key: Name, Value: ['WP_012258156.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CAUR_RS12030']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02674.1']
+    Key: locus_tag, Value: ['CAUR_RS12030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated RAMP protein Csx10']
+    Key: protein_id, Value: ['WP_012258156.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated RAMP protein Csx10, 8308-9511 (1))
+type: CDS
+location: [3124160:3124616](+)
+id: cds-WP_012258157.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258157.1']
+    Key: ID, Value: ['cds-WP_012258157.1']
+    Key: Name, Value: ['WP_012258157.1']
+    Key: Parent, Value: ['gene-CAUR_RS12035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258157.1']
+    Key: locus_tag, Value: ['CAUR_RS12035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258157.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9507-9963 (1))
+type: CDS
+location: [3124612:3125419](+)
+id: cds-WP_012258158.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258158.1']
+    Key: ID, Value: ['cds-WP_012258158.1']
+    Key: Name, Value: ['WP_012258158.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-CAUR_RS12040']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx7']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258158.1']
+    Key: locus_tag, Value: ['CAUR_RS12040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated RAMP protein Csx7']
+    Key: protein_id, Value: ['WP_012258158.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated RAMP protein Csx7, 9959-10766 (1))
+type: CDS
+location: [3125411:3126296](+)
+id: cds-WP_012258159.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258159.1']
+    Key: ID, Value: ['cds-WP_012258159.1']
+    Key: Name, Value: ['WP_012258159.1']
+    Key: Parent, Value: ['gene-CAUR_RS12045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258159.1']
+    Key: locus_tag, Value: ['CAUR_RS12045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012258159.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 10758-11643 (1))
+type: CDS
+location: [3126306:3126774](+)
+id: cds-WP_012258160.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258160.1']
+    Key: ID, Value: ['cds-WP_012258160.1']
+    Key: Name, Value: ['WP_012258160.1']
+    Key: Parent, Value: ['gene-CAUR_RS12050']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258160.1']
+    Key: locus_tag, Value: ['CAUR_RS12050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258160.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11653-12121 (1))
+type: CDS
+location: [3126748:3127714](+)
+id: cds-WP_012258161.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258161.1']
+    Key: ID, Value: ['cds-WP_012258161.1']
+    Key: Name, Value: ['WP_012258161.1']
+    Key: Parent, Value: ['gene-CAUR_RS12055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258161.1']
+    Key: locus_tag, Value: ['CAUR_RS12055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_012258161.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 12095-13061 (1))
+type: CDS
+location: [3128042:3128564](+)
+id: cds-WP_012258163.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258163.1']
+    Key: ID, Value: ['cds-WP_012258163.1']
+    Key: Name, Value: ['WP_012258163.1']
+    Key: Parent, Value: ['gene-CAUR_RS12065']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258163.1']
+    Key: locus_tag, Value: ['CAUR_RS12065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PIN domain-containing protein']
+    Key: protein_id, Value: ['WP_012258163.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PIN domain-containing protein, 13389-13911 (1))
+type: CDS
+location: [3128566:3129574](+)
+id: cds-WP_012258164.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258164.1']
+    Key: ID, Value: ['cds-WP_012258164.1']
+    Key: Name, Value: ['WP_012258164.1']
+    Key: Parent, Value: ['gene-CAUR_RS12070']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258164.1']
+    Key: locus_tag, Value: ['CAUR_RS12070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx14']
+    Key: protein_id, Value: ['WP_012258164.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx14, 13913-14921 (1))
+type: CDS
+location: [3129627:3130548](+)
+id: cds-WP_012258165.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258165.1']
+    Key: ID, Value: ['cds-WP_012258165.1']
+    Key: Name, Value: ['WP_012258165.1']
+    Key: Parent, Value: ['gene-CAUR_RS12075']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258165.1']
+    Key: locus_tag, Value: ['CAUR_RS12075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF1887 family CARF protein']
+    Key: protein_id, Value: ['WP_012258165.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF1887 family CARF protein, 14974-15895 (1))
+type: CDS
+location: [3131068:3131716](+)
+id: cds-WP_012258166.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258166.1']
+    Key: ID, Value: ['cds-WP_012258166.1']
+    Key: Name, Value: ['WP_012258166.1']
+    Key: Parent, Value: ['gene-CAUR_RS12080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258166.1']
+    Key: locus_tag, Value: ['CAUR_RS12080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258166.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16415-17063 (1))
+type: CDS
+location: [3131810:3132713](+)
+id: cds-WP_012258167.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258167.1']
+    Key: ID, Value: ['cds-WP_012258167.1']
+    Key: Name, Value: ['WP_012258167.1']
+    Key: Parent, Value: ['gene-CAUR_RS12085']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258167.1']
+    Key: locus_tag, Value: ['CAUR_RS12085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258167.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 17157-18060 (1))
+type: CDS
+location: [3132724:3132967](+)
+id: cds-WP_012258168.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258168.1']
+    Key: ID, Value: ['cds-WP_012258168.1']
+    Key: Name, Value: ['WP_012258168.1']
+    Key: Parent, Value: ['gene-CAUR_RS12090']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258168.1']
+    Key: locus_tag, Value: ['CAUR_RS12090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_012258168.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 18071-18314 (1))
+type: CDS
+location: [3132979:3133597](+)
+id: cds-WP_012258169.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258169.1']
+    Key: ID, Value: ['cds-WP_012258169.1']
+    Key: Name, Value: ['WP_012258169.1']
+    Key: Ontology_term, Value: ['GO:0009435', 'GO:0016779']
+    Key: Parent, Value: ['gene-CAUR_RS12095']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['nadD']
+    Key: go_function, Value: ['nucleotidyltransferase activity|0016779||IEA']
+    Key: go_process, Value: ['NAD biosynthetic process|0009435||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015941795.1']
+    Key: locus_tag, Value: ['CAUR_RS12095']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['nicotinate-nucleotide adenylyltransferase']
+    Key: protein_id, Value: ['WP_012258169.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(nicotinate-nucleotide adenylyltransferase, 18326-18944 (1))
+type: CDS
+location: [3133593:3134310](+)
+id: cds-WP_012258170.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_012258170.1']
+    Key: ID, Value: ['cds-WP_012258170.1']
+    Key: Name, Value: ['WP_012258170.1']
+    Key: Ontology_term, Value: ['GO:0031167', 'GO:0046118', 'GO:0008168', 'GO:0005575']
+    Key: Parent, Value: ['gene-CAUR_RS12100']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rsmG']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['methyltransferase activity|0008168||IEA']
+    Key: go_process, Value: ['rRNA methylation|0031167||IEA', '7-methylguanosine biosynthetic process|0046118||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012258170.1']
+    Key: locus_tag, Value: ['CAUR_RS12100']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['16S rRNA (guanine(527)-N(7))-methyltransferase RsmG']
+    Key: protein_id, Value: ['WP_012258170.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(16S rRNA (guanine(527)-N(7))-methyltransferase RsmG, 18940-19657 (1))
+graphic feature from known effectors: GF(can1-2, 14975-15895 (1))
+[GF(ABC transporter permease, 367-1381 (-1)), GF(ABC transporter permease, 1370-2402 (-1)), GF(sugar ABC transporter ATP-binding protein, 2477-3989 (-1)), GF(DeoR/GlpR family DNA-binding transcription regulator, 3999-4782 (-1)), GF(None, 5992-7657 (1)), GF(RAMP superfamily CRISPR-associated protein, 7656-8325 (1)), GF(CRISPR-associated RAMP protein Csx10, 8308-9511 (1)), GF(None, 9507-9963 (1)), GF(CRISPR-associated RAMP protein Csx7, 9959-10766 (1)), GF(RAMP superfamily CRISPR-associated protein, 10758-11643 (1)), GF(None, 11653-12121 (1)), GF(RAMP superfamily CRISPR-associated protein, 12095-13061 (1)), GF(PIN domain-containing protein, 13389-13911 (1)), GF(CRISPR-associated protein Csx14, 13913-14921 (1)), GF(DUF1887 family CARF protein, 14974-15895 (1)), GF(None, 16415-17063 (1)), GF(None, 17157-18060 (1)), GF(None, 18071-18314 (1)), GF(nicotinate-nucleotide adenylyltransferase, 18326-18944 (1)), GF(16S rRNA (guanine(527)-N(7))-methyltransferase RsmG, 18940-19657 (1)), GF(can1-2, 14975-15895 (1)), GF(CRISPR-Cas locus, 4000-15895 (0))]

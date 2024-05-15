@@ -1,0 +1,320 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           4  NZ_CP077715.1  ...  GCF_019175325.1_4  GCF_019175325.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP077715.1
+type: CDS
+location: [1357833:1358397](+)
+id: cds-WP_218261531.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218261531.1', 'GeneID:65560048']
+    Key: ID, Value: ['cds-WP_218261531.1']
+    Key: Name, Value: ['WP_218261531.1']
+    Key: Parent, Value: ['gene-J5U21_RS07695']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5U21_RS07695']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_218261531.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1192-1756 (1))
+type: CDS
+location: [1358605:1359175](-)
+id: cds-WP_218261532.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218261532.1', 'GeneID:65560049']
+    Key: ID, Value: ['cds-WP_218261532.1']
+    Key: Name, Value: ['WP_218261532.1']
+    Key: Parent, Value: ['gene-J5U21_RS07700']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF019623.3']
+    Key: locus_tag, Value: ['J5U21_RS07700']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PD-(D/E)XK nuclease domain-containing protein']
+    Key: protein_id, Value: ['WP_218261532.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PD-(D/E)XK nuclease domain-containing protein, 1964-2534 (-1))
+type: CDS
+location: [1359664:1360027](-)
+id: cds-WP_218260243.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260243.1', 'GeneID:65560050']
+    Key: ID, Value: ['cds-WP_218260243.1']
+    Key: Name, Value: ['WP_218260243.1']
+    Key: Parent, Value: ['gene-J5U21_RS07705']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013776581.1']
+    Key: locus_tag, Value: ['J5U21_RS07705']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['aspartyl protease family protein']
+    Key: protein_id, Value: ['WP_218260243.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(aspartyl protease family protein, 3023-3386 (-1))
+type: CDS
+location: [1360640:1361549](-)
+id: cds-WP_218260107.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260107.1', 'GeneID:65560051']
+    Key: ID, Value: ['cds-WP_218260107.1']
+    Key: Name, Value: ['WP_218260107.1']
+    Key: Parent, Value: ['gene-J5U21_RS07710']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731749.1']
+    Key: locus_tag, Value: ['J5U21_RS07710']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_218260107.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-4908 (-1))
+type: CDS
+location: [1361545:1364536](-)
+id: cds-WP_218260108.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260108.1', 'GeneID:65560052']
+    Key: ID, Value: ['cds-WP_218260108.1']
+    Key: Name, Value: ['WP_218260108.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J5U21_RS07715']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731748.1']
+    Key: locus_tag, Value: ['J5U21_RS07715']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_218260108.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4904-7895 (-1))
+type: CDS
+location: [1364528:1365287](-)
+id: cds-WP_261310132.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_261310132.1', 'GeneID:65560053']
+    Key: ID, Value: ['cds-WP_261310132.1']
+    Key: Name, Value: ['WP_261310132.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J5U21_RS07720']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731747.1']
+    Key: locus_tag, Value: ['J5U21_RS07720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_261310132.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 7887-8646 (-1))
+type: CDS
+location: [1365411:1366668](-)
+id: cds-WP_261310637.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_261310637.1', 'GeneID:65560054']
+    Key: ID, Value: ['cds-WP_261310637.1']
+    Key: Name, Value: ['WP_261310637.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J5U21_RS07725']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731746.1']
+    Key: locus_tag, Value: ['J5U21_RS07725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_261310637.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 8770-10027 (-1))
+type: CDS
+location: [1366648:1367164](-)
+id: cds-WP_261310134.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_261310134.1', 'GeneID:65560055']
+    Key: ID, Value: ['cds-WP_261310134.1']
+    Key: Name, Value: ['WP_261310134.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J5U21_RS07730']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731745.1']
+    Key: locus_tag, Value: ['J5U21_RS07730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_261310134.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 10007-10523 (-1))
+type: CDS
+location: [1367165:1368053](-)
+id: cds-WP_218260111.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260111.1', 'GeneID:65560056']
+    Key: ID, Value: ['cds-WP_218260111.1']
+    Key: Name, Value: ['WP_218260111.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-J5U21_RS07735']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923683.1']
+    Key: locus_tag, Value: ['J5U21_RS07735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_218260111.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 10524-11412 (-1))
+type: CDS
+location: [1368143:1368362](+)
+id: cds-WP_261310135.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_261310135.1', 'GeneID:65560057']
+    Key: ID, Value: ['cds-WP_261310135.1']
+    Key: Name, Value: ['WP_261310135.1']
+    Key: Parent, Value: ['gene-J5U21_RS07740']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5U21_RS07740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_261310135.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11502-11721 (1))
+type: CDS
+location: [1368598:1369015](+)
+id: cds-WP_218261611.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218261611.1', 'GeneID:65560058']
+    Key: ID, Value: ['cds-WP_218261611.1']
+    Key: Name, Value: ['WP_218261611.1']
+    Key: Parent, Value: ['gene-J5U21_RS07745']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5U21_RS07745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_218261611.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11957-12374 (1))
+type: CDS
+location: [1369020:1370178](-)
+id: cds-WP_218260561.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260561.1', 'GeneID:65560059']
+    Key: ID, Value: ['cds-WP_218260561.1']
+    Key: Name, Value: ['WP_218260561.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-J5U21_RS07750']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014512284.1']
+    Key: locus_tag, Value: ['J5U21_RS07750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS110 family transposase']
+    Key: protein_id, Value: ['WP_218260561.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS110 family transposase, 12379-13537 (-1))
+type: CDS
+location: [1370772:1371381](+)
+id: cds-WP_218260113.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260113.1', 'GeneID:65560060']
+    Key: ID, Value: ['cds-WP_218260113.1']
+    Key: Name, Value: ['WP_218260113.1']
+    Key: Parent, Value: ['gene-J5U21_RS07755']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['J5U21_RS07755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_218260113.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14131-14740 (1))
+type: CDS
+location: [1371507:1372503](-)
+id: cds-J5U21_RS07760
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:65560061']
+    Key: ID, Value: ['cds-J5U21_RS07760']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-J5U21_RS07760']
+    Key: end_range, Value: ['1372503', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010980023.1']
+    Key: locus_tag, Value: ['J5U21_RS07760']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ISNCY family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ISNCY family transposase, 14866-15862 (-1))
+type: CDS
+location: [1372625:1373705](+)
+id: cds-WP_218260382.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260382.1', 'GeneID:65560062']
+    Key: ID, Value: ['cds-WP_218260382.1']
+    Key: Name, Value: ['WP_218260382.1']
+    Key: Parent, Value: ['gene-J5U21_RS07765']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_076611300.1']
+    Key: locus_tag, Value: ['J5U21_RS07765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['transposase']
+    Key: protein_id, Value: ['WP_218260382.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(transposase, 15984-17064 (1))
+type: CDS
+location: [1374126:1375206](-)
+id: cds-WP_218260115.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_218260115.1', 'GeneID:65560063']
+    Key: ID, Value: ['cds-WP_218260115.1']
+    Key: Name, Value: ['WP_218260115.1']
+    Key: Ontology_term, Value: ['GO:0005524']
+    Key: Parent, Value: ['gene-J5U21_RS07770']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011278823.1']
+    Key: locus_tag, Value: ['J5U21_RS07770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-binding protein']
+    Key: protein_id, Value: ['WP_218260115.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-binding protein, 17485-18565 (-1))
+[GF(None, 1192-1756 (1)), GF(PD-(D/E)XK nuclease domain-containing protein, 1964-2534 (-1)), GF(aspartyl protease family protein, 3023-3386 (-1)), GF(None, 3999-4908 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4904-7895 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7887-8646 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 8770-10027 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 10007-10523 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10524-11412 (-1)), GF(None, 11502-11721 (1)), GF(None, 11957-12374 (1)), GF(IS110 family transposase, 12379-13537 (-1)), GF(None, 14131-14740 (1)), GF(ISNCY family transposase, 14866-15862 (-1)), GF(transposase, 15984-17064 (1)), GF(ATP-binding protein, 17485-18565 (-1)), GF(CRISPR-Cas locus, 4000-14740 (0))]

@@ -1,0 +1,392 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_OY762899.1  ...  GCF_963666545.1_0  GCF_963666545.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_OY762899.1
+type: CDS
+location: [1488849:1489758](-)
+id: cds-WP_320059529.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059529.1']
+    Key: ID, Value: ['cds-WP_320059529.1']
+    Key: Name, Value: ['WP_320059529.1']
+    Key: Ontology_term, Value: ['GO:0006355', 'GO:0003700', 'GO:0043565']
+    Key: Parent, Value: ['gene-SNR19_RS06000']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA-binding transcription factor activity|0003700||IEA', 'sequence-specific DNA binding|0043565||IEA']
+    Key: go_process, Value: ['regulation of DNA-templated transcription|0006355||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006800950.1']
+    Key: locus_tag, Value: ['SNR19_RS06000']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix transcriptional regulator']
+    Key: protein_id, Value: ['WP_320059529.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix transcriptional regulator, 777-1686 (-1))
+type: CDS
+location: [1489786:1490173](-)
+id: cds-WP_320060123.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320060123.1']
+    Key: ID, Value: ['cds-WP_320060123.1']
+    Key: Name, Value: ['WP_320060123.1']
+    Key: Ontology_term, Value: ['GO:0016787', 'GO:0046872']
+    Key: Parent, Value: ['gene-SNR19_RS06005']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['hydrolase activity|0016787||IEA', 'metal ion binding|0046872||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024811.4']
+    Key: locus_tag, Value: ['SNR19_RS06005']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HAD family phosphatase']
+    Key: protein_id, Value: ['WP_320060123.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HAD family phosphatase, 1714-2101 (-1))
+type: CDS
+location: [1490323:1491148](-)
+id: cds-WP_320059530.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059530.1']
+    Key: ID, Value: ['cds-WP_320059530.1']
+    Key: Name, Value: ['WP_320059530.1']
+    Key: Parent, Value: ['gene-SNR19_RS06010']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['rhuM']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008781192.1']
+    Key: locus_tag, Value: ['SNR19_RS06010']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RhuM family protein']
+    Key: protein_id, Value: ['WP_320059530.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RhuM family protein, 2251-3076 (-1))
+type: CDS
+location: [1491338:1492022](+)
+id: cds-WP_320059531.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059531.1']
+    Key: ID, Value: ['cds-WP_320059531.1']
+    Key: Name, Value: ['WP_320059531.1']
+    Key: Parent, Value: ['gene-SNR19_RS06015']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas13b']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF038190.1']
+    Key: locus_tag, Value: ['SNR19_RS06015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b']
+    Key: protein_id, Value: ['WP_320059531.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b, 3266-3950 (1))
+type: CDS
+location: [1492071:1493145](-)
+id: cds-WP_320059532.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059532.1']
+    Key: ID, Value: ['cds-WP_320059532.1']
+    Key: Name, Value: ['WP_320059532.1']
+    Key: Ontology_term, Value: ['GO:0005524', 'GO:0016887']
+    Key: Parent, Value: ['gene-SNR19_RS06020']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004584263.1']
+    Key: locus_tag, Value: ['SNR19_RS06020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_320059532.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 3999-5073 (-1))
+type: CDS
+location: [1494260:1494740](-)
+id: cds-WP_320059533.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059533.1']
+    Key: ID, Value: ['cds-WP_320059533.1']
+    Key: Name, Value: ['WP_320059533.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-SNR19_RS06025']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009229167.1']
+    Key: locus_tag, Value: ['SNR19_RS06025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_320059533.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 6188-6668 (-1))
+type: CDS
+location: [1494758:1495016](-)
+id: cds-WP_320059534.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059534.1']
+    Key: ID, Value: ['cds-WP_320059534.1']
+    Key: Name, Value: ['WP_320059534.1']
+    Key: Parent, Value: ['gene-SNR19_RS06030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SNR19_RS06030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_320059534.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6686-6944 (-1))
+type: CDS
+location: [1495069:1496779](-)
+id: cds-WP_320059535.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059535.1']
+    Key: ID, Value: ['cds-WP_320059535.1']
+    Key: Name, Value: ['WP_320059535.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-SNR19_RS06035']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.4']
+    Key: locus_tag, Value: ['SNR19_RS06035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_320059535.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 6997-8707 (-1))
+type: CDS
+location: [1496902:1498981](-)
+id: cds-WP_320059536.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059536.1']
+    Key: ID, Value: ['cds-WP_320059536.1']
+    Key: Name, Value: ['WP_320059536.1']
+    Key: Parent, Value: ['gene-SNR19_RS06040']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['SNR19_RS06040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_320059536.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 8830-10909 (-1))
+type: CDS
+location: [1498983:1499379](-)
+id: cds-WP_320059537.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059537.1']
+    Key: ID, Value: ['cds-WP_320059537.1']
+    Key: Name, Value: ['WP_320059537.1']
+    Key: Parent, Value: ['gene-SNR19_RS06045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR04423.1']
+    Key: locus_tag, Value: ['SNR19_RS06045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR04423 family type III CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_320059537.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR04423 family type III CRISPR-associated protein, 10911-11307 (-1))
+type: CDS
+location: [1499375:1500773](-)
+id: cds-WP_320059538.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059538.1']
+    Key: ID, Value: ['cds-WP_320059538.1']
+    Key: Name, Value: ['WP_320059538.1']
+    Key: Parent, Value: ['gene-SNR19_RS06050']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['SNR19_RS06050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_320059538.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 11303-12701 (-1))
+type: CDS
+location: [1500775:1502314](-)
+id: cds-WP_320059539.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059539.1']
+    Key: ID, Value: ['cds-WP_320059539.1']
+    Key: Name, Value: ['WP_320059539.1']
+    Key: Parent, Value: ['gene-SNR19_RS06055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['SNR19_RS06055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_320059539.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12703-14242 (-1))
+type: CDS
+location: [1502310:1502877](-)
+id: cds-WP_320059540.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059540.1']
+    Key: ID, Value: ['cds-WP_320059540.1']
+    Key: Name, Value: ['WP_320059540.1']
+    Key: Parent, Value: ['gene-SNR19_RS06060']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.4']
+    Key: locus_tag, Value: ['SNR19_RS06060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_320059540.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 14238-14805 (-1))
+type: CDS
+location: [1502877:1504428](-)
+id: cds-WP_320059541.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059541.1']
+    Key: ID, Value: ['cds-WP_320059541.1']
+    Key: Name, Value: ['WP_320059541.1']
+    Key: Parent, Value: ['gene-SNR19_RS06065']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013672143.1']
+    Key: locus_tag, Value: ['SNR19_RS06065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_320059541.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14805-16356 (-1))
+type: CDS
+location: [1504433:1505114](-)
+id: cds-WP_320059542.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059542.1']
+    Key: ID, Value: ['cds-WP_320059542.1']
+    Key: Name, Value: ['WP_320059542.1']
+    Key: Parent, Value: ['gene-SNR19_RS06070']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_005787766.1']
+    Key: locus_tag, Value: ['SNR19_RS06070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas6']
+    Key: protein_id, Value: ['WP_320059542.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas6, 16361-17042 (-1))
+type: CDS
+location: [1506527:1506917](-)
+id: cds-WP_324292683.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_324292683.1']
+    Key: ID, Value: ['cds-WP_324292683.1']
+    Key: Name, Value: ['WP_324292683.1']
+    Key: Ontology_term, Value: ['GO:0003677']
+    Key: Parent, Value: ['gene-SNR19_RS06075']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024949.4']
+    Key: locus_tag, Value: ['SNR19_RS06075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['helix-turn-helix transcriptional regulator']
+    Key: protein_id, Value: ['WP_324292683.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(helix-turn-helix transcriptional regulator, 18455-18845 (-1))
+type: CDS
+location: [1507113:1507434](+)
+id: cds-WP_320059544.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059544.1']
+    Key: ID, Value: ['cds-WP_320059544.1']
+    Key: Name, Value: ['WP_320059544.1']
+    Key: Parent, Value: ['gene-SNR19_RS06080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF022356.4']
+    Key: locus_tag, Value: ['SNR19_RS06080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['SH3 beta-barrel fold-containing protein']
+    Key: protein_id, Value: ['WP_320059544.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(SH3 beta-barrel fold-containing protein, 19041-19362 (1))
+type: CDS
+location: [1507607:1508570](+)
+id: cds-WP_320059545.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059545.1']
+    Key: ID, Value: ['cds-WP_320059545.1']
+    Key: Name, Value: ['WP_320059545.1']
+    Key: Parent, Value: ['gene-SNR19_RS06085']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025655.4']
+    Key: locus_tag, Value: ['SNR19_RS06085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4373 domain-containing protein']
+    Key: protein_id, Value: ['WP_320059545.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4373 domain-containing protein, 19535-20498 (1))
+type: CDS
+location: [1508602:1508797](+)
+id: cds-WP_320059546.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_320059546.1']
+    Key: ID, Value: ['cds-WP_320059546.1']
+    Key: Name, Value: ['WP_320059546.1']
+    Key: Parent, Value: ['gene-SNR19_RS06090']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_004304415.1']
+    Key: locus_tag, Value: ['SNR19_RS06090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF4248 domain-containing protein']
+    Key: protein_id, Value: ['WP_320059546.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF4248 domain-containing protein, 20530-20725 (1))
+type: repeat_region
+location: [1493342:1494109](+)
+id: NZ_OY762899.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_OY762899.1_2']
+    Key: Note, Value: ['GTCTTAATCCTTATTCTACTGGAAGTGACTCTCTGGG']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['767']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 5270-6037 (0))
+type: repeat_region
+location: [1505305:1506223](+)
+id: NZ_OY762899.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_OY762899.1_3']
+    Key: Note, Value: ['GTCTTAATCCTTATTCTACTGGAAGTGACTCTTGGAG']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['918']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 17233-18151 (0))
+graphic feature from known effectors: GF(csx1, 6998-8707 (-1))
+[GF(helix-turn-helix transcriptional regulator, 777-1686 (-1)), GF(HAD family phosphatase, 1714-2101 (-1)), GF(RhuM family protein, 2251-3076 (-1)), GF(type VI-B CRISPR-associated RNA-guided ribonuclease Cas13b, 3266-3950 (1)), GF(AAA family ATPase, 3999-5073 (-1)), GF(CRISPR-associated endonuclease Cas2, 6188-6668 (-1)), GF(None, 6686-6944 (-1)), GF(TIGR02221 family CRISPR-associated protein, 6997-8707 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 8830-10909 (-1)), GF(TIGR04423 family type III CRISPR-associated protein, 10911-11307 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11303-12701 (-1)), GF(None, 12703-14242 (-1)), GF(RAMP superfamily CRISPR-associated protein, 14238-14805 (-1)), GF(None, 14805-16356 (-1)), GF(CRISPR-associated endonuclease Cas6, 16361-17042 (-1)), GF(helix-turn-helix transcriptional regulator, 18455-18845 (-1)), GF(SH3 beta-barrel fold-containing protein, 19041-19362 (1)), GF(DUF4373 domain-containing protein, 19535-20498 (1)), GF(DUF4248 domain-containing protein, 20530-20725 (1)), GF(Repeat region, 5270-6037 (0)), GF(Repeat region, 17233-18151 (0)), GF(csx1, 6998-8707 (-1)), GF(CRISPR-Cas locus, 4000-17042 (0))]

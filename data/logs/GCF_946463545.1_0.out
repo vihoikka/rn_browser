@@ -1,0 +1,287 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_OX296583.1  ...  GCF_946463545.1_0  GCF_946463545.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_OX296583.1
+type: CDS
+location: [1324969:1326391](+)
+id: cds-WP_018153968.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153968.1', 'GeneID:75543519']
+    Key: ID, Value: ['cds-WP_018153968.1']
+    Key: Name, Value: ['WP_018153968.1']
+    Key: Parent, Value: ['gene-OGY79_RS06785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011170894.1']
+    Key: locus_tag, Value: ['OGY79_RS06785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF530 family protein']
+    Key: protein_id, Value: ['WP_018153968.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF530 family protein, 663-2085 (1))
+type: CDS
+location: [1326410:1327349](+)
+id: cds-WP_018153969.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153969.1', 'GeneID:75543520']
+    Key: ID, Value: ['cds-WP_018153969.1']
+    Key: Name, Value: ['WP_018153969.1']
+    Key: Ontology_term, Value: ['GO:0009236', 'GO:0016880']
+    Key: Parent, Value: ['gene-OGY79_RS06790']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cbiB']
+    Key: go_function, Value: ['acid-ammonia (or amide) ligase activity|0016880||IEA']
+    Key: go_process, Value: ['cobalamin biosynthetic process|0009236||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012979985.1']
+    Key: locus_tag, Value: ['OGY79_RS06790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['adenosylcobinamide-phosphate synthase CbiB']
+    Key: protein_id, Value: ['WP_018153969.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(adenosylcobinamide-phosphate synthase CbiB, 2104-3043 (1))
+type: CDS
+location: [1328305:1329835](-)
+id: cds-WP_018153865.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153865.1', 'GeneID:75543521']
+    Key: ID, Value: ['cds-WP_018153865.1']
+    Key: Name, Value: ['WP_018153865.1']
+    Key: Parent, Value: ['gene-OGY79_RS06795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011973786.1']
+    Key: locus_tag, Value: ['OGY79_RS06795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_018153865.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5529 (-1))
+type: CDS
+location: [1329871:1331359](-)
+id: cds-WP_018153864.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153864.1', 'GeneID:75543522']
+    Key: ID, Value: ['cds-WP_018153864.1']
+    Key: Name, Value: ['WP_018153864.1']
+    Key: Parent, Value: ['gene-OGY79_RS06800']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011973787.1']
+    Key: locus_tag, Value: ['OGY79_RS06800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_018153864.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5565-7053 (-1))
+type: CDS
+location: [1331355:1332471](-)
+id: cds-WP_018153863.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153863.1', 'GeneID:75543523']
+    Key: ID, Value: ['cds-WP_018153863.1']
+    Key: Name, Value: ['WP_018153863.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-OGY79_RS06805']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013867438.1']
+    Key: locus_tag, Value: ['OGY79_RS06805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_018153863.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 7049-8165 (-1))
+type: CDS
+location: [1332457:1333594](-)
+id: cds-WP_018153862.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153862.1', 'GeneID:75543524']
+    Key: ID, Value: ['cds-WP_018153862.1']
+    Key: Name, Value: ['WP_018153862.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-OGY79_RS06810']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013867437.1']
+    Key: locus_tag, Value: ['OGY79_RS06810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm4']
+    Key: protein_id, Value: ['WP_018153862.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm4, 8151-9288 (-1))
+type: CDS
+location: [1333628:1334354](-)
+id: cds-WP_018153861.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153861.1', 'GeneID:75543525']
+    Key: ID, Value: ['cds-WP_018153861.1']
+    Key: Name, Value: ['WP_018153861.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-OGY79_RS06815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013867436.1']
+    Key: locus_tag, Value: ['OGY79_RS06815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_018153861.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 9322-10048 (-1))
+type: CDS
+location: [1334372:1334900](-)
+id: cds-WP_018153860.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153860.1', 'GeneID:75543526']
+    Key: ID, Value: ['cds-WP_018153860.1']
+    Key: Name, Value: ['WP_018153860.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-OGY79_RS06820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011973791.1']
+    Key: locus_tag, Value: ['OGY79_RS06820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_018153860.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 10066-10594 (-1))
+type: CDS
+location: [1334883:1337412](-)
+id: cds-WP_018153859.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153859.1', 'GeneID:75543527']
+    Key: ID, Value: ['cds-WP_018153859.1']
+    Key: Name, Value: ['WP_018153859.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-OGY79_RS06825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013867434.1']
+    Key: locus_tag, Value: ['OGY79_RS06825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_018153859.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 10577-13106 (-1))
+type: CDS
+location: [1337585:1337981](-)
+id: cds-WP_018153858.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153858.1', 'GeneID:75543528']
+    Key: ID, Value: ['cds-WP_018153858.1']
+    Key: Name, Value: ['WP_018153858.1']
+    Key: Parent, Value: ['gene-OGY79_RS06830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011170896.1']
+    Key: locus_tag, Value: ['OGY79_RS06830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['translation initiation factor IF-5A']
+    Key: protein_id, Value: ['WP_018153858.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(translation initiation factor IF-5A, 13279-13675 (-1))
+type: CDS
+location: [1338165:1338918](-)
+id: cds-WP_018153857.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153857.1', 'GeneID:75543529']
+    Key: ID, Value: ['cds-WP_018153857.1']
+    Key: Name, Value: ['WP_018153857.1']
+    Key: Ontology_term, Value: ['GO:0009236', 'GO:0030789']
+    Key: Parent, Value: ['gene-OGY79_RS06835']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cobJ']
+    Key: go_function, Value: ['precorrin-3B C17-methyltransferase activity|0030789||IEA']
+    Key: go_process, Value: ['cobalamin biosynthetic process|0009236||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_013866558.1']
+    Key: locus_tag, Value: ['OGY79_RS06835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['precorrin-3B C(17)-methyltransferase']
+    Key: protein_id, Value: ['WP_018153857.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(precorrin-3B C(17)-methyltransferase, 13859-14612 (-1))
+type: CDS
+location: [1339119:1339371](-)
+id: cds-WP_018153856.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153856.1', 'GeneID:75543530']
+    Key: ID, Value: ['cds-WP_018153856.1']
+    Key: Name, Value: ['WP_018153856.1']
+    Key: Ontology_term, Value: ['GO:0080135', 'GO:0016020']
+    Key: Parent, Value: ['gene-OGY79_RS06840']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['regulation of cellular response to stress|0080135||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015957.3']
+    Key: locus_tag, Value: ['OGY79_RS06840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PspC domain-containing protein']
+    Key: protein_id, Value: ['WP_018153856.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PspC domain-containing protein, 14813-15065 (-1))
+type: CDS
+location: [1339548:1340412](+)
+id: cds-WP_018153855.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_018153855.1', 'GeneID:75543531']
+    Key: ID, Value: ['cds-WP_018153855.1']
+    Key: Name, Value: ['WP_018153855.1']
+    Key: Ontology_term, Value: ['GO:0003824']
+    Key: Parent, Value: ['gene-OGY79_RS06845']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['sucD']
+    Key: go_function, Value: ['catalytic activity|0003824||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012194427.1']
+    Key: locus_tag, Value: ['OGY79_RS06845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['succinate--CoA ligase subunit alpha']
+    Key: protein_id, Value: ['WP_018153855.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(succinate--CoA ligase subunit alpha, 15242-16106 (1))
+type: repeat_region
+location: [1327430:1327920](+)
+id: NZ_OX296583.1_5
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_OX296583.1_5']
+    Key: Note, Value: ['ATTTCCATCCCACTATGGTCTTATTTTAAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['490']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3124-3614 (0))
+graphic feature from known effectors: GF(csx1, 5566-7053 (-1))
+[GF(DUF530 family protein, 663-2085 (1)), GF(adenosylcobinamide-phosphate synthase CbiB, 2104-3043 (1)), GF(None, 3999-5529 (-1)), GF(None, 5565-7053 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 7049-8165 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8151-9288 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9322-10048 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10066-10594 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 10577-13106 (-1)), GF(translation initiation factor IF-5A, 13279-13675 (-1)), GF(precorrin-3B C(17)-methyltransferase, 13859-14612 (-1)), GF(PspC domain-containing protein, 14813-15065 (-1)), GF(succinate--CoA ligase subunit alpha, 15242-16106 (1)), GF(Repeat region, 3124-3614 (0)), GF(csx1, 5566-7053 (-1)), GF(CRISPR-Cas locus, 4000-13106 (0))]

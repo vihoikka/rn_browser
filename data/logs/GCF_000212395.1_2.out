@@ -1,0 +1,404 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_015499.1  ...  GCF_000212395.1_2  GCF_000212395.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_015499.1
+type: CDS
+location: [1777146:1777836](-)
+id: cds-WP_013757051.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757051.1']
+    Key: ID, Value: ['cds-WP_013757051.1']
+    Key: Name, Value: ['WP_013757051.1']
+    Key: Parent, Value: ['gene-THENA_RS08810']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024117.3']
+    Key: locus_tag, Value: ['THENA_RS08810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PD-(D/E)XK nuclease family protein']
+    Key: protein_id, Value: ['WP_013757051.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PD-(D/E)XK nuclease family protein, 3999-4689 (-1))
+type: CDS
+location: [1777862:1778111](-)
+id: cds-WP_013757052.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757052.1']
+    Key: ID, Value: ['cds-WP_013757052.1']
+    Key: Name, Value: ['WP_013757052.1']
+    Key: Parent, Value: ['gene-THENA_RS08815']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THENA_RS08815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013757052.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 4715-4964 (-1))
+type: CDS
+location: [1778158:1778452](-)
+id: cds-WP_013757053.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757053.1']
+    Key: ID, Value: ['cds-WP_013757053.1']
+    Key: Name, Value: ['WP_013757053.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-THENA_RS08820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['RNA endonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['THENA_RS08820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_013757053.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 5011-5305 (-1))
+type: CDS
+location: [1778448:1779483](-)
+id: cds-WP_013757054.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757054.1']
+    Key: ID, Value: ['cds-WP_013757054.1']
+    Key: Name, Value: ['WP_013757054.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-THENA_RS08825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['DNA endonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['THENA_RS08825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_013757054.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 5301-6336 (-1))
+type: CDS
+location: [1779479:1781342](-)
+id: cds-WP_013757055.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757055.1']
+    Key: ID, Value: ['cds-WP_013757055.1']
+    Key: Name, Value: ['WP_013757055.1']
+    Key: Parent, Value: ['gene-THENA_RS08830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040561.1']
+    Key: locus_tag, Value: ['THENA_RS08830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated primase-polymerase type A1']
+    Key: protein_id, Value: ['WP_013757055.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated primase-polymerase type A1, 6332-8195 (-1))
+type: CDS
+location: [1781319:1782390](-)
+id: cds-WP_013757056.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757056.1']
+    Key: ID, Value: ['cds-WP_013757056.1']
+    Key: Name, Value: ['WP_013757056.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THENA_RS08835']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['THENA_RS08835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_013757056.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 8172-9243 (-1))
+type: CDS
+location: [1782382:1783315](-)
+id: cds-WP_013757057.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757057.1']
+    Key: ID, Value: ['cds-WP_013757057.1']
+    Key: Name, Value: ['WP_013757057.1']
+    Key: Parent, Value: ['gene-THENA_RS08840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['THENA_RS08840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013757057.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9235-10168 (-1))
+type: CDS
+location: [1783359:1784037](-)
+id: cds-WP_013757058.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757058.1']
+    Key: ID, Value: ['cds-WP_013757058.1']
+    Key: Name, Value: ['WP_013757058.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THENA_RS08845']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02582.1']
+    Key: locus_tag, Value: ['THENA_RS08845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_013757058.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 10212-10890 (-1))
+type: CDS
+location: [1784055:1784634](-)
+id: cds-WP_013757059.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757059.1']
+    Key: ID, Value: ['cds-WP_013757059.1']
+    Key: Name, Value: ['WP_013757059.1']
+    Key: Parent, Value: ['gene-THENA_RS08850']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.3']
+    Key: locus_tag, Value: ['THENA_RS08850']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_013757059.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 10908-11487 (-1))
+type: CDS
+location: [1784636:1787360](-)
+id: cds-WP_013757060.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757060.1']
+    Key: ID, Value: ['cds-WP_013757060.1']
+    Key: Name, Value: ['WP_013757060.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THENA_RS08855']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['THENA_RS08855']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_013757060.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 11489-14213 (-1))
+type: CDS
+location: [1787458:1788709](+)
+id: cds-WP_013757061.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757061.1']
+    Key: ID, Value: ['cds-WP_013757061.1']
+    Key: Name, Value: ['WP_013757061.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THENA_RS08860']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021207.3']
+    Key: locus_tag, Value: ['THENA_RS08860']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02710 family CRISPR-associated CARF protein']
+    Key: protein_id, Value: ['WP_013757061.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02710 family CRISPR-associated CARF protein, 14311-15562 (1))
+type: CDS
+location: [1788705:1790157](-)
+id: cds-WP_013757062.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757062.1']
+    Key: ID, Value: ['cds-WP_013757062.1']
+    Key: Name, Value: ['WP_013757062.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-THENA_RS08865']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.3']
+    Key: locus_tag, Value: ['THENA_RS08865']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013757062.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 15558-17010 (-1))
+type: CDS
+location: [1790185:1791118](-)
+id: cds-WP_013757063.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757063.1']
+    Key: ID, Value: ['cds-WP_013757063.1']
+    Key: Name, Value: ['WP_013757063.1']
+    Key: Parent, Value: ['gene-THENA_RS08870']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.3']
+    Key: locus_tag, Value: ['THENA_RS08870']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_013757063.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 17038-17971 (-1))
+type: CDS
+location: [1791272:1792556](+)
+id: cds-WP_013757064.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757064.1']
+    Key: ID, Value: ['cds-WP_013757064.1']
+    Key: Name, Value: ['WP_013757064.1']
+    Key: Ontology_term, Value: ['GO:0003676']
+    Key: Parent, Value: ['gene-THENA_RS08875']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024676.3']
+    Key: locus_tag, Value: ['THENA_RS08875']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['WYL domain-containing protein']
+    Key: protein_id, Value: ['WP_013757064.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(WYL domain-containing protein, 18125-19409 (1))
+type: CDS
+location: [1792536:1793337](+)
+id: cds-WP_013757065.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757065.1']
+    Key: ID, Value: ['cds-WP_013757065.1']
+    Key: Name, Value: ['WP_013757065.1']
+    Key: Parent, Value: ['gene-THENA_RS08880']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024676.3']
+    Key: locus_tag, Value: ['THENA_RS08880']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['WYL domain-containing protein']
+    Key: protein_id, Value: ['WP_013757065.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(WYL domain-containing protein, 19389-20190 (1))
+type: CDS
+location: [1793341:1794079](-)
+id: cds-WP_013757066.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757066.1']
+    Key: ID, Value: ['cds-WP_013757066.1']
+    Key: Name, Value: ['WP_013757066.1']
+    Key: Parent, Value: ['gene-THENA_RS08885']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF017619.3']
+    Key: locus_tag, Value: ['THENA_RS08885']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['complement resistance protein TraT']
+    Key: protein_id, Value: ['WP_013757066.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(complement resistance protein TraT, 20194-20932 (-1))
+type: CDS
+location: [1794571:1795336](-)
+id: cds-WP_013757067.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757067.1']
+    Key: ID, Value: ['cds-WP_013757067.1']
+    Key: Name, Value: ['WP_013757067.1']
+    Key: Parent, Value: ['gene-THENA_RS09735']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014543.3']
+    Key: locus_tag, Value: ['THENA_RS09735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['MORN repeat-containing protein']
+    Key: protein_id, Value: ['WP_013757067.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(MORN repeat-containing protein, 21424-22189 (-1))
+type: CDS
+location: [1795501:1796221](+)
+id: cds-WP_013757068.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757068.1']
+    Key: ID, Value: ['cds-WP_013757068.1']
+    Key: Name, Value: ['WP_013757068.1']
+    Key: Parent, Value: ['gene-THENA_RS09740']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF014762.3']
+    Key: locus_tag, Value: ['THENA_RS09740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['metal-dependent transcriptional regulator']
+    Key: protein_id, Value: ['WP_013757068.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(metal-dependent transcriptional regulator, 22354-23074 (1))
+type: CDS
+location: [1796273:1797650](-)
+id: cds-WP_013757069.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757069.1']
+    Key: ID, Value: ['cds-WP_013757069.1']
+    Key: Name, Value: ['WP_013757069.1']
+    Key: Ontology_term, Value: ['GO:0008137', 'GO:0016655', 'GO:0048038', 'GO:0050136', 'GO:0016020']
+    Key: Parent, Value: ['gene-THENA_RS08905']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_function, Value: ['NADH dehydrogenase (ubiquinone) activity|0008137||IEA', 'oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor|0016655||IEA', 'quinone binding|0048038||IEA', 'NADH dehydrogenase (quinone) activity|0050136||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01770.1']
+    Key: locus_tag, Value: ['THENA_RS08905']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NADH-quinone oxidoreductase subunit N']
+    Key: protein_id, Value: ['WP_013757069.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NADH-quinone oxidoreductase subunit N, 23126-24503 (-1))
+type: CDS
+location: [1797646:1799152](-)
+id: cds-WP_013757070.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013757070.1']
+    Key: ID, Value: ['cds-WP_013757070.1']
+    Key: Name, Value: ['WP_013757070.1']
+    Key: Ontology_term, Value: ['GO:0016655']
+    Key: Parent, Value: ['gene-THENA_RS08910']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor|0016655||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01972.1']
+    Key: locus_tag, Value: ['THENA_RS08910']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['NADH-quinone oxidoreductase subunit M']
+    Key: protein_id, Value: ['WP_013757070.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(NADH-quinone oxidoreductase subunit M, 24499-26005 (-1))
+graphic feature from known effectors: GF(csx1, 14312-15562 (1))
+graphic feature from known effectors: GF(csx1, 15559-17010 (-1))
+[GF(PD-(D/E)XK nuclease family protein, 3999-4689 (-1)), GF(None, 4715-4964 (-1)), GF(CRISPR-associated endonuclease Cas2, 5011-5305 (-1)), GF(CRISPR-associated endonuclease Cas1, 5301-6336 (-1)), GF(CRISPR-associated primase-polymerase type A1, 6332-8195 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8172-9243 (-1)), GF(None, 9235-10168 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 10212-10890 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10908-11487 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 11489-14213 (-1)), GF(TIGR02710 family CRISPR-associated CARF protein, 14311-15562 (1)), GF(TIGR02221 family CRISPR-associated protein, 15558-17010 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 17038-17971 (-1)), GF(WYL domain-containing protein, 18125-19409 (1)), GF(WYL domain-containing protein, 19389-20190 (1)), GF(complement resistance protein TraT, 20194-20932 (-1)), GF(MORN repeat-containing protein, 21424-22189 (-1)), GF(metal-dependent transcriptional regulator, 22354-23074 (1)), GF(NADH-quinone oxidoreductase subunit N, 23126-24503 (-1)), GF(NADH-quinone oxidoreductase subunit M, 24499-26005 (-1)), GF(csx1, 14312-15562 (1)), GF(csx1, 15559-17010 (-1)), GF(CRISPR-Cas locus, 4000-23074 (0))]

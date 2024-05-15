@@ -1,0 +1,192 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           4  NC_014098.1  ...  GCF_000092905.1_4  GCF_000092905.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_014098.1
+type: CDS
+location: [2258062:2258437](-)
+id: cds-WP_041304187.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_041304187.1']
+    Key: ID, Value: ['cds-WP_041304187.1']
+    Key: Name, Value: ['WP_041304187.1']
+    Key: Parent, Value: ['gene-BTUS_RS11245']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BTUS_RS11245']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_041304187.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 871-1246 (-1))
+type: CDS
+location: [2258625:2260848](-)
+id: cds-WP_013076197.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076197.1']
+    Key: ID, Value: ['cds-WP_013076197.1']
+    Key: Name, Value: ['WP_013076197.1']
+    Key: Ontology_term, Value: ['GO:0003677', 'GO:0004386', 'GO:0005524', 'GO:0016887']
+    Key: Parent, Value: ['gene-BTUS_RS11250']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['DNA binding|0003677||IEA', 'helicase activity|0004386||IEA', 'ATP binding|0005524||IEA', 'ATP hydrolysis activity|0016887||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_003331965.1']
+    Key: locus_tag, Value: ['BTUS_RS11250']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['ATP-dependent helicase']
+    Key: protein_id, Value: ['WP_013076197.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(ATP-dependent helicase, 1434-3657 (-1))
+type: CDS
+location: [2261190:2263314](-)
+id: cds-WP_280990938.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_280990938.1']
+    Key: ID, Value: ['cds-WP_280990938.1']
+    Key: Name, Value: ['WP_280990938.1']
+    Key: Parent, Value: ['gene-BTUS_RS11255']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR03986.1']
+    Key: locus_tag, Value: ['BTUS_RS11255']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_280990938.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6123 (-1))
+type: CDS
+location: [2263317:2263500](-)
+id: cds-BTUS_RS18895
+qualifiers:
+    Key: ID, Value: ['cds-BTUS_RS18895']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing C-terminus']
+    Key: Ontology_term, Value: ['GO:0003676']
+    Key: Parent, Value: ['gene-BTUS_RS18895']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008340254.1']
+    Key: locus_tag, Value: ['BTUS_RS18895']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['cold shock domain-containing protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: start_range, Value: ['.', '2263318']
+    Key: transl_table, Value: ['11']
+
+GF(cold shock domain-containing protein, 6126-6309 (-1))
+type: CDS
+location: [2263480:2264104](-)
+id: cds-WP_013076200.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076200.1']
+    Key: ID, Value: ['cds-WP_013076200.1']
+    Key: Name, Value: ['WP_013076200.1']
+    Key: Parent, Value: ['gene-BTUS_RS11260']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BTUS_RS11260']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013076200.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 6289-6913 (-1))
+type: CDS
+location: [2264122:2265892](-)
+id: cds-WP_013076201.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076201.1']
+    Key: ID, Value: ['cds-WP_013076201.1']
+    Key: Name, Value: ['WP_013076201.1']
+    Key: Parent, Value: ['gene-BTUS_RS11265']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['BTUS_RS11265']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013076201.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 6931-8701 (-1))
+type: CDS
+location: [2265888:2268168](-)
+id: cds-WP_013076202.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076202.1']
+    Key: ID, Value: ['cds-WP_013076202.1']
+    Key: Name, Value: ['WP_013076202.1']
+    Key: Parent, Value: ['gene-BTUS_RS11270']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['BTUS_RS11270']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013076202.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8697-10977 (-1))
+type: CDS
+location: [2268169:2269822](-)
+id: cds-WP_013076203.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076203.1']
+    Key: ID, Value: ['cds-WP_013076203.1']
+    Key: Name, Value: ['WP_013076203.1']
+    Key: Parent, Value: ['gene-BTUS_RS11275']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BTUS_RS11275']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013076203.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10978-12631 (-1))
+type: CDS
+location: [2269818:2271423](-)
+id: cds-WP_013076204.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013076204.1']
+    Key: ID, Value: ['cds-WP_013076204.1']
+    Key: Name, Value: ['WP_013076204.1']
+    Key: Parent, Value: ['gene-BTUS_RS11280']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021207.3']
+    Key: locus_tag, Value: ['BTUS_RS11280']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Cas02710']
+    Key: protein_id, Value: ['WP_013076204.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Cas02710, 12627-14232 (-1))
+type: CDS
+location: [2271867:2274846](+)
+id: cds-WP_169307975.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_169307975.1']
+    Key: ID, Value: ['cds-WP_169307975.1']
+    Key: Name, Value: ['WP_169307975.1']
+    Key: Parent, Value: ['gene-BTUS_RS11285']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024487.3']
+    Key: locus_tag, Value: ['BTUS_RS11285']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DEAD/DEAH box helicase']
+    Key: protein_id, Value: ['WP_169307975.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DEAD/DEAH box helicase, 14676-17655 (1))
+graphic feature from known effectors: GF(csx1, 12628-14232 (-1))
+[GF(None, 871-1246 (-1)), GF(ATP-dependent helicase, 1434-3657 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6123 (-1)), GF(cold shock domain-containing protein, 6126-6309 (-1)), GF(None, 6289-6913 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6931-8701 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8697-10977 (-1)), GF(None, 10978-12631 (-1)), GF(CRISPR-associated protein Cas02710, 12627-14232 (-1)), GF(DEAD/DEAH box helicase, 14676-17655 (1)), GF(csx1, 12628-14232 (-1)), GF(CRISPR-Cas locus, 4000-14232 (0))]

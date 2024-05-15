@@ -1,0 +1,228 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP098611.1  ...  GCF_023983615.1_0  GCF_023983615.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP098611.1
+type: CDS
+location: [710199:711048](+)
+id: cds-WP_252663725.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663725.1']
+    Key: ID, Value: ['cds-WP_252663725.1']
+    Key: Name, Value: ['WP_252663725.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0051607', 'GO:0003676', 'GO:0004519', 'GO:0046872']
+    Key: Parent, Value: ['gene-NEA10_RS02915']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA', 'endonuclease activity|0004519||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA', 'defense response to virus|0051607||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013984.3']
+    Key: locus_tag, Value: ['NEA10_RS02915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_252663725.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 1202-2051 (1))
+type: CDS
+location: [711241:711529](+)
+id: cds-WP_252663726.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663726.1']
+    Key: ID, Value: ['cds-WP_252663726.1']
+    Key: Name, Value: ['WP_252663726.1']
+    Key: Parent, Value: ['gene-NEA10_RS02920']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_008056057.1']
+    Key: locus_tag, Value: ['NEA10_RS02920']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system HigB family toxin']
+    Key: protein_id, Value: ['WP_252663726.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system HigB family toxin, 2244-2532 (1))
+type: CDS
+location: [711516:711753](+)
+id: cds-WP_252663727.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663727.1']
+    Key: ID, Value: ['cds-WP_252663727.1']
+    Key: Name, Value: ['WP_252663727.1']
+    Key: Parent, Value: ['gene-NEA10_RS02925']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006618647.1']
+    Key: locus_tag, Value: ['NEA10_RS02925']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_252663727.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2519-2756 (1))
+type: CDS
+location: [711939:712296](+)
+id: cds-WP_252663728.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663728.1']
+    Key: ID, Value: ['cds-WP_252663728.1']
+    Key: Name, Value: ['WP_252663728.1']
+    Key: Parent, Value: ['gene-NEA10_RS02930']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEA10_RS02930']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_252663728.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2942-3299 (1))
+type: CDS
+location: [712412:712619](+)
+id: cds-WP_252663729.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663729.1']
+    Key: ID, Value: ['cds-WP_252663729.1']
+    Key: Name, Value: ['WP_252663729.1']
+    Key: Parent, Value: ['gene-NEA10_RS02935']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007355745.1']
+    Key: locus_tag, Value: ['NEA10_RS02935']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF2281 domain-containing protein']
+    Key: protein_id, Value: ['WP_252663729.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF2281 domain-containing protein, 3415-3622 (1))
+type: CDS
+location: [712605:713028](+)
+id: cds-WP_252663730.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663730.1']
+    Key: ID, Value: ['cds-WP_252663730.1']
+    Key: Name, Value: ['WP_252663730.1']
+    Key: Ontology_term, Value: ['GO:0016301']
+    Key: Parent, Value: ['gene-NEA10_RS02940']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['kinase activity|0016301||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007355746.1']
+    Key: locus_tag, Value: ['NEA10_RS02940']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type II toxin-antitoxin system death-on-curing family toxin']
+    Key: protein_id, Value: ['WP_252663730.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type II toxin-antitoxin system death-on-curing family toxin, 3608-4031 (1))
+type: CDS
+location: [712996:714859](-)
+id: cds-WP_252663731.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663731.1']
+    Key: ID, Value: ['cds-WP_252663731.1']
+    Key: Name, Value: ['WP_252663731.1']
+    Key: Parent, Value: ['gene-NEA10_RS02945']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NEA10_RS02945']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_252663731.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5862 (-1))
+type: CDS
+location: [714883:716527](-)
+id: cds-WP_252663732.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663732.1']
+    Key: ID, Value: ['cds-WP_252663732.1']
+    Key: Name, Value: ['WP_252663732.1']
+    Key: Parent, Value: ['gene-NEA10_RS02950']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015174446.1']
+    Key: locus_tag, Value: ['NEA10_RS02950']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_252663732.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5886-7530 (-1))
+type: CDS
+location: [716615:717038](-)
+id: cds-WP_252663733.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663733.1']
+    Key: ID, Value: ['cds-WP_252663733.1']
+    Key: Name, Value: ['WP_252663733.1']
+    Key: Parent, Value: ['gene-NEA10_RS02955']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006103718.1']
+    Key: locus_tag, Value: ['NEA10_RS02955']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_252663733.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7618-8041 (-1))
+type: CDS
+location: [717088:717907](-)
+id: cds-WP_252663734.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663734.1']
+    Key: ID, Value: ['cds-WP_252663734.1']
+    Key: Name, Value: ['WP_252663734.1']
+    Key: Parent, Value: ['gene-NEA10_RS02960']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_006102499.1']
+    Key: locus_tag, Value: ['NEA10_RS02960']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_252663734.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 8091-8910 (-1))
+type: CDS
+location: [717947:718976](-)
+id: cds-WP_252663735.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663735.1']
+    Key: ID, Value: ['cds-WP_252663735.1']
+    Key: Name, Value: ['WP_252663735.1']
+    Key: Parent, Value: ['gene-NEA10_RS02965']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015174443.1']
+    Key: locus_tag, Value: ['NEA10_RS02965']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_252663735.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 8950-9979 (-1))
+type: CDS
+location: [719022:720672](-)
+id: cds-WP_252663736.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_252663736.1']
+    Key: ID, Value: ['cds-WP_252663736.1']
+    Key: Name, Value: ['WP_252663736.1']
+    Key: Parent, Value: ['gene-NEA10_RS02970']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_015939383.1']
+    Key: locus_tag, Value: ['NEA10_RS02970']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_252663736.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10025-11675 (-1))
+graphic feature from known effectors: GF(csx1, 4000-5862 (-1))
+[GF(CRISPR-associated endonuclease Cas1, 1202-2051 (1)), GF(type II toxin-antitoxin system HigB family toxin, 2244-2532 (1)), GF(None, 2519-2756 (1)), GF(None, 2942-3299 (1)), GF(DUF2281 domain-containing protein, 3415-3622 (1)), GF(type II toxin-antitoxin system death-on-curing family toxin, 3608-4031 (1)), GF(None, 3999-5862 (-1)), GF(None, 5886-7530 (-1)), GF(None, 7618-8041 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8091-8910 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8950-9979 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10025-11675 (-1)), GF(csx1, 4000-5862 (-1)), GF(CRISPR-Cas locus, 4000-11675 (0))]

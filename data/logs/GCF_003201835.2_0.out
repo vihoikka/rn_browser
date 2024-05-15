@@ -1,0 +1,297 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           0  NZ_CP029289.2  ...  GCF_003201835.2_0  GCF_003201835.2
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP029289.2
+type: CDS
+location: [926362:926551](-)
+id: cds-WP_110269912.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269912.1', 'GeneID:36831456']
+    Key: ID, Value: ['cds-WP_110269912.1']
+    Key: Name, Value: ['WP_110269912.1']
+    Key: Parent, Value: ['gene-DFR85_RS20690']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DFR85_RS20690']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['VapB-type antitoxin']
+    Key: protein_id, Value: ['WP_110269912.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(VapB-type antitoxin, 1178-1367 (-1))
+type: CDS
+location: [926914:927448](-)
+id: cds-WP_110269913.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269913.1', 'GeneID:36831457']
+    Key: ID, Value: ['cds-WP_110269913.1']
+    Key: Name, Value: ['WP_110269913.1']
+    Key: Parent, Value: ['gene-DFR85_RS20695']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_009069712.1']
+    Key: locus_tag, Value: ['DFR85_RS20695']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_110269913.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1730-2264 (-1))
+type: CDS
+location: [927506:928919](-)
+id: cds-WP_168367113.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168367113.1', 'GeneID:54264221']
+    Key: ID, Value: ['cds-WP_168367113.1']
+    Key: Name, Value: ['WP_168367113.1']
+    Key: Parent, Value: ['gene-DFR85_RS20700']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_020200170.1']
+    Key: locus_tag, Value: ['DFR85_RS20700']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['AAA family ATPase']
+    Key: protein_id, Value: ['WP_168367113.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(AAA family ATPase, 2322-3735 (-1))
+type: CDS
+location: [929183:930098](+)
+id: cds-DFR85_RS20705
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36831460']
+    Key: ID, Value: ['cds-DFR85_RS20705']
+    Key: Note, Value: ['frameshifted']
+    Key: Parent, Value: ['gene-DFR85_RS20705']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_010923140.1']
+    Key: locus_tag, Value: ['DFR85_RS20705']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['IS5/IS1182 family transposase']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(IS5/IS1182 family transposase, 3999-4914 (1))
+type: CDS
+location: [930247:930595](+)
+id: cds-WP_168367114.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_168367114.1', 'GeneID:54264222']
+    Key: ID, Value: ['cds-WP_168367114.1']
+    Key: Name, Value: ['WP_168367114.1']
+    Key: Parent, Value: ['gene-DFR85_RS20710']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF027681.2']
+    Key: locus_tag, Value: ['DFR85_RS20710']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GDP-mannose 4,6-dehydratase']
+    Key: protein_id, Value: ['WP_168367114.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GDP-mannose 4,6-dehydratase, 5063-5411 (1))
+type: CDS
+location: [931005:931473](-)
+id: cds-WP_246253015.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_246253015.1', 'GeneID:36831461']
+    Key: ID, Value: ['cds-WP_246253015.1']
+    Key: Name, Value: ['WP_246253015.1']
+    Key: Ontology_term, Value: ['GO:0016740']
+    Key: Parent, Value: ['gene-DFR85_RS20715']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transferase activity|0016740||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01444.1']
+    Key: locus_tag, Value: ['DFR85_RS20715']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['FkbM family methyltransferase']
+    Key: protein_id, Value: ['WP_246253015.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(FkbM family methyltransferase, 5821-6289 (-1))
+type: CDS
+location: [931708:932632](-)
+id: cds-WP_110269916.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269916.1', 'GeneID:36831462']
+    Key: ID, Value: ['cds-WP_110269916.1']
+    Key: Name, Value: ['WP_110269916.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674', 'GO:0005575']
+    Key: Parent, Value: ['gene-DFR85_RS20720']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr3']
+    Key: go_component, Value: ['cellular_component|0005575||IEA']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731749.1']
+    Key: locus_tag, Value: ['DFR85_RS20720']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr3']
+    Key: protein_id, Value: ['WP_110269916.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr3, 6524-7448 (-1))
+type: CDS
+location: [932628:935787](-)
+id: cds-WP_246253016.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_246253016.1', 'GeneID:36831463']
+    Key: ID, Value: ['cds-WP_246253016.1']
+    Key: Name, Value: ['WP_246253016.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DFR85_RS20725']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731748.1']
+    Key: locus_tag, Value: ['DFR85_RS20725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_246253016.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7444-10603 (-1))
+type: CDS
+location: [935773:936670](-)
+id: cds-WP_110269917.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269917.1', 'GeneID:36831464']
+    Key: ID, Value: ['cds-WP_110269917.1']
+    Key: Name, Value: ['WP_110269917.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DFR85_RS20730']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731747.1']
+    Key: locus_tag, Value: ['DFR85_RS20730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_110269917.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 10589-11486 (-1))
+type: CDS
+location: [936659:938117](-)
+id: cds-WP_246253017.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_246253017.1', 'GeneID:71840537']
+    Key: ID, Value: ['cds-WP_246253017.1']
+    Key: Name, Value: ['WP_246253017.1']
+    Key: Parent, Value: ['gene-DFR85_RS31830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731746.1']
+    Key: locus_tag, Value: ['DFR85_RS31830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_246253017.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11475-12933 (-1))
+type: CDS
+location: [938116:938647](-)
+id: cds-WP_246253018.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_246253018.1', 'GeneID:36831466']
+    Key: ID, Value: ['cds-WP_246253018.1']
+    Key: Name, Value: ['WP_246253018.1']
+    Key: Parent, Value: ['gene-DFR85_RS20740']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731745.1']
+    Key: locus_tag, Value: ['DFR85_RS20740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_246253018.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 12932-13463 (-1))
+type: CDS
+location: [938648:939563](-)
+id: cds-WP_110269919.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269919.1', 'GeneID:36831467']
+    Key: ID, Value: ['cds-WP_110269919.1']
+    Key: Name, Value: ['WP_110269919.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-DFR85_RS20745']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016731744.1']
+    Key: locus_tag, Value: ['DFR85_RS20745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_110269919.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 13464-14379 (-1))
+type: CDS
+location: [939633:940203](+)
+id: cds-WP_110269920.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269920.1', 'GeneID:36831468']
+    Key: ID, Value: ['cds-WP_110269920.1']
+    Key: Name, Value: ['WP_110269920.1']
+    Key: Parent, Value: ['gene-DFR85_RS20750']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DFR85_RS20750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_110269920.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 14449-15019 (1))
+type: CDS
+location: [940778:941645](-)
+id: cds-DFR85_RS20755
+qualifiers:
+    Key: Dbxref, Value: ['GeneID:36831469']
+    Key: ID, Value: ['cds-DFR85_RS20755']
+    Key: Note, Value: ['incomplete; partial in the middle of a contig; missing N-terminus']
+    Key: Parent, Value: ['gene-DFR85_RS20755']
+    Key: end_range, Value: ['941645', '.']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012711041.1']
+    Key: locus_tag, Value: ['DFR85_RS20755']
+    Key: partial, Value: ['true']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['lipopolysaccharide biosynthesis protein']
+    Key: pseudo, Value: ['true']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(lipopolysaccharide biosynthesis protein, 15594-16461 (-1))
+type: CDS
+location: [941730:943941](+)
+id: cds-WP_110269921.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_110269921.1', 'GeneID:36831470']
+    Key: ID, Value: ['cds-WP_110269921.1']
+    Key: Name, Value: ['WP_110269921.1']
+    Key: Parent, Value: ['gene-DFR85_RS20760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['DFR85_RS20760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_110269921.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 16546-18757 (1))
+[GF(VapB-type antitoxin, 1178-1367 (-1)), GF(None, 1730-2264 (-1)), GF(AAA family ATPase, 2322-3735 (-1)), GF(IS5/IS1182 family transposase, 3999-4914 (1)), GF(GDP-mannose 4,6-dehydratase, 5063-5411 (1)), GF(FkbM family methyltransferase, 5821-6289 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6524-7448 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7444-10603 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10589-11486 (-1)), GF(None, 11475-12933 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 12932-13463 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13464-14379 (-1)), GF(None, 14449-15019 (1)), GF(lipopolysaccharide biosynthesis protein, 15594-16461 (-1)), GF(None, 16546-18757 (1)), GF(CRISPR-Cas locus, 4000-15019 (0))]

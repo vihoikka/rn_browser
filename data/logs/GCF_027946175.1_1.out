@@ -1,0 +1,528 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_AP026671.1  ...  GCF_027946175.1_1  GCF_027946175.1
+
+[1 rows x 19 columns]
+The chosen contig: NZ_AP026671.1
+type: CDS
+location: [1096569:1096911](+)
+id: cds-WP_084275450.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275450.1']
+    Key: ID, Value: ['cds-WP_084275450.1']
+    Key: Name, Value: ['WP_084275450.1']
+    Key: Parent, Value: ['gene-NITER_RS05725']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05725']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275450.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 1685-2027 (1))
+type: CDS
+location: [1096957:1097362](+)
+id: cds-WP_143779634.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143779634.1']
+    Key: ID, Value: ['cds-WP_143779634.1']
+    Key: Name, Value: ['WP_143779634.1']
+    Key: Parent, Value: ['gene-NITER_RS05730']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05730']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_143779634.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 2073-2478 (1))
+type: CDS
+location: [1098883:1099156](-)
+id: cds-WP_084275447.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275447.1']
+    Key: ID, Value: ['cds-WP_084275447.1']
+    Key: Name, Value: ['WP_084275447.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-NITER_RS05735']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['NITER_RS05735']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_084275447.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 3999-4272 (-1))
+type: CDS
+location: [1099345:1100242](-)
+id: cds-WP_084275446.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275446.1']
+    Key: ID, Value: ['cds-WP_084275446.1']
+    Key: Name, Value: ['WP_084275446.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-NITER_RS05740']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['NITER_RS05740']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_084275446.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 4461-5358 (-1))
+type: CDS
+location: [1100238:1100514](-)
+id: cds-WP_084275445.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275445.1']
+    Key: ID, Value: ['cds-WP_084275445.1']
+    Key: Name, Value: ['WP_084275445.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-NITER_RS05745']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['NITER_RS05745']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_084275445.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 5354-5630 (-1))
+type: CDS
+location: [1100503:1100887](-)
+id: cds-WP_084275444.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275444.1']
+    Key: ID, Value: ['cds-WP_084275444.1']
+    Key: Name, Value: ['WP_084275444.1']
+    Key: Parent, Value: ['gene-NITER_RS05750']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05750']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275444.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5619-6003 (-1))
+type: CDS
+location: [1100929:1101901](-)
+id: cds-WP_143779633.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143779633.1']
+    Key: ID, Value: ['cds-WP_143779633.1']
+    Key: Name, Value: ['WP_143779633.1']
+    Key: Ontology_term, Value: ['GO:0003676']
+    Key: Parent, Value: ['gene-NITER_RS05755']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['nucleic acid binding|0003676||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF024676.2']
+    Key: locus_tag, Value: ['NITER_RS05755']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['WYL domain-containing protein']
+    Key: protein_id, Value: ['WP_143779633.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(WYL domain-containing protein, 6045-7017 (-1))
+type: CDS
+location: [1101914:1102340](-)
+id: cds-WP_084275442.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275442.1']
+    Key: ID, Value: ['cds-WP_084275442.1']
+    Key: Name, Value: ['WP_084275442.1']
+    Key: Parent, Value: ['gene-NITER_RS05760']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05760']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275442.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7030-7456 (-1))
+type: CDS
+location: [1102336:1102717](-)
+id: cds-WP_084275441.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275441.1']
+    Key: ID, Value: ['cds-WP_084275441.1']
+    Key: Name, Value: ['WP_084275441.1']
+    Key: Parent, Value: ['gene-NITER_RS05765']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx20']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040559.1']
+    Key: locus_tag, Value: ['NITER_RS05765']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx20']
+    Key: protein_id, Value: ['WP_084275441.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx20, 7452-7833 (-1))
+type: CDS
+location: [1102713:1103940](-)
+id: cds-WP_084275440.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275440.1']
+    Key: ID, Value: ['cds-WP_084275440.1']
+    Key: Name, Value: ['WP_084275440.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NITER_RS05770']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.2']
+    Key: locus_tag, Value: ['NITER_RS05770']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_084275440.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 7829-9056 (-1))
+type: CDS
+location: [1104056:1104425](-)
+id: cds-WP_084275439.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275439.1']
+    Key: ID, Value: ['cds-WP_084275439.1']
+    Key: Name, Value: ['WP_084275439.1']
+    Key: Parent, Value: ['gene-NITER_RS05775']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF013970.2']
+    Key: locus_tag, Value: ['NITER_RS05775']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['PIN domain-containing protein']
+    Key: protein_id, Value: ['WP_084275439.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(PIN domain-containing protein, 9172-9541 (-1))
+type: CDS
+location: [1104424:1104703](-)
+id: cds-WP_084275438.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275438.1']
+    Key: ID, Value: ['cds-WP_084275438.1']
+    Key: Name, Value: ['WP_084275438.1']
+    Key: Parent, Value: ['gene-NITER_RS05780']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05780']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275438.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9540-9819 (-1))
+type: CDS
+location: [1104983:1106105](-)
+id: cds-WP_084275437.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275437.1']
+    Key: ID, Value: ['cds-WP_084275437.1']
+    Key: Name, Value: ['WP_084275437.1']
+    Key: Parent, Value: ['gene-NITER_RS05785']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021189.2']
+    Key: locus_tag, Value: ['NITER_RS05785']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275437.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 10099-11221 (-1))
+type: CDS
+location: [1106101:1107085](-)
+id: cds-WP_143779632.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143779632.1']
+    Key: ID, Value: ['cds-WP_143779632.1']
+    Key: Name, Value: ['WP_143779632.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NITER_RS05790']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01899.1']
+    Key: locus_tag, Value: ['NITER_RS05790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm5']
+    Key: protein_id, Value: ['WP_143779632.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm5, 11217-12201 (-1))
+type: CDS
+location: [1107074:1108001](-)
+id: cds-WP_084275435.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275435.1']
+    Key: ID, Value: ['cds-WP_084275435.1']
+    Key: Name, Value: ['WP_084275435.1']
+    Key: Parent, Value: ['gene-NITER_RS05795']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275435.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 12190-13117 (-1))
+type: CDS
+location: [1107987:1108764](-)
+id: cds-WP_084275434.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275434.1']
+    Key: ID, Value: ['cds-WP_084275434.1']
+    Key: Name, Value: ['WP_084275434.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NITER_RS05800']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm3']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_007475285.1']
+    Key: locus_tag, Value: ['NITER_RS05800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated RAMP protein Csm3']
+    Key: protein_id, Value: ['WP_084275434.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated RAMP protein Csm3, 13103-13880 (-1))
+type: CDS
+location: [1108776:1109298](-)
+id: cds-WP_084275433.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275433.1']
+    Key: ID, Value: ['cds-WP_084275433.1']
+    Key: Name, Value: ['WP_084275433.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NITER_RS05805']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csm2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015695.2']
+    Key: locus_tag, Value: ['NITER_RS05805']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Csm2']
+    Key: protein_id, Value: ['WP_084275433.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Csm2, 13892-14414 (-1))
+type: CDS
+location: [1109300:1111754](-)
+id: cds-WP_084275432.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275432.1']
+    Key: ID, Value: ['cds-WP_084275432.1']
+    Key: Name, Value: ['WP_084275432.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-NITER_RS05810']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02578.1']
+    Key: locus_tag, Value: ['NITER_RS05810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-A CRISPR-associated protein Cas10/Csm1']
+    Key: protein_id, Value: ['WP_084275432.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-A CRISPR-associated protein Cas10/Csm1, 14416-16870 (-1))
+type: CDS
+location: [1111750:1112566](-)
+id: cds-WP_084275431.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275431.1']
+    Key: ID, Value: ['cds-WP_084275431.1']
+    Key: Name, Value: ['WP_084275431.1']
+    Key: Parent, Value: ['gene-NITER_RS05815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.2']
+    Key: locus_tag, Value: ['NITER_RS05815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_084275431.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 16866-17682 (-1))
+type: CDS
+location: [1112631:1112904](+)
+id: cds-WP_084275430.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275430.1']
+    Key: ID, Value: ['cds-WP_084275430.1']
+    Key: Name, Value: ['WP_084275430.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004521']
+    Key: Parent, Value: ['gene-NITER_RS05820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas2']
+    Key: go_function, Value: ['endoribonuclease activity|0004521||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01573.1']
+    Key: locus_tag, Value: ['NITER_RS05820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas2']
+    Key: protein_id, Value: ['WP_084275430.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas2, 17747-18020 (1))
+type: CDS
+location: [1112884:1115020](+)
+id: cds-WP_159445315.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_159445315.1']
+    Key: ID, Value: ['cds-WP_159445315.1']
+    Key: Name, Value: ['WP_159445315.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0004520', 'GO:0046872']
+    Key: Parent, Value: ['gene-NITER_RS05825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas1']
+    Key: go_function, Value: ['endodeoxyribonuclease activity|0004520||IEA', 'metal ion binding|0046872||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00287.1']
+    Key: locus_tag, Value: ['NITER_RS05825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated endonuclease Cas1']
+    Key: protein_id, Value: ['WP_159445315.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated endonuclease Cas1, 18000-20136 (1))
+type: CDS
+location: [1116263:1116509](+)
+id: cds-WP_084275428.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275428.1']
+    Key: ID, Value: ['cds-WP_084275428.1']
+    Key: Name, Value: ['WP_084275428.1']
+    Key: Parent, Value: ['gene-NITER_RS05830']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05830']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_084275428.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21379-21625 (1))
+type: CDS
+location: [1116753:1117323](-)
+id: cds-WP_143779631.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_143779631.1']
+    Key: ID, Value: ['cds-WP_143779631.1']
+    Key: Name, Value: ['WP_143779631.1']
+    Key: Parent, Value: ['gene-NITER_RS05835']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NITER_RS05835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_143779631.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 21869-22439 (-1))
+type: CDS
+location: [1117312:1117678](-)
+id: cds-WP_084276575.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084276575.1']
+    Key: ID, Value: ['cds-WP_084276575.1']
+    Key: Name, Value: ['WP_084276575.1']
+    Key: Ontology_term, Value: ['GO:1904047']
+    Key: Parent, Value: ['gene-NITER_RS05840']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['S-adenosyl-L-methionine binding|1904047||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012081907.1']
+    Key: locus_tag, Value: ['NITER_RS05840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['HIT family protein']
+    Key: protein_id, Value: ['WP_084276575.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(HIT family protein, 22428-22794 (-1))
+type: CDS
+location: [1117850:1118246](+)
+id: cds-WP_084275426.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084275426.1']
+    Key: ID, Value: ['cds-WP_084275426.1']
+    Key: Name, Value: ['WP_084275426.1']
+    Key: Parent, Value: ['gene-NITER_RS05845']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF025268.2']
+    Key: locus_tag, Value: ['NITER_RS05845']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['DUF255 domain-containing protein']
+    Key: protein_id, Value: ['WP_084275426.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(DUF255 domain-containing protein, 22966-23362 (1))
+type: repeat_region
+location: [1097949:1098801](+)
+id: NZ_AP026671.1_2
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_AP026671.1_2']
+    Key: Note, Value: ['GTCTCAATCCCCTTAAAATCGGGTCATCGGTGTAAT']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['852']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 3065-3917 (0))
+type: repeat_region
+location: [1115411:1115994](+)
+id: NZ_AP026671.1_3
+qualifiers:
+    Key: Dbxref, Value: ['SO:0001459']
+    Key: ID, Value: ['NZ_AP026671.1_3']
+    Key: Note, Value: ['ATTTACCTATTAGACCCGATTTTAAGGGGATTGAGAC']
+    Key: Ontology_term, Value: ['CRISPR']
+    Key: score, Value: ['583']
+    Key: source, Value: ['CCTyper']
+
+GF(Repeat region, 20527-21110 (0))
+graphic feature from known effectors: GF(cami1, 10100-11221 (-1))
+graphic feature from known effectors: GF(csx1, 7830-9056 (-1))
+[GF(None, 1685-2027 (1)), GF(None, 2073-2478 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4272 (-1)), GF(CRISPR-associated endonuclease Cas1, 4461-5358 (-1)), GF(CRISPR-associated endonuclease Cas2, 5354-5630 (-1)), GF(None, 5619-6003 (-1)), GF(WYL domain-containing protein, 6045-7017 (-1)), GF(None, 7030-7456 (-1)), GF(CRISPR-associated protein Csx20, 7452-7833 (-1)), GF(TIGR02221 family CRISPR-associated protein, 7829-9056 (-1)), GF(PIN domain-containing protein, 9172-9541 (-1)), GF(None, 9540-9819 (-1)), GF(None, 10099-11221 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 11217-12201 (-1)), GF(None, 12190-13117 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 13103-13880 (-1)), GF(type III-A CRISPR-associated protein Csm2, 13892-14414 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 14416-16870 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 16866-17682 (-1)), GF(CRISPR-associated endonuclease Cas2, 17747-18020 (1)), GF(CRISPR-associated endonuclease Cas1, 18000-20136 (1)), GF(None, 21379-21625 (1)), GF(None, 21869-22439 (-1)), GF(HIT family protein, 22428-22794 (-1)), GF(DUF255 domain-containing protein, 22966-23362 (1)), GF(Repeat region, 3065-3917 (0)), GF(Repeat region, 20527-21110 (0)), GF(cami1, 10100-11221 (-1)), GF(csx1, 7830-9056 (-1)), GF(CRISPR-Cas locus, 4000-20136 (0))]

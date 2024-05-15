@@ -1,0 +1,234 @@
+Cas operons file:    Unnamed: 0       Contig  ...           locus_id           sample
+0           2  NC_014098.1  ...  GCF_000092905.1_2  GCF_000092905.1
+
+[1 rows x 19 columns]
+The chosen contig: NC_014098.1
+type: CDS
+location: [1373639:1374743](-)
+id: cds-WP_013075369.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075369.1']
+    Key: ID, Value: ['cds-WP_013075369.1']
+    Key: Name, Value: ['WP_013075369.1']
+    Key: Ontology_term, Value: ['GO:0009847', 'GO:0016020']
+    Key: Parent, Value: ['gene-BTUS_RS06790']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: go_process, Value: ['spore germination|0009847||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR00912.1']
+    Key: locus_tag, Value: ['BTUS_RS06790']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['endospore germination permease']
+    Key: protein_id, Value: ['WP_013075369.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(endospore germination permease, 2134-3238 (-1))
+type: CDS
+location: [1375504:1376773](+)
+id: cds-WP_013075370.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075370.1']
+    Key: ID, Value: ['cds-WP_013075370.1']
+    Key: Name, Value: ['WP_013075370.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06795']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr1']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF015728.3']
+    Key: locus_tag, Value: ['BTUS_RS06795']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr1']
+    Key: protein_id, Value: ['WP_013075370.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5268 (1))
+type: CDS
+location: [1376769:1378593](+)
+id: cds-WP_013075371.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075371.1']
+    Key: ID, Value: ['cds-WP_013075371.1']
+    Key: Name, Value: ['WP_013075371.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06800']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas10']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02577.1']
+    Key: locus_tag, Value: ['BTUS_RS06800']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR-associated protein Cas10/Cmr2']
+    Key: protein_id, Value: ['WP_013075371.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5264-7088 (1))
+type: CDS
+location: [1378589:1379771](+)
+id: cds-WP_013075372.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075372.1']
+    Key: ID, Value: ['cds-WP_013075372.1']
+    Key: Name, Value: ['WP_013075372.1']
+    Key: Parent, Value: ['gene-BTUS_RS16815']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021236.3']
+    Key: locus_tag, Value: ['BTUS_RS16815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated Cmr3 family protein']
+    Key: protein_id, Value: ['WP_013075372.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated Cmr3 family protein, 7084-8266 (1))
+type: CDS
+location: [1379794:1380685](+)
+id: cds-WP_013075373.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075373.1']
+    Key: ID, Value: ['cds-WP_013075373.1']
+    Key: Name, Value: ['WP_013075373.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06810']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr4']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR02580.1']
+    Key: locus_tag, Value: ['BTUS_RS06810']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr4']
+    Key: protein_id, Value: ['WP_013075373.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr4, 8289-9180 (1))
+type: CDS
+location: [1380690:1381059](+)
+id: cds-WP_013075374.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075374.1']
+    Key: ID, Value: ['cds-WP_013075374.1']
+    Key: Name, Value: ['WP_013075374.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06815']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr5']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01881.1']
+    Key: locus_tag, Value: ['BTUS_RS06815']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module-associated protein Cmr5']
+    Key: protein_id, Value: ['WP_013075374.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module-associated protein Cmr5, 9185-9554 (1))
+type: CDS
+location: [1381064:1381898](+)
+id: cds-WP_013075375.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075375.1']
+    Key: ID, Value: ['cds-WP_013075375.1']
+    Key: Name, Value: ['WP_013075375.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06820']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cmr6']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:TIGR01898.1']
+    Key: locus_tag, Value: ['BTUS_RS06820']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['type III-B CRISPR module RAMP protein Cmr6']
+    Key: protein_id, Value: ['WP_013075375.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(type III-B CRISPR module RAMP protein Cmr6, 9559-10393 (1))
+type: CDS
+location: [1381894:1383169](+)
+id: cds-WP_013075376.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075376.1']
+    Key: ID, Value: ['cds-WP_013075376.1']
+    Key: Name, Value: ['WP_013075376.1']
+    Key: Ontology_term, Value: ['GO:0043571', 'GO:0003674']
+    Key: Parent, Value: ['gene-BTUS_RS06825']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx2']
+    Key: go_function, Value: ['molecular_function|0003674||IEA']
+    Key: go_process, Value: ['maintenance of CRISPR repeat elements|0043571||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021006.3']
+    Key: locus_tag, Value: ['BTUS_RS06825']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR02221 family CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_013075376.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR02221 family CRISPR-associated protein, 10389-11664 (1))
+type: CDS
+location: [1383151:1383298](-)
+id: cds-WP_013075377.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075377.1']
+    Key: ID, Value: ['cds-WP_013075377.1']
+    Key: Name, Value: ['WP_013075377.1']
+    Key: Parent, Value: ['gene-BTUS_RS17915']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['BTUS_RS17915']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_013075377.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11646-11793 (-1))
+type: CDS
+location: [1383407:1384607](-)
+id: cds-WP_013075378.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075378.1']
+    Key: ID, Value: ['cds-WP_013075378.1']
+    Key: Name, Value: ['WP_013075378.1']
+    Key: Ontology_term, Value: ['GO:0004803']
+    Key: Parent, Value: ['gene-BTUS_RS06835']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['transposase activity|0004803||IEA']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF040570.1']
+    Key: locus_tag, Value: ['BTUS_RS06835']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RNA-guided endonuclease TnpB family protein']
+    Key: protein_id, Value: ['WP_013075378.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RNA-guided endonuclease TnpB family protein, 11902-13102 (-1))
+type: CDS
+location: [1384794:1385706](-)
+id: cds-WP_013075379.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_013075379.1']
+    Key: ID, Value: ['cds-WP_013075379.1']
+    Key: Name, Value: ['WP_013075379.1']
+    Key: Parent, Value: ['gene-BTUS_RS06840']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012810173.1']
+    Key: locus_tag, Value: ['BTUS_RS06840']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['acetamidase/formamidase family protein']
+    Key: protein_id, Value: ['WP_013075379.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(acetamidase/formamidase family protein, 13289-14201 (-1))
+graphic feature from known effectors: GF(csx1, 10390-11664 (1))
+[GF(endospore germination permease, 2134-3238 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5268 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5264-7088 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7084-8266 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8289-9180 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9185-9554 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9559-10393 (1)), GF(TIGR02221 family CRISPR-associated protein, 10389-11664 (1)), GF(None, 11646-11793 (-1)), GF(RNA-guided endonuclease TnpB family protein, 11902-13102 (-1)), GF(acetamidase/formamidase family protein, 13289-14201 (-1)), GF(csx1, 10390-11664 (1)), GF(CRISPR-Cas locus, 4000-11664 (0))]

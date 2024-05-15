@@ -1,0 +1,308 @@
+Cas operons file:    Unnamed: 0         Contig  ...           locus_id           sample
+0           1  NZ_CP063196.1  ...  GCF_003574835.2_1  GCF_003574835.2
+
+[1 rows x 19 columns]
+The chosen contig: NZ_CP063196.1
+type: CDS
+location: [895899:897423](+)
+id: cds-WP_068689284.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689284.1']
+    Key: ID, Value: ['cds-WP_068689284.1']
+    Key: Name, Value: ['WP_068689284.1']
+    Key: Ontology_term, Value: ['GO:0016491']
+    Key: Parent, Value: ['gene-NI17_RS04015']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['oxidoreductase activity|0016491||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292114.1']
+    Key: locus_tag, Value: ['NI17_RS04015']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['aldehyde dehydrogenase family protein']
+    Key: protein_id, Value: ['WP_068689284.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(aldehyde dehydrogenase family protein, 965-2489 (1))
+type: CDS
+location: [897498:898065](+)
+id: cds-WP_119267495.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_119267495.1']
+    Key: ID, Value: ['cds-WP_119267495.1']
+    Key: Name, Value: ['WP_119267495.1']
+    Key: Ontology_term, Value: ['GO:0008080']
+    Key: Parent, Value: ['gene-NI17_RS04020']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['N-acetyltransferase activity|0008080||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_012891895.1']
+    Key: locus_tag, Value: ['NI17_RS04020']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['GNAT family N-acetyltransferase']
+    Key: protein_id, Value: ['WP_119267495.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(GNAT family N-acetyltransferase, 2564-3131 (1))
+type: CDS
+location: [898083:898752](-)
+id: cds-WP_068689283.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689283.1']
+    Key: ID, Value: ['cds-WP_068689283.1']
+    Key: Name, Value: ['WP_068689283.1']
+    Key: Ontology_term, Value: ['GO:0046677', 'GO:0016746']
+    Key: Parent, Value: ['gene-NI17_RS04025']
+    Key: gbkey, Value: ['CDS']
+    Key: go_function, Value: ['acyltransferase activity|0016746||IEA']
+    Key: go_process, Value: ['response to antibiotic|0046677||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017617988.1']
+    Key: locus_tag, Value: ['NI17_RS04025']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CatB-related O-acetyltransferase']
+    Key: protein_id, Value: ['WP_068689283.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CatB-related O-acetyltransferase, 3149-3818 (-1))
+type: CDS
+location: [898933:900247](-)
+id: cds-WP_068689282.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689282.1']
+    Key: ID, Value: ['cds-WP_068689282.1']
+    Key: Name, Value: ['WP_068689282.1']
+    Key: Parent, Value: ['gene-NI17_RS04030']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NI17_RS04030']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_068689282.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 3999-5313 (-1))
+type: CDS
+location: [900483:900774](-)
+id: cds-WP_068689281.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689281.1']
+    Key: ID, Value: ['cds-WP_068689281.1']
+    Key: Name, Value: ['WP_068689281.1']
+    Key: Parent, Value: ['gene-NI17_RS04035']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NI17_RS04035']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_068689281.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 5549-5840 (-1))
+type: CDS
+location: [900994:901843](+)
+id: cds-WP_119267493.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_119267493.1']
+    Key: ID, Value: ['cds-WP_119267493.1']
+    Key: Name, Value: ['WP_119267493.1']
+    Key: Parent, Value: ['gene-NI17_RS04040']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['cas6']
+    Key: inference, Value: ['COORDINATES: protein motif:HMM:NF021551.2']
+    Key: locus_tag, Value: ['NI17_RS04040']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6']
+    Key: protein_id, Value: ['WP_119267493.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6060-6909 (1))
+type: CDS
+location: [901959:904188](+)
+id: cds-WP_068689278.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689278.1']
+    Key: ID, Value: ['cds-WP_068689278.1']
+    Key: Name, Value: ['WP_068689278.1']
+    Key: Parent, Value: ['gene-NI17_RS04045']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: ab initio prediction:GeneMarkS-2+']
+    Key: locus_tag, Value: ['NI17_RS04045']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_068689278.1']
+    Key: source, Value: ['GeneMarkS-2+']
+    Key: transl_table, Value: ['11']
+
+GF(None, 7025-9254 (1))
+type: CDS
+location: [904209:905973](+)
+id: cds-WP_068689277.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689277.1']
+    Key: ID, Value: ['cds-WP_068689277.1']
+    Key: Name, Value: ['WP_068689277.1']
+    Key: Parent, Value: ['gene-NI17_RS04050']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017535428.1']
+    Key: locus_tag, Value: ['NI17_RS04050']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_068689277.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 9275-11039 (1))
+type: CDS
+location: [905959:906628](+)
+id: cds-WP_068689276.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689276.1']
+    Key: ID, Value: ['cds-WP_068689276.1']
+    Key: Name, Value: ['WP_068689276.1']
+    Key: Parent, Value: ['gene-NI17_RS04055']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017606291.1']
+    Key: locus_tag, Value: ['NI17_RS04055']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_068689276.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11025-11694 (1))
+type: CDS
+location: [906624:908433](+)
+id: cds-WP_243597603.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_243597603.1']
+    Key: ID, Value: ['cds-WP_243597603.1']
+    Key: Name, Value: ['WP_243597603.1']
+    Key: Parent, Value: ['gene-NI17_RS04060']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017589754.1']
+    Key: locus_tag, Value: ['NI17_RS04060']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['WP_243597603.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(None, 11690-13499 (1))
+type: CDS
+location: [908437:910078](+)
+id: cds-WP_084012477.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_084012477.1']
+    Key: ID, Value: ['cds-WP_084012477.1']
+    Key: Name, Value: ['WP_084012477.1']
+    Key: Parent, Value: ['gene-NI17_RS04065']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017535425.1']
+    Key: locus_tag, Value: ['NI17_RS04065']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['RAMP superfamily CRISPR-associated protein']
+    Key: protein_id, Value: ['WP_084012477.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(RAMP superfamily CRISPR-associated protein, 13503-15144 (1))
+type: CDS
+location: [910074:910755](+)
+id: cds-WP_068689275.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689275.1']
+    Key: ID, Value: ['cds-WP_068689275.1']
+    Key: Name, Value: ['WP_068689275.1']
+    Key: Parent, Value: ['gene-NI17_RS04070']
+    Key: gbkey, Value: ['CDS']
+    Key: gene, Value: ['csx19']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017567614.1']
+    Key: locus_tag, Value: ['NI17_RS04070']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['CRISPR-associated protein Csx19']
+    Key: protein_id, Value: ['WP_068689275.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(CRISPR-associated protein Csx19, 15140-15821 (1))
+type: CDS
+location: [910744:912928](+)
+id: cds-WP_279395513.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_279395513.1']
+    Key: ID, Value: ['cds-WP_279395513.1']
+    Key: Name, Value: ['WP_279395513.1']
+    Key: Parent, Value: ['gene-NI17_RS04075']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_014909019.1']
+    Key: locus_tag, Value: ['NI17_RS04075']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['TIGR03986 family CRISPR-associated RAMP protein']
+    Key: protein_id, Value: ['WP_279395513.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(TIGR03986 family CRISPR-associated RAMP protein, 15810-17994 (1))
+type: CDS
+location: [913083:913857](-)
+id: cds-WP_068689273.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689273.1']
+    Key: ID, Value: ['cds-WP_068689273.1']
+    Key: Name, Value: ['WP_068689273.1']
+    Key: Parent, Value: ['gene-NI17_RS04080']
+    Key: gbkey, Value: ['CDS']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_017587043.1']
+    Key: locus_tag, Value: ['NI17_RS04080']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['aldo/keto reductase']
+    Key: protein_id, Value: ['WP_068689273.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(aldo/keto reductase, 18149-18923 (-1))
+type: CDS
+location: [913986:915006](-)
+id: cds-WP_119267501.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_119267501.1']
+    Key: ID, Value: ['cds-WP_119267501.1']
+    Key: Name, Value: ['WP_119267501.1']
+    Key: Ontology_term, Value: ['GO:0016020']
+    Key: Parent, Value: ['gene-NI17_RS04085']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_011292112.1']
+    Key: locus_tag, Value: ['NI17_RS04085']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hemolysin family protein']
+    Key: protein_id, Value: ['WP_119267501.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hemolysin family protein, 19052-20072 (-1))
+type: CDS
+location: [915002:916382](-)
+id: cds-WP_068689272.1
+qualifiers:
+    Key: Dbxref, Value: ['GenBank:WP_068689272.1']
+    Key: ID, Value: ['cds-WP_068689272.1']
+    Key: Name, Value: ['WP_068689272.1']
+    Key: Ontology_term, Value: ['GO:0016020']
+    Key: Parent, Value: ['gene-NI17_RS04090']
+    Key: gbkey, Value: ['CDS']
+    Key: go_component, Value: ['membrane|0016020||IEA']
+    Key: inference, Value: ['COORDINATES: similar to AA sequence:RefSeq:WP_016188772.1']
+    Key: locus_tag, Value: ['NI17_RS04090']
+    Key: phase, Value: ['0']
+    Key: product, Value: ['hemolysin family protein']
+    Key: protein_id, Value: ['WP_068689272.1']
+    Key: source, Value: ['Protein Homology']
+    Key: transl_table, Value: ['11']
+
+GF(hemolysin family protein, 20068-21448 (-1))
+graphic feature from known effectors: GF(can1-2, 7026-9254 (1))
+[GF(aldehyde dehydrogenase family protein, 965-2489 (1)), GF(GNAT family N-acetyltransferase, 2564-3131 (1)), GF(CatB-related O-acetyltransferase, 3149-3818 (-1)), GF(None, 3999-5313 (-1)), GF(None, 5549-5840 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6060-6909 (1)), GF(None, 7025-9254 (1)), GF(None, 9275-11039 (1)), GF(None, 11025-11694 (1)), GF(None, 11690-13499 (1)), GF(RAMP superfamily CRISPR-associated protein, 13503-15144 (1)), GF(CRISPR-associated protein Csx19, 15140-15821 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 15810-17994 (1)), GF(aldo/keto reductase, 18149-18923 (-1)), GF(hemolysin family protein, 19052-20072 (-1)), GF(hemolysin family protein, 20068-21448 (-1)), GF(can1-2, 7026-9254 (1)), GF(CRISPR-Cas locus, 4000-17994 (0))]
