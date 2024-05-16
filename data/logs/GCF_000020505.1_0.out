@@ -330,5 +330,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2534-3749 (0))
+graphic feature from cctyper protein table: GF(Csx15, 4779-5357 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5588-7981 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7981-8454 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8470-9339 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 9353-10453 (1))
+graphic feature from cctyper protein table: GF(Csx1, 12301-13836 (1))
+graphic feature from cctyper protein table: GF(Cas6, 13863-14654 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 12301-13836 (1))
-[GF(None, 1981-2275 (1)), GF(CRISPR-associated endonuclease Cas1, 3999-4719 (-1)), GF(CRISPR-associated protein Csx15, 4778-5357 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5587-7981 (1)), GF(type III-A CRISPR-associated protein Csm2, 7980-8454 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8469-9339 (1)), GF(None, 9352-10453 (1)), GF(None, 10454-10769 (1)), GF(RAMP superfamily CRISPR-associated protein, 10810-12304 (1)), GF(None, 12300-13836 (1)), GF(CRISPR-associated endoribonuclease Cas6, 13862-14654 (1)), GF(TIGR01777 family oxidoreductase, 15032-15974 (1)), GF(RNA-binding protein, 16055-16328 (-1)), GF(None, 16558-16699 (-1)), GF(ammonium transporter, 16744-18076 (1)), GF(P-II family nitrogen regulator, 18087-18429 (1)), GF(Repeat region, 2534-3749 (0)), GF(csx1, 12301-13836 (1)), GF(CRISPR-Cas locus, 4000-14654 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx15, 4779-5357 (1))
+[GF(None, 1981-2275 (1)), GF(CRISPR-associated endonuclease Cas1, 3999-4719 (-1)), GF(CRISPR-associated protein Csx15, 4778-5357 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5587-7981 (1)), GF(type III-A CRISPR-associated protein Csm2, 7980-8454 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8469-9339 (1)), GF(None, 9352-10453 (1)), GF(None, 10454-10769 (1)), GF(RAMP superfamily CRISPR-associated protein, 10810-12304 (1)), GF(None, 12300-13836 (1)), GF(CRISPR-associated endoribonuclease Cas6, 13862-14654 (1)), GF(TIGR01777 family oxidoreductase, 15032-15974 (1)), GF(RNA-binding protein, 16055-16328 (-1)), GF(None, 16558-16699 (-1)), GF(ammonium transporter, 16744-18076 (1)), GF(P-II family nitrogen regulator, 18087-18429 (1)), GF(Repeat region, 2534-3749 (0)), GF(Csx15, 4779-5357 (1)), GF(Cas10, 5588-7981 (1)), GF(Csm2gr11, 7981-8454 (1)), GF(Csm3gr7, 8470-9339 (1)), GF(Csm4gr5, 9353-10453 (1)), GF(Csx1, 12301-13836 (1)), GF(Cas6, 13863-14654 (1)), GF(csx1, 12301-13836 (1)), GF(csx15, 4779-5357 (1)), GF(CRISPR-Cas locus, 4000-14654 (0))]

@@ -411,4 +411,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3631-3809 (0))
-[GF(flagellin, 258-1455 (1)), GF(flagellar filament capping protein FliD, 1465-3190 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4881 (1)), GF(None, 5251-7297 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7363-8428 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 8417-8864 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8874-9723 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9726-10917 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10907-12773 (-1)), GF(RAMP superfamily CRISPR-associated protein, 12772-13789 (-1)), GF(None, 13940-14600 (1)), GF(CRISPR-associated endonuclease Cas1, 16517-19142 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20028-21078 (1)), GF(CRISPR-associated endonuclease Cas2, 22545-22800 (-1)), GF(Rha family transcriptional regulator, 23923-24751 (1)), GF(conjugal transfer protein TraJ, 24707-25043 (1)), GF(TraI/MobA(P) family conjugative relaxase, 25039-26656 (1)), GF(Repeat region, 15147-15735 (0)), GF(Repeat region, 19382-19910 (0)), GF(Repeat region, 21091-21403 (0)), GF(Repeat region, 22105-22417 (0)), GF(Repeat region, 23119-23434 (0)), GF(Repeat region, 3631-3809 (0)), GF(CRISPR-Cas locus, 4000-22800 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4881 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7364-8428 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8418-8864 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8875-9723 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9727-10917 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10908-12773 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 12773-13789 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 20029-21078 (1))
+graphic feature from cctyper protein table: GF(Cas2, 22546-22800 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(flagellin, 258-1455 (1)), GF(flagellar filament capping protein FliD, 1465-3190 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4881 (1)), GF(None, 5251-7297 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7363-8428 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 8417-8864 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8874-9723 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9726-10917 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10907-12773 (-1)), GF(RAMP superfamily CRISPR-associated protein, 12772-13789 (-1)), GF(None, 13940-14600 (1)), GF(CRISPR-associated endonuclease Cas1, 16517-19142 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 20028-21078 (1)), GF(CRISPR-associated endonuclease Cas2, 22545-22800 (-1)), GF(Rha family transcriptional regulator, 23923-24751 (1)), GF(conjugal transfer protein TraJ, 24707-25043 (1)), GF(TraI/MobA(P) family conjugative relaxase, 25039-26656 (1)), GF(Repeat region, 15147-15735 (0)), GF(Repeat region, 19382-19910 (0)), GF(Repeat region, 21091-21403 (0)), GF(Repeat region, 22105-22417 (0)), GF(Repeat region, 23119-23434 (0)), GF(Repeat region, 3631-3809 (0)), GF(Cas6, 4000-4881 (1)), GF(Cmr6gr7, 7364-8428 (-1)), GF(Cmr5gr11, 8418-8864 (-1)), GF(Cmr4gr7, 8875-9723 (-1)), GF(Cmr3gr5, 9727-10917 (-1)), GF(Cas10, 10908-12773 (-1)), GF(Cmr1gr7, 12773-13789 (-1)), GF(Cas6, 20029-21078 (1)), GF(Cas2, 22546-22800 (-1)), GF(CRISPR-Cas locus, 4000-22800 (0))]

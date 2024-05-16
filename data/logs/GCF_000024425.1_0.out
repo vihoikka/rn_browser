@@ -571,5 +571,27 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 22029-22859 (0))
+graphic feature from cctyper protein table: GF(Cas2, 4000-4299 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4302-5321 (-1))
+graphic feature from cctyper protein table: GF(Cas4, 5318-5974 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 6011-7075 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7072-8034 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8021-8413 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8416-9153 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9143-10273 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10266-11732 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 11729-12952 (-1))
+graphic feature from cctyper protein table: GF(Cas7, 12955-13935 (-1))
+graphic feature from cctyper protein table: GF(Cas8c, 13995-15851 (-1))
+graphic feature from cctyper protein table: GF(Cas5, 15851-16594 (-1))
+graphic feature from cctyper protein table: GF(Cas3, 16606-19842 (-1))
+graphic feature from cctyper protein table: GF(TPR, 19993-21585 (-1))
+graphic feature from cctyper protein table: GF(Csa3, 25674-26150 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 6011-7075 (-1))
-[GF(peptidylprolyl isomerase, 569-1007 (1)), GF(YibE/F family protein, 1003-2041 (-1)), GF(DUF1282 family protein, 2141-2696 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4299 (-1)), GF(type I-C CRISPR-associated endonuclease Cas1c, 4301-5321 (-1)), GF(CRISPR-associated protein Cas4, 5317-5974 (-1)), GF(putative CRISPR-associated protein, 6010-7075 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7071-8034 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 8020-8413 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8415-9153 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 9142-10273 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10265-11732 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11728-12952 (-1)), GF(type I-C CRISPR-associated protein Cas7/Csd2, 12954-13935 (-1)), GF(type I-C CRISPR-associated protein Cas8c/Csd1, 13994-15851 (-1)), GF(type I-C CRISPR-associated protein Cas5c, 15850-16594 (-1)), GF(CRISPR-associated endonuclease Cas3'', 16605-19842 (-1)), GF(tetratricopeptide repeat protein, 19992-21585 (-1)), GF(None, 21630-21780 (-1)), GF(lysine--tRNA ligase, 22923-24432 (-1)), GF(GreA/GreB family elongation factor, 24539-25013 (-1)), GF(None, 25190-25556 (-1)), GF(MarR family transcriptional regulator, 25673-26150 (1)), GF(TolC family protein, 26142-27471 (1)), GF(TolC family protein, 27467-28469 (1)), GF(HlyD family efflux transporter periplasmic adaptor subunit, 28468-29692 (1)), GF(Repeat region, 2819-3798 (0)), GF(Repeat region, 22029-22859 (0)), GF(cami1, 6011-7075 (-1)), GF(CRISPR-Cas locus, 4000-26150 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(peptidylprolyl isomerase, 569-1007 (1)), GF(YibE/F family protein, 1003-2041 (-1)), GF(DUF1282 family protein, 2141-2696 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4299 (-1)), GF(type I-C CRISPR-associated endonuclease Cas1c, 4301-5321 (-1)), GF(CRISPR-associated protein Cas4, 5317-5974 (-1)), GF(putative CRISPR-associated protein, 6010-7075 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7071-8034 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 8020-8413 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8415-9153 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 9142-10273 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10265-11732 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11728-12952 (-1)), GF(type I-C CRISPR-associated protein Cas7/Csd2, 12954-13935 (-1)), GF(type I-C CRISPR-associated protein Cas8c/Csd1, 13994-15851 (-1)), GF(type I-C CRISPR-associated protein Cas5c, 15850-16594 (-1)), GF(CRISPR-associated endonuclease Cas3'', 16605-19842 (-1)), GF(tetratricopeptide repeat protein, 19992-21585 (-1)), GF(None, 21630-21780 (-1)), GF(lysine--tRNA ligase, 22923-24432 (-1)), GF(GreA/GreB family elongation factor, 24539-25013 (-1)), GF(None, 25190-25556 (-1)), GF(MarR family transcriptional regulator, 25673-26150 (1)), GF(TolC family protein, 26142-27471 (1)), GF(TolC family protein, 27467-28469 (1)), GF(HlyD family efflux transporter periplasmic adaptor subunit, 28468-29692 (1)), GF(Repeat region, 2819-3798 (0)), GF(Repeat region, 22029-22859 (0)), GF(Cas2, 4000-4299 (-1)), GF(Cas1, 4302-5321 (-1)), GF(Cas4, 5318-5974 (-1)), GF(Csm6, 6011-7075 (-1)), GF(Cmr6gr7, 7072-8034 (-1)), GF(Cmr5gr11, 8021-8413 (-1)), GF(Cmr4gr7, 8416-9153 (-1)), GF(Cmr3gr5, 9143-10273 (-1)), GF(Cas10, 10266-11732 (-1)), GF(Cmr1gr7, 11729-12952 (-1)), GF(Cas7, 12955-13935 (-1)), GF(Cas8c, 13995-15851 (-1)), GF(Cas5, 15851-16594 (-1)), GF(Cas3, 16606-19842 (-1)), GF(TPR, 19993-21585 (-1)), GF(Csa3, 25674-26150 (1)), GF(cami1, 6011-7075 (-1)), GF(CRISPR-Cas locus, 4000-26150 (0))]

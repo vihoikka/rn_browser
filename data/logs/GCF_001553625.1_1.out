@@ -338,5 +338,20 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 7227-8726 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5319 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 8926-9210 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 9228-10265 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 10274-11818 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 11815-12804 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 12814-13494 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 13512-13940 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 13950-16403 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 16404-17393 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5319 (-1))
-[GF(MMPL family transporter, 68-2396 (1)), GF(None, 2392-3049 (1)), GF(IS1595-like element ISDeor2 family transposase, 3194-3869 (-1)), GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5319 (-1)), GF(None, 5963-6116 (-1)), GF(IS1595-like element ISDeor2 family transposase, 6460-7135 (-1)), GF(CRISPR-associated endonuclease Cas2, 8925-9210 (-1)), GF(CRISPR-associated endonuclease Cas1, 9227-10265 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10273-11818 (-1)), GF(None, 11814-12804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 12813-13494 (-1)), GF(type III-A CRISPR-associated protein Csm2, 13511-13940 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 13949-16403 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 16403-17393 (-1)), GF(None, 17984-19088 (1)), GF(sigma-54 dependent transcriptional regulator, 19116-20454 (-1)), GF(Repeat region, 7227-8726 (0)), GF(csx1, 4000-5319 (-1)), GF(CRISPR-Cas locus, 4000-17393 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(MMPL family transporter, 68-2396 (1)), GF(None, 2392-3049 (1)), GF(IS1595-like element ISDeor2 family transposase, 3194-3869 (-1)), GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5319 (-1)), GF(None, 5963-6116 (-1)), GF(IS1595-like element ISDeor2 family transposase, 6460-7135 (-1)), GF(CRISPR-associated endonuclease Cas2, 8925-9210 (-1)), GF(CRISPR-associated endonuclease Cas1, 9227-10265 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10273-11818 (-1)), GF(None, 11814-12804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 12813-13494 (-1)), GF(type III-A CRISPR-associated protein Csm2, 13511-13940 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 13949-16403 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 16403-17393 (-1)), GF(None, 17984-19088 (1)), GF(sigma-54 dependent transcriptional regulator, 19116-20454 (-1)), GF(Repeat region, 7227-8726 (0)), GF(Csx1, 4000-5319 (-1)), GF(Cas2, 8926-9210 (-1)), GF(Cas1, 9228-10265 (-1)), GF(Csm5gr7, 10274-11818 (-1)), GF(Csm4gr5, 11815-12804 (-1)), GF(Csm3gr7, 12814-13494 (-1)), GF(Csm2gr11, 13512-13940 (-1)), GF(Cas10, 13950-16403 (-1)), GF(Cas6, 16404-17393 (-1)), GF(csx1, 4000-5319 (-1)), GF(CRISPR-Cas locus, 4000-17393 (0))]

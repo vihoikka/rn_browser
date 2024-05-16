@@ -181,4 +181,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2784-3877 (0))
-[GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5034 (1)), GF(RAMP superfamily CRISPR-associated protein, 5030-6122 (1)), GF(CRISPR-associated protein Csx11, 6202-9100 (1)), GF(RAMP superfamily CRISPR-associated protein, 9113-10178 (1)), GF(None, 10189-10555 (1)), GF(None, 10551-11427 (1)), GF(VLRF1 family aeRF1-type release factor, 11574-12750 (-1)), GF(molybdopterin molybdotransferase MoeA, 12878-14087 (1)), GF(Repeat region, 1418-2645 (0)), GF(Repeat region, 2784-3877 (0)), GF(CRISPR-Cas locus, 4000-11427 (0))]
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-5034 (1))
+graphic feature from cctyper protein table: GF(Cmr6, 5031-6122 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6203-9100 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 9114-10178 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 10190-10555 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 10552-11427 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5034 (1)), GF(RAMP superfamily CRISPR-associated protein, 5030-6122 (1)), GF(CRISPR-associated protein Csx11, 6202-9100 (1)), GF(RAMP superfamily CRISPR-associated protein, 9113-10178 (1)), GF(None, 10189-10555 (1)), GF(None, 10551-11427 (1)), GF(VLRF1 family aeRF1-type release factor, 11574-12750 (-1)), GF(molybdopterin molybdotransferase MoeA, 12878-14087 (1)), GF(Repeat region, 1418-2645 (0)), GF(Repeat region, 2784-3877 (0)), GF(Csm3gr7, 4000-5034 (1)), GF(Cmr6, 5031-6122 (1)), GF(Cas10, 6203-9100 (1)), GF(Cmr4gr7, 9114-10178 (1)), GF(Cmr5gr11, 10190-10555 (1)), GF(Cmr3, 10552-11427 (1)), GF(CRISPR-Cas locus, 4000-11427 (0))]

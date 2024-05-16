@@ -458,6 +458,27 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 20883-21662 (0))
+graphic feature from cctyper protein table: GF(RecD, 4000-6168 (1))
+graphic feature from cctyper protein table: GF(Cas6, 7700-8428 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 8406-9023 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 8993-10081 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 10083-11021 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11038-11829 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 11848-12261 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12263-14527 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 14546-15907 (-1))
+graphic feature from cctyper protein table: GF(CasR, 15904-17346 (-1))
+graphic feature from cctyper protein table: GF(Unk, 17350-18102 (-1))
+graphic feature from cctyper protein table: GF(HTH, 18127-18795 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 19253-19564 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 19527-20513 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 20524-20787 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 14546-15907 (-1))
 graphic feature from known effectors: GF(calpl, 15904-17346 (-1))
-[GF(glycosyltransferase, 1095-2241 (-1)), GF(lysylphosphatidylglycerol synthase transmembrane domain-containing protein, 2254-3244 (-1)), GF(zinc ribbon domain-containing protein, 3435-3762 (-1)), GF(AAA family ATPase, 3999-6168 (1)), GF(SLC13 family permease, 6287-7565 (1)), GF(CRISPR-associated endoribonuclease Cas6, 7699-8428 (-1)), GF(None, 8405-9023 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8992-10081 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 10082-11021 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 11037-11829 (-1)), GF(type III-A CRISPR-associated protein Csm2, 11847-12261 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 12262-14527 (-1)), GF(CRISPR-associated CARF protein Csx1, 14545-15907 (-1)), GF(SAVED domain-containing protein, 15903-17346 (-1)), GF(None, 17349-18102 (-1)), GF(None, 18126-18795 (-1)), GF(None, 18802-19204 (-1)), GF(CRISPR-associated endonuclease Cas2, 19252-19564 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 19526-20513 (-1)), GF(CRISPR-associated endonuclease Cas2, 20523-20787 (-1)), GF(MBL fold metallo-hydrolase, 22453-23242 (-1)), GF(amidase family protein, 23289-24693 (-1)), GF(Repeat region, 20883-21662 (0)), GF(csx1, 14546-15907 (-1)), GF(calpl, 15904-17346 (-1)), GF(CRISPR-Cas locus, 4000-20787 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(glycosyltransferase, 1095-2241 (-1)), GF(lysylphosphatidylglycerol synthase transmembrane domain-containing protein, 2254-3244 (-1)), GF(zinc ribbon domain-containing protein, 3435-3762 (-1)), GF(AAA family ATPase, 3999-6168 (1)), GF(SLC13 family permease, 6287-7565 (1)), GF(CRISPR-associated endoribonuclease Cas6, 7699-8428 (-1)), GF(None, 8405-9023 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8992-10081 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 10082-11021 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 11037-11829 (-1)), GF(type III-A CRISPR-associated protein Csm2, 11847-12261 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 12262-14527 (-1)), GF(CRISPR-associated CARF protein Csx1, 14545-15907 (-1)), GF(SAVED domain-containing protein, 15903-17346 (-1)), GF(None, 17349-18102 (-1)), GF(None, 18126-18795 (-1)), GF(None, 18802-19204 (-1)), GF(CRISPR-associated endonuclease Cas2, 19252-19564 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 19526-20513 (-1)), GF(CRISPR-associated endonuclease Cas2, 20523-20787 (-1)), GF(MBL fold metallo-hydrolase, 22453-23242 (-1)), GF(amidase family protein, 23289-24693 (-1)), GF(Repeat region, 20883-21662 (0)), GF(RecD, 4000-6168 (1)), GF(Cas6, 7700-8428 (-1)), GF(Cas6, 8406-9023 (-1)), GF(Csm5gr7, 8993-10081 (-1)), GF(Csm4gr5, 10083-11021 (-1)), GF(Csm3gr7, 11038-11829 (-1)), GF(Csm2gr11, 11848-12261 (-1)), GF(Cas10, 12263-14527 (-1)), GF(Csx1, 14546-15907 (-1)), GF(CasR, 15904-17346 (-1)), GF(Unk, 17350-18102 (-1)), GF(HTH, 18127-18795 (-1)), GF(Cas2, 19253-19564 (-1)), GF(Cas1, 19527-20513 (-1)), GF(Cas2, 20524-20787 (-1)), GF(csx1, 14546-15907 (-1)), GF(calpl, 15904-17346 (-1)), GF(CRISPR-Cas locus, 4000-20787 (0))]

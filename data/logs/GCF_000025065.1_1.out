@@ -375,5 +375,20 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 1530-1833 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6432 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6457-6855 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6868-7605 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7602-8585 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 8582-10309 (1))
+graphic feature from cctyper protein table: GF(Cas6, 10306-11238 (1))
+graphic feature from cctyper protein table: GF(PD, 11665-12588 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 13370-13789 (1))
+graphic feature from cctyper protein table: GF(Cas2, 14235-14531 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 11665-12588 (-1))
-[GF(type II toxin-antitoxin system RelE/ParE family toxin, 1958-2243 (-1)), GF(prevent-host-death protein, 2232-2484 (-1)), GF(None, 2657-2873 (-1)), GF(host cell division inhibitor Icd-like protein, 2865-3018 (-1)), GF(ash family protein, 2950-3277 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6432 (1)), GF(type III-A CRISPR-associated protein Csm2, 6456-6855 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6867-7605 (1)), GF(None, 7601-8585 (1)), GF(RAMP superfamily CRISPR-associated protein, 8581-10309 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10305-11238 (1)), GF(DUF6602 domain-containing protein, 11664-12588 (-1)), GF(CRISPR-associated endonuclease Cas1, 13369-13789 (1)), GF(CRISPR-associated endonuclease Cas1, 13945-14242 (1)), GF(CRISPR-associated endonuclease Cas2, 14234-14531 (1)), GF(helix-turn-helix transcriptional regulator, 15079-15328 (1)), GF(glutamate-5-semialdehyde dehydrogenase, 15725-16979 (-1)), GF(glutamate 5-kinase, 16989-18093 (-1)), GF(Repeat region, 1530-1833 (0)), GF(nucc, 11665-12588 (-1)), GF(CRISPR-Cas locus, 4000-14531 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(type II toxin-antitoxin system RelE/ParE family toxin, 1958-2243 (-1)), GF(prevent-host-death protein, 2232-2484 (-1)), GF(None, 2657-2873 (-1)), GF(host cell division inhibitor Icd-like protein, 2865-3018 (-1)), GF(ash family protein, 2950-3277 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6432 (1)), GF(type III-A CRISPR-associated protein Csm2, 6456-6855 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6867-7605 (1)), GF(None, 7601-8585 (1)), GF(RAMP superfamily CRISPR-associated protein, 8581-10309 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10305-11238 (1)), GF(DUF6602 domain-containing protein, 11664-12588 (-1)), GF(CRISPR-associated endonuclease Cas1, 13369-13789 (1)), GF(CRISPR-associated endonuclease Cas1, 13945-14242 (1)), GF(CRISPR-associated endonuclease Cas2, 14234-14531 (1)), GF(helix-turn-helix transcriptional regulator, 15079-15328 (1)), GF(glutamate-5-semialdehyde dehydrogenase, 15725-16979 (-1)), GF(glutamate 5-kinase, 16989-18093 (-1)), GF(Repeat region, 1530-1833 (0)), GF(Cas10, 4000-6432 (1)), GF(Csm2gr11, 6457-6855 (1)), GF(Csm3gr7, 6868-7605 (1)), GF(Csm4gr5, 7602-8585 (1)), GF(Csm5gr7, 8582-10309 (1)), GF(Cas6, 10306-11238 (1)), GF(PD, 11665-12588 (-1)), GF(Cas1, 13370-13789 (1)), GF(Cas2, 14235-14531 (1)), GF(nucc, 11665-12588 (-1)), GF(CRISPR-Cas locus, 4000-14531 (0))]

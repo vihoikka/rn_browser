@@ -427,7 +427,24 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 15692-18750 (0))
+graphic feature from cctyper protein table: GF(RT, 4000-5235 (-1))
+graphic feature from cctyper protein table: GF(RT, 11923-13158 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 19498-20547 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 27294-28049 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 28042-28392 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 28392-29192 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 29195-30250 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 30247-32619 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 32616-33851 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 33867-34931 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 35095-35358 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 19498-20547 (-1))
 graphic feature from known effectors: GF(cami1, 20526-23753 (-1))
 graphic feature from known effectors: GF(cami1, 33867-34931 (-1))
-[GF(ABC transporter substrate-binding protein, 506-1751 (-1)), GF(None, 2111-2345 (1)), GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 2819-3095 (-1)), GF(group II intron reverse transcriptase/maturase, 3999-5235 (-1)), GF(DUF1254 domain-containing protein, 6062-7466 (1)), GF(None, 8302-10621 (-1)), GF(group II intron reverse transcriptase/maturase, 11922-13158 (-1)), GF(CRISPR-associated protein, 19497-20547 (-1)), GF(None, 20525-23753 (-1)), GF(helicase-related protein, 23801-26897 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 27293-28049 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 28041-28392 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 28391-29192 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 29194-30250 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 30246-32619 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 32615-33851 (-1)), GF(putative CRISPR-associated protein, 33866-34931 (-1)), GF(CRISPR-associated endonuclease Cas2, 35094-35358 (-1)), GF(None, 35452-35974 (-1)), GF(None, 36194-36347 (-1)), GF(Repeat region, 14207-14574 (0)), GF(Repeat region, 15692-18750 (0)), GF(cami1, 19498-20547 (-1)), GF(cami1, 20526-23753 (-1)), GF(cami1, 33867-34931 (-1)), GF(CRISPR-Cas locus, 4000-35358 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ABC transporter substrate-binding protein, 506-1751 (-1)), GF(None, 2111-2345 (1)), GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 2819-3095 (-1)), GF(group II intron reverse transcriptase/maturase, 3999-5235 (-1)), GF(DUF1254 domain-containing protein, 6062-7466 (1)), GF(None, 8302-10621 (-1)), GF(group II intron reverse transcriptase/maturase, 11922-13158 (-1)), GF(CRISPR-associated protein, 19497-20547 (-1)), GF(None, 20525-23753 (-1)), GF(helicase-related protein, 23801-26897 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 27293-28049 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 28041-28392 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 28391-29192 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 29194-30250 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 30246-32619 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 32615-33851 (-1)), GF(putative CRISPR-associated protein, 33866-34931 (-1)), GF(CRISPR-associated endonuclease Cas2, 35094-35358 (-1)), GF(None, 35452-35974 (-1)), GF(None, 36194-36347 (-1)), GF(Repeat region, 14207-14574 (0)), GF(Repeat region, 15692-18750 (0)), GF(RT, 4000-5235 (-1)), GF(RT, 11923-13158 (-1)), GF(Csm6, 19498-20547 (-1)), GF(Cmr6gr7, 27294-28049 (-1)), GF(Cmr5gr11, 28042-28392 (-1)), GF(Cmr4gr7, 28392-29192 (-1)), GF(Cmr3gr5, 29195-30250 (-1)), GF(Cas10, 30247-32619 (-1)), GF(Cmr1gr7, 32616-33851 (-1)), GF(Csm6, 33867-34931 (-1)), GF(Cas2, 35095-35358 (-1)), GF(cami1, 19498-20547 (-1)), GF(cami1, 20526-23753 (-1)), GF(cami1, 33867-34931 (-1)), GF(CRISPR-Cas locus, 4000-35358 (0))]

@@ -250,5 +250,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(type II 3-dehydroquinate dehydratase, 18022-18457 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 6176-6802 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6795-8522 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 11047-12924 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 13083-14564 (1))
+graphic feature from cctyper protein table: GF(Csx20, 14590-14949 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 13083-14564 (1))
-[GF(None, 1410-1992 (-1)), GF(AAA family ATPase, 2002-3316 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6198 (-1)), GF(CRISPR-associated protein Csx19, 6175-6802 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6794-8522 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8511-11046 (-1)), GF(None, 11046-12924 (-1)), GF(TM1812 family CRISPR-associated protein, 13082-14564 (1)), GF(CRISPR-associated protein, 14589-14949 (1)), GF(None, 15602-16022 (-1)), GF(elongation factor P, 16083-16647 (-1)), GF(Xaa-Pro peptidase family protein, 16845-17931 (-1)), GF(type II 3-dehydroquinate dehydratase, 18022-18457 (-1)), GF(csx1, 13083-14564 (1)), GF(CRISPR-Cas locus, 4000-14949 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx20, 14590-14949 (1))
+[GF(None, 1410-1992 (-1)), GF(AAA family ATPase, 2002-3316 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6198 (-1)), GF(CRISPR-associated protein Csx19, 6175-6802 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6794-8522 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8511-11046 (-1)), GF(None, 11046-12924 (-1)), GF(TM1812 family CRISPR-associated protein, 13082-14564 (1)), GF(CRISPR-associated protein, 14589-14949 (1)), GF(None, 15602-16022 (-1)), GF(elongation factor P, 16083-16647 (-1)), GF(Xaa-Pro peptidase family protein, 16845-17931 (-1)), GF(type II 3-dehydroquinate dehydratase, 18022-18457 (-1)), GF(Csx19, 6176-6802 (-1)), GF(Csm3gr7, 6795-8522 (-1)), GF(Cas10, 11047-12924 (-1)), GF(Csx1, 13083-14564 (1)), GF(Csx20, 14590-14949 (1)), GF(csx1, 13083-14564 (1)), GF(csx20, 14590-14949 (1)), GF(CRISPR-Cas locus, 4000-14949 (0))]

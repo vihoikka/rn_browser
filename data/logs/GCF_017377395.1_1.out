@@ -180,5 +180,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 17660-19287 (0))
+graphic feature from cctyper protein table: GF(CorA, 4000-6438 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6980-8641 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8622-10391 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10693-12258 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 12417-14870 (1))
+graphic feature from cctyper protein table: GF(Cas6, 15913-16908 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 4000-6438 (1))
-[GF(Hsp70 family protein, 41-2357 (-1)), GF(metal-dependent hydrolase, 2816-3380 (1)), GF(None, 3999-6438 (1)), GF(None, 6979-8641 (1)), GF(RAMP superfamily CRISPR-associated protein, 8621-10391 (1)), GF(RAMP superfamily CRISPR-associated protein, 10692-12258 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12416-14870 (1)), GF(GxxExxY protein, 14986-15784 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 15912-16908 (1)), GF(Repeat region, 17660-19287 (0)), GF(cora, 4000-6438 (1)), GF(CRISPR-Cas locus, 4000-16908 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(Hsp70 family protein, 41-2357 (-1)), GF(metal-dependent hydrolase, 2816-3380 (1)), GF(None, 3999-6438 (1)), GF(None, 6979-8641 (1)), GF(RAMP superfamily CRISPR-associated protein, 8621-10391 (1)), GF(RAMP superfamily CRISPR-associated protein, 10692-12258 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12416-14870 (1)), GF(GxxExxY protein, 14986-15784 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 15912-16908 (1)), GF(Repeat region, 17660-19287 (0)), GF(CorA, 4000-6438 (1)), GF(Cas10, 6980-8641 (1)), GF(Csm4gr5, 8622-10391 (1)), GF(Csm3gr7, 10693-12258 (1)), GF(Csm3gr7, 12417-14870 (1)), GF(Cas6, 15913-16908 (1)), GF(cora, 4000-6438 (1)), GF(CRISPR-Cas locus, 4000-16908 (0))]

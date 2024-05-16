@@ -238,5 +238,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 14713-16581 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-7035 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7035-8129 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8126-8956 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8977-9369 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9371-11329 (1))
+graphic feature from cctyper protein table: GF(Csx1, 11348-12820 (1))
+graphic feature from cctyper protein table: GF(Cas1, 13252-14244 (1))
+graphic feature from cctyper protein table: GF(Cas2, 14244-14525 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 11348-12820 (1))
-[GF(serine O-acetyltransferase, 576-1392 (-1)), GF(penicillin-binding protein 2, 1743-3552 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7035 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7034-8129 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8125-8956 (1)), GF(None, 8976-9369 (1)), GF(RAMP superfamily CRISPR-associated protein, 9370-11329 (1)), GF(None, 11347-12820 (1)), GF(CRISPR-associated protein Csx18, 12915-13248 (1)), GF(CRISPR-associated endonuclease Cas1, 13251-14244 (1)), GF(CRISPR-associated endonuclease Cas2, 14243-14525 (1)), GF(Repeat region, 14713-16581 (0)), GF(csx1, 11348-12820 (1)), GF(CRISPR-Cas locus, 4000-14525 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(serine O-acetyltransferase, 576-1392 (-1)), GF(penicillin-binding protein 2, 1743-3552 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7035 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7034-8129 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8125-8956 (1)), GF(None, 8976-9369 (1)), GF(RAMP superfamily CRISPR-associated protein, 9370-11329 (1)), GF(None, 11347-12820 (1)), GF(CRISPR-associated protein Csx18, 12915-13248 (1)), GF(CRISPR-associated endonuclease Cas1, 13251-14244 (1)), GF(CRISPR-associated endonuclease Cas2, 14243-14525 (1)), GF(Repeat region, 14713-16581 (0)), GF(Cas10, 4000-7035 (1)), GF(Cmr3gr5, 7035-8129 (1)), GF(Cmr4gr7, 8126-8956 (1)), GF(Cmr5gr11, 8977-9369 (1)), GF(Cmr6gr7, 9371-11329 (1)), GF(Csx1, 11348-12820 (1)), GF(Cas1, 13252-14244 (1)), GF(Cas2, 14244-14525 (1)), GF(csx1, 11348-12820 (1)), GF(CRISPR-Cas locus, 4000-14525 (0))]

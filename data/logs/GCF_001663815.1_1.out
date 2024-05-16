@@ -383,4 +383,20 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 14118-14294 (0))
-[GF(YgjV family protein, 670-1285 (1)), GF(None, 1301-2393 (1)), GF(None, 2509-2839 (1)), GF(None, 2983-3253 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5211 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 5207-5606 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5609-6488 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6529-7843 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7842-9750 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9746-10826 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10860-11556 (-1)), GF(None, 11858-12038 (-1)), GF(CRISPR-associated endonuclease Cas1, 12112-13126 (-1)), GF(CRISPR-associated endonuclease Cas2, 13109-13499 (-1)), GF(CRISPR-associated endonuclease Cas2, 13519-13804 (-1)), GF(None, 14418-14544 (1)), GF(helix-turn-helix transcriptional regulator, 14978-15269 (1)), GF(DUF3387 domain-containing protein, 15772-17248 (-1)), GF(Repeat region, 3393-3783 (0)), GF(Repeat region, 14118-14294 (0)), GF(CRISPR-Cas locus, 4000-13804 (0))]
+graphic feature from cctyper protein table: GF(Cmr6gr7, 4000-5211 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5208-5606 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 5610-6488 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6530-7843 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7843-9750 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 9747-10826 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 10861-11556 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 12113-13126 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 13110-13499 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 13520-13804 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(YgjV family protein, 670-1285 (1)), GF(None, 1301-2393 (1)), GF(None, 2509-2839 (1)), GF(None, 2983-3253 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5211 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 5207-5606 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5609-6488 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6529-7843 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7842-9750 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9746-10826 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 10860-11556 (-1)), GF(None, 11858-12038 (-1)), GF(CRISPR-associated endonuclease Cas1, 12112-13126 (-1)), GF(CRISPR-associated endonuclease Cas2, 13109-13499 (-1)), GF(CRISPR-associated endonuclease Cas2, 13519-13804 (-1)), GF(None, 14418-14544 (1)), GF(helix-turn-helix transcriptional regulator, 14978-15269 (1)), GF(DUF3387 domain-containing protein, 15772-17248 (-1)), GF(Repeat region, 3393-3783 (0)), GF(Repeat region, 14118-14294 (0)), GF(Cmr6gr7, 4000-5211 (-1)), GF(Cmr5gr11, 5208-5606 (-1)), GF(Cmr4, 5610-6488 (-1)), GF(Cmr3gr5, 6530-7843 (-1)), GF(Cas10, 7843-9750 (-1)), GF(Cmr1gr7, 9747-10826 (-1)), GF(Cas6, 10861-11556 (-1)), GF(Cas1, 12113-13126 (-1)), GF(Cas2, 13110-13499 (-1)), GF(Cas2, 13520-13804 (-1)), GF(CRISPR-Cas locus, 4000-13804 (0))]

@@ -288,4 +288,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2766-2999 (0))
-[GF(ParA family protein, 124-838 (1)), GF(None, 1524-1683 (1)), GF(None, 1803-2115 (1)), GF(None, 2277-2466 (1)), GF(None, 3054-3189 (-1)), GF(None, 4032-5130 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 5126-7523 (1)), GF(None, 7579-9367 (1)), GF(RAMP superfamily CRISPR-associated protein, 9363-10125 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 10121-11645 (1)), GF(RAMP superfamily CRISPR-associated protein, 11641-13258 (1)), GF(None, 13254-13758 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 13757-14507 (1)), GF(None, 15063-15252 (1)), GF(trypco2 family protein, 15424-15751 (1)), GF(Repeat region, 2766-2999 (0)), GF(CRISPR-Cas locus, 4000-14507 (0))]
+graphic feature from cctyper protein table: GF(CorA, 4033-5130 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5127-7523 (1))
+graphic feature from cctyper protein table: GF(Cas10, 7580-9367 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9364-10125 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 10122-11645 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11642-13258 (1))
+graphic feature from cctyper protein table: GF(Cas11, 13255-13758 (1))
+graphic feature from cctyper protein table: GF(Cas6, 13758-14507 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ParA family protein, 124-838 (1)), GF(None, 1524-1683 (1)), GF(None, 1803-2115 (1)), GF(None, 2277-2466 (1)), GF(None, 3054-3189 (-1)), GF(None, 4032-5130 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 5126-7523 (1)), GF(None, 7579-9367 (1)), GF(RAMP superfamily CRISPR-associated protein, 9363-10125 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 10121-11645 (1)), GF(RAMP superfamily CRISPR-associated protein, 11641-13258 (1)), GF(None, 13254-13758 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 13757-14507 (1)), GF(None, 15063-15252 (1)), GF(trypco2 family protein, 15424-15751 (1)), GF(Repeat region, 2766-2999 (0)), GF(CorA, 4033-5130 (1)), GF(Csm3gr7, 5127-7523 (1)), GF(Cas10, 7580-9367 (1)), GF(Csm3gr7, 9364-10125 (1)), GF(Csx10gr5, 10122-11645 (1)), GF(Csm3gr7, 11642-13258 (1)), GF(Cas11, 13255-13758 (1)), GF(Cas6, 13758-14507 (1)), GF(CRISPR-Cas locus, 4000-14507 (0))]

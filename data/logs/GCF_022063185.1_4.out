@@ -224,5 +224,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2460-3710 (0))
+graphic feature from cctyper protein table: GF(WYL, 4000-6138 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 8045-9721 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9981-11849 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 12181-12630 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 13015-13917 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 13920-15113 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 15124-18315 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 8045-9721 (-1))
-[GF(None, 1816-2206 (-1)), GF(WYL domain-containing protein, 3999-6138 (-1)), GF(transposase, 6450-7569 (-1)), GF(None, 8044-9721 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9980-11849 (-1)), GF(None, 12180-12630 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13014-13917 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 13919-15113 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 15123-18315 (-1)), GF(None, 18508-19006 (-1)), GF(tyrosine-type recombinase/integrase, 19416-20064 (1)), GF(Repeat region, 2460-3710 (0)), GF(csx1, 8045-9721 (-1)), GF(CRISPR-Cas locus, 4000-18315 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1816-2206 (-1)), GF(WYL domain-containing protein, 3999-6138 (-1)), GF(transposase, 6450-7569 (-1)), GF(None, 8044-9721 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9980-11849 (-1)), GF(None, 12180-12630 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13014-13917 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 13919-15113 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 15123-18315 (-1)), GF(None, 18508-19006 (-1)), GF(tyrosine-type recombinase/integrase, 19416-20064 (1)), GF(Repeat region, 2460-3710 (0)), GF(WYL, 4000-6138 (-1)), GF(Csx1, 8045-9721 (-1)), GF(Cmr6gr7, 9981-11849 (-1)), GF(Cmr5gr11, 12181-12630 (-1)), GF(Cmr4, 13015-13917 (-1)), GF(Cmr3gr5, 13920-15113 (-1)), GF(Cas10, 15124-18315 (-1)), GF(csx1, 8045-9721 (-1)), GF(CRISPR-Cas locus, 4000-18315 (0))]

@@ -352,4 +352,20 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(tetratricopeptide repeat protein, 17202-18126 (1))
-[GF(None, 1169-1352 (-1)), GF(None, 1326-1494 (-1)), GF(GUN4 domain-containing protein, 1692-3189 (-1)), GF(ferredoxin family protein, 3471-3696 (1)), GF(ABC transporter ATP-binding protein, 3999-4728 (1)), GF(DUF4277 domain-containing protein, 5760-6186 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6615-7383 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 7386-8667 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8682-9798 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9800-10790 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10792-11380 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 11381-13736 (-1)), GF(CRISPR-associated protein Csx3, 13795-14518 (-1)), GF(CRISPR-associated protein Csx3, 14442-14748 (-1)), GF(None, 15012-15150 (1)), GF(TIGR03985 family CRISPR-associated protein, 15294-16041 (1)), GF(c-type cytochrome, 16581-16917 (1)), GF(tetratricopeptide repeat protein, 17202-18126 (1)), GF(CRISPR-Cas locus, 4000-14566 (0))]
+graphic feature from cctyper protein table: GF(AbiEii, 4000-4728 (1))
+graphic feature from cctyper protein table: GF(Cas6, 6616-7383 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 7387-8667 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8683-9798 (-1))
+graphic feature from cctyper protein table: GF(Csm3, 9801-10790 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 10793-11380 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 11382-13736 (-1))
+graphic feature from cctyper protein table: GF(Csx3, 13796-14518 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 14443-14748 (-1))
+graphic feature from ring nucleases: GF(crn3, 13796-14518 (-1))
+[GF(None, 1169-1352 (-1)), GF(None, 1326-1494 (-1)), GF(GUN4 domain-containing protein, 1692-3189 (-1)), GF(ferredoxin family protein, 3471-3696 (1)), GF(ABC transporter ATP-binding protein, 3999-4728 (1)), GF(DUF4277 domain-containing protein, 5760-6186 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6615-7383 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 7386-8667 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8682-9798 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9800-10790 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10792-11380 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 11381-13736 (-1)), GF(CRISPR-associated protein Csx3, 13795-14518 (-1)), GF(CRISPR-associated protein Csx3, 14442-14748 (-1)), GF(None, 15012-15150 (1)), GF(TIGR03985 family CRISPR-associated protein, 15294-16041 (1)), GF(c-type cytochrome, 16581-16917 (1)), GF(tetratricopeptide repeat protein, 17202-18126 (1)), GF(AbiEii, 4000-4728 (1)), GF(Cas6, 6616-7383 (-1)), GF(Csm5gr7, 7387-8667 (-1)), GF(Csm4gr5, 8683-9798 (-1)), GF(Csm3, 9801-10790 (-1)), GF(Csm2gr11, 10793-11380 (-1)), GF(Cas10, 11382-13736 (-1)), GF(Csx3, 13796-14518 (-1)), GF(crn3, 14443-14748 (-1)), GF(crn3, 13796-14518 (-1)), GF(CRISPR-Cas locus, 4000-14566 (0))]

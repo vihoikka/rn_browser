@@ -330,4 +330,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(IS200/IS605 family accessory protein TnpB-related protein, 15695-16306 (1))
-[GF(carbamoyltransferase C-terminal domain-containing protein, 172-619 (1)), GF(methyltransferase, 623-1412 (1)), GF(lipopolysaccharide biosynthesis protein, 1939-3349 (1)), GF(type III-B CRISPR system CMR subunit Cmr7, 3999-4557 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 4602-5460 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 5449-5914 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5914-7378 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7367-8213 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8209-11359 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 11358-12351 (1)), GF(glycosyltransferase family 4 protein, 12706-13768 (-1)), GF(None, 13939-14194 (-1)), GF(None, 14186-14708 (-1)), GF(None, 15246-15369 (-1)), GF(transposase, 15375-15701 (-1)), GF(IS200/IS605 family accessory protein TnpB-related protein, 15695-16306 (1)), GF(CRISPR-Cas locus, 4000-12351 (0))]
+graphic feature from cctyper protein table: GF(Cmr7, 4000-4557 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 4603-5460 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5450-5914 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 5915-7378 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7368-8213 (1))
+graphic feature from cctyper protein table: GF(Cas10, 8210-11359 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 11359-12351 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(carbamoyltransferase C-terminal domain-containing protein, 172-619 (1)), GF(methyltransferase, 623-1412 (1)), GF(lipopolysaccharide biosynthesis protein, 1939-3349 (1)), GF(type III-B CRISPR system CMR subunit Cmr7, 3999-4557 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 4602-5460 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 5449-5914 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5914-7378 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 7367-8213 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8209-11359 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 11358-12351 (1)), GF(glycosyltransferase family 4 protein, 12706-13768 (-1)), GF(None, 13939-14194 (-1)), GF(None, 14186-14708 (-1)), GF(None, 15246-15369 (-1)), GF(transposase, 15375-15701 (-1)), GF(IS200/IS605 family accessory protein TnpB-related protein, 15695-16306 (1)), GF(Cmr7, 4000-4557 (1)), GF(Cmr4gr7, 4603-5460 (1)), GF(Cmr5gr11, 5450-5914 (1)), GF(Cmr1gr7, 5915-7378 (1)), GF(Cmr6gr7, 7368-8213 (1)), GF(Cas10, 8210-11359 (1)), GF(Cmr3, 11359-12351 (1)), GF(CRISPR-Cas locus, 4000-12351 (0))]

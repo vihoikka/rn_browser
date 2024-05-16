@@ -197,4 +197,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(PD-(D/E)XK nuclease domain-containing protein, 14131-14470 (1))
-[GF(MFS transporter, 1894-3097 (1)), GF(GNAT family N-acetyltransferase, 3474-3765 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5028 (1)), GF(None, 5040-6129 (1)), GF(None, 6136-9865 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9890-10901 (1)), GF(None, 10897-11311 (1)), GF(RAMP superfamily CRISPR-associated protein, 11303-12350 (1)), GF(AAA family ATPase, 12770-13618 (1)), GF(PD-(D/E)XK nuclease domain-containing protein, 14131-14470 (1)), GF(CRISPR-Cas locus, 4000-12350 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-5028 (1))
+graphic feature from cctyper protein table: GF(Cmr6, 5041-6129 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6137-9865 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 9891-10901 (1))
+graphic feature from cctyper protein table: GF(Cmr5, 10898-11311 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 11304-12350 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(MFS transporter, 1894-3097 (1)), GF(GNAT family N-acetyltransferase, 3474-3765 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5028 (1)), GF(None, 5040-6129 (1)), GF(None, 6136-9865 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9890-10901 (1)), GF(None, 10897-11311 (1)), GF(RAMP superfamily CRISPR-associated protein, 11303-12350 (1)), GF(AAA family ATPase, 12770-13618 (1)), GF(PD-(D/E)XK nuclease domain-containing protein, 14131-14470 (1)), GF(Cmr1gr7, 4000-5028 (1)), GF(Cmr6, 5041-6129 (1)), GF(Cas10, 6137-9865 (1)), GF(Cmr4gr7, 9891-10901 (1)), GF(Cmr5, 10898-11311 (1)), GF(Cmr3, 11304-12350 (1)), GF(CRISPR-Cas locus, 4000-12350 (0))]

@@ -383,4 +383,19 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 16504-16573 (-1))
-[GF(None, 126-435 (1)), GF(None, 732-861 (1)), GF(AEC family transporter, 1002-1881 (1)), GF(None, 1882-2071 (1)), GF(ATP-binding protein, 2065-3125 (-1)), GF(diphthine--ammonia ligase, 3181-3817 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5298 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5299-8173 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8166-9174 (1)), GF(None, 9173-10163 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 10156-10456 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10456-11341 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11351-11789 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 11788-12796 (1)), GF(SPFH domain-containing protein, 13519-14461 (1)), GF(NfeD family protein, 14465-14891 (1)), GF(None, 14865-15540 (-1)), GF(sodium:calcium antiporter, 15552-16485 (-1)), GF(None, 16504-16573 (-1)), GF(CRISPR-Cas locus, 4000-12796 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-5298 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5300-8173 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 8167-9174 (1))
+graphic feature from cctyper protein table: GF(Csx1, 9174-10163 (1))
+graphic feature from cctyper protein table: GF(Csx3, 10157-10456 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 10457-11341 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11352-11789 (1))
+graphic feature from cctyper protein table: GF(Cmr6, 11789-12796 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 10157-10456 (1))
+[GF(None, 126-435 (1)), GF(None, 732-861 (1)), GF(AEC family transporter, 1002-1881 (1)), GF(None, 1882-2071 (1)), GF(ATP-binding protein, 2065-3125 (-1)), GF(diphthine--ammonia ligase, 3181-3817 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5298 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5299-8173 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8166-9174 (1)), GF(None, 9173-10163 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 10156-10456 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10456-11341 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11351-11789 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 11788-12796 (1)), GF(SPFH domain-containing protein, 13519-14461 (1)), GF(NfeD family protein, 14465-14891 (1)), GF(None, 14865-15540 (-1)), GF(sodium:calcium antiporter, 15552-16485 (-1)), GF(None, 16504-16573 (-1)), GF(Cmr1gr7, 4000-5298 (1)), GF(Cas10, 5300-8173 (1)), GF(Cmr3, 8167-9174 (1)), GF(Csx1, 9174-10163 (1)), GF(Csx3, 10157-10456 (1)), GF(Cmr4gr7, 10457-11341 (1)), GF(Cmr5gr11, 11352-11789 (1)), GF(Cmr6, 11789-12796 (1)), GF(crn3, 10157-10456 (1)), GF(CRISPR-Cas locus, 4000-12796 (0))]

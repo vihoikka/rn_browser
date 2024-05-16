@@ -249,5 +249,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 12683-14831 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-5679 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8063-9592 (1))
+graphic feature from cctyper protein table: GF(Csx19, 9585-10169 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10169-12511 (1))
+graphic feature from cctyper protein table: GF(Csm6, 15214-16356 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 16375-17562 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 15214-16356 (-1))
-[GF(ISAs1 family transposase, 1041-2176 (-1)), GF(None, 2810-2978 (-1)), GF(None, 2976-3303 (1)), GF(None, 3999-5679 (1)), GF(RAMP superfamily CRISPR-associated protein, 5688-8055 (1)), GF(RAMP superfamily CRISPR-associated protein, 8062-9592 (1)), GF(CRISPR-associated protein Csx19, 9584-10169 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10168-12511 (1)), GF(CRISPR-associated protein, 15213-16356 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 16374-17562 (-1)), GF(None, 18516-19062 (1)), GF(DegT/DnrJ/EryC1/StrS family aminotransferase, 19349-20399 (-1)), GF(Repeat region, 472-651 (0)), GF(Repeat region, 12683-14831 (0)), GF(cami1, 15214-16356 (-1)), GF(CRISPR-Cas locus, 4000-17562 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ISAs1 family transposase, 1041-2176 (-1)), GF(None, 2810-2978 (-1)), GF(None, 2976-3303 (1)), GF(None, 3999-5679 (1)), GF(RAMP superfamily CRISPR-associated protein, 5688-8055 (1)), GF(RAMP superfamily CRISPR-associated protein, 8062-9592 (1)), GF(CRISPR-associated protein Csx19, 9584-10169 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10168-12511 (1)), GF(CRISPR-associated protein, 15213-16356 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 16374-17562 (-1)), GF(None, 18516-19062 (1)), GF(DegT/DnrJ/EryC1/StrS family aminotransferase, 19349-20399 (-1)), GF(Repeat region, 472-651 (0)), GF(Repeat region, 12683-14831 (0)), GF(Cas10, 4000-5679 (1)), GF(Csm3gr7, 8063-9592 (1)), GF(Csx19, 9585-10169 (1)), GF(Csm3gr7, 10169-12511 (1)), GF(Csm6, 15214-16356 (-1)), GF(Cas6, 16375-17562 (-1)), GF(cami1, 15214-16356 (-1)), GF(CRISPR-Cas locus, 4000-17562 (0))]

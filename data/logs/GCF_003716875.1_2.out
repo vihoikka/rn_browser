@@ -285,5 +285,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 12321-13488 (0))
+graphic feature from cctyper protein table: GF(Cas6f, 4000-4557 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4582-5796 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5799-7670 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7667-8860 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8875-9753 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9743-10168 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 10161-11276 (1))
+graphic feature from cctyper protein table: GF(Csx23, 11276-12073 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx23, 11276-12073 (1))
-[GF(None, 596-971 (1)), GF(IS4 family transposase, 2225-3425 (-1)), GF(type I-F CRISPR-associated endoribonuclease Cas6/Csy4, 3999-4557 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 4581-5796 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5798-7670 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7666-8860 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8874-9753 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9742-10168 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10160-11276 (1)), GF(None, 11275-12073 (1)), GF(50S ribosomal protein L25, 13663-13942 (-1)), GF(glycosyltransferase, 14229-14970 (1)), GF(Repeat region, 1440-2188 (0)), GF(Repeat region, 3563-3831 (0)), GF(Repeat region, 12321-13488 (0)), GF(csx23, 11276-12073 (1)), GF(CRISPR-Cas locus, 4000-12073 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 596-971 (1)), GF(IS4 family transposase, 2225-3425 (-1)), GF(type I-F CRISPR-associated endoribonuclease Cas6/Csy4, 3999-4557 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 4581-5796 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5798-7670 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7666-8860 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8874-9753 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9742-10168 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10160-11276 (1)), GF(None, 11275-12073 (1)), GF(50S ribosomal protein L25, 13663-13942 (-1)), GF(glycosyltransferase, 14229-14970 (1)), GF(Repeat region, 1440-2188 (0)), GF(Repeat region, 3563-3831 (0)), GF(Repeat region, 12321-13488 (0)), GF(Cas6f, 4000-4557 (1)), GF(Cmr1gr7, 4582-5796 (1)), GF(Cas10, 5799-7670 (1)), GF(Cmr3gr5, 7667-8860 (1)), GF(Cmr4gr7, 8875-9753 (1)), GF(Cmr5gr11, 9743-10168 (1)), GF(Cmr6gr7, 10161-11276 (1)), GF(Csx23, 11276-12073 (1)), GF(csx23, 11276-12073 (1)), GF(CRISPR-Cas locus, 4000-12073 (0))]

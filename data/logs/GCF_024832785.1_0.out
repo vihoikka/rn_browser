@@ -407,6 +407,21 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 10199-12980 (0))
+graphic feature from cctyper protein table: GF(AbiEii, 4000-4950 (1))
+graphic feature from cctyper protein table: GF(Cas2, 8023-8367 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 8394-9449 (-1))
+graphic feature from cctyper protein table: GF(Can2, 13308-14534 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 14557-15837 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 15854-16651 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 17957-18355 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 18371-19291 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 20787-23699 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 13308-14534 (-1))
 graphic feature from known effectors: GF(csx1, 14557-15837 (-1))
-[GF(None, 58-502 (1)), GF(DUF5989 family protein, 507-708 (1)), GF(diacylglycerol kinase family lipid kinase, 759-1653 (1)), GF(None, 1713-3942 (1)), GF(ABC transporter ATP-binding protein, 3999-4950 (1)), GF(NIPSNAP family protein, 5071-5860 (-1)), GF(DUF465 domain-containing protein, 6074-6344 (-1)), GF(basic secretory protein-like protein, 6584-7901 (-1)), GF(CRISPR-associated endonuclease Cas2, 8022-8367 (-1)), GF(CRISPR-associated endonuclease Cas1, 8393-9449 (-1)), GF(DUF1887 family CARF protein, 13307-14534 (-1)), GF(TIGR02710 family CRISPR-associated CARF protein, 14556-15837 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 15853-16651 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 16653-18015 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 17956-18355 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 18370-19291 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 19322-20783 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 20786-23699 (-1)), GF(sigma-70 family RNA polymerase sigma factor, 24223-25066 (-1)), GF(None, 25596-27099 (-1)), GF(Repeat region, 10199-12980 (0)), GF(can1-2, 13308-14534 (-1)), GF(csx1, 14557-15837 (-1)), GF(CRISPR-Cas locus, 4000-23699 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 58-502 (1)), GF(DUF5989 family protein, 507-708 (1)), GF(diacylglycerol kinase family lipid kinase, 759-1653 (1)), GF(None, 1713-3942 (1)), GF(ABC transporter ATP-binding protein, 3999-4950 (1)), GF(NIPSNAP family protein, 5071-5860 (-1)), GF(DUF465 domain-containing protein, 6074-6344 (-1)), GF(basic secretory protein-like protein, 6584-7901 (-1)), GF(CRISPR-associated endonuclease Cas2, 8022-8367 (-1)), GF(CRISPR-associated endonuclease Cas1, 8393-9449 (-1)), GF(DUF1887 family CARF protein, 13307-14534 (-1)), GF(TIGR02710 family CRISPR-associated CARF protein, 14556-15837 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 15853-16651 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 16653-18015 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 17956-18355 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 18370-19291 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 19322-20783 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 20786-23699 (-1)), GF(sigma-70 family RNA polymerase sigma factor, 24223-25066 (-1)), GF(None, 25596-27099 (-1)), GF(Repeat region, 10199-12980 (0)), GF(AbiEii, 4000-4950 (1)), GF(Cas2, 8023-8367 (-1)), GF(Cas1, 8394-9449 (-1)), GF(Can2, 13308-14534 (-1)), GF(Csx1, 14557-15837 (-1)), GF(Cmr1gr7, 15854-16651 (-1)), GF(Cmr5gr11, 17957-18355 (-1)), GF(Cmr4, 18371-19291 (-1)), GF(Cas10, 20787-23699 (-1)), GF(can1-2, 13308-14534 (-1)), GF(csx1, 14557-15837 (-1)), GF(CRISPR-Cas locus, 4000-23699 (0))]

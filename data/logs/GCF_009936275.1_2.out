@@ -187,4 +187,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11283-11879 (0))
-[GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5655 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5672-6686 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6682-7477 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7493-7880 (-1)), GF(CRISPR-associated protein Csm1, 7909-10123 (-1)), GF(CRISPR-associated ring nuclease, 10225-11143 (-1)), GF(DUF4236 domain-containing protein, 12168-12354 (1)), GF(None, 12467-13505 (1)), GF(Repeat region, 3154-3810 (0)), GF(Repeat region, 11283-11879 (0)), GF(CRISPR-Cas locus, 4000-11143 (0))]
+graphic feature from cctyper protein table: GF(Csm5gr7, 4000-5655 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5673-6686 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6683-7477 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7494-7880 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7910-10123 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 10226-11143 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5655 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5672-6686 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6682-7477 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7493-7880 (-1)), GF(CRISPR-associated protein Csm1, 7909-10123 (-1)), GF(CRISPR-associated ring nuclease, 10225-11143 (-1)), GF(DUF4236 domain-containing protein, 12168-12354 (1)), GF(None, 12467-13505 (1)), GF(Repeat region, 3154-3810 (0)), GF(Repeat region, 11283-11879 (0)), GF(Csm5gr7, 4000-5655 (-1)), GF(Csm4gr5, 5673-6686 (-1)), GF(Csm3gr7, 6683-7477 (-1)), GF(Csm2gr11, 7494-7880 (-1)), GF(Cas10, 7910-10123 (-1)), GF(Csx1, 10226-11143 (-1)), GF(CRISPR-Cas locus, 4000-11143 (0))]

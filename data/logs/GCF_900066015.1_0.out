@@ -294,4 +294,19 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 18375-18654 (1))
-[GF(None, 3999-5838 (1)), GF(RAMP superfamily protein, 5834-6485 (1)), GF(None, 6481-8155 (1)), GF(RAMP superfamily CRISPR-associated protein, 8158-9766 (1)), GF(CRISPR-associated protein Csx19, 9762-10401 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10384-12418 (1)), GF(pentapeptide repeat-containing protein, 12425-12716 (1)), GF(None, 12754-13120 (1)), GF(CRISPR-associated protein Csx15, 13349-13736 (1)), GF(None, 13763-14201 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14215-14968 (1)), GF(ATP-dependent Clp protease adaptor ClpS, 15034-15355 (1)), GF(acetyl ornithine aminotransferase family protein, 15383-16724 (1)), GF(dihydrodipicolinate synthase family protein, 16725-17640 (1)), GF(haloacid dehalogenase-like hydrolase, 17643-18348 (1)), GF(None, 18375-18654 (1)), GF(CRISPR-Cas locus, 4000-14968 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 4000-5838 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5835-6485 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 6482-8155 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8159-9766 (1))
+graphic feature from cctyper protein table: GF(Csx19, 9763-10401 (1))
+graphic feature from cctyper protein table: GF(Csm3, 10385-12418 (1))
+graphic feature from cctyper protein table: GF(Csx15, 13350-13736 (1))
+graphic feature from cctyper protein table: GF(Cas6, 14216-14968 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx15, 13350-13736 (1))
+[GF(None, 3999-5838 (1)), GF(RAMP superfamily protein, 5834-6485 (1)), GF(None, 6481-8155 (1)), GF(RAMP superfamily CRISPR-associated protein, 8158-9766 (1)), GF(CRISPR-associated protein Csx19, 9762-10401 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10384-12418 (1)), GF(pentapeptide repeat-containing protein, 12425-12716 (1)), GF(None, 12754-13120 (1)), GF(CRISPR-associated protein Csx15, 13349-13736 (1)), GF(None, 13763-14201 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14215-14968 (1)), GF(ATP-dependent Clp protease adaptor ClpS, 15034-15355 (1)), GF(acetyl ornithine aminotransferase family protein, 15383-16724 (1)), GF(dihydrodipicolinate synthase family protein, 16725-17640 (1)), GF(haloacid dehalogenase-like hydrolase, 17643-18348 (1)), GF(None, 18375-18654 (1)), GF(Cas10, 4000-5838 (1)), GF(Csm3gr7, 5835-6485 (1)), GF(Csx10gr5, 6482-8155 (1)), GF(Csm3gr7, 8159-9766 (1)), GF(Csx19, 9763-10401 (1)), GF(Csm3, 10385-12418 (1)), GF(Csx15, 13350-13736 (1)), GF(Cas6, 14216-14968 (1)), GF(csx15, 13350-13736 (1)), GF(CRISPR-Cas locus, 4000-14968 (0))]

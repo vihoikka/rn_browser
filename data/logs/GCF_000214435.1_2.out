@@ -177,5 +177,15 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 1603-3868 (0))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6446-6982 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6985-7638 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7652-8584 (1))
+graphic feature from cctyper protein table: GF(Csx1, 8581-9939 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 8581-9939 (1))
-[GF(YigZ family protein, 612-1233 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3981-6441 (1)), GF(type III-A CRISPR-associated protein Csm2, 6445-6982 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6984-7638 (1)), GF(None, 7651-8584 (1)), GF(None, 8580-9939 (1)), GF(nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase, 10427-11483 (1)), GF(cobyrinate a,c-diamide synthase, 11613-13008 (1)), GF(Repeat region, 1603-3868 (0)), GF(csx1, 8581-9939 (1)), GF(CRISPR-Cas locus, 4000-9939 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(YigZ family protein, 612-1233 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3981-6441 (1)), GF(type III-A CRISPR-associated protein Csm2, 6445-6982 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6984-7638 (1)), GF(None, 7651-8584 (1)), GF(None, 8580-9939 (1)), GF(nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase, 10427-11483 (1)), GF(cobyrinate a,c-diamide synthase, 11613-13008 (1)), GF(Repeat region, 1603-3868 (0)), GF(Csm2gr11, 6446-6982 (1)), GF(Csm3gr7, 6985-7638 (1)), GF(Csm4gr5, 7652-8584 (1)), GF(Csx1, 8581-9939 (1)), GF(csx1, 8581-9939 (1)), GF(CRISPR-Cas locus, 4000-9939 (0))]

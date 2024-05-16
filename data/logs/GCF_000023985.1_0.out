@@ -270,4 +270,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(segregation/condensation protein A, 15058-15736 (1))
-[GF(tryptophan--tRNA ligase, 598-1702 (-1)), GF(CDP-diacylglycerol--serine O-phosphatidyltransferase, 1874-2477 (1)), GF(protein kinase, 2483-3113 (1)), GF(proteasome assembly chaperone family protein, 3141-3909 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5160 (1)), GF(None, 5140-6253 (1)), GF(None, 6243-6633 (1)), GF(CRISPR-associated protein Csx11, 6592-9763 (1)), GF(RAMP superfamily CRISPR-associated protein, 9949-11320 (1)), GF(None, 11337-11799 (1)), GF(None, 11798-12605 (1)), GF(methionine adenosyltransferase, 12616-13837 (-1)), GF(KEOPS complex subunit Pcc1, 13954-14635 (-1)), GF(segregation/condensation protein A, 15058-15736 (1)), GF(CRISPR-Cas locus, 4000-12605 (0))]
+graphic feature from cctyper protein table: GF(Cmr1, 4000-5160 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 5141-6253 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6593-9763 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 9950-11320 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11338-11799 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 11799-12605 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(tryptophan--tRNA ligase, 598-1702 (-1)), GF(CDP-diacylglycerol--serine O-phosphatidyltransferase, 1874-2477 (1)), GF(protein kinase, 2483-3113 (1)), GF(proteasome assembly chaperone family protein, 3141-3909 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5160 (1)), GF(None, 5140-6253 (1)), GF(None, 6243-6633 (1)), GF(CRISPR-associated protein Csx11, 6592-9763 (1)), GF(RAMP superfamily CRISPR-associated protein, 9949-11320 (1)), GF(None, 11337-11799 (1)), GF(None, 11798-12605 (1)), GF(methionine adenosyltransferase, 12616-13837 (-1)), GF(KEOPS complex subunit Pcc1, 13954-14635 (-1)), GF(segregation/condensation protein A, 15058-15736 (1)), GF(Cmr1, 4000-5160 (1)), GF(Cmr6gr7, 5141-6253 (1)), GF(Cas10, 6593-9763 (1)), GF(Cmr4gr7, 9950-11320 (1)), GF(Cmr5gr11, 11338-11799 (1)), GF(Cmr3, 11799-12605 (1)), GF(CRISPR-Cas locus, 4000-12605 (0))]

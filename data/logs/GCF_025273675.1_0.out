@@ -265,4 +265,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3069-3826 (0))
-[GF(CRISPR-associated endonuclease Cas2, 3999-4284 (-1)), GF(CRISPR-associated endonuclease Cas1, 4274-6149 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6155-6896 (-1)), GF(None, 6898-7324 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 7359-9720 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10085-11720 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11716-14017 (-1)), GF(None, 14013-15813 (-1)), GF(None, 16029-17409 (1)), GF(None, 17483-17648 (1)), GF(NADP-dependent oxidoreductase, 17640-18594 (-1)), GF(inositol-3-phosphate synthase, 19013-20108 (-1)), GF(PadR family transcriptional regulator, 20100-20847 (-1)), GF(Repeat region, 3069-3826 (0)), GF(CRISPR-Cas locus, 4000-17409 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4284 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4275-6149 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 6156-6896 (-1))
+graphic feature from cctyper protein table: GF(Unk, 6899-7324 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10086-11720 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11717-14017 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 14014-15813 (-1))
+graphic feature from cctyper protein table: GF(CasR, 16030-17409 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(ae1-2, 6899-7324 (-1))
+[GF(CRISPR-associated endonuclease Cas2, 3999-4284 (-1)), GF(CRISPR-associated endonuclease Cas1, 4274-6149 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 6155-6896 (-1)), GF(None, 6898-7324 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 7359-9720 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10085-11720 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11716-14017 (-1)), GF(None, 14013-15813 (-1)), GF(None, 16029-17409 (1)), GF(None, 17483-17648 (1)), GF(NADP-dependent oxidoreductase, 17640-18594 (-1)), GF(inositol-3-phosphate synthase, 19013-20108 (-1)), GF(PadR family transcriptional regulator, 20100-20847 (-1)), GF(Repeat region, 3069-3826 (0)), GF(Cas2, 4000-4284 (-1)), GF(Cas1, 4275-6149 (-1)), GF(Cas6, 6156-6896 (-1)), GF(Unk, 6899-7324 (-1)), GF(Csm3gr7, 10086-11720 (-1)), GF(Csm3gr7, 11717-14017 (-1)), GF(Cas10, 14014-15813 (-1)), GF(CasR, 16030-17409 (1)), GF(ae1-2, 6899-7324 (-1)), GF(CRISPR-Cas locus, 4000-17409 (0))]

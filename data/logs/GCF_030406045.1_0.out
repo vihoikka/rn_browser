@@ -550,5 +550,25 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 20177-22826 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4000-5178 (1))
+graphic feature from cctyper protein table: GF(Csx1, 5175-6317 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 6963-7931 (1))
+graphic feature from cctyper protein table: GF(Cas10, 8572-11472 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 11469-12608 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 12624-13565 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 13568-13930 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 13932-15053 (1))
+graphic feature from cctyper protein table: GF(Csx1, 16350-16604 (1))
+graphic feature from cctyper protein table: GF(Can2, 16607-17734 (1))
+graphic feature from cctyper protein table: GF(Cas1, 23213-24160 (1))
+graphic feature from cctyper protein table: GF(Cas1, 24157-24969 (1))
+graphic feature from cctyper protein table: GF(Cas2, 24956-25273 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 16607-17734 (1))
-[GF(HAD family hydrolase, 1128-1806 (-1)), GF(bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG, 1814-2522 (-1)), GF(TRZ/ATZ family hydrolase, 2542-3880 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-5178 (1)), GF(CRISPR-associated ring nuclease Csm6, 5174-6317 (1)), GF(None, 6436-6922 (1)), GF(None, 6962-7931 (1)), GF(PIN domain-containing protein, 7911-8316 (-1)), GF(type II toxin-antitoxin system VapB family antitoxin, 8302-8524 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8571-11472 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 11468-12608 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12623-13565 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 13567-13930 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 13931-15053 (1)), GF(TIGR02221 family CRISPR-associated protein, 15158-16139 (1)), GF(CRISPR-associated protein Csx16, 16349-16604 (1)), GF(DUF1887 family CARF protein, 16606-17734 (1)), GF(None, 19060-20064 (-1)), GF(CRISPR-associated endonuclease Cas2, 22904-23189 (1)), GF(CRISPR-associated endonuclease Cas1, 23212-24160 (1)), GF(CRISPR-associated endonuclease Cas1, 24156-24969 (1)), GF(CRISPR-associated endonuclease Cas2, 24955-25273 (1)), GF(mercuric transporter MerT family protein, 25470-25830 (1)), GF(mercury resistance system periplasmic binding protein MerP, 25866-26172 (1)), GF(mercury(II) reductase, 26222-27608 (1)), GF(mechanosensitive ion channel, 27814-28636 (-1)), GF(Repeat region, 17942-19037 (0)), GF(Repeat region, 20177-22826 (0)), GF(can1-2, 16607-17734 (1)), GF(CRISPR-Cas locus, 4000-25273 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx16, 16350-16604 (1))
+[GF(HAD family hydrolase, 1128-1806 (-1)), GF(bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG, 1814-2522 (-1)), GF(TRZ/ATZ family hydrolase, 2542-3880 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-5178 (1)), GF(CRISPR-associated ring nuclease Csm6, 5174-6317 (1)), GF(None, 6436-6922 (1)), GF(None, 6962-7931 (1)), GF(PIN domain-containing protein, 7911-8316 (-1)), GF(type II toxin-antitoxin system VapB family antitoxin, 8302-8524 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8571-11472 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 11468-12608 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12623-13565 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 13567-13930 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 13931-15053 (1)), GF(TIGR02221 family CRISPR-associated protein, 15158-16139 (1)), GF(CRISPR-associated protein Csx16, 16349-16604 (1)), GF(DUF1887 family CARF protein, 16606-17734 (1)), GF(None, 19060-20064 (-1)), GF(CRISPR-associated endonuclease Cas2, 22904-23189 (1)), GF(CRISPR-associated endonuclease Cas1, 23212-24160 (1)), GF(CRISPR-associated endonuclease Cas1, 24156-24969 (1)), GF(CRISPR-associated endonuclease Cas2, 24955-25273 (1)), GF(mercuric transporter MerT family protein, 25470-25830 (1)), GF(mercury resistance system periplasmic binding protein MerP, 25866-26172 (1)), GF(mercury(II) reductase, 26222-27608 (1)), GF(mechanosensitive ion channel, 27814-28636 (-1)), GF(Repeat region, 17942-19037 (0)), GF(Repeat region, 20177-22826 (0)), GF(Cas6, 4000-5178 (1)), GF(Csx1, 5175-6317 (1)), GF(Cmr1gr7, 6963-7931 (1)), GF(Cas10, 8572-11472 (1)), GF(Cmr3gr5, 11469-12608 (1)), GF(Cmr4gr7, 12624-13565 (1)), GF(Cmr5gr11, 13568-13930 (1)), GF(Cmr6gr7, 13932-15053 (1)), GF(Csx1, 16350-16604 (1)), GF(Can2, 16607-17734 (1)), GF(Cas1, 23213-24160 (1)), GF(Cas1, 24157-24969 (1)), GF(Cas2, 24956-25273 (1)), GF(can1-2, 16607-17734 (1)), GF(csx16, 16350-16604 (1)), GF(CRISPR-Cas locus, 4000-25273 (0))]

@@ -592,5 +592,26 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 9004-10027 (0))
+graphic feature from cctyper protein table: GF(CasR, 4000-4473 (1))
+graphic feature from cctyper protein table: GF(Cas2, 6460-6750 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 6844-7914 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 7923-8207 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 10259-11416 (-1))
+graphic feature from cctyper protein table: GF(Can2, 11416-12591 (-1))
+graphic feature from cctyper protein table: GF(Csx16, 12600-12890 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 13002-13922 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 13922-15463 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 15474-16418 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 16428-17126 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 17138-17530 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 17540-19711 (-1))
+graphic feature from cctyper protein table: GF(CysH, 28493-29755 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 11416-12591 (-1))
-[GF(F0F1 ATP synthase subunit epsilon, 726-1149 (1)), GF(factor H binding protein domain-containing protein, 1305-2730 (1)), GF(aspartate--ammonia ligase, 2828-3821 (-1)), GF(transcriptional regulator AsnC, 3999-4473 (1)), GF(PT domain-containing protein, 4556-4643 (1)), GF(None, 4758-5022 (1)), GF(uridine phosphorylase, 5147-5903 (1)), GF(chorismate lyase, 5969-6455 (1)), GF(CRISPR-associated endonuclease Cas2, 6459-6750 (-1)), GF(CRISPR-associated endonuclease Cas1, 6843-7914 (-1)), GF(CRISPR-associated endonuclease Cas2, 7922-8207 (-1)), GF(None, 8470-8830 (-1)), GF(CRISPR-associated ring nuclease Csm6, 10258-11416 (-1)), GF(DUF1887 family CARF protein, 11415-12591 (-1)), GF(CRISPR-associated protein Csx16, 12599-12890 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 13001-13922 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13921-15463 (-1)), GF(CRISPR-associated protein Csm4, 15473-16418 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 16427-17126 (-1)), GF(type III-A CRISPR-associated protein Csm2, 17137-17530 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 17539-19711 (-1)), GF(NAD(P)-dependent oxidoreductase, 19855-20779 (-1)), GF(glutamate racemase, 20858-21659 (1)), GF(site-specific tyrosine recombinase XerD, 27602-28496 (1)), GF(tRNA lysidine(34) synthetase TilS, 28492-29755 (-1)), GF(tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE, 29756-31115 (-1)), GF(MFS transporter, 31305-32370 (1)), GF(None, 32457-33393 (-1)), GF(Repeat region, 9004-10027 (0)), GF(can1-2, 11416-12591 (-1)), GF(CRISPR-Cas locus, 4000-29755 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx16, 12600-12890 (-1))
+[GF(F0F1 ATP synthase subunit epsilon, 726-1149 (1)), GF(factor H binding protein domain-containing protein, 1305-2730 (1)), GF(aspartate--ammonia ligase, 2828-3821 (-1)), GF(transcriptional regulator AsnC, 3999-4473 (1)), GF(PT domain-containing protein, 4556-4643 (1)), GF(None, 4758-5022 (1)), GF(uridine phosphorylase, 5147-5903 (1)), GF(chorismate lyase, 5969-6455 (1)), GF(CRISPR-associated endonuclease Cas2, 6459-6750 (-1)), GF(CRISPR-associated endonuclease Cas1, 6843-7914 (-1)), GF(CRISPR-associated endonuclease Cas2, 7922-8207 (-1)), GF(None, 8470-8830 (-1)), GF(CRISPR-associated ring nuclease Csm6, 10258-11416 (-1)), GF(DUF1887 family CARF protein, 11415-12591 (-1)), GF(CRISPR-associated protein Csx16, 12599-12890 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 13001-13922 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13921-15463 (-1)), GF(CRISPR-associated protein Csm4, 15473-16418 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 16427-17126 (-1)), GF(type III-A CRISPR-associated protein Csm2, 17137-17530 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 17539-19711 (-1)), GF(NAD(P)-dependent oxidoreductase, 19855-20779 (-1)), GF(glutamate racemase, 20858-21659 (1)), GF(site-specific tyrosine recombinase XerD, 27602-28496 (1)), GF(tRNA lysidine(34) synthetase TilS, 28492-29755 (-1)), GF(tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE, 29756-31115 (-1)), GF(MFS transporter, 31305-32370 (1)), GF(None, 32457-33393 (-1)), GF(Repeat region, 9004-10027 (0)), GF(CasR, 4000-4473 (1)), GF(Cas2, 6460-6750 (-1)), GF(Cas1, 6844-7914 (-1)), GF(Cas2, 7923-8207 (-1)), GF(Csx1, 10259-11416 (-1)), GF(Can2, 11416-12591 (-1)), GF(Csx16, 12600-12890 (-1)), GF(Cas6, 13002-13922 (-1)), GF(Csm5gr7, 13922-15463 (-1)), GF(Csm4gr5, 15474-16418 (-1)), GF(Csm3gr7, 16428-17126 (-1)), GF(Csm2gr11, 17138-17530 (-1)), GF(Cas10, 17540-19711 (-1)), GF(CysH, 28493-29755 (-1)), GF(can1-2, 11416-12591 (-1)), GF(csx16, 12600-12890 (-1)), GF(CRISPR-Cas locus, 4000-29755 (0))]

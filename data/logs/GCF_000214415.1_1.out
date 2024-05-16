@@ -224,5 +224,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 1359-1953 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6507 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6513-7124 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7124-7939 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7951-8883 (1))
+graphic feature from cctyper protein table: GF(Csm5, 8880-9974 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 2974-3726 (-1))
-[GF(TM1812 family CRISPR-associated protein, 2260-2728 (-1)), GF(TIGR02221 family CRISPR-associated protein, 2973-3726 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6507 (1)), GF(type III-A CRISPR-associated protein Csm2, 6512-7124 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7123-7939 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7950-8883 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8879-9974 (1)), GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 10292-11435 (1)), GF(O-phosphoserine--tRNA ligase, 11647-13264 (1)), GF(peptidylprolyl isomerase, 13422-13884 (1)), GF(Repeat region, 1359-1953 (0)), GF(csx1, 2974-3726 (-1)), GF(CRISPR-Cas locus, 4000-9974 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(TM1812 family CRISPR-associated protein, 2260-2728 (-1)), GF(TIGR02221 family CRISPR-associated protein, 2973-3726 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6507 (1)), GF(type III-A CRISPR-associated protein Csm2, 6512-7124 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7123-7939 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7950-8883 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8879-9974 (1)), GF(O-phospho-L-seryl-tRNA:Cys-tRNA synthase, 10292-11435 (1)), GF(O-phosphoserine--tRNA ligase, 11647-13264 (1)), GF(peptidylprolyl isomerase, 13422-13884 (1)), GF(Repeat region, 1359-1953 (0)), GF(Cas10, 4000-6507 (1)), GF(Csm2gr11, 6513-7124 (1)), GF(Csm3gr7, 7124-7939 (1)), GF(Csm4gr5, 7951-8883 (1)), GF(Csm5, 8880-9974 (1)), GF(csx1, 2974-3726 (-1)), GF(CRISPR-Cas locus, 4000-9974 (0))]

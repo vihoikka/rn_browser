@@ -509,6 +509,25 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 26311-27323 (0))
+graphic feature from cctyper protein table: GF(PD, 4000-4728 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 10711-11877 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11970-12446 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 12443-13453 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 13517-14920 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 14917-16959 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 16956-18500 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 18481-18798 (-1))
+graphic feature from cctyper protein table: GF(CasR, 19434-20237 (1))
+graphic feature from cctyper protein table: GF(Cas2, 23684-23968 (1))
+graphic feature from cctyper protein table: GF(Cas2, 24031-24372 (1))
+graphic feature from cctyper protein table: GF(Cas1, 24369-25367 (1))
+graphic feature from cctyper protein table: GF(RT, 25364-26203 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cam1, 19434-20237 (1))
 graphic feature from known effectors: GF(nucc, 4000-4728 (-1))
-[GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 281-1229 (1)), GF(Uma2 family endonuclease, 1338-1878 (-1)), GF(None, 2235-2541 (-1)), GF(type II toxin-antitoxin system VapC family toxin, 2564-2969 (-1)), GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 2970-3213 (-1)), GF(HEPN domain-containing protein, 3232-3772 (-1)), GF(None, 3999-4728 (-1)), GF(SAVED domain-containing protein, 4825-7900 (-1)), GF(None, 8245-8701 (1)), GF(SIR2 family protein, 8835-10689 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10710-11877 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 11969-12446 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12442-13453 (-1)), GF(CRISPR-associated protein Cmr3, 13516-14920 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 14916-16959 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 16955-18500 (-1)), GF(CRISPR-associated protein, 18480-18798 (-1)), GF(None, 19433-20237 (1)), GF(None, 21741-22863 (1)), GF(None, 23068-23626 (1)), GF(CRISPR-associated endonuclease Cas2, 23683-23968 (1)), GF(CRISPR-associated endonuclease Cas2, 24030-24372 (1)), GF(CRISPR-associated endonuclease Cas1, 24368-25367 (1)), GF(reverse transcriptase domain-containing protein, 25363-26203 (1)), GF(transposase, 28179-28740 (-1)), GF(Repeat region, 20555-21299 (0)), GF(Repeat region, 26311-27323 (0)), GF(cam1, 19434-20237 (1)), GF(nucc, 4000-4728 (-1)), GF(CRISPR-Cas locus, 4000-26203 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 281-1229 (1)), GF(Uma2 family endonuclease, 1338-1878 (-1)), GF(None, 2235-2541 (-1)), GF(type II toxin-antitoxin system VapC family toxin, 2564-2969 (-1)), GF(AbrB/MazE/SpoVT family DNA-binding domain-containing protein, 2970-3213 (-1)), GF(HEPN domain-containing protein, 3232-3772 (-1)), GF(None, 3999-4728 (-1)), GF(SAVED domain-containing protein, 4825-7900 (-1)), GF(None, 8245-8701 (1)), GF(SIR2 family protein, 8835-10689 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10710-11877 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 11969-12446 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12442-13453 (-1)), GF(CRISPR-associated protein Cmr3, 13516-14920 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 14916-16959 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 16955-18500 (-1)), GF(CRISPR-associated protein, 18480-18798 (-1)), GF(None, 19433-20237 (1)), GF(None, 21741-22863 (1)), GF(None, 23068-23626 (1)), GF(CRISPR-associated endonuclease Cas2, 23683-23968 (1)), GF(CRISPR-associated endonuclease Cas2, 24030-24372 (1)), GF(CRISPR-associated endonuclease Cas1, 24368-25367 (1)), GF(reverse transcriptase domain-containing protein, 25363-26203 (1)), GF(transposase, 28179-28740 (-1)), GF(Repeat region, 20555-21299 (0)), GF(Repeat region, 26311-27323 (0)), GF(PD, 4000-4728 (-1)), GF(Cmr6gr7, 10711-11877 (-1)), GF(Cmr5gr11, 11970-12446 (-1)), GF(Cmr4gr7, 12443-13453 (-1)), GF(Cmr3gr5, 13517-14920 (-1)), GF(Cas10, 14917-16959 (-1)), GF(Cmr1gr7, 16956-18500 (-1)), GF(Csx1, 18481-18798 (-1)), GF(CasR, 19434-20237 (1)), GF(Cas2, 23684-23968 (1)), GF(Cas2, 24031-24372 (1)), GF(Cas1, 24369-25367 (1)), GF(RT, 25364-26203 (1)), GF(cam1, 19434-20237 (1)), GF(nucc, 4000-4728 (-1)), GF(CRISPR-Cas locus, 4000-26203 (0))]

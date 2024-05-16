@@ -276,4 +276,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(ATP-binding protein, 14944-15963 (1))
-[GF(KamA family radical SAM protein, 635-2411 (1)), GF(5,10-methylenetetrahydromethanopterin reductase, 2407-3403 (-1)), GF(PIN domain-containing protein, 3546-3939 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5280 (1)), GF(None, 5272-5662 (1)), GF(RAMP superfamily CRISPR-associated protein, 5663-6521 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 6522-7845 (1)), GF(RAMP superfamily CRISPR-associated protein, 7841-8981 (1)), GF(CRISPR-associated protein Csx11, 8982-12582 (1)), GF(TIGR00341 family protein, 12578-13445 (-1)), GF(phosphoribosyl-AMP cyclohydrolase, 13416-13788 (-1)), GF(UbiX family flavin prenyltransferase, 13775-14324 (-1)), GF(DUF99 family protein, 14320-14875 (-1)), GF(ATP-binding protein, 14944-15963 (1)), GF(CRISPR-Cas locus, 4000-12582 (0))]
+graphic feature from cctyper protein table: GF(Cmr4gr7, 4000-5280 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5273-5662 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 5664-6521 (1))
+graphic feature from cctyper protein table: GF(Cmr1, 6523-7845 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7842-8981 (1))
+graphic feature from cctyper protein table: GF(Cas10, 8983-12582 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(KamA family radical SAM protein, 635-2411 (1)), GF(5,10-methylenetetrahydromethanopterin reductase, 2407-3403 (-1)), GF(PIN domain-containing protein, 3546-3939 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5280 (1)), GF(None, 5272-5662 (1)), GF(RAMP superfamily CRISPR-associated protein, 5663-6521 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 6522-7845 (1)), GF(RAMP superfamily CRISPR-associated protein, 7841-8981 (1)), GF(CRISPR-associated protein Csx11, 8982-12582 (1)), GF(TIGR00341 family protein, 12578-13445 (-1)), GF(phosphoribosyl-AMP cyclohydrolase, 13416-13788 (-1)), GF(UbiX family flavin prenyltransferase, 13775-14324 (-1)), GF(DUF99 family protein, 14320-14875 (-1)), GF(ATP-binding protein, 14944-15963 (1)), GF(Cmr4gr7, 4000-5280 (1)), GF(Cmr5gr11, 5273-5662 (1)), GF(Cmr3, 5664-6521 (1)), GF(Cmr1, 6523-7845 (1)), GF(Cmr6gr7, 7842-8981 (1)), GF(Cas10, 8983-12582 (1)), GF(CRISPR-Cas locus, 4000-12582 (0))]

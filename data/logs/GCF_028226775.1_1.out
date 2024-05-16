@@ -254,5 +254,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2836-3396 (0))
+graphic feature from cctyper protein table: GF(PD, 4000-4935 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4932-5897 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5894-7657 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7633-8787 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8775-9743 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9733-10137 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 10259-10993 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 4000-4935 (1))
-[GF(thioesterase, 764-1187 (1)), GF(phenylacetic acid degradation operon negative regulatory protein PaaX, 1370-2225 (1)), GF(None, 3999-4935 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 4931-5897 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5893-7657 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7632-8787 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8774-9743 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9732-10137 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10258-10993 (1)), GF(electron transfer flavoprotein subunit alpha/FixB family protein, 11124-12105 (-1)), GF(electron transfer flavoprotein subunit beta/FixA family protein, 12194-12953 (-1)), GF(TetR/AcrR family transcriptional regulator, 13153-13738 (-1)), GF(Repeat region, 2836-3396 (0)), GF(nucc, 4000-4935 (1)), GF(CRISPR-Cas locus, 4000-10993 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(thioesterase, 764-1187 (1)), GF(phenylacetic acid degradation operon negative regulatory protein PaaX, 1370-2225 (1)), GF(None, 3999-4935 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 4931-5897 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5893-7657 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7632-8787 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8774-9743 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9732-10137 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10258-10993 (1)), GF(electron transfer flavoprotein subunit alpha/FixB family protein, 11124-12105 (-1)), GF(electron transfer flavoprotein subunit beta/FixA family protein, 12194-12953 (-1)), GF(TetR/AcrR family transcriptional regulator, 13153-13738 (-1)), GF(Repeat region, 2836-3396 (0)), GF(PD, 4000-4935 (1)), GF(Cmr1gr7, 4932-5897 (1)), GF(Cas10, 5894-7657 (1)), GF(Cmr3gr5, 7633-8787 (1)), GF(Cmr4gr7, 8775-9743 (1)), GF(Cmr5gr11, 9733-10137 (1)), GF(Cmr6gr7, 10259-10993 (1)), GF(nucc, 4000-4935 (1)), GF(CRISPR-Cas locus, 4000-10993 (0))]

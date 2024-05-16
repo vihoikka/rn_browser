@@ -362,4 +362,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(IS6 family transposase, 15857-16142 (1))
-[GF(PaREP1 family protein, 584-1106 (1)), GF(None, 1307-1508 (1)), GF(None, 1536-1713 (1)), GF(ATP-binding protein, 2284-3511 (-1)), GF(AAA family ATPase, 3999-5325 (1)), GF(None, 5327-5825 (1)), GF(ISNCY family transposase, 5848-6105 (1)), GF(None, 6540-6762 (-1)), GF(None, 6797-7016 (1)), GF(RAMP superfamily CRISPR-associated protein, 7012-8167 (1)), GF(clan AA aspartic protease, 8163-8481 (1)), GF(RAMP superfamily CRISPR-associated protein, 8477-9182 (1)), GF(None, 9523-10225 (-1)), GF(None, 10221-12531 (-1)), GF(IS6 family transposase, 13034-13286 (1)), GF(IS1 family transposase, 13337-14281 (-1)), GF(IS6 family transposase, 14444-14582 (1)), GF(IS5/IS1182 family transposase, 14744-15663 (1)), GF(IS6 family transposase, 15857-16142 (1)), GF(CRISPR-Cas locus, 4000-12531 (0))]
+graphic feature from cctyper protein table: GF(AbiEii, 4000-5325 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7013-8167 (1))
+graphic feature from cctyper protein table: GF(PEPT, 8164-8481 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8478-9182 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 9524-10225 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10222-12531 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(proteaseRN, 8164-8481 (1))
+[GF(PaREP1 family protein, 584-1106 (1)), GF(None, 1307-1508 (1)), GF(None, 1536-1713 (1)), GF(ATP-binding protein, 2284-3511 (-1)), GF(AAA family ATPase, 3999-5325 (1)), GF(None, 5327-5825 (1)), GF(ISNCY family transposase, 5848-6105 (1)), GF(None, 6540-6762 (-1)), GF(None, 6797-7016 (1)), GF(RAMP superfamily CRISPR-associated protein, 7012-8167 (1)), GF(clan AA aspartic protease, 8163-8481 (1)), GF(RAMP superfamily CRISPR-associated protein, 8477-9182 (1)), GF(None, 9523-10225 (-1)), GF(None, 10221-12531 (-1)), GF(IS6 family transposase, 13034-13286 (1)), GF(IS1 family transposase, 13337-14281 (-1)), GF(IS6 family transposase, 14444-14582 (1)), GF(IS5/IS1182 family transposase, 14744-15663 (1)), GF(IS6 family transposase, 15857-16142 (1)), GF(AbiEii, 4000-5325 (1)), GF(Csm3gr7, 7013-8167 (1)), GF(PEPT, 8164-8481 (1)), GF(Csm3gr7, 8478-9182 (1)), GF(Csm4gr5, 9524-10225 (-1)), GF(Cas10, 10222-12531 (-1)), GF(proteaseRN, 8164-8481 (1)), GF(CRISPR-Cas locus, 4000-12531 (0))]

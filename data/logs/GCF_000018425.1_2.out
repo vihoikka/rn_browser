@@ -560,4 +560,28 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 24518-25112 (1))
-[GF(ISNCY-like element ISCde2 family transposase, 2248-3643 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4263 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 4265-5261 (-1)), GF(CRISPR-associated protein Cas4, 5285-5822 (-1)), GF(CRISPR-associated helicase/endonuclease Cas3, 5876-8066 (-1)), GF(CRISPR-associated protein Cas5, 8020-8770 (-1)), GF(type I-B CRISPR-associated protein Cas7/Cst2/DevR, 8766-9741 (-1)), GF(None, 9718-11263 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 11423-12218 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12265-13237 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 13233-13611 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13613-14474 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 14490-15759 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 15857-17033 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 17013-18837 (-1)), GF(CRISPR-associated protein Csx15, 18892-19807 (-1)), GF(CRISPR-associated protein Csx15, 19985-20366 (-1)), GF(None, 20372-20555 (-1)), GF(CRISPR-associated ring nuclease, 20556-21450 (-1)), GF(4Fe-4S dicluster domain-containing protein, 21700-21910 (-1)), GF(None, 21909-22089 (-1)), GF(None, 22210-22378 (-1)), GF(helix-turn-helix domain-containing protein, 22374-22704 (-1)), GF(ArsA-related P-loop ATPase, 22693-23251 (-1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 23259-23616 (-1)), GF(ribbon-helix-helix domain-containing protein, 23605-23842 (-1)), GF(None, 24036-24513 (1)), GF(None, 24518-25112 (1)), GF(CRISPR-Cas locus, 4000-21444 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4263 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4266-5261 (-1))
+graphic feature from cctyper protein table: GF(Cas4, 5286-5822 (-1))
+graphic feature from cctyper protein table: GF(Cas3, 5877-8066 (-1))
+graphic feature from cctyper protein table: GF(Cas5, 8021-8770 (-1))
+graphic feature from cctyper protein table: GF(Cas7, 8767-9741 (-1))
+graphic feature from cctyper protein table: GF(Cas8b1, 9719-11263 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 11424-12218 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 12266-13237 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 13234-13611 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 13614-14474 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 14491-15759 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 17014-18837 (-1))
+graphic feature from cctyper protein table: GF(Csx15, 18893-19807 (-1))
+graphic feature from cctyper protein table: GF(Csx15, 19986-20366 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 20557-21450 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx15, 18893-19807 (-1))
+graphic feature from ring nucleases: GF(csx15, 19986-20366 (-1))
+[GF(ISNCY-like element ISCde2 family transposase, 2248-3643 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4263 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 4265-5261 (-1)), GF(CRISPR-associated protein Cas4, 5285-5822 (-1)), GF(CRISPR-associated helicase/endonuclease Cas3, 5876-8066 (-1)), GF(CRISPR-associated protein Cas5, 8020-8770 (-1)), GF(type I-B CRISPR-associated protein Cas7/Cst2/DevR, 8766-9741 (-1)), GF(None, 9718-11263 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 11423-12218 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12265-13237 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 13233-13611 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 13613-14474 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 14490-15759 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 15857-17033 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 17013-18837 (-1)), GF(CRISPR-associated protein Csx15, 18892-19807 (-1)), GF(CRISPR-associated protein Csx15, 19985-20366 (-1)), GF(None, 20372-20555 (-1)), GF(CRISPR-associated ring nuclease, 20556-21450 (-1)), GF(4Fe-4S dicluster domain-containing protein, 21700-21910 (-1)), GF(None, 21909-22089 (-1)), GF(None, 22210-22378 (-1)), GF(helix-turn-helix domain-containing protein, 22374-22704 (-1)), GF(ArsA-related P-loop ATPase, 22693-23251 (-1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 23259-23616 (-1)), GF(ribbon-helix-helix domain-containing protein, 23605-23842 (-1)), GF(None, 24036-24513 (1)), GF(None, 24518-25112 (1)), GF(Cas2, 4000-4263 (-1)), GF(Cas1, 4266-5261 (-1)), GF(Cas4, 5286-5822 (-1)), GF(Cas3, 5877-8066 (-1)), GF(Cas5, 8021-8770 (-1)), GF(Cas7, 8767-9741 (-1)), GF(Cas8b1, 9719-11263 (-1)), GF(Cas6, 11424-12218 (-1)), GF(Cmr6gr7, 12266-13237 (-1)), GF(Cmr5gr11, 13234-13611 (-1)), GF(Cmr4gr7, 13614-14474 (-1)), GF(Cmr1gr7, 14491-15759 (-1)), GF(Cas10, 17014-18837 (-1)), GF(Csx15, 18893-19807 (-1)), GF(Csx15, 19986-20366 (-1)), GF(Csx1, 20557-21450 (-1)), GF(csx15, 18893-19807 (-1)), GF(csx15, 19986-20366 (-1)), GF(CRISPR-Cas locus, 4000-21444 (0))]

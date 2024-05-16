@@ -390,4 +390,24 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 20603-22696 (0))
-[GF(DUF86 domain-containing protein, 2342-2801 (-1)), GF(nucleotidyltransferase domain-containing protein, 2793-3198 (-1)), GF(tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO, 3327-3717 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4734 (1)), GF(CRISPR-associated helicase Cas3', 4730-6362 (1)), GF(CRISPR-associated endonuclease Cas3'', 6339-7065 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 7057-8293 (1)), GF(CRISPR-associated protein, 8307-9399 (1)), GF(CRISPR-associated protein Csx11, 9395-12347 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12360-13305 (1)), GF(None, 13320-13740 (1)), GF(None, 13752-14655 (1)), GF(type I-A CRISPR-associated protein Csa5, 14648-16070 (1)), GF(DevR family CRISPR-associated autoregulator, 16397-17390 (1)), GF(CRISPR-associated protein Cas5, 17392-18166 (1)), GF(CRISPR-associated protein Cas4, 18162-18666 (1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 18680-19673 (1)), GF(CRISPR-associated endonuclease Cas2, 20173-20437 (1)), GF(Repeat region, 20603-22696 (0)), GF(CRISPR-Cas locus, 4000-20437 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4734 (1))
+graphic feature from cctyper protein table: GF(Cas3, 4731-6362 (1))
+graphic feature from cctyper protein table: GF(Cas3HD, 6340-7065 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 7058-8293 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 8308-9399 (1))
+graphic feature from cctyper protein table: GF(Cas10, 9396-12347 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 12361-13305 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 13321-13740 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 13753-14655 (1))
+graphic feature from cctyper protein table: GF(Cas8a2, 14649-16070 (1))
+graphic feature from cctyper protein table: GF(Cas7, 16398-17390 (1))
+graphic feature from cctyper protein table: GF(Cas4, 18163-18666 (1))
+graphic feature from cctyper protein table: GF(Cas1, 18681-19673 (1))
+graphic feature from cctyper protein table: GF(Cas2, 20174-20437 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF86 domain-containing protein, 2342-2801 (-1)), GF(nucleotidyltransferase domain-containing protein, 2793-3198 (-1)), GF(tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO, 3327-3717 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4734 (1)), GF(CRISPR-associated helicase Cas3', 4730-6362 (1)), GF(CRISPR-associated endonuclease Cas3'', 6339-7065 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 7057-8293 (1)), GF(CRISPR-associated protein, 8307-9399 (1)), GF(CRISPR-associated protein Csx11, 9395-12347 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 12360-13305 (1)), GF(None, 13320-13740 (1)), GF(None, 13752-14655 (1)), GF(type I-A CRISPR-associated protein Csa5, 14648-16070 (1)), GF(DevR family CRISPR-associated autoregulator, 16397-17390 (1)), GF(CRISPR-associated protein Cas5, 17392-18166 (1)), GF(CRISPR-associated protein Cas4, 18162-18666 (1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 18680-19673 (1)), GF(CRISPR-associated endonuclease Cas2, 20173-20437 (1)), GF(Repeat region, 20603-22696 (0)), GF(Cas6, 4000-4734 (1)), GF(Cas3, 4731-6362 (1)), GF(Cas3HD, 6340-7065 (1)), GF(Cmr1gr7, 7058-8293 (1)), GF(Cmr6gr7, 8308-9399 (1)), GF(Cas10, 9396-12347 (1)), GF(Cmr4gr7, 12361-13305 (1)), GF(Cmr5gr11, 13321-13740 (1)), GF(Cmr3gr5, 13753-14655 (1)), GF(Cas8a2, 14649-16070 (1)), GF(Cas7, 16398-17390 (1)), GF(Cas4, 18163-18666 (1)), GF(Cas1, 18681-19673 (1)), GF(Cas2, 20174-20437 (1)), GF(CRISPR-Cas locus, 4000-20437 (0))]

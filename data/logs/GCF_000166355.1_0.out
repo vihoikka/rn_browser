@@ -329,5 +329,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 12745-13105 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4000-4620 (-1))
+graphic feature from cctyper protein table: GF(Csm5, 4620-5786 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5776-6786 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6814-7641 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7670-8080 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8112-10607 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 13616-15037 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 13616-15037 (-1))
-[GF(None, 1418-3269 (-1)), GF(None, 3724-3868 (-1)), GF(None, 3999-4620 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4619-5786 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5775-6786 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6813-7641 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7669-8080 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8111-10607 (-1)), GF(ATP-binding protein, 10823-12209 (-1)), GF(None, 13106-13511 (1)), GF(CRISPR-associated CARF protein Csx1, 13615-15037 (-1)), GF(DUF1848 domain-containing protein, 15168-16266 (-1)), GF(None, 16284-16740 (-1)), GF(None, 17123-17360 (1)), GF(None, 17788-18145 (-1)), GF(None, 18128-18632 (-1)), GF(Repeat region, 12745-13105 (0)), GF(csx1, 13616-15037 (-1)), GF(CRISPR-Cas locus, 4000-15037 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1418-3269 (-1)), GF(None, 3724-3868 (-1)), GF(None, 3999-4620 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4619-5786 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5775-6786 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6813-7641 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7669-8080 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8111-10607 (-1)), GF(ATP-binding protein, 10823-12209 (-1)), GF(None, 13106-13511 (1)), GF(CRISPR-associated CARF protein Csx1, 13615-15037 (-1)), GF(DUF1848 domain-containing protein, 15168-16266 (-1)), GF(None, 16284-16740 (-1)), GF(None, 17123-17360 (1)), GF(None, 17788-18145 (-1)), GF(None, 18128-18632 (-1)), GF(Repeat region, 12745-13105 (0)), GF(Cas6, 4000-4620 (-1)), GF(Csm5, 4620-5786 (-1)), GF(Csm4gr5, 5776-6786 (-1)), GF(Csm3gr7, 6814-7641 (-1)), GF(Csm2gr11, 7670-8080 (-1)), GF(Cas10, 8112-10607 (-1)), GF(Csx1, 13616-15037 (-1)), GF(csx1, 13616-15037 (-1)), GF(CRISPR-Cas locus, 4000-15037 (0))]

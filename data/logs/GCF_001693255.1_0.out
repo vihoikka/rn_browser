@@ -339,4 +339,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 18072-18357 (-1))
-[GF(None, 254-1130 (-1)), GF(None, 1119-2253 (-1)), GF(alpha-ketoglutarate-dependent dioxygenase AlkB, 2392-3007 (-1)), GF(class I SAM-dependent methyltransferase, 3038-3917 (-1)), GF(WYL domain-containing protein, 3999-6060 (-1)), GF(None, 6110-7613 (-1)), GF(RAMP superfamily protein, 7637-9341 (-1)), GF(None, 9364-9748 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9789-10656 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 10765-11872 (-1)), GF(four helix bundle protein, 11908-12265 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12300-15285 (-1)), GF(None, 15581-15920 (-1)), GF(None, 15916-16141 (-1)), GF(None, 16143-16845 (-1)), GF(None, 16917-17331 (-1)), GF(Txe/YoeB family addiction module toxin, 17768-18083 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 18072-18357 (-1)), GF(CRISPR-Cas locus, 4000-15285 (0))]
+graphic feature from cctyper protein table: GF(WYL, 4000-6060 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7638-9341 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9365-9748 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 9790-10656 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 10766-11872 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12301-15285 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 254-1130 (-1)), GF(None, 1119-2253 (-1)), GF(alpha-ketoglutarate-dependent dioxygenase AlkB, 2392-3007 (-1)), GF(class I SAM-dependent methyltransferase, 3038-3917 (-1)), GF(WYL domain-containing protein, 3999-6060 (-1)), GF(None, 6110-7613 (-1)), GF(RAMP superfamily protein, 7637-9341 (-1)), GF(None, 9364-9748 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9789-10656 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 10765-11872 (-1)), GF(four helix bundle protein, 11908-12265 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12300-15285 (-1)), GF(None, 15581-15920 (-1)), GF(None, 15916-16141 (-1)), GF(None, 16143-16845 (-1)), GF(None, 16917-17331 (-1)), GF(Txe/YoeB family addiction module toxin, 17768-18083 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 18072-18357 (-1)), GF(WYL, 4000-6060 (-1)), GF(Cmr6gr7, 7638-9341 (-1)), GF(Cmr5gr11, 9365-9748 (-1)), GF(Cmr4, 9790-10656 (-1)), GF(Cmr3gr5, 10766-11872 (-1)), GF(Cas10, 12301-15285 (-1)), GF(CRISPR-Cas locus, 4000-15285 (0))]

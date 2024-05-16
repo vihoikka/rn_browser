@@ -265,4 +265,18 @@ qualifiers:
 
 GF(ribbon-helix-helix domain-containing protein, 19569-19797 (-1))
 graphic feature from validated effectors: GF(can3, 4423-6933 (-1))
-[GF(type I 3-dehydroquinate dehydratase, 119-884 (1)), GF(shikimate kinase, 1106-1631 (1)), GF(threonine/serine exporter family protein, 1736-2393 (-1)), GF(threonine/serine exporter family protein, 2424-3780 (-1)), GF(None, 3999-4260 (-1)), GF(None, 4422-6933 (-1)), GF(None, 7115-9269 (1)), GF(CRISPR-associated protein Cmr3, 9265-11254 (1)), GF(RAMP superfamily CRISPR-associated protein, 11250-13029 (1)), GF(None, 13021-13546 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 13529-15848 (1)), GF(None, 16126-18157 (1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 19222-19570 (-1)), GF(ribbon-helix-helix domain-containing protein, 19569-19797 (-1)), GF(can3, 4423-6933 (-1)), GF(CRISPR-Cas locus, 4000-18157 (0))]
+graphic feature from cctyper protein table: GF(Unk, 4000-4260 (-1))
+graphic feature from cctyper protein table: GF(CasR, 4423-6933 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7116-9269 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9266-11254 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11251-13029 (1))
+graphic feature from cctyper protein table: GF(Csx19, 13022-13546 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 16127-18157 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(ae1-1, 4000-4260 (-1))
+[GF(type I 3-dehydroquinate dehydratase, 119-884 (1)), GF(shikimate kinase, 1106-1631 (1)), GF(threonine/serine exporter family protein, 1736-2393 (-1)), GF(threonine/serine exporter family protein, 2424-3780 (-1)), GF(None, 3999-4260 (-1)), GF(None, 4422-6933 (-1)), GF(None, 7115-9269 (1)), GF(CRISPR-associated protein Cmr3, 9265-11254 (1)), GF(RAMP superfamily CRISPR-associated protein, 11250-13029 (1)), GF(None, 13021-13546 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 13529-15848 (1)), GF(None, 16126-18157 (1)), GF(type II toxin-antitoxin system PemK/MazF family toxin, 19222-19570 (-1)), GF(ribbon-helix-helix domain-containing protein, 19569-19797 (-1)), GF(can3, 4423-6933 (-1)), GF(Unk, 4000-4260 (-1)), GF(CasR, 4423-6933 (-1)), GF(Cas10, 7116-9269 (1)), GF(Csm3gr7, 9266-11254 (1)), GF(Csm3gr7, 11251-13029 (1)), GF(Csx19, 13022-13546 (1)), GF(Csm3gr7, 16127-18157 (1)), GF(ae1-1, 4000-4260 (-1)), GF(CRISPR-Cas locus, 4000-18157 (0))]

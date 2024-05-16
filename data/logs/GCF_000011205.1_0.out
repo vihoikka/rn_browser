@@ -206,4 +206,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(protein kinase, 10323-12093 (1))
-[GF(tetratricopeptide repeat protein, 1541-2231 (1)), GF(transposase, 2265-3246 (1)), GF(PaREP1 family protein, 3498-3918 (-1)), GF(None, 3999-6414 (1)), GF(None, 6410-7094 (1)), GF(None, 7130-7385 (1)), GF(RAMP superfamily CRISPR-associated protein, 7427-8441 (1)), GF(None, 8430-8856 (1)), GF(None, 8852-9446 (1)), GF(None, 9438-10089 (-1)), GF(protein kinase, 10323-12093 (1)), GF(CRISPR-Cas locus, 4000-9446 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 4000-6414 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 6411-7094 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7428-8441 (1))
+graphic feature from cctyper protein table: GF(Csx26, 8431-8856 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8853-9446 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(tetratricopeptide repeat protein, 1541-2231 (1)), GF(transposase, 2265-3246 (1)), GF(PaREP1 family protein, 3498-3918 (-1)), GF(None, 3999-6414 (1)), GF(None, 6410-7094 (1)), GF(None, 7130-7385 (1)), GF(RAMP superfamily CRISPR-associated protein, 7427-8441 (1)), GF(None, 8430-8856 (1)), GF(None, 8852-9446 (1)), GF(None, 9438-10089 (-1)), GF(protein kinase, 10323-12093 (1)), GF(Cas10, 4000-6414 (1)), GF(Csm4gr5, 6411-7094 (1)), GF(Csm3gr7, 7428-8441 (1)), GF(Csx26, 8431-8856 (1)), GF(Csm3gr7, 8853-9446 (1)), GF(CRISPR-Cas locus, 4000-9446 (0))]

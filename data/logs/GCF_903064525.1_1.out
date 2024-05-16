@@ -303,5 +303,19 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(IS1634 family transposase, 16328-17936 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 4000-7068 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8453-9406 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9423-9779 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9784-11043 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 11040-11924 (1))
+graphic feature from cctyper protein table: GF(Can2, 11936-13129 (1))
+graphic feature from cctyper protein table: GF(Csx3, 13190-14125 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 11936-13129 (1))
-[GF(DNA glycosylase, 995-1928 (1)), GF(aspartate aminotransferase family protein, 1969-3382 (-1)), GF(DUF2892 domain-containing protein, 3612-3837 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7068 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7077-8430 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8452-9406 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9422-9779 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9783-11043 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11039-11924 (1)), GF(None, 11935-13129 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 13189-14125 (1)), GF(None, 14278-14584 (-1)), GF(IS1634 family transposase, 14615-15362 (-1)), GF(None, 15431-15947 (-1)), GF(IS1634 family transposase, 16328-17936 (-1)), GF(can1-2, 11936-13129 (1)), GF(CRISPR-Cas locus, 4000-14125 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 13190-14125 (1))
+[GF(DNA glycosylase, 995-1928 (1)), GF(aspartate aminotransferase family protein, 1969-3382 (-1)), GF(DUF2892 domain-containing protein, 3612-3837 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7068 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7077-8430 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8452-9406 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9422-9779 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9783-11043 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11039-11924 (1)), GF(None, 11935-13129 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 13189-14125 (1)), GF(None, 14278-14584 (-1)), GF(IS1634 family transposase, 14615-15362 (-1)), GF(None, 15431-15947 (-1)), GF(IS1634 family transposase, 16328-17936 (-1)), GF(Cas10, 4000-7068 (1)), GF(Cmr4, 8453-9406 (1)), GF(Cmr5gr11, 9423-9779 (1)), GF(Cmr6gr7, 9784-11043 (1)), GF(Cmr1gr7, 11040-11924 (1)), GF(Can2, 11936-13129 (1)), GF(Csx3, 13190-14125 (1)), GF(can1-2, 11936-13129 (1)), GF(crn3, 13190-14125 (1)), GF(CRISPR-Cas locus, 4000-14125 (0))]

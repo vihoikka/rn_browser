@@ -373,4 +373,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(50S ribosomal protein L3 N(5)-glutamine methyltransferase, 13895-14855 (-1))
-[GF(TatD family hydrolase, 175-955 (-1)), GF(crossover junction endodeoxyribonuclease RuvC, 964-1543 (-1)), GF(YebC/PmpR family DNA-binding transcriptional regulator, 1614-2355 (-1)), GF(dihydroneopterin triphosphate diphosphatase, 2374-2818 (-1)), GF(recombination-associated protein RdgC, 2817-3726 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-4317 (1)), GF(None, 4517-5348 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5357-7064 (1)), GF(None, 7301-7496 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7510-8680 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8699-9545 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9547-9931 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9940-11134 (1)), GF(CRISPR-associated protein Csx16, 11137-11434 (1)), GF(None, 11456-12347 (1)), GF(SDR family NAD(P)-dependent oxidoreductase, 12480-13299 (-1)), GF(nitroreductase family protein, 13303-13867 (-1)), GF(50S ribosomal protein L3 N(5)-glutamine methyltransferase, 13895-14855 (-1)), GF(CRISPR-Cas locus, 4000-11434 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-4317 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5358-7064 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7511-8680 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8700-9545 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9548-9931 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9941-11134 (1))
+graphic feature from cctyper protein table: GF(Csx16, 11138-11434 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx16, 11138-11434 (1))
+[GF(TatD family hydrolase, 175-955 (-1)), GF(crossover junction endodeoxyribonuclease RuvC, 964-1543 (-1)), GF(YebC/PmpR family DNA-binding transcriptional regulator, 1614-2355 (-1)), GF(dihydroneopterin triphosphate diphosphatase, 2374-2818 (-1)), GF(recombination-associated protein RdgC, 2817-3726 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-4317 (1)), GF(None, 4517-5348 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5357-7064 (1)), GF(None, 7301-7496 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 7510-8680 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8699-9545 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9547-9931 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9940-11134 (1)), GF(CRISPR-associated protein Csx16, 11137-11434 (1)), GF(None, 11456-12347 (1)), GF(SDR family NAD(P)-dependent oxidoreductase, 12480-13299 (-1)), GF(nitroreductase family protein, 13303-13867 (-1)), GF(50S ribosomal protein L3 N(5)-glutamine methyltransferase, 13895-14855 (-1)), GF(Cmr1gr7, 4000-4317 (1)), GF(Cas10, 5358-7064 (1)), GF(Cmr3gr5, 7511-8680 (1)), GF(Cmr4, 8700-9545 (1)), GF(Cmr5gr11, 9548-9931 (1)), GF(Cmr6gr7, 9941-11134 (1)), GF(Csx16, 11138-11434 (1)), GF(csx16, 11138-11434 (1)), GF(CRISPR-Cas locus, 4000-11434 (0))]

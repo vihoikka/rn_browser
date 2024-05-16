@@ -266,4 +266,19 @@ qualifiers:
 
 GF(AIM24 family protein, 20381-21050 (1))
 graphic feature from validated effectors: GF(can3, 4425-6779 (-1))
-[GF(GTP cyclohydrolase I FolE, 695-1268 (-1)), GF(ATP-dependent zinc metalloprotease FtsH, 1267-3253 (-1)), GF(None, 3679-3952 (-1)), GF(None, 3999-4428 (-1)), GF(None, 4424-6779 (-1)), GF(None, 6959-8708 (1)), GF(RAMP superfamily CRISPR-associated protein, 8704-10699 (1)), GF(RAMP superfamily CRISPR-associated protein, 10695-12420 (1)), GF(None, 12412-12964 (1)), GF(None, 13043-15254 (1)), GF(None, 15262-17644 (1)), GF(helix-turn-helix transcriptional regulator, 17861-18455 (-1)), GF(DUF4143 domain-containing protein, 18895-20152 (1)), GF(AIM24 family protein, 20381-21050 (1)), GF(can3, 4425-6779 (-1)), GF(CRISPR-Cas locus, 4000-17644 (0))]
+graphic feature from cctyper protein table: GF(Unk, 4000-4428 (-1))
+graphic feature from cctyper protein table: GF(CasR, 4425-6779 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6960-8708 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8705-10699 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10696-12420 (1))
+graphic feature from cctyper protein table: GF(Csx19, 12413-12964 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 13044-15254 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 15263-17644 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(ae1-1, 4000-4428 (-1))
+[GF(GTP cyclohydrolase I FolE, 695-1268 (-1)), GF(ATP-dependent zinc metalloprotease FtsH, 1267-3253 (-1)), GF(None, 3679-3952 (-1)), GF(None, 3999-4428 (-1)), GF(None, 4424-6779 (-1)), GF(None, 6959-8708 (1)), GF(RAMP superfamily CRISPR-associated protein, 8704-10699 (1)), GF(RAMP superfamily CRISPR-associated protein, 10695-12420 (1)), GF(None, 12412-12964 (1)), GF(None, 13043-15254 (1)), GF(None, 15262-17644 (1)), GF(helix-turn-helix transcriptional regulator, 17861-18455 (-1)), GF(DUF4143 domain-containing protein, 18895-20152 (1)), GF(AIM24 family protein, 20381-21050 (1)), GF(can3, 4425-6779 (-1)), GF(Unk, 4000-4428 (-1)), GF(CasR, 4425-6779 (-1)), GF(Cas10, 6960-8708 (1)), GF(Csm3gr7, 8705-10699 (1)), GF(Csm3gr7, 10696-12420 (1)), GF(Csx19, 12413-12964 (1)), GF(Csm3gr7, 13044-15254 (1)), GF(Csm3gr7, 15263-17644 (1)), GF(ae1-1, 4000-4428 (-1)), GF(CRISPR-Cas locus, 4000-17644 (0))]

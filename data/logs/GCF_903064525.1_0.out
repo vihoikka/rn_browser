@@ -459,4 +459,22 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2808-3731 (0))
-[GF(None, 544-700 (-1)), GF(IS630 family transposase, 819-921 (-1)), GF(transposase, 1016-1466 (-1)), GF(IS1634 family transposase, 1387-2101 (-1)), GF(None, 2108-2627 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4293 (-1)), GF(CRISPR-associated endonuclease Cas1, 4301-6026 (-1)), GF(None, 6066-6228 (1)), GF(None, 6938-7841 (-1)), GF(None, 7843-8188 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8187-9186 (-1)), GF(CRISPR-associated protein Csx11, 9182-12230 (-1)), GF(None, 12226-12982 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 13128-14070 (-1)), GF(type I-U CRISPR-associated RAMP protein Csb1/Cas7u, 14323-15571 (1)), GF(type I-U CRISPR-associated protein Csb2, 15548-17105 (1)), GF(type I-U CRISPR-associated helicase/endonuclease Cas3, 17101-20062 (1)), GF(None, 20073-21060 (1)), GF(ISL3 family transposase, 21366-22497 (-1)), GF(transposase, 22565-22895 (1)), GF(IS3 family transposase, 22894-23752 (1)), GF(TetR/AcrR family transcriptional regulator, 23748-24243 (-1)), GF(Repeat region, 2808-3731 (0)), GF(CRISPR-Cas locus, 4000-21060 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4293 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4302-6026 (-1))
+graphic feature from cctyper protein table: GF(Cmr3, 6939-7841 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 7844-8188 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8188-9186 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 9183-12230 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 12227-12982 (-1))
+graphic feature from cctyper protein table: GF(Csm3, 13129-14070 (-1))
+graphic feature from cctyper protein table: GF(Csb1gr7, 14324-15571 (1))
+graphic feature from cctyper protein table: GF(Csb2, 15549-17105 (1))
+graphic feature from cctyper protein table: GF(Cas3, 17102-20062 (1))
+graphic feature from cctyper protein table: GF(Cas8u1, 20074-21060 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 544-700 (-1)), GF(IS630 family transposase, 819-921 (-1)), GF(transposase, 1016-1466 (-1)), GF(IS1634 family transposase, 1387-2101 (-1)), GF(None, 2108-2627 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4293 (-1)), GF(CRISPR-associated endonuclease Cas1, 4301-6026 (-1)), GF(None, 6066-6228 (1)), GF(None, 6938-7841 (-1)), GF(None, 7843-8188 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8187-9186 (-1)), GF(CRISPR-associated protein Csx11, 9182-12230 (-1)), GF(None, 12226-12982 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 13128-14070 (-1)), GF(type I-U CRISPR-associated RAMP protein Csb1/Cas7u, 14323-15571 (1)), GF(type I-U CRISPR-associated protein Csb2, 15548-17105 (1)), GF(type I-U CRISPR-associated helicase/endonuclease Cas3, 17101-20062 (1)), GF(None, 20073-21060 (1)), GF(ISL3 family transposase, 21366-22497 (-1)), GF(transposase, 22565-22895 (1)), GF(IS3 family transposase, 22894-23752 (1)), GF(TetR/AcrR family transcriptional regulator, 23748-24243 (-1)), GF(Repeat region, 2808-3731 (0)), GF(Cas2, 4000-4293 (-1)), GF(Cas1, 4302-6026 (-1)), GF(Cmr3, 6939-7841 (-1)), GF(Cmr5gr11, 7844-8188 (-1)), GF(Cmr4gr7, 8188-9186 (-1)), GF(Cas10, 9183-12230 (-1)), GF(Cmr6gr7, 12227-12982 (-1)), GF(Csm3, 13129-14070 (-1)), GF(Csb1gr7, 14324-15571 (1)), GF(Csb2, 15549-17105 (1)), GF(Cas3, 17102-20062 (1)), GF(Cas8u1, 20074-21060 (1)), GF(CRISPR-Cas locus, 4000-21060 (0))]

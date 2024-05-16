@@ -198,5 +198,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 16414-17391 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4177-4896 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5209-6702 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6703-7257 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 7278-8804 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8804-10144 (1))
+graphic feature from cctyper protein table: GF(Csx19, 10145-10561 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10577-12718 (1))
+graphic feature from cctyper protein table: GF(Csx1, 12794-14440 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 12794-14440 (1))
-[GF(long-chain fatty acid--CoA ligase, 1457-3305 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 4176-4896 (1)), GF(None, 5208-6702 (1)), GF(RAMP superfamily CRISPR-associated protein, 6702-7257 (1)), GF(None, 7277-8804 (1)), GF(RAMP superfamily CRISPR-associated protein, 8803-10144 (1)), GF(TIGR04423 family type III CRISPR-associated protein, 10144-10561 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10576-12718 (1)), GF(TM1812 family CRISPR-associated protein, 12793-14440 (1)), GF(radical SAM protein, 14703-16206 (1)), GF(Repeat region, 16414-17391 (0)), GF(csx1, 12794-14440 (1)), GF(CRISPR-Cas locus, 4000-14440 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(long-chain fatty acid--CoA ligase, 1457-3305 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 4176-4896 (1)), GF(None, 5208-6702 (1)), GF(RAMP superfamily CRISPR-associated protein, 6702-7257 (1)), GF(None, 7277-8804 (1)), GF(RAMP superfamily CRISPR-associated protein, 8803-10144 (1)), GF(TIGR04423 family type III CRISPR-associated protein, 10144-10561 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 10576-12718 (1)), GF(TM1812 family CRISPR-associated protein, 12793-14440 (1)), GF(radical SAM protein, 14703-16206 (1)), GF(Repeat region, 16414-17391 (0)), GF(Cas6, 4177-4896 (1)), GF(Cas10, 5209-6702 (1)), GF(Csm3gr7, 6703-7257 (1)), GF(Csx10gr5, 7278-8804 (1)), GF(Csm3gr7, 8804-10144 (1)), GF(Csx19, 10145-10561 (1)), GF(Csm3gr7, 10577-12718 (1)), GF(Csx1, 12794-14440 (1)), GF(csx1, 12794-14440 (1)), GF(CRISPR-Cas locus, 4000-14440 (0))]

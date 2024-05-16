@@ -402,5 +402,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 24550-24858 (0))
+graphic feature from cctyper protein table: GF(CorA, 4000-5724 (-1))
+graphic feature from cctyper protein table: GF(RT, 8571-10361 (-1))
+graphic feature from cctyper protein table: GF(CasR, 10382-12634 (-1))
+graphic feature from cctyper protein table: GF(Csm3, 12637-15423 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 15943-17610 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 19883-21568 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 4000-5724 (-1))
-[GF(None, 80-578 (1)), GF(None, 570-870 (1)), GF(None, 863-1115 (1)), GF(helix-turn-helix domain-containing protein, 1140-1707 (-1)), GF(helix-turn-helix transcriptional regulator, 1913-2144 (1)), GF(helix-turn-helix domain-containing protein, 2637-3126 (-1)), GF(helix-turn-helix transcriptional regulator, 3296-3584 (1)), GF(None, 3614-3914 (1)), GF(None, 3999-5724 (-1)), GF(type II toxin-antitoxin system RelB/DinJ family antitoxin, 6030-6309 (1)), GF(type II toxin-antitoxin system YafQ family toxin, 6301-6574 (1)), GF(reverse transcriptase/maturase family protein, 8570-10361 (-1)), GF(None, 10381-12634 (-1)), GF(None, 12636-15423 (-1)), GF(None, 15422-15950 (-1)), GF(RAMP superfamily CRISPR-associated protein, 15942-17610 (-1)), GF(RAMP superfamily CRISPR-associated protein, 17606-19886 (-1)), GF(None, 19882-21568 (-1)), GF(type II toxin-antitoxin system RelE/ParE family toxin, 21962-22271 (-1)), GF(addiction module protein, 22254-22479 (-1)), GF(Repeat region, 7623-8009 (0)), GF(Repeat region, 24550-24858 (0)), GF(cora, 4000-5724 (-1)), GF(CRISPR-Cas locus, 4000-21568 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 80-578 (1)), GF(None, 570-870 (1)), GF(None, 863-1115 (1)), GF(helix-turn-helix domain-containing protein, 1140-1707 (-1)), GF(helix-turn-helix transcriptional regulator, 1913-2144 (1)), GF(helix-turn-helix domain-containing protein, 2637-3126 (-1)), GF(helix-turn-helix transcriptional regulator, 3296-3584 (1)), GF(None, 3614-3914 (1)), GF(None, 3999-5724 (-1)), GF(type II toxin-antitoxin system RelB/DinJ family antitoxin, 6030-6309 (1)), GF(type II toxin-antitoxin system YafQ family toxin, 6301-6574 (1)), GF(reverse transcriptase/maturase family protein, 8570-10361 (-1)), GF(None, 10381-12634 (-1)), GF(None, 12636-15423 (-1)), GF(None, 15422-15950 (-1)), GF(RAMP superfamily CRISPR-associated protein, 15942-17610 (-1)), GF(RAMP superfamily CRISPR-associated protein, 17606-19886 (-1)), GF(None, 19882-21568 (-1)), GF(type II toxin-antitoxin system RelE/ParE family toxin, 21962-22271 (-1)), GF(addiction module protein, 22254-22479 (-1)), GF(Repeat region, 7623-8009 (0)), GF(Repeat region, 24550-24858 (0)), GF(CorA, 4000-5724 (-1)), GF(RT, 8571-10361 (-1)), GF(CasR, 10382-12634 (-1)), GF(Csm3, 12637-15423 (-1)), GF(Csm3gr7, 15943-17610 (-1)), GF(Cas10, 19883-21568 (-1)), GF(cora, 4000-5724 (-1)), GF(CRISPR-Cas locus, 4000-21568 (0))]

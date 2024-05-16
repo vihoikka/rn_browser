@@ -415,4 +415,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2723-3793 (0))
-[GF(alpha-ketoglutarate-dependent dioxygenase AlkB, 209-836 (-1)), GF(None, 942-1308 (-1)), GF(AAA family ATPase, 1484-1982 (-1)), GF(None, 2000-2390 (-1)), GF(None, 2438-2579 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4278 (-1)), GF(CRISPR-associated endonuclease Cas1, 4281-5271 (-1)), GF(CRISPR-associated protein Csx18, 5267-5636 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5759-8702 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8704-9814 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9917-10697 (1)), GF(None, 10731-11154 (1)), GF(RAMP superfamily CRISPR-associated protein, 11245-13174 (1)), GF(None, 13222-14356 (-1)), GF(None, 14406-16794 (-1)), GF(None, 16908-17841 (-1)), GF(TIGR03985 family CRISPR-associated protein, 17956-19402 (1)), GF(HD domain-containing protein, 19425-19884 (1)), GF(None, 20240-20696 (1)), GF(None, 20720-21239 (1)), GF(protease Lon-related BREX system protein BrxL, 21327-23376 (-1)), GF(Repeat region, 2723-3793 (0)), GF(CRISPR-Cas locus, 4000-19402 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4278 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4282-5271 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 5760-8702 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 8705-9814 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 9918-10697 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 10732-11154 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 11246-13174 (1))
+graphic feature from cctyper protein table: GF(Csx3, 16909-17841 (-1))
+graphic feature from cctyper protein table: GF(WYL, 17957-19402 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(alpha-ketoglutarate-dependent dioxygenase AlkB, 209-836 (-1)), GF(None, 942-1308 (-1)), GF(AAA family ATPase, 1484-1982 (-1)), GF(None, 2000-2390 (-1)), GF(None, 2438-2579 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4278 (-1)), GF(CRISPR-associated endonuclease Cas1, 4281-5271 (-1)), GF(CRISPR-associated protein Csx18, 5267-5636 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5759-8702 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 8704-9814 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9917-10697 (1)), GF(None, 10731-11154 (1)), GF(RAMP superfamily CRISPR-associated protein, 11245-13174 (1)), GF(None, 13222-14356 (-1)), GF(None, 14406-16794 (-1)), GF(None, 16908-17841 (-1)), GF(TIGR03985 family CRISPR-associated protein, 17956-19402 (1)), GF(HD domain-containing protein, 19425-19884 (1)), GF(None, 20240-20696 (1)), GF(None, 20720-21239 (1)), GF(protease Lon-related BREX system protein BrxL, 21327-23376 (-1)), GF(Repeat region, 2723-3793 (0)), GF(Cas2, 4000-4278 (-1)), GF(Cas1, 4282-5271 (-1)), GF(Cas10, 5760-8702 (1)), GF(Cmr3gr5, 8705-9814 (1)), GF(Cmr4, 9918-10697 (1)), GF(Cmr5gr11, 10732-11154 (1)), GF(Cmr6gr7, 11246-13174 (1)), GF(Csx3, 16909-17841 (-1)), GF(WYL, 17957-19402 (1)), GF(CRISPR-Cas locus, 4000-19402 (0))]

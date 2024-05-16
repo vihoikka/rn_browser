@@ -290,5 +290,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(HSP90 family protein, 16288-18082 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 4000-5331 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 5328-6173 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6142-7320 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7317-9179 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 9176-10315 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 12422-13243 (1))
+graphic feature from cctyper protein table: GF(Cas6, 13313-14086 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 12422-13243 (1))
-[GF(sugar transferase, 262-898 (-1)), GF(UTP--glucose-1-phosphate uridylyltransferase GalU, 911-1811 (-1)), GF(LCP family protein, 1839-2796 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5331 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5327-6173 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 6141-7320 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7316-9179 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9175-10315 (-1)), GF(None, 10558-10951 (-1)), GF(None, 11058-12090 (-1)), GF(putative CRISPR-associated protein, 12421-13243 (1)), GF(CRISPR-associated endoribonuclease Cas6, 13312-14086 (1)), GF(tetratricopeptide repeat protein, 14136-16308 (-1)), GF(HSP90 family protein, 16288-18082 (-1)), GF(cami1, 12422-13243 (1)), GF(CRISPR-Cas locus, 4000-14086 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(sugar transferase, 262-898 (-1)), GF(UTP--glucose-1-phosphate uridylyltransferase GalU, 911-1811 (-1)), GF(LCP family protein, 1839-2796 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5331 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5327-6173 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 6141-7320 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7316-9179 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9175-10315 (-1)), GF(None, 10558-10951 (-1)), GF(None, 11058-12090 (-1)), GF(putative CRISPR-associated protein, 12421-13243 (1)), GF(CRISPR-associated endoribonuclease Cas6, 13312-14086 (1)), GF(tetratricopeptide repeat protein, 14136-16308 (-1)), GF(HSP90 family protein, 16288-18082 (-1)), GF(Cmr6, 4000-5331 (-1)), GF(Cmr4, 5328-6173 (-1)), GF(Cmr3gr5, 6142-7320 (-1)), GF(Cas10, 7317-9179 (-1)), GF(Cmr1gr7, 9176-10315 (-1)), GF(Csm6, 12422-13243 (1)), GF(Cas6, 13313-14086 (1)), GF(cami1, 12422-13243 (1)), GF(CRISPR-Cas locus, 4000-14086 (0))]

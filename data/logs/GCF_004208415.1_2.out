@@ -346,4 +346,19 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(DUF4010 domain-containing protein, 17608-18871 (1))
-[GF(ABC transporter ATP-binding protein, 441-1224 (1)), GF(DeoR/GlpR family DNA-binding transcription regulator, 1234-2035 (-1)), GF(triose-phosphate isomerase, 2092-2866 (-1)), GF(ribose 5-phosphate isomerase B, 2907-3375 (-1)), GF(CRISPR-associated ring nuclease, 3999-5688 (-1)), GF(None, 5757-6129 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6125-6884 (-1)), GF(RNA-guided endonuclease IscB, 7326-8157 (-1)), GF(None, 8352-9051 (-1)), GF(CRISPR-associated RAMP protein Csx7, 9047-10127 (-1)), GF(CRISPR-associated RAMP protein Csx7, 10172-11072 (-1)), GF(None, 11080-11533 (-1)), GF(None, 11540-12002 (-1)), GF(None, 11998-13372 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13368-14157 (-1)), GF(None, 14143-15967 (-1)), GF(None, 16878-17331 (1)), GF(DUF4010 domain-containing protein, 17608-18871 (1)), GF(CRISPR-Cas locus, 4000-15967 (0))]
+graphic feature from cctyper protein table: GF(Csx1, 4000-5688 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6126-6884 (-1))
+graphic feature from cctyper protein table: GF(Cas9, 7327-8157 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 8353-9051 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9048-10127 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10173-11072 (-1))
+graphic feature from cctyper protein table: GF(Csx10, 11999-13372 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 13369-14157 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 14144-15967 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ABC transporter ATP-binding protein, 441-1224 (1)), GF(DeoR/GlpR family DNA-binding transcription regulator, 1234-2035 (-1)), GF(triose-phosphate isomerase, 2092-2866 (-1)), GF(ribose 5-phosphate isomerase B, 2907-3375 (-1)), GF(CRISPR-associated ring nuclease, 3999-5688 (-1)), GF(None, 5757-6129 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6125-6884 (-1)), GF(RNA-guided endonuclease IscB, 7326-8157 (-1)), GF(None, 8352-9051 (-1)), GF(CRISPR-associated RAMP protein Csx7, 9047-10127 (-1)), GF(CRISPR-associated RAMP protein Csx7, 10172-11072 (-1)), GF(None, 11080-11533 (-1)), GF(None, 11540-12002 (-1)), GF(None, 11998-13372 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13368-14157 (-1)), GF(None, 14143-15967 (-1)), GF(None, 16878-17331 (1)), GF(DUF4010 domain-containing protein, 17608-18871 (1)), GF(Csx1, 4000-5688 (-1)), GF(Csm3gr7, 6126-6884 (-1)), GF(Cas9, 7327-8157 (-1)), GF(Csx19, 8353-9051 (-1)), GF(Csm3gr7, 9048-10127 (-1)), GF(Csm3gr7, 10173-11072 (-1)), GF(Csx10, 11999-13372 (-1)), GF(Csm3gr7, 13369-14157 (-1)), GF(Cas10, 14144-15967 (-1)), GF(CRISPR-Cas locus, 4000-15967 (0))]

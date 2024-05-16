@@ -269,4 +269,15 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3390-3632 (0))
-[GF(phosphoglucomutase/phosphomannomutase family protein, 343-1777 (1)), GF(methyltransferase, 1817-2837 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7038 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7010-8138 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8580-9360 (1)), GF(Uma2 family endonuclease, 9369-9933 (1)), GF(None, 9953-10343 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10406-12350 (1)), GF(lipopolysaccharide assembly protein LapA domain-containing protein, 12622-12895 (-1)), GF(None, 13225-13678 (-1)), GF(alpha/beta hydrolase, 13910-14762 (1)), GF(DUF6679 family protein, 15099-15408 (1)), GF(cupredoxin domain-containing protein, 15567-16029 (1)), GF(Repeat region, 3390-3632 (0)), GF(CRISPR-Cas locus, 4000-12350 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 4000-7038 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7011-8138 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8581-9360 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9954-10343 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 10407-12350 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(phosphoglucomutase/phosphomannomutase family protein, 343-1777 (1)), GF(methyltransferase, 1817-2837 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7038 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7010-8138 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8580-9360 (1)), GF(Uma2 family endonuclease, 9369-9933 (1)), GF(None, 9953-10343 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10406-12350 (1)), GF(lipopolysaccharide assembly protein LapA domain-containing protein, 12622-12895 (-1)), GF(None, 13225-13678 (-1)), GF(alpha/beta hydrolase, 13910-14762 (1)), GF(DUF6679 family protein, 15099-15408 (1)), GF(cupredoxin domain-containing protein, 15567-16029 (1)), GF(Repeat region, 3390-3632 (0)), GF(Cas10, 4000-7038 (1)), GF(Cmr3gr5, 7011-8138 (1)), GF(Cmr4, 8581-9360 (1)), GF(Cmr5gr11, 9954-10343 (1)), GF(Cmr6gr7, 10407-12350 (1)), GF(CRISPR-Cas locus, 4000-12350 (0))]

@@ -228,5 +228,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(UDP-N-acetylmuramate dehydrogenase, 11982-13038 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6660 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6660-7052 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7067-7783 (1))
+graphic feature from cctyper protein table: GF(Can2, 7873-8691 (1))
+graphic feature from cctyper protein table: GF(Csx1, 8958-10088 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 7873-8691 (1))
-[GF(transcription-repair coupling factor, 319-3748 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6660 (1)), GF(type III-A CRISPR-associated protein Csm2, 6659-7052 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7066-7783 (1)), GF(DUF1887 family CARF protein, 7872-8691 (1)), GF(DUF1887 family CARF protein, 8698-8968 (1)), GF(CRISPR-associated ring nuclease Csm6, 8957-10088 (1)), GF(type I 3-dehydroquinate dehydratase, 10155-10920 (1)), GF(None, 10906-11119 (1)), GF(TetR/AcrR family transcriptional regulator, 11075-11744 (-1)), GF(UDP-N-acetylmuramate dehydrogenase, 11982-13038 (-1)), GF(can1-2, 7873-8691 (1)), GF(CRISPR-Cas locus, 4000-10088 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(transcription-repair coupling factor, 319-3748 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6660 (1)), GF(type III-A CRISPR-associated protein Csm2, 6659-7052 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7066-7783 (1)), GF(DUF1887 family CARF protein, 7872-8691 (1)), GF(DUF1887 family CARF protein, 8698-8968 (1)), GF(CRISPR-associated ring nuclease Csm6, 8957-10088 (1)), GF(type I 3-dehydroquinate dehydratase, 10155-10920 (1)), GF(None, 10906-11119 (1)), GF(TetR/AcrR family transcriptional regulator, 11075-11744 (-1)), GF(UDP-N-acetylmuramate dehydrogenase, 11982-13038 (-1)), GF(Cas10, 4000-6660 (1)), GF(Csm2gr11, 6660-7052 (1)), GF(Csm3gr7, 7067-7783 (1)), GF(Can2, 7873-8691 (1)), GF(Csx1, 8958-10088 (1)), GF(can1-2, 7873-8691 (1)), GF(CRISPR-Cas locus, 4000-10088 (0))]

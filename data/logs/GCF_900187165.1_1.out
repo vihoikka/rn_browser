@@ -301,4 +301,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3371-3795 (0))
-[GF(None, 365-611 (-1)), GF(None, 728-1163 (-1)), GF(CBS domain-containing protein, 1757-2492 (-1)), GF(None, 2772-2931 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4758 (-1)), GF(None, 4747-5971 (-1)), GF(None, 5972-6899 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6895-7609 (-1)), GF(None, 7608-8175 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8167-10723 (-1)), GF(None, 10779-11409 (-1)), GF(DUF4351 domain-containing protein, 11749-12025 (-1)), GF(Rpn family recombination-promoting nuclease/putative transposase, 12194-13199 (-1)), GF(helix-turn-helix transcriptional regulator, 13262-13673 (-1)), GF(FAD-dependent oxidoreductase, 13721-14006 (1)), GF(Repeat region, 3371-3795 (0)), GF(CRISPR-Cas locus, 4000-10723 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4758 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 4748-5971 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5973-6899 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6896-7609 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7609-8175 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8168-10723 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 365-611 (-1)), GF(None, 728-1163 (-1)), GF(CBS domain-containing protein, 1757-2492 (-1)), GF(None, 2772-2931 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4758 (-1)), GF(None, 4747-5971 (-1)), GF(None, 5972-6899 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6895-7609 (-1)), GF(None, 7608-8175 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8167-10723 (-1)), GF(None, 10779-11409 (-1)), GF(DUF4351 domain-containing protein, 11749-12025 (-1)), GF(Rpn family recombination-promoting nuclease/putative transposase, 12194-13199 (-1)), GF(helix-turn-helix transcriptional regulator, 13262-13673 (-1)), GF(FAD-dependent oxidoreductase, 13721-14006 (1)), GF(Repeat region, 3371-3795 (0)), GF(Cas6, 4000-4758 (-1)), GF(Csm5gr7, 4748-5971 (-1)), GF(Csm4gr5, 5973-6899 (-1)), GF(Csm3gr7, 6896-7609 (-1)), GF(Csm2gr11, 7609-8175 (-1)), GF(Cas10, 8168-10723 (-1)), GF(CRISPR-Cas locus, 4000-10723 (0))]

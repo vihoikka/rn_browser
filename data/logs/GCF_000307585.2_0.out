@@ -228,5 +228,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 15600-16500 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5301 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5298-6821 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6818-9016 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9009-10421 (1))
+graphic feature from cctyper protein table: GF(Csx19, 10415-10993 (1))
+graphic feature from cctyper protein table: GF(Csm3, 11012-13165 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 4000-5301 (1))
-[GF(stalk domain-containing protein, 1333-2203 (-1)), GF(DUF1887 family CARF protein, 3999-5301 (1)), GF(None, 5297-6821 (1)), GF(RAMP superfamily CRISPR-associated protein, 6817-9016 (1)), GF(RAMP superfamily CRISPR-associated protein, 9008-10421 (1)), GF(CRISPR-associated protein Csx19, 10414-10993 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 11011-13165 (1)), GF(gamma-glutamylcyclotransferase family protein, 13192-13639 (1)), GF(helix-turn-helix domain-containing protein, 13850-14231 (-1)), GF(helix-turn-helix domain-containing protein, 14807-15323 (1)), GF(None, 16662-16995 (1)), GF(Repeat region, 2564-3887 (0)), GF(Repeat region, 15600-16500 (0)), GF(can1-2, 4000-5301 (1)), GF(CRISPR-Cas locus, 4000-13165 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(stalk domain-containing protein, 1333-2203 (-1)), GF(DUF1887 family CARF protein, 3999-5301 (1)), GF(None, 5297-6821 (1)), GF(RAMP superfamily CRISPR-associated protein, 6817-9016 (1)), GF(RAMP superfamily CRISPR-associated protein, 9008-10421 (1)), GF(CRISPR-associated protein Csx19, 10414-10993 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 11011-13165 (1)), GF(gamma-glutamylcyclotransferase family protein, 13192-13639 (1)), GF(helix-turn-helix domain-containing protein, 13850-14231 (-1)), GF(helix-turn-helix domain-containing protein, 14807-15323 (1)), GF(None, 16662-16995 (1)), GF(Repeat region, 2564-3887 (0)), GF(Repeat region, 15600-16500 (0)), GF(Csx1, 4000-5301 (1)), GF(Cas10, 5298-6821 (1)), GF(Csm3gr7, 6818-9016 (1)), GF(Csm3gr7, 9009-10421 (1)), GF(Csx19, 10415-10993 (1)), GF(Csm3, 11012-13165 (1)), GF(can1-2, 4000-5301 (1)), GF(CRISPR-Cas locus, 4000-13165 (0))]

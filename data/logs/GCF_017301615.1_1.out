@@ -301,4 +301,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(type II toxin-antitoxin system HicB family antitoxin, 14984-15395 (1))
-[GF(Ger(x)C family spore germination protein, 243-1443 (1)), GF(undecaprenyl diphosphate synthase family protein, 1618-2278 (1)), GF(None, 2441-2822 (1)), GF(pyruvate kinase alpha/beta domain-containing protein, 2757-3417 (-1)), GF(None, 3413-3926 (-1)), GF(None, 3999-4839 (-1)), GF(None, 4831-5263 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5240-6341 (-1)), GF(CRISPR-associated protein Csx11, 6356-9827 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9823-10951 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10940-12011 (-1)), GF(plasmid pRiA4b ORF-3 family protein, 12340-13366 (-1)), GF(DUF4153 domain-containing protein, 13541-13946 (-1)), GF(None, 13827-14307 (-1)), GF(type II toxin-antitoxin system HicA family toxin, 14752-14944 (1)), GF(type II toxin-antitoxin system HicB family antitoxin, 14984-15395 (1)), GF(CRISPR-Cas locus, 4000-12011 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-4839 (-1))
+graphic feature from cctyper protein table: GF(Cmr5, 4832-5263 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5241-6341 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6357-9827 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9824-10951 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 10941-12011 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(Ger(x)C family spore germination protein, 243-1443 (1)), GF(undecaprenyl diphosphate synthase family protein, 1618-2278 (1)), GF(None, 2441-2822 (1)), GF(pyruvate kinase alpha/beta domain-containing protein, 2757-3417 (-1)), GF(None, 3413-3926 (-1)), GF(None, 3999-4839 (-1)), GF(None, 4831-5263 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5240-6341 (-1)), GF(CRISPR-associated protein Csx11, 6356-9827 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9823-10951 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10940-12011 (-1)), GF(plasmid pRiA4b ORF-3 family protein, 12340-13366 (-1)), GF(DUF4153 domain-containing protein, 13541-13946 (-1)), GF(None, 13827-14307 (-1)), GF(type II toxin-antitoxin system HicA family toxin, 14752-14944 (1)), GF(type II toxin-antitoxin system HicB family antitoxin, 14984-15395 (1)), GF(Cmr3, 4000-4839 (-1)), GF(Cmr5, 4832-5263 (-1)), GF(Cmr4gr7, 5241-6341 (-1)), GF(Cas10, 6357-9827 (-1)), GF(Cmr6gr7, 9824-10951 (-1)), GF(Cmr1gr7, 10941-12011 (-1)), GF(CRISPR-Cas locus, 4000-12011 (0))]

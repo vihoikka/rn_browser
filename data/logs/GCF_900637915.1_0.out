@@ -186,4 +186,15 @@ qualifiers:
 
 GF(histidine phosphatase family protein, 13000-13708 (1))
 graphic feature from validated effectors: GF(tirsaved, 9870-11213 (-1))
-[GF(None, 663-1824 (-1)), GF(IS630 family transposase, 2010-3078 (-1)), GF(None, 3113-3998 (-1)), GF(None, 3999-4521 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4517-6137 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6133-8095 (-1)), GF(None, 8091-9852 (-1)), GF(SAVED domain-containing protein, 9869-11213 (-1)), GF(histidine phosphatase family protein, 12195-12900 (1)), GF(histidine phosphatase family protein, 13000-13708 (1)), GF(tirsaved, 9870-11213 (-1)), GF(CRISPR-Cas locus, 4000-11213 (0))]
+graphic feature from cctyper protein table: GF(Csx19, 4000-4521 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 4518-6137 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6134-8095 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8092-9852 (-1))
+graphic feature from cctyper protein table: GF(CasR, 9870-11213 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 663-1824 (-1)), GF(IS630 family transposase, 2010-3078 (-1)), GF(None, 3113-3998 (-1)), GF(None, 3999-4521 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4517-6137 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6133-8095 (-1)), GF(None, 8091-9852 (-1)), GF(SAVED domain-containing protein, 9869-11213 (-1)), GF(histidine phosphatase family protein, 12195-12900 (1)), GF(histidine phosphatase family protein, 13000-13708 (1)), GF(tirsaved, 9870-11213 (-1)), GF(Csx19, 4000-4521 (-1)), GF(Csm3gr7, 4518-6137 (-1)), GF(Csm3gr7, 6134-8095 (-1)), GF(Cas10, 8092-9852 (-1)), GF(CasR, 9870-11213 (-1)), GF(CRISPR-Cas locus, 4000-11213 (0))]

@@ -190,5 +190,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(SPFH domain-containing protein, 13626-15648 (1))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5391 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5388-6962 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6955-9228 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9215-10639 (1))
+graphic feature from cctyper protein table: GF(Csx19, 10647-11258 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11251-13098 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 4000-5391 (1))
-[GF(IS110 family transposase, 881-1100 (1)), GF(transposase, 1107-2352 (-1)), GF(IS21-like element ISCsa9 family helper ATPase IstB, 2426-3206 (1)), GF(None, 3999-5391 (1)), GF(None, 5387-6962 (1)), GF(RAMP superfamily CRISPR-associated protein, 6954-9228 (1)), GF(RAMP superfamily CRISPR-associated protein, 9214-10639 (1)), GF(CRISPR-associated protein Csx19, 10646-11258 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 11250-13098 (1)), GF(SPFH domain-containing protein, 13626-15648 (1)), GF(can1-2, 4000-5391 (1)), GF(CRISPR-Cas locus, 4000-13098 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(IS110 family transposase, 881-1100 (1)), GF(transposase, 1107-2352 (-1)), GF(IS21-like element ISCsa9 family helper ATPase IstB, 2426-3206 (1)), GF(None, 3999-5391 (1)), GF(None, 5387-6962 (1)), GF(RAMP superfamily CRISPR-associated protein, 6954-9228 (1)), GF(RAMP superfamily CRISPR-associated protein, 9214-10639 (1)), GF(CRISPR-associated protein Csx19, 10646-11258 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 11250-13098 (1)), GF(SPFH domain-containing protein, 13626-15648 (1)), GF(Csx1, 4000-5391 (1)), GF(Cas10, 5388-6962 (1)), GF(Csm3gr7, 6955-9228 (1)), GF(Csm3gr7, 9215-10639 (1)), GF(Csx19, 10647-11258 (1)), GF(Csm3gr7, 11251-13098 (1)), GF(can1-2, 4000-5391 (1)), GF(CRISPR-Cas locus, 4000-13098 (0))]

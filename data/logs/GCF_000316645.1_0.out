@@ -364,4 +364,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 7305-11910 (0))
-[GF(SRPBCC family protein, 634-1114 (1)), GF(None, 1132-1483 (-1)), GF(putative quinol monooxygenase, 1770-2097 (1)), GF(DUF4174 domain-containing protein, 2299-2782 (-1)), GF(None, 2986-3397 (-1)), GF(low molecular weight phosphatase family protein, 3459-3897 (-1)), GF(WYL domain-containing protein, 3999-5208 (-1)), GF(CRISPR-associated protein Csx18, 5426-5702 (1)), GF(CRISPR-associated endonuclease Cas1, 5841-6831 (1)), GF(CRISPR-associated endonuclease Cas2, 6839-7121 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12217-15178 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 15177-16284 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 16296-17073 (1)), GF(None, 17093-17489 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 17494-19411 (1)), GF(None, 19407-20937 (1)), GF(3'-5' exonuclease, 21166-23035 (1)), GF(YciI family protein, 23062-23371 (-1)), GF(Repeat region, 7305-11910 (0)), GF(CRISPR-Cas locus, 4000-19411 (0))]
+graphic feature from cctyper protein table: GF(WYL, 4000-5208 (-1))
+graphic feature from cctyper protein table: GF(Csx18, 5427-5702 (1))
+graphic feature from cctyper protein table: GF(Cas1, 5842-6831 (1))
+graphic feature from cctyper protein table: GF(Cas2, 6840-7121 (1))
+graphic feature from cctyper protein table: GF(Cas10, 12218-15178 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 15178-16284 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 16297-17073 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 17094-17489 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 17495-19411 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(SRPBCC family protein, 634-1114 (1)), GF(None, 1132-1483 (-1)), GF(putative quinol monooxygenase, 1770-2097 (1)), GF(DUF4174 domain-containing protein, 2299-2782 (-1)), GF(None, 2986-3397 (-1)), GF(low molecular weight phosphatase family protein, 3459-3897 (-1)), GF(WYL domain-containing protein, 3999-5208 (-1)), GF(CRISPR-associated protein Csx18, 5426-5702 (1)), GF(CRISPR-associated endonuclease Cas1, 5841-6831 (1)), GF(CRISPR-associated endonuclease Cas2, 6839-7121 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12217-15178 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 15177-16284 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 16296-17073 (1)), GF(None, 17093-17489 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 17494-19411 (1)), GF(None, 19407-20937 (1)), GF(3'-5' exonuclease, 21166-23035 (1)), GF(YciI family protein, 23062-23371 (-1)), GF(Repeat region, 7305-11910 (0)), GF(WYL, 4000-5208 (-1)), GF(Csx18, 5427-5702 (1)), GF(Cas1, 5842-6831 (1)), GF(Cas2, 6840-7121 (1)), GF(Cas10, 12218-15178 (1)), GF(Cmr3gr5, 15178-16284 (1)), GF(Cmr4, 16297-17073 (1)), GF(Cmr5gr11, 17094-17489 (1)), GF(Cmr6gr7, 17495-19411 (1)), GF(CRISPR-Cas locus, 4000-19411 (0))]

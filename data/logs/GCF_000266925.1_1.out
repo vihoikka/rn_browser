@@ -188,5 +188,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 1855-3621 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5664 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 5726-7246 (1))
+graphic feature from cctyper protein table: GF(Cas10, 7253-9724 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9721-10815 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 10821-11738 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11756-12100 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 12097-12918 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5664 (1))
-[GF(glucosamine-6-phosphate deaminase, 714-1464 (-1)), GF(TM1812 family CRISPR-associated protein, 3999-5664 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5725-7246 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7252-9724 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 9720-10815 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10820-11738 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11755-12100 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12096-12918 (1)), GF(Repeat region, 1855-3621 (0)), GF(csx1, 4000-5664 (1)), GF(CRISPR-Cas locus, 4000-12918 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(glucosamine-6-phosphate deaminase, 714-1464 (-1)), GF(TM1812 family CRISPR-associated protein, 3999-5664 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5725-7246 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7252-9724 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 9720-10815 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10820-11738 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11755-12100 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 12096-12918 (1)), GF(Repeat region, 1855-3621 (0)), GF(Csx1, 4000-5664 (1)), GF(Cmr1gr7, 5726-7246 (1)), GF(Cas10, 7253-9724 (1)), GF(Cmr3gr5, 9721-10815 (1)), GF(Cmr4gr7, 10821-11738 (1)), GF(Cmr5gr11, 11756-12100 (1)), GF(Cmr6gr7, 12097-12918 (1)), GF(csx1, 4000-5664 (1)), GF(CRISPR-Cas locus, 4000-12918 (0))]

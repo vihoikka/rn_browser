@@ -154,4 +154,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(porphobilinogen synthase, 14297-15284 (-1))
-[GF(TIGR03986 family CRISPR-associated RAMP protein, 3984-6477 (1)), GF(None, 6473-8033 (1)), GF(RAMP superfamily CRISPR-associated protein, 8029-8752 (1)), GF(None, 8744-10112 (1)), GF(RAMP superfamily CRISPR-associated protein, 10108-11587 (1)), GF(None, 11583-12033 (1)), GF(glutamate-1-semialdehyde 2,1-aminomutase, 12637-13945 (-1)), GF(porphobilinogen synthase, 14297-15284 (-1)), GF(CRISPR-Cas locus, 4000-12033 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 6474-8033 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8030-8752 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 8745-10112 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10109-11587 (1))
+graphic feature from cctyper protein table: GF(Cas11, 11584-12033 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(TIGR03986 family CRISPR-associated RAMP protein, 3984-6477 (1)), GF(None, 6473-8033 (1)), GF(RAMP superfamily CRISPR-associated protein, 8029-8752 (1)), GF(None, 8744-10112 (1)), GF(RAMP superfamily CRISPR-associated protein, 10108-11587 (1)), GF(None, 11583-12033 (1)), GF(glutamate-1-semialdehyde 2,1-aminomutase, 12637-13945 (-1)), GF(porphobilinogen synthase, 14297-15284 (-1)), GF(Cas10, 6474-8033 (1)), GF(Csm3gr7, 8030-8752 (1)), GF(Csx10gr5, 8745-10112 (1)), GF(Csm3gr7, 10109-11587 (1)), GF(Cas11, 11584-12033 (1)), GF(CRISPR-Cas locus, 4000-12033 (0))]

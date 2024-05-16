@@ -239,4 +239,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 13862-14321 (-1))
-[GF(None, 866-1328 (-1)), GF(AAA family ATPase, 1324-3958 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5220 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5219-6320 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6369-7119 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7163-7637 (-1)), GF(None, 7646-10379 (-1)), GF(transposase, 10639-11071 (1)), GF(IS5 family transposase, 11013-11553 (1)), GF(NmrA family NAD(P)-binding protein, 12530-13373 (-1)), GF(helix-turn-helix domain-containing protein, 13503-13860 (1)), GF(None, 13862-14321 (-1)), GF(CRISPR-Cas locus, 4000-10379 (0))]
+graphic feature from cctyper protein table: GF(Csm5, 4000-5220 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5220-6320 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6370-7119 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7164-7637 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7647-10379 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 866-1328 (-1)), GF(AAA family ATPase, 1324-3958 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5220 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5219-6320 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6369-7119 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7163-7637 (-1)), GF(None, 7646-10379 (-1)), GF(transposase, 10639-11071 (1)), GF(IS5 family transposase, 11013-11553 (1)), GF(NmrA family NAD(P)-binding protein, 12530-13373 (-1)), GF(helix-turn-helix domain-containing protein, 13503-13860 (1)), GF(None, 13862-14321 (-1)), GF(Csm5, 4000-5220 (-1)), GF(Csm4gr5, 5220-6320 (-1)), GF(Csm3gr7, 6370-7119 (-1)), GF(Csm2gr11, 7164-7637 (-1)), GF(Cas10, 7647-10379 (-1)), GF(CRISPR-Cas locus, 4000-10379 (0))]

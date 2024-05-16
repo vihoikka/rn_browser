@@ -311,5 +311,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 6822-8023 (0))
+graphic feature from cctyper protein table: GF(WYL, 4000-4539 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8601-10160 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 10284-11276 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 11278-12117 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 12273-12698 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 12688-14298 (1))
+graphic feature from cctyper protein table: GF(Csx1, 14302-15894 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 14302-15894 (1))
-[GF(helix-turn-helix domain-containing protein, 376-1969 (1)), GF(Uma2 family endonuclease, 2044-2671 (1)), GF(None, 2865-3843 (-1)), GF(WYL domain-containing protein, 3999-4539 (-1)), GF(ATP-binding protein, 4513-5587 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8600-10160 (1)), GF(None, 10283-11276 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 11277-12117 (1)), GF(None, 12272-12698 (1)), GF(None, 12687-14298 (1)), GF(None, 14301-15894 (1)), GF(None, 15931-16072 (1)), GF(4Fe-4S binding protein, 16127-16469 (-1)), GF(FAD-binding protein, 16555-18295 (-1)), GF(DUF433 domain-containing protein, 18857-19166 (-1)), GF(None, 19422-19662 (-1)), GF(Repeat region, 6822-8023 (0)), GF(csx1, 14302-15894 (1)), GF(CRISPR-Cas locus, 4000-15894 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(helix-turn-helix domain-containing protein, 376-1969 (1)), GF(Uma2 family endonuclease, 2044-2671 (1)), GF(None, 2865-3843 (-1)), GF(WYL domain-containing protein, 3999-4539 (-1)), GF(ATP-binding protein, 4513-5587 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8600-10160 (1)), GF(None, 10283-11276 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 11277-12117 (1)), GF(None, 12272-12698 (1)), GF(None, 12687-14298 (1)), GF(None, 14301-15894 (1)), GF(None, 15931-16072 (1)), GF(4Fe-4S binding protein, 16127-16469 (-1)), GF(FAD-binding protein, 16555-18295 (-1)), GF(DUF433 domain-containing protein, 18857-19166 (-1)), GF(None, 19422-19662 (-1)), GF(Repeat region, 6822-8023 (0)), GF(WYL, 4000-4539 (-1)), GF(Cas10, 8601-10160 (1)), GF(Cmr3gr5, 10284-11276 (1)), GF(Cmr4gr7, 11278-12117 (1)), GF(Cmr5gr11, 12273-12698 (1)), GF(Cmr6gr7, 12688-14298 (1)), GF(Csx1, 14302-15894 (1)), GF(csx1, 14302-15894 (1)), GF(CRISPR-Cas locus, 4000-15894 (0))]

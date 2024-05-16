@@ -320,5 +320,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 18074-18862 (0))
+graphic feature from cctyper protein table: GF(Csm6, 4114-5304 (1))
+graphic feature from cctyper protein table: GF(Cas10, 12645-14633 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 14630-15964 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 15961-16989 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 16993-17493 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 4114-5304 (1))
-[GF(None, 1530-2283 (1)), GF(DUF1678 family protein, 2439-3084 (-1)), GF(HEPN domain-containing protein, 3252-3966 (-1)), GF(putative CRISPR-associated protein, 4113-5304 (1)), GF(None, 5531-6821 (1)), GF(None, 6931-8038 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9342-10551 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10770-11349 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11233-12511 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12644-14633 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 14629-15964 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 15960-16989 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 16992-17493 (1)), GF(None, 19180-19720 (-1)), GF(Terpene cyclase/mutase, 19685-21374 (-1)), GF(Repeat region, 8377-8778 (0)), GF(Repeat region, 18074-18862 (0)), GF(cami1, 4114-5304 (1)), GF(CRISPR-Cas locus, 4000-17493 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1530-2283 (1)), GF(DUF1678 family protein, 2439-3084 (-1)), GF(HEPN domain-containing protein, 3252-3966 (-1)), GF(putative CRISPR-associated protein, 4113-5304 (1)), GF(None, 5531-6821 (1)), GF(None, 6931-8038 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9342-10551 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10770-11349 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11233-12511 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12644-14633 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 14629-15964 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 15960-16989 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 16992-17493 (1)), GF(None, 19180-19720 (-1)), GF(Terpene cyclase/mutase, 19685-21374 (-1)), GF(Repeat region, 8377-8778 (0)), GF(Repeat region, 18074-18862 (0)), GF(Csm6, 4114-5304 (1)), GF(Cas10, 12645-14633 (1)), GF(Cmr3gr5, 14630-15964 (1)), GF(Cmr4, 15961-16989 (1)), GF(Cmr5gr11, 16993-17493 (1)), GF(cami1, 4114-5304 (1)), GF(CRISPR-Cas locus, 4000-17493 (0))]

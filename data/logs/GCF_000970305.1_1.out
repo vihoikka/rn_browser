@@ -177,4 +177,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(CRISPR-associated endonuclease Cas6, 11717-12461 (-1))
-[GF(None, 598-880 (1)), GF(None, 1444-3931 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5007 (-1)), GF(None, 5012-5456 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5442-6417 (-1)), GF(CRISPR-associated protein Csx11, 6409-9526 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9582-10461 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10450-11698 (-1)), GF(CRISPR-associated endonuclease Cas6, 11717-12461 (-1)), GF(CRISPR-Cas locus, 4000-12461 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-5007 (-1))
+graphic feature from cctyper protein table: GF(Cmr5, 5013-5456 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6410-9526 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9583-10461 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 10451-11698 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 11718-12461 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 598-880 (1)), GF(None, 1444-3931 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5007 (-1)), GF(None, 5012-5456 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5442-6417 (-1)), GF(CRISPR-associated protein Csx11, 6409-9526 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9582-10461 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10450-11698 (-1)), GF(CRISPR-associated endonuclease Cas6, 11717-12461 (-1)), GF(Cmr3, 4000-5007 (-1)), GF(Cmr5, 5013-5456 (-1)), GF(Cas10, 6410-9526 (-1)), GF(Cmr6gr7, 9583-10461 (-1)), GF(Cmr1gr7, 10451-11698 (-1)), GF(Cas6, 11718-12461 (-1)), GF(CRISPR-Cas locus, 4000-12461 (0))]

@@ -251,4 +251,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 13911-14748 (-1))
-[GF(ISNCY-like element ISC1205 family transposase, 1200-2301 (1)), GF(FkbM family methyltransferase, 2533-3325 (1)), GF(lipopolysaccharide biosynthesis protein, 3503-3796 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 3999-4869 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 4870-5368 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5360-6830 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 6934-7735 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7734-10770 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 10762-11668 (1)), GF(None, 11863-12220 (1)), GF(None, 12279-12765 (1)), GF(None, 13911-14748 (-1)), GF(CRISPR-Cas locus, 4000-11668 (0))]
+graphic feature from cctyper protein table: GF(Cmr4, 4000-4869 (1))
+graphic feature from cctyper protein table: GF(Cmr5, 4871-5368 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 5361-6830 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 6935-7735 (1))
+graphic feature from cctyper protein table: GF(Cas10, 7735-10770 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 10763-11668 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ISNCY-like element ISC1205 family transposase, 1200-2301 (1)), GF(FkbM family methyltransferase, 2533-3325 (1)), GF(lipopolysaccharide biosynthesis protein, 3503-3796 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 3999-4869 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 4870-5368 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5360-6830 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 6934-7735 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7734-10770 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 10762-11668 (1)), GF(None, 11863-12220 (1)), GF(None, 12279-12765 (1)), GF(None, 13911-14748 (-1)), GF(Cmr4, 4000-4869 (1)), GF(Cmr5, 4871-5368 (1)), GF(Cmr1gr7, 5361-6830 (1)), GF(Cmr6gr7, 6935-7735 (1)), GF(Cas10, 7735-10770 (1)), GF(Cmr3, 10763-11668 (1)), GF(CRISPR-Cas locus, 4000-11668 (0))]

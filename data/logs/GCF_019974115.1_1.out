@@ -293,4 +293,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 10598-12208 (0))
-[GF(glycine--tRNA ligase subunit alpha, 785-1664 (1)), GF(glycine--tRNA ligase subunit beta, 1666-3724 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6483 (1)), GF(type III-A CRISPR-associated protein Csm2, 6489-6885 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6884-7580 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7579-8602 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8594-9779 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 9781-10552 (1)), GF(CRISPR-associated endoribonuclease Cas6, 12400-13105 (1)), GF(FHA domain-containing protein, 13272-13713 (1)), GF(Stp1/IreP family PP2C-type Ser/Thr phosphatase, 13718-14426 (1)), GF(FtsW/RodA/SpoVE family cell cycle protein, 14422-15667 (1)), GF(penicillin-binding transpeptidase domain-containing protein, 15669-17091 (1)), GF(Repeat region, 10598-12208 (0)), GF(CRISPR-Cas locus, 4000-13105 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 4000-6483 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6490-6885 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6885-7580 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7580-8602 (1))
+graphic feature from cctyper protein table: GF(Csm5, 8595-9779 (1))
+graphic feature from cctyper protein table: GF(Cas6, 9782-10552 (1))
+graphic feature from cctyper protein table: GF(Cas6, 12401-13105 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(glycine--tRNA ligase subunit alpha, 785-1664 (1)), GF(glycine--tRNA ligase subunit beta, 1666-3724 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6483 (1)), GF(type III-A CRISPR-associated protein Csm2, 6489-6885 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6884-7580 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7579-8602 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8594-9779 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 9781-10552 (1)), GF(CRISPR-associated endoribonuclease Cas6, 12400-13105 (1)), GF(FHA domain-containing protein, 13272-13713 (1)), GF(Stp1/IreP family PP2C-type Ser/Thr phosphatase, 13718-14426 (1)), GF(FtsW/RodA/SpoVE family cell cycle protein, 14422-15667 (1)), GF(penicillin-binding transpeptidase domain-containing protein, 15669-17091 (1)), GF(Repeat region, 10598-12208 (0)), GF(Cas10, 4000-6483 (1)), GF(Csm2gr11, 6490-6885 (1)), GF(Csm3gr7, 6885-7580 (1)), GF(Csm4gr5, 7580-8602 (1)), GF(Csm5, 8595-9779 (1)), GF(Cas6, 9782-10552 (1)), GF(Cas6, 12401-13105 (1)), GF(CRISPR-Cas locus, 4000-13105 (0))]

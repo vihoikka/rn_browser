@@ -282,5 +282,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 13634-13926 (0))
+graphic feature from cctyper protein table: GF(CorA, 4000-5667 (1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 6576-7823 (1))
+graphic feature from cctyper protein table: GF(Cas10, 7841-9469 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9462-10562 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 10580-11386 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11379-11759 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 11796-12668 (1))
+graphic feature from cctyper protein table: GF(Cas6, 12734-13426 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 4000-5667 (1))
-[GF(None, 1258-2728 (1)), GF(None, 2982-3216 (1)), GF(CorA family divalent cation transporter, 3999-5667 (1)), GF(None, 5831-6203 (1)), GF(None, 6575-7823 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7840-9469 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9461-10562 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10579-11386 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11378-11759 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 11795-12668 (1)), GF(None, 12733-13426 (1)), GF(NlpC/P60 family protein, 14162-15347 (1)), GF(LCP family protein, 15426-16407 (-1)), GF(Repeat region, 3501-3927 (0)), GF(Repeat region, 13634-13926 (0)), GF(cora, 4000-5667 (1)), GF(CRISPR-Cas locus, 4000-13426 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1258-2728 (1)), GF(None, 2982-3216 (1)), GF(CorA family divalent cation transporter, 3999-5667 (1)), GF(None, 5831-6203 (1)), GF(None, 6575-7823 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7840-9469 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9461-10562 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10579-11386 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 11378-11759 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 11795-12668 (1)), GF(None, 12733-13426 (1)), GF(NlpC/P60 family protein, 14162-15347 (1)), GF(LCP family protein, 15426-16407 (-1)), GF(Repeat region, 3501-3927 (0)), GF(Repeat region, 13634-13926 (0)), GF(CorA, 4000-5667 (1)), GF(Cmr1gr7, 6576-7823 (1)), GF(Cas10, 7841-9469 (1)), GF(Cmr3gr5, 9462-10562 (1)), GF(Cmr4gr7, 10580-11386 (1)), GF(Cmr5gr11, 11379-11759 (1)), GF(Cmr6gr7, 11796-12668 (1)), GF(Cas6, 12734-13426 (1)), GF(cora, 4000-5667 (1)), GF(CRISPR-Cas locus, 4000-13426 (0))]

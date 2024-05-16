@@ -224,5 +224,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10025-11675 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 5887-7530 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 7619-8041 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8092-8910 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 8951-9979 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10026-11675 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5862 (-1))
-[GF(CRISPR-associated endonuclease Cas1, 1202-2051 (1)), GF(type II toxin-antitoxin system HigB family toxin, 2244-2532 (1)), GF(None, 2519-2756 (1)), GF(None, 2942-3299 (1)), GF(DUF2281 domain-containing protein, 3415-3622 (1)), GF(type II toxin-antitoxin system death-on-curing family toxin, 3608-4031 (1)), GF(None, 3999-5862 (-1)), GF(None, 5886-7530 (-1)), GF(None, 7618-8041 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8091-8910 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8950-9979 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10025-11675 (-1)), GF(csx1, 4000-5862 (-1)), GF(CRISPR-Cas locus, 4000-11675 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(CRISPR-associated endonuclease Cas1, 1202-2051 (1)), GF(type II toxin-antitoxin system HigB family toxin, 2244-2532 (1)), GF(None, 2519-2756 (1)), GF(None, 2942-3299 (1)), GF(DUF2281 domain-containing protein, 3415-3622 (1)), GF(type II toxin-antitoxin system death-on-curing family toxin, 3608-4031 (1)), GF(None, 3999-5862 (-1)), GF(None, 5886-7530 (-1)), GF(None, 7618-8041 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8091-8910 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8950-9979 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10025-11675 (-1)), GF(Cmr6gr7, 5887-7530 (-1)), GF(Cmr5gr11, 7619-8041 (-1)), GF(Cmr4gr7, 8092-8910 (-1)), GF(Cmr3gr5, 8951-9979 (-1)), GF(Cas10, 10026-11675 (-1)), GF(csx1, 4000-5862 (-1)), GF(CRISPR-Cas locus, 4000-11675 (0))]

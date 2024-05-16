@@ -255,4 +255,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(cytochrome c biogenesis protein CcsA, 13478-14168 (-1))
-[GF(ATP-binding cassette domain-containing protein, 56-1898 (1)), GF(ABC transporter permease, 1894-3001 (1)), GF(ABC transporter permease, 2997-4083 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4827 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4816-6037 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6050-6995 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7005-7716 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7739-8192 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8175-10614 (-1)), GF(NAD-dependent DNA ligase LigA, 10698-12870 (-1)), GF(None, 12823-13489 (-1)), GF(cytochrome c biogenesis protein CcsA, 13478-14168 (-1)), GF(CRISPR-Cas locus, 4000-10614 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4827 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 4817-6037 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 6051-6995 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7006-7716 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7740-8192 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8176-10614 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ATP-binding cassette domain-containing protein, 56-1898 (1)), GF(ABC transporter permease, 1894-3001 (1)), GF(ABC transporter permease, 2997-4083 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4827 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4816-6037 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6050-6995 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7005-7716 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7739-8192 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8175-10614 (-1)), GF(NAD-dependent DNA ligase LigA, 10698-12870 (-1)), GF(None, 12823-13489 (-1)), GF(cytochrome c biogenesis protein CcsA, 13478-14168 (-1)), GF(Cas6, 4000-4827 (-1)), GF(Csm5gr7, 4817-6037 (-1)), GF(Csm4gr5, 6051-6995 (-1)), GF(Csm3gr7, 7006-7716 (-1)), GF(Csm2gr11, 7740-8192 (-1)), GF(Cas10, 8176-10614 (-1)), GF(CRISPR-Cas locus, 4000-10614 (0))]

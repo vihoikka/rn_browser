@@ -203,5 +203,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11991-12647 (0))
+graphic feature from cctyper protein table: GF(Csm6, 4000-5145 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6365-8182 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 8179-9477 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 9516-10394 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 10391-10795 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 10798-11832 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 4000-5145 (1))
-[GF(putative CRISPR-associated protein, 3999-5145 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5116-6361 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6364-8182 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8178-9477 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9515-10394 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 10390-10795 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10797-11832 (1)), GF(helix-turn-helix domain-containing protein, 12922-13330 (1)), GF(IS630 family transposase, 13436-13940 (1)), GF(Repeat region, 11991-12647 (0)), GF(cami1, 4000-5145 (1)), GF(CRISPR-Cas locus, 4000-11832 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(putative CRISPR-associated protein, 3999-5145 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5116-6361 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6364-8182 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8178-9477 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9515-10394 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 10390-10795 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 10797-11832 (1)), GF(helix-turn-helix domain-containing protein, 12922-13330 (1)), GF(IS630 family transposase, 13436-13940 (1)), GF(Repeat region, 11991-12647 (0)), GF(Csm6, 4000-5145 (1)), GF(Cas10, 6365-8182 (1)), GF(Cmr3gr5, 8179-9477 (1)), GF(Cmr4, 9516-10394 (1)), GF(Cmr5gr11, 10391-10795 (1)), GF(Cmr6gr7, 10798-11832 (1)), GF(cami1, 4000-5145 (1)), GF(CRISPR-Cas locus, 4000-11832 (0))]

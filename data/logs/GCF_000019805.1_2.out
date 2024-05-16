@@ -281,5 +281,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 881-3380 (0))
+graphic feature from cctyper protein table: GF(AbiEii, 4000-5007 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 5054-5479 (1))
+graphic feature from cctyper protein table: GF(Csm3, 5476-6399 (1))
+graphic feature from cctyper protein table: GF(Csm4, 6396-7214 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 7218-8207 (1))
+graphic feature from cctyper protein table: GF(Cas10, 8194-10461 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10932-12353 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 10932-12353 (-1))
-[GF(None, 3561-3996 (-1)), GF(None, 3999-5007 (-1)), GF(None, 5053-5479 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 5475-6399 (1)), GF(CRISPR-associated protein, 6395-7214 (1)), GF(CRISPR-associated protein, 7217-8207 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8193-10461 (1)), GF(None, 10457-10838 (1)), GF(CRISPR-associated CARF protein Csx1, 10931-12353 (-1)), GF(None, 12632-13010 (1)), GF(RNA-guided endonuclease TnpB family protein, 12981-13710 (1)), GF(Panacea domain-containing protein, 13971-14724 (1)), GF(None, 14729-15563 (1)), GF(None, 15640-15895 (1)), GF(Repeat region, 881-3380 (0)), GF(csx1, 10932-12353 (-1)), GF(CRISPR-Cas locus, 4000-12353 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 3561-3996 (-1)), GF(None, 3999-5007 (-1)), GF(None, 5053-5479 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 5475-6399 (1)), GF(CRISPR-associated protein, 6395-7214 (1)), GF(CRISPR-associated protein, 7217-8207 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8193-10461 (1)), GF(None, 10457-10838 (1)), GF(CRISPR-associated CARF protein Csx1, 10931-12353 (-1)), GF(None, 12632-13010 (1)), GF(RNA-guided endonuclease TnpB family protein, 12981-13710 (1)), GF(Panacea domain-containing protein, 13971-14724 (1)), GF(None, 14729-15563 (1)), GF(None, 15640-15895 (1)), GF(Repeat region, 881-3380 (0)), GF(AbiEii, 4000-5007 (-1)), GF(Csm2gr11, 5054-5479 (1)), GF(Csm3, 5476-6399 (1)), GF(Csm4, 6396-7214 (1)), GF(Csm5gr7, 7218-8207 (1)), GF(Cas10, 8194-10461 (1)), GF(Csx1, 10932-12353 (-1)), GF(csx1, 10932-12353 (-1)), GF(CRISPR-Cas locus, 4000-12353 (0))]

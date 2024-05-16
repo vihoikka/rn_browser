@@ -266,4 +266,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 15525-17180 (0))
-[GF(None, 486-1068 (1)), GF(None, 3380-3941 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4791 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4787-5882 (-1)), GF(None, 5878-6904 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6906-7695 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7687-8167 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8169-10563 (-1)), GF(None, 10688-11924 (1)), GF(None, 12336-12657 (-1)), GF(UvrD-helicase domain-containing protein, 12789-15081 (1)), GF(CRISPR-associated endonuclease Cas2, 15135-15420 (1)), GF(Repeat region, 1844-3334 (0)), GF(Repeat region, 15525-17180 (0)), GF(CRISPR-Cas locus, 4000-15420 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4791 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 4788-5882 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5879-6904 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6907-7695 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7688-8167 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8170-10563 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 15136-15420 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 486-1068 (1)), GF(None, 3380-3941 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4791 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4787-5882 (-1)), GF(None, 5878-6904 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6906-7695 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7687-8167 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8169-10563 (-1)), GF(None, 10688-11924 (1)), GF(None, 12336-12657 (-1)), GF(UvrD-helicase domain-containing protein, 12789-15081 (1)), GF(CRISPR-associated endonuclease Cas2, 15135-15420 (1)), GF(Repeat region, 1844-3334 (0)), GF(Repeat region, 15525-17180 (0)), GF(Cas6, 4000-4791 (-1)), GF(Csm5gr7, 4788-5882 (-1)), GF(Csm4gr5, 5879-6904 (-1)), GF(Csm3gr7, 6907-7695 (-1)), GF(Csm2gr11, 7688-8167 (-1)), GF(Cas10, 8170-10563 (-1)), GF(Cas2, 15136-15420 (1)), GF(CRISPR-Cas locus, 4000-15420 (0))]

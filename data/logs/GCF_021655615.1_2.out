@@ -298,4 +298,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 15569-15767 (-1))
-[GF(None, 1255-2044 (-1)), GF(None, 2381-2558 (-1)), GF(None, 3201-3591 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 3999-4968 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4945-8176 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8178-9024 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9023-10442 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 10451-10934 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10923-11820 (-1)), GF(None, 11825-12380 (-1)), GF(None, 12749-13679 (-1)), GF(None, 13822-14521 (-1)), GF(None, 14720-14876 (-1)), GF(None, 15307-15577 (-1)), GF(None, 15569-15767 (-1)), GF(CRISPR-Cas locus, 4000-12380 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-4968 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 4946-8176 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 8179-9024 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 9024-10442 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 10452-10934 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 10924-11820 (-1))
+graphic feature from cctyper protein table: GF(Cmr7, 11826-12380 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1255-2044 (-1)), GF(None, 2381-2558 (-1)), GF(None, 3201-3591 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 3999-4968 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4945-8176 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 8178-9024 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 9023-10442 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 10451-10934 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 10923-11820 (-1)), GF(None, 11825-12380 (-1)), GF(None, 12749-13679 (-1)), GF(None, 13822-14521 (-1)), GF(None, 14720-14876 (-1)), GF(None, 15307-15577 (-1)), GF(None, 15569-15767 (-1)), GF(Cmr3, 4000-4968 (-1)), GF(Cas10, 4946-8176 (-1)), GF(Cmr6gr7, 8179-9024 (-1)), GF(Cmr1gr7, 9024-10442 (-1)), GF(Cmr5gr11, 10452-10934 (-1)), GF(Cmr4gr7, 10924-11820 (-1)), GF(Cmr7, 11826-12380 (-1)), GF(CRISPR-Cas locus, 4000-12380 (0))]

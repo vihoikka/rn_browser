@@ -287,4 +287,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(3-isopropylmalate dehydrogenase, 13985-15065 (1))
-[GF(None, 736-988 (1)), GF(ATP-dependent protease subunit HslV, 987-1518 (1)), GF(ATP-dependent protease ATPase subunit HslU, 1527-2970 (1)), GF(aminopeptidase P family protein, 2978-4010 (1)), GF(None, 3999-4860 (-1)), GF(None, 4862-5219 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5211-6399 (-1)), GF(CRISPR-associated protein Csx11, 6400-9496 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9483-10647 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10639-11902 (-1)), GF(tRNA guanosine(34) transglycosylase Tgt, 11990-13091 (1)), GF(None, 13092-13383 (-1)), GF(3-isopropylmalate dehydratase small subunit, 13470-13974 (1)), GF(3-isopropylmalate dehydrogenase, 13985-15065 (1)), GF(CRISPR-Cas locus, 4000-11902 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-4860 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5212-6399 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6401-9496 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 9484-10647 (-1))
+graphic feature from cctyper protein table: GF(Cmr1, 10640-11902 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 736-988 (1)), GF(ATP-dependent protease subunit HslV, 987-1518 (1)), GF(ATP-dependent protease ATPase subunit HslU, 1527-2970 (1)), GF(aminopeptidase P family protein, 2978-4010 (1)), GF(None, 3999-4860 (-1)), GF(None, 4862-5219 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5211-6399 (-1)), GF(CRISPR-associated protein Csx11, 6400-9496 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9483-10647 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10639-11902 (-1)), GF(tRNA guanosine(34) transglycosylase Tgt, 11990-13091 (1)), GF(None, 13092-13383 (-1)), GF(3-isopropylmalate dehydratase small subunit, 13470-13974 (1)), GF(3-isopropylmalate dehydrogenase, 13985-15065 (1)), GF(Cmr3, 4000-4860 (-1)), GF(Cmr4gr7, 5212-6399 (-1)), GF(Cas10, 6401-9496 (-1)), GF(Cmr6, 9484-10647 (-1)), GF(Cmr1, 10640-11902 (-1)), GF(CRISPR-Cas locus, 4000-11902 (0))]

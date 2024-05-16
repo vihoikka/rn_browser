@@ -601,5 +601,27 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 17244-19000 (0))
+graphic feature from cctyper protein table: GF(AbiEii, 4000-5037 (1))
+graphic feature from cctyper protein table: GF(Cas6, 6211-6930 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6927-9212 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 9215-9697 (1))
+graphic feature from cctyper protein table: GF(Csm3, 9694-10569 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 10559-11425 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 11418-12524 (1))
+graphic feature from cctyper protein table: GF(Csx1, 12521-13774 (1))
+graphic feature from cctyper protein table: GF(Cas8b2, 13765-15060 (1))
+graphic feature from cctyper protein table: GF(Cas7, 15047-16042 (1))
+graphic feature from cctyper protein table: GF(Cas5, 16035-16718 (1))
+graphic feature from cctyper protein table: GF(Cas1, 19021-19974 (1))
+graphic feature from cctyper protein table: GF(Cas2, 19974-20231 (1))
+graphic feature from cctyper protein table: GF(Cas4, 20228-20716 (1))
+graphic feature from cctyper protein table: GF(Cas3, 20720-22792 (1))
+graphic feature from cctyper protein table: GF(Csa3, 25059-25775 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 12521-13774 (1))
-[GF(MFS transporter, 309-1482 (-1)), GF(tungstate ABC transporter permease WtpB, 1579-2323 (1)), GF(ATP/GTP-binding protein, 2319-3273 (1)), GF(DUF3226 domain-containing protein, 3272-3998 (1)), GF(tungstate ABC transporter ATP-binding protein WtpC, 3999-5037 (1)), GF(biotin transporter BioY, 5021-5510 (-1)), GF(RNA 2'-phosphotransferase, 5524-6034 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 6210-6930 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 6926-9212 (1)), GF(type III-A CRISPR-associated protein Csm2, 9214-9697 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9693-10569 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 10558-11425 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 11417-12524 (1)), GF(CRISPR-associated CARF protein Csx1, 12520-13774 (1)), GF(None, 13764-15060 (1)), GF(type I-B CRISPR-associated protein Cas7/Cst2/DevR, 15046-16042 (1)), GF(CRISPR-associated protein Cas5, 16034-16718 (1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 19020-19974 (1)), GF(CRISPR-associated endonuclease Cas2, 19973-20231 (1)), GF(CRISPR-associated protein Cas4, 20227-20716 (1)), GF(CRISPR-associated helicase/endonuclease Cas3, 20719-22792 (1)), GF(None, 22802-24251 (1)), GF(thioredoxin family protein, 24247-24928 (-1)), GF(helix-turn-helix domain-containing protein, 25058-25775 (1)), GF(4Fe-4S binding protein, 25743-25938 (1)), GF(NAD(P)/FAD-dependent oxidoreductase, 25934-27116 (1)), GF(NAD+ synthase, 27099-27873 (-1)), GF(tetratricopeptide repeat protein, 27869-28826 (-1)), GF(molybdenum cofactor biosynthesis protein MoaE, 28880-29330 (1)), GF(Repeat region, 17244-19000 (0)), GF(csx1, 12521-13774 (1)), GF(CRISPR-Cas locus, 4000-25775 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(MFS transporter, 309-1482 (-1)), GF(tungstate ABC transporter permease WtpB, 1579-2323 (1)), GF(ATP/GTP-binding protein, 2319-3273 (1)), GF(DUF3226 domain-containing protein, 3272-3998 (1)), GF(tungstate ABC transporter ATP-binding protein WtpC, 3999-5037 (1)), GF(biotin transporter BioY, 5021-5510 (-1)), GF(RNA 2'-phosphotransferase, 5524-6034 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 6210-6930 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 6926-9212 (1)), GF(type III-A CRISPR-associated protein Csm2, 9214-9697 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9693-10569 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 10558-11425 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 11417-12524 (1)), GF(CRISPR-associated CARF protein Csx1, 12520-13774 (1)), GF(None, 13764-15060 (1)), GF(type I-B CRISPR-associated protein Cas7/Cst2/DevR, 15046-16042 (1)), GF(CRISPR-associated protein Cas5, 16034-16718 (1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 19020-19974 (1)), GF(CRISPR-associated endonuclease Cas2, 19973-20231 (1)), GF(CRISPR-associated protein Cas4, 20227-20716 (1)), GF(CRISPR-associated helicase/endonuclease Cas3, 20719-22792 (1)), GF(None, 22802-24251 (1)), GF(thioredoxin family protein, 24247-24928 (-1)), GF(helix-turn-helix domain-containing protein, 25058-25775 (1)), GF(4Fe-4S binding protein, 25743-25938 (1)), GF(NAD(P)/FAD-dependent oxidoreductase, 25934-27116 (1)), GF(NAD+ synthase, 27099-27873 (-1)), GF(tetratricopeptide repeat protein, 27869-28826 (-1)), GF(molybdenum cofactor biosynthesis protein MoaE, 28880-29330 (1)), GF(Repeat region, 17244-19000 (0)), GF(AbiEii, 4000-5037 (1)), GF(Cas6, 6211-6930 (1)), GF(Cas10, 6927-9212 (1)), GF(Csm2gr11, 9215-9697 (1)), GF(Csm3, 9694-10569 (1)), GF(Csm4gr5, 10559-11425 (1)), GF(Csm5gr7, 11418-12524 (1)), GF(Csx1, 12521-13774 (1)), GF(Cas8b2, 13765-15060 (1)), GF(Cas7, 15047-16042 (1)), GF(Cas5, 16035-16718 (1)), GF(Cas1, 19021-19974 (1)), GF(Cas2, 19974-20231 (1)), GF(Cas4, 20228-20716 (1)), GF(Cas3, 20720-22792 (1)), GF(Csa3, 25059-25775 (1)), GF(csx1, 12521-13774 (1)), GF(CRISPR-Cas locus, 4000-25775 (0))]

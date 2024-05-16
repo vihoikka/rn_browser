@@ -188,5 +188,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(DEAD/DEAH box helicase, 14676-17655 (1))
+graphic feature from cctyper protein table: GF(Csx19, 6290-6913 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6932-8701 (-1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 8698-10977 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10979-12631 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 12628-14232 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 12628-14232 (-1))
-[GF(None, 871-1246 (-1)), GF(ATP-dependent helicase, 1434-3657 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6123 (-1)), GF(cold shock domain-containing protein, 6126-6309 (-1)), GF(None, 6289-6913 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6931-8701 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8697-10977 (-1)), GF(None, 10978-12631 (-1)), GF(CRISPR-associated protein Cas02710, 12627-14232 (-1)), GF(DEAD/DEAH box helicase, 14676-17655 (1)), GF(csx1, 12628-14232 (-1)), GF(CRISPR-Cas locus, 4000-14232 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 871-1246 (-1)), GF(ATP-dependent helicase, 1434-3657 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6123 (-1)), GF(cold shock domain-containing protein, 6126-6309 (-1)), GF(None, 6289-6913 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6931-8701 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8697-10977 (-1)), GF(None, 10978-12631 (-1)), GF(CRISPR-associated protein Cas02710, 12627-14232 (-1)), GF(DEAD/DEAH box helicase, 14676-17655 (1)), GF(Csx19, 6290-6913 (-1)), GF(Csm3gr7, 6932-8701 (-1)), GF(Csx10gr5, 8698-10977 (-1)), GF(Cas10, 10979-12631 (-1)), GF(Csx1, 12628-14232 (-1)), GF(csx1, 12628-14232 (-1)), GF(CRISPR-Cas locus, 4000-14232 (0))]

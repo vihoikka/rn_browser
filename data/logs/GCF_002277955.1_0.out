@@ -129,4 +129,13 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(helicase-related protein, 7839-11256 (1))
-[GF(None, 635-1496 (1)), GF(None, 1545-1992 (-1)), GF(None, 3951-5085 (1)), GF(RAMP superfamily CRISPR-associated protein, 5098-6133 (1)), GF(None, 6129-6501 (1)), GF(None, 6497-7400 (1)), GF(helicase-related protein, 7839-11256 (1)), GF(CRISPR-Cas locus, 4000-7400 (0))]
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5099-6133 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 6130-6501 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 6498-7400 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 635-1496 (1)), GF(None, 1545-1992 (-1)), GF(None, 3951-5085 (1)), GF(RAMP superfamily CRISPR-associated protein, 5098-6133 (1)), GF(None, 6129-6501 (1)), GF(None, 6497-7400 (1)), GF(helicase-related protein, 7839-11256 (1)), GF(Cmr4gr7, 5099-6133 (1)), GF(Cmr5gr11, 6130-6501 (1)), GF(Cmr3, 6498-7400 (1)), GF(CRISPR-Cas locus, 4000-7400 (0))]

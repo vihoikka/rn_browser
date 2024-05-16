@@ -208,4 +208,19 @@ qualifiers:
 
 GF(Repeat region, 16818-19460 (0))
 graphic feature from validated effectors: GF(cam2, 4825-5508 (1))
-[GF(S8 family serine peptidase, 1162-3535 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4800 (1)), GF(None, 4824-5508 (1)), GF(None, 5521-7780 (1)), GF(None, 7776-9792 (1)), GF(RAMP superfamily CRISPR-associated protein, 9788-11603 (1)), GF(None, 11595-12186 (1)), GF(RAMP superfamily CRISPR-associated protein, 12188-14444 (1)), GF(CRISPR-associated endonuclease Cas2, 14507-14789 (-1)), GF(CRISPR-associated endonuclease Cas1, 14785-16564 (-1)), GF(Repeat region, 16818-19460 (0)), GF(cam2, 4825-5508 (1)), GF(CRISPR-Cas locus, 4000-16564 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4800 (1))
+graphic feature from cctyper protein table: GF(Mem, 4825-5508 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5522-7780 (1))
+graphic feature from cctyper protein table: GF(Csm3, 7777-9792 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9789-11603 (1))
+graphic feature from cctyper protein table: GF(Csx19, 11596-12186 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 12189-14444 (1))
+graphic feature from cctyper protein table: GF(Cas2, 14508-14789 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 14786-16564 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(S8 family serine peptidase, 1162-3535 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-4800 (1)), GF(None, 4824-5508 (1)), GF(None, 5521-7780 (1)), GF(None, 7776-9792 (1)), GF(RAMP superfamily CRISPR-associated protein, 9788-11603 (1)), GF(None, 11595-12186 (1)), GF(RAMP superfamily CRISPR-associated protein, 12188-14444 (1)), GF(CRISPR-associated endonuclease Cas2, 14507-14789 (-1)), GF(CRISPR-associated endonuclease Cas1, 14785-16564 (-1)), GF(Repeat region, 16818-19460 (0)), GF(cam2, 4825-5508 (1)), GF(Cas6, 4000-4800 (1)), GF(Mem, 4825-5508 (1)), GF(Cas10, 5522-7780 (1)), GF(Csm3, 7777-9792 (1)), GF(Csm3gr7, 9789-11603 (1)), GF(Csx19, 11596-12186 (1)), GF(Csm3gr7, 12189-14444 (1)), GF(Cas2, 14508-14789 (-1)), GF(Cas1, 14786-16564 (-1)), GF(CRISPR-Cas locus, 4000-16564 (0))]

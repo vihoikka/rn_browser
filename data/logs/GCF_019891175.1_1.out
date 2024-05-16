@@ -305,5 +305,19 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(filamentous hemagglutinin N-terminal domain-containing protein, 18234-21150 (1))
+graphic feature from cctyper protein table: GF(Csm3, 4000-6177 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 6789-7376 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8044-9513 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12350-13948 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 13945-15243 (-1))
+graphic feature from cctyper protein table: GF(Csx3, 15309-16232 (-1))
+graphic feature from cctyper protein table: GF(WYL, 16303-17760 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 13945-15243 (-1))
-[GF(Uma2 family endonuclease, 1414-2089 (1)), GF(IS481 family transposase, 2224-3358 (1)), GF(None, 3419-3716 (-1)), GF(None, 3708-3894 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6177 (-1)), GF(Uma2 family endonuclease, 6235-6805 (-1)), GF(CRISPR-associated protein Csx19, 6788-7376 (-1)), GF(None, 7372-8047 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8043-9513 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11150-11747 (-1)), GF(Uma2 family endonuclease, 11747-12353 (-1)), GF(None, 12349-13948 (-1)), GF(DUF1887 family CARF protein, 13944-15243 (-1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 15308-16232 (-1)), GF(TIGR03985 family CRISPR-associated protein, 16302-17760 (1)), GF(filamentous hemagglutinin N-terminal domain-containing protein, 18234-21150 (1)), GF(can1-2, 13945-15243 (-1)), GF(CRISPR-Cas locus, 4000-17760 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 15309-16232 (-1))
+[GF(Uma2 family endonuclease, 1414-2089 (1)), GF(IS481 family transposase, 2224-3358 (1)), GF(None, 3419-3716 (-1)), GF(None, 3708-3894 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6177 (-1)), GF(Uma2 family endonuclease, 6235-6805 (-1)), GF(CRISPR-associated protein Csx19, 6788-7376 (-1)), GF(None, 7372-8047 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8043-9513 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11150-11747 (-1)), GF(Uma2 family endonuclease, 11747-12353 (-1)), GF(None, 12349-13948 (-1)), GF(DUF1887 family CARF protein, 13944-15243 (-1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 15308-16232 (-1)), GF(TIGR03985 family CRISPR-associated protein, 16302-17760 (1)), GF(filamentous hemagglutinin N-terminal domain-containing protein, 18234-21150 (1)), GF(Csm3, 4000-6177 (-1)), GF(Csx19, 6789-7376 (-1)), GF(Csm3gr7, 8044-9513 (-1)), GF(Cas10, 12350-13948 (-1)), GF(Csx1, 13945-15243 (-1)), GF(Csx3, 15309-16232 (-1)), GF(WYL, 16303-17760 (1)), GF(can1-2, 13945-15243 (-1)), GF(crn3, 15309-16232 (-1)), GF(CRISPR-Cas locus, 4000-17760 (0))]

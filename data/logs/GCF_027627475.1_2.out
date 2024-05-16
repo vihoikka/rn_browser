@@ -193,5 +193,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(methyl-accepting chemotaxis protein, 14055-16221 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-6036 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 6036-6716 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6688-8115 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8112-10337 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10334-11857 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 12894-13805 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 11838-12866 (-1))
-[GF(penicillin-binding transpeptidase domain-containing protein, 92-1937 (-1)), GF(arsenic transporter, 2138-3431 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6036 (-1)), GF(CRISPR-associated protein Csx19, 6035-6716 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6687-8115 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8111-10337 (-1)), GF(None, 10333-11857 (-1)), GF(DUF6602 domain-containing protein, 11837-12866 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12893-13805 (-1)), GF(methyl-accepting chemotaxis protein, 14055-16221 (-1)), GF(nucc, 11838-12866 (-1)), GF(CRISPR-Cas locus, 4000-13805 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(penicillin-binding transpeptidase domain-containing protein, 92-1937 (-1)), GF(arsenic transporter, 2138-3431 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6036 (-1)), GF(CRISPR-associated protein Csx19, 6035-6716 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6687-8115 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8111-10337 (-1)), GF(None, 10333-11857 (-1)), GF(DUF6602 domain-containing protein, 11837-12866 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12893-13805 (-1)), GF(methyl-accepting chemotaxis protein, 14055-16221 (-1)), GF(Csm3gr7, 4000-6036 (-1)), GF(Csx19, 6036-6716 (-1)), GF(Csm3gr7, 6688-8115 (-1)), GF(Csm3gr7, 8112-10337 (-1)), GF(Cas10, 10334-11857 (-1)), GF(Cas6, 12894-13805 (-1)), GF(nucc, 11838-12866 (-1)), GF(CRISPR-Cas locus, 4000-13805 (0))]

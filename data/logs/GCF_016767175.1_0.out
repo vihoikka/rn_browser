@@ -248,4 +248,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(ABC transporter permease, 14474-15167 (1))
-[GF(zinc ribbon domain-containing protein, 254-350 (-1)), GF(None, 809-986 (-1)), GF(None, 1369-2572 (-1)), GF(sigma-70 family RNA polymerase sigma factor, 2573-3044 (-1)), GF(nuclease-related domain-containing protein, 3258-3981 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5925 (-1)), GF(CRISPR-associated protein Csx19, 5940-6480 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6492-7875 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7876-10018 (-1)), GF(None, 10033-11548 (-1)), GF(None, 11557-12970 (-1)), GF(ABC transporter ATP-binding protein, 13629-14478 (1)), GF(ABC transporter permease, 14474-15167 (1)), GF(CRISPR-Cas locus, 4000-14478 (0))]
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-5925 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 5941-6480 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6493-7875 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10034-11548 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 11558-12970 (-1))
+graphic feature from cctyper protein table: GF(AbiEii, 13630-14478 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(zinc ribbon domain-containing protein, 254-350 (-1)), GF(None, 809-986 (-1)), GF(None, 1369-2572 (-1)), GF(sigma-70 family RNA polymerase sigma factor, 2573-3044 (-1)), GF(nuclease-related domain-containing protein, 3258-3981 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5925 (-1)), GF(CRISPR-associated protein Csx19, 5940-6480 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6492-7875 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7876-10018 (-1)), GF(None, 10033-11548 (-1)), GF(None, 11557-12970 (-1)), GF(ABC transporter ATP-binding protein, 13629-14478 (1)), GF(ABC transporter permease, 14474-15167 (1)), GF(Csm3gr7, 4000-5925 (-1)), GF(Csx19, 5941-6480 (-1)), GF(Csm3gr7, 6493-7875 (-1)), GF(Cas10, 10034-11548 (-1)), GF(Csx1, 11558-12970 (-1)), GF(AbiEii, 13630-14478 (1)), GF(CRISPR-Cas locus, 4000-14478 (0))]

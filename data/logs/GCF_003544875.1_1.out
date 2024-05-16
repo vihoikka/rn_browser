@@ -392,6 +392,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 5408-5787 (0))
+graphic feature from cctyper protein table: GF(CorA, 4000-4818 (1))
+graphic feature from cctyper protein table: GF(Can2, 6039-7187 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 7250-7522 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11809-13020 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 13023-13709 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 13684-14487 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 14491-16341 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 2327-3964 (1))
 graphic feature from known effectors: GF(can1-2, 6039-7187 (-1))
-[GF(decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase, 7-1456 (1)), GF(None, 1541-1748 (-1)), GF(None, 1998-2223 (-1)), GF(None, 2326-3964 (1)), GF(None, 3999-4818 (1)), GF(None, 4826-5288 (1)), GF(DUF1887 family CARF protein, 6038-7187 (-1)), GF(CRISPR-associated endonuclease Cas2, 7249-7522 (-1)), GF(CRISPR-associated endonuclease Cas1, 7521-10338 (-1)), GF(3'-5' exoribonuclease, 10334-10868 (-1)), GF(None, 10898-11588 (-1)), GF(None, 11808-13020 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13022-13709 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13683-14487 (-1)), GF(RAMP superfamily CRISPR-associated protein, 14490-16341 (-1)), GF(None, 16337-17675 (-1)), GF(None, 17785-17956 (-1)), GF(DUF1254 domain-containing protein, 18258-19779 (1)), GF(LysR family transcriptional regulator, 19880-20792 (-1)), GF(None, 21123-21261 (1)), GF(Repeat region, 5408-5787 (0)), GF(cora, 2327-3964 (1)), GF(can1-2, 6039-7187 (-1)), GF(CRISPR-Cas locus, 4000-17555 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase, 7-1456 (1)), GF(None, 1541-1748 (-1)), GF(None, 1998-2223 (-1)), GF(None, 2326-3964 (1)), GF(None, 3999-4818 (1)), GF(None, 4826-5288 (1)), GF(DUF1887 family CARF protein, 6038-7187 (-1)), GF(CRISPR-associated endonuclease Cas2, 7249-7522 (-1)), GF(CRISPR-associated endonuclease Cas1, 7521-10338 (-1)), GF(3'-5' exoribonuclease, 10334-10868 (-1)), GF(None, 10898-11588 (-1)), GF(None, 11808-13020 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13022-13709 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13683-14487 (-1)), GF(RAMP superfamily CRISPR-associated protein, 14490-16341 (-1)), GF(None, 16337-17675 (-1)), GF(None, 17785-17956 (-1)), GF(DUF1254 domain-containing protein, 18258-19779 (1)), GF(LysR family transcriptional regulator, 19880-20792 (-1)), GF(None, 21123-21261 (1)), GF(Repeat region, 5408-5787 (0)), GF(CorA, 4000-4818 (1)), GF(Can2, 6039-7187 (-1)), GF(Cas2, 7250-7522 (-1)), GF(Csm3gr7, 11809-13020 (-1)), GF(Csm3gr7, 13023-13709 (-1)), GF(Csm3gr7, 13684-14487 (-1)), GF(Csm4gr5, 14491-16341 (-1)), GF(cora, 2327-3964 (1)), GF(can1-2, 6039-7187 (-1)), GF(CRISPR-Cas locus, 4000-17555 (0))]

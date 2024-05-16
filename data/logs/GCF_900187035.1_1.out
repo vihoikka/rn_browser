@@ -252,4 +252,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3185-3411 (0))
-[GF(None, 1126-1780 (1)), GF(None, 1803-3039 (1)), GF(None, 3648-3867 (1)), GF(TM1812 family CRISPR-associated protein, 3999-4659 (1)), GF(None, 4697-6626 (1)), GF(None, 6714-8364 (1)), GF(RAMP superfamily CRISPR-associated protein, 8383-9025 (1)), GF(RAMP superfamily CRISPR-associated protein, 9042-10596 (1)), GF(RAMP superfamily CRISPR-associated protein, 10623-12054 (1)), GF(CRISPR-associated protein Csx19, 12043-12619 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12713-14498 (1)), GF(cytidylate kinase-like family protein, 14586-15159 (-1)), GF(L-fucose/L-arabinose isomerase family protein, 15260-16748 (-1)), GF(Repeat region, 3185-3411 (0)), GF(CRISPR-Cas locus, 4000-14498 (0))]
+graphic feature from cctyper protein table: GF(Csx1, 4000-4659 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6715-8364 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8384-9025 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 9043-10596 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10624-12054 (1))
+graphic feature from cctyper protein table: GF(Csx19, 12044-12619 (1))
+graphic feature from cctyper protein table: GF(Csm3, 12714-14498 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1126-1780 (1)), GF(None, 1803-3039 (1)), GF(None, 3648-3867 (1)), GF(TM1812 family CRISPR-associated protein, 3999-4659 (1)), GF(None, 4697-6626 (1)), GF(None, 6714-8364 (1)), GF(RAMP superfamily CRISPR-associated protein, 8383-9025 (1)), GF(RAMP superfamily CRISPR-associated protein, 9042-10596 (1)), GF(RAMP superfamily CRISPR-associated protein, 10623-12054 (1)), GF(CRISPR-associated protein Csx19, 12043-12619 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12713-14498 (1)), GF(cytidylate kinase-like family protein, 14586-15159 (-1)), GF(L-fucose/L-arabinose isomerase family protein, 15260-16748 (-1)), GF(Repeat region, 3185-3411 (0)), GF(Csx1, 4000-4659 (1)), GF(Cas10, 6715-8364 (1)), GF(Csm3gr7, 8384-9025 (1)), GF(Csx10gr5, 9043-10596 (1)), GF(Csm3gr7, 10624-12054 (1)), GF(Csx19, 12044-12619 (1)), GF(Csm3, 12714-14498 (1)), GF(CRISPR-Cas locus, 4000-14498 (0))]

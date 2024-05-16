@@ -317,5 +317,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2735-3785 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-5691 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6166-7173 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 7529-8413 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8410-8880 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 8882-10627 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10872-12533 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 10872-12533 (1))
-[GF(None, 519-666 (1)), GF(None, 1355-1574 (-1)), GF(None, 1628-1769 (1)), GF(None, 1808-2024 (1)), GF(None, 2208-2283 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5691 (1)), GF(CRISPR-associated protein, 6165-7173 (1)), GF(RAMP superfamily CRISPR-associated protein, 7528-8413 (1)), GF(None, 8409-8880 (1)), GF(None, 8881-10627 (1)), GF(None, 10871-12533 (1)), GF(None, 12800-12965 (-1)), GF(type II toxin-antitoxin system VapB family antitoxin, 13194-13263 (1)), GF(ribbon-helix-helix domain-containing protein, 13406-13607 (-1)), GF(diflavin flavoprotein, 14097-15822 (-1)), GF(None, 16159-16486 (-1)), GF(Repeat region, 127-458 (0)), GF(Repeat region, 2735-3785 (0)), GF(csx1, 10872-12533 (1)), GF(CRISPR-Cas locus, 4000-12533 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 519-666 (1)), GF(None, 1355-1574 (-1)), GF(None, 1628-1769 (1)), GF(None, 1808-2024 (1)), GF(None, 2208-2283 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-5691 (1)), GF(CRISPR-associated protein, 6165-7173 (1)), GF(RAMP superfamily CRISPR-associated protein, 7528-8413 (1)), GF(None, 8409-8880 (1)), GF(None, 8881-10627 (1)), GF(None, 10871-12533 (1)), GF(None, 12800-12965 (-1)), GF(type II toxin-antitoxin system VapB family antitoxin, 13194-13263 (1)), GF(ribbon-helix-helix domain-containing protein, 13406-13607 (-1)), GF(diflavin flavoprotein, 14097-15822 (-1)), GF(None, 16159-16486 (-1)), GF(Repeat region, 127-458 (0)), GF(Repeat region, 2735-3785 (0)), GF(Cas10, 4000-5691 (1)), GF(Cmr3gr5, 6166-7173 (1)), GF(Cmr4gr7, 7529-8413 (1)), GF(Cmr5gr11, 8410-8880 (1)), GF(Cmr6gr7, 8882-10627 (1)), GF(Csx1, 10872-12533 (1)), GF(csx1, 10872-12533 (1)), GF(CRISPR-Cas locus, 4000-12533 (0))]

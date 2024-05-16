@@ -219,4 +219,16 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(histidine--tRNA ligase, 14821-16066 (1))
-[GF(None, 415-871 (1)), GF(SNF2-related protein, 894-3879 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5151 (1)), GF(RAMP superfamily CRISPR-associated protein, 5143-6415 (1)), GF(CRISPR-associated protein Csx11, 6395-9989 (1)), GF(gamma-glutamylcyclotransferase family protein, 10001-10448 (1)), GF(RAMP superfamily CRISPR-associated protein, 10437-11526 (1)), GF(None, 11562-11931 (1)), GF(None, 11930-12773 (1)), GF(thermosome subunit beta, 12824-14453 (-1)), GF(histidine--tRNA ligase, 14821-16066 (1)), GF(CRISPR-Cas locus, 4000-12773 (0))]
+graphic feature from cctyper protein table: GF(Cmr1, 4000-5151 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 5144-6415 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6396-9989 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 10438-11526 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 11563-11931 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 11931-12773 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 415-871 (1)), GF(SNF2-related protein, 894-3879 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5151 (1)), GF(RAMP superfamily CRISPR-associated protein, 5143-6415 (1)), GF(CRISPR-associated protein Csx11, 6395-9989 (1)), GF(gamma-glutamylcyclotransferase family protein, 10001-10448 (1)), GF(RAMP superfamily CRISPR-associated protein, 10437-11526 (1)), GF(None, 11562-11931 (1)), GF(None, 11930-12773 (1)), GF(thermosome subunit beta, 12824-14453 (-1)), GF(histidine--tRNA ligase, 14821-16066 (1)), GF(Cmr1, 4000-5151 (1)), GF(Cmr6gr7, 5144-6415 (1)), GF(Cas10, 6396-9989 (1)), GF(Cmr4gr7, 10438-11526 (1)), GF(Cmr5gr11, 11563-11931 (1)), GF(Cmr3, 11931-12773 (1)), GF(CRISPR-Cas locus, 4000-12773 (0))]

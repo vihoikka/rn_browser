@@ -170,4 +170,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 14219-16118 (0))
-[GF(BREX-3 system P-loop-containing protein BrxF, 3361-3838 (-1)), GF(None, 3999-5043 (-1)), GF(None, 5046-5421 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5417-6614 (-1)), GF(CRISPR-associated protein Csx11, 6618-10152 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10183-11434 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11426-12443 (-1)), GF(IS110 family transposase, 12912-14133 (1)), GF(Repeat region, 14219-16118 (0)), GF(CRISPR-Cas locus, 4000-12443 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-5043 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5047-5421 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5418-6614 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6619-10152 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 10184-11434 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 11427-12443 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(BREX-3 system P-loop-containing protein BrxF, 3361-3838 (-1)), GF(None, 3999-5043 (-1)), GF(None, 5046-5421 (-1)), GF(RAMP superfamily CRISPR-associated protein, 5417-6614 (-1)), GF(CRISPR-associated protein Csx11, 6618-10152 (-1)), GF(RAMP superfamily CRISPR-associated protein, 10183-11434 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11426-12443 (-1)), GF(IS110 family transposase, 12912-14133 (1)), GF(Repeat region, 14219-16118 (0)), GF(Cmr3, 4000-5043 (-1)), GF(Cmr5gr11, 5047-5421 (-1)), GF(Cmr4gr7, 5418-6614 (-1)), GF(Cas10, 6619-10152 (-1)), GF(Cmr6, 10184-11434 (-1)), GF(Cmr1gr7, 11427-12443 (-1)), GF(CRISPR-Cas locus, 4000-12443 (0))]

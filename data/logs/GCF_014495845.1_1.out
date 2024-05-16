@@ -311,5 +311,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 21404-22473 (0))
+graphic feature from cctyper protein table: GF(Cas10, 7648-9489 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11314-12741 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 12801-15074 (1))
+graphic feature from cctyper protein table: GF(RT, 18447-20510 (1))
+graphic feature from cctyper protein table: GF(Cas2, 20589-20882 (1))
+graphic feature from cctyper protein table: GF(Cas6, 22732-23640 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 3937-6450 (1))
-[GF(ABC transporter substrate-binding protein, 840-2415 (1)), GF(MFS transporter, 2651-3914 (1)), GF(None, 3936-6450 (1)), GF(None, 7647-9489 (1)), GF(RAMP superfamily CRISPR-associated protein, 9407-11312 (1)), GF(RAMP superfamily CRISPR-associated protein, 11313-12741 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12800-15074 (1)), GF(None, 15340-18025 (-1)), GF(CRISPR-associated endonuclease Cas1, 18446-20510 (1)), GF(CRISPR-associated endonuclease Cas2, 20588-20882 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 22731-23640 (1)), GF(None, 23749-24013 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 24177-24414 (-1)), GF(None, 25258-25567 (1)), GF(protein-L-isoaspartate O-methyltransferase, 26176-26815 (1)), GF(Repeat region, 6697-7446 (0)), GF(Repeat region, 21404-22473 (0)), GF(cora, 3937-6450 (1)), GF(CRISPR-Cas locus, 4000-23640 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ABC transporter substrate-binding protein, 840-2415 (1)), GF(MFS transporter, 2651-3914 (1)), GF(None, 3936-6450 (1)), GF(None, 7647-9489 (1)), GF(RAMP superfamily CRISPR-associated protein, 9407-11312 (1)), GF(RAMP superfamily CRISPR-associated protein, 11313-12741 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 12800-15074 (1)), GF(None, 15340-18025 (-1)), GF(CRISPR-associated endonuclease Cas1, 18446-20510 (1)), GF(CRISPR-associated endonuclease Cas2, 20588-20882 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 22731-23640 (1)), GF(None, 23749-24013 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 24177-24414 (-1)), GF(None, 25258-25567 (1)), GF(protein-L-isoaspartate O-methyltransferase, 26176-26815 (1)), GF(Repeat region, 6697-7446 (0)), GF(Repeat region, 21404-22473 (0)), GF(Cas10, 7648-9489 (1)), GF(Csm3gr7, 11314-12741 (1)), GF(Csm3gr7, 12801-15074 (1)), GF(RT, 18447-20510 (1)), GF(Cas2, 20589-20882 (1)), GF(Cas6, 22732-23640 (1)), GF(cora, 3937-6450 (1)), GF(CRISPR-Cas locus, 4000-23640 (0))]

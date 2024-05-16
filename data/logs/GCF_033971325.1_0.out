@@ -281,4 +281,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11217-11444 (0))
-[GF(None, 396-639 (1)), GF(SH3 domain-containing protein, 635-1766 (1)), GF(MBL fold metallo-hydrolase, 1762-3145 (-1)), GF(glycine--tRNA ligase subunit alpha, 3141-3984 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-4929 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 4909-5281 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5277-6162 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6158-7136 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7116-8922 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 8918-10052 (-1)), GF(None, 10048-10300 (-1)), GF(MBL fold metallo-hydrolase, 11944-12577 (-1)), GF(NADH-quinone oxidoreductase subunit N, 12576-13959 (-1)), GF(Repeat region, 11217-11444 (0)), GF(CRISPR-Cas locus, 4000-10052 (0))]
+graphic feature from cctyper protein table: GF(Cmr6gr7, 4000-4929 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 4910-5281 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5278-6162 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6159-7136 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7117-8922 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 8919-10052 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 396-639 (1)), GF(SH3 domain-containing protein, 635-1766 (1)), GF(MBL fold metallo-hydrolase, 1762-3145 (-1)), GF(glycine--tRNA ligase subunit alpha, 3141-3984 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-4929 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 4909-5281 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5277-6162 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 6158-7136 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7116-8922 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 8918-10052 (-1)), GF(None, 10048-10300 (-1)), GF(MBL fold metallo-hydrolase, 11944-12577 (-1)), GF(NADH-quinone oxidoreductase subunit N, 12576-13959 (-1)), GF(Repeat region, 11217-11444 (0)), GF(Cmr6gr7, 4000-4929 (-1)), GF(Cmr5gr11, 4910-5281 (-1)), GF(Cmr4gr7, 5278-6162 (-1)), GF(Cmr3gr5, 6159-7136 (-1)), GF(Cas10, 7117-8922 (-1)), GF(Cmr1gr7, 8919-10052 (-1)), GF(CRISPR-Cas locus, 4000-10052 (0))]

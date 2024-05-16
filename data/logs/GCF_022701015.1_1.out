@@ -184,5 +184,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 14376-14811 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-5961 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 5939-6592 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6589-8010 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10205-11806 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 11803-12783 (-1))
-[GF(TIGR02678 family protein, 24-1176 (-1)), GF(TIGR02677 family protein, 1168-2671 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5961 (-1)), GF(CRISPR-associated protein Csx19, 5938-6592 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6588-8010 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8006-10208 (-1)), GF(None, 10204-11806 (-1)), GF(DUF6602 domain-containing protein, 11802-12783 (-1)), GF(None, 13196-13529 (-1)), GF(None, 14376-14811 (-1)), GF(nucc, 11803-12783 (-1)), GF(CRISPR-Cas locus, 4000-11806 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(TIGR02678 family protein, 24-1176 (-1)), GF(TIGR02677 family protein, 1168-2671 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5961 (-1)), GF(CRISPR-associated protein Csx19, 5938-6592 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6588-8010 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8006-10208 (-1)), GF(None, 10204-11806 (-1)), GF(DUF6602 domain-containing protein, 11802-12783 (-1)), GF(None, 13196-13529 (-1)), GF(None, 14376-14811 (-1)), GF(Csm3gr7, 4000-5961 (-1)), GF(Csx19, 5939-6592 (-1)), GF(Csm3gr7, 6589-8010 (-1)), GF(Cas10, 10205-11806 (-1)), GF(nucc, 11803-12783 (-1)), GF(CRISPR-Cas locus, 4000-11806 (0))]

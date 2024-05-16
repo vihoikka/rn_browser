@@ -236,5 +236,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11782-12089 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6324 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6329-6874 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6893-7570 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7716-8522 (1))
+graphic feature from cctyper protein table: GF(Csx1, 9802-11370 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 9802-11370 (-1))
-[GF(LPXTG cell wall anchor domain-containing protein, 380-959 (-1)), GF(IS21 family transposase, 1158-2384 (1)), GF(IS21-like element helper ATPase IstB, 2376-3006 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6324 (1)), GF(type III-A CRISPR-associated protein Csm2, 6328-6874 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6892-7570 (1)), GF(None, 7715-8522 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 8525-9338 (1)), GF(None, 9801-11370 (-1)), GF(transposase, 12334-13633 (1)), GF(DUF2971 domain-containing protein, 13820-14474 (1)), GF(Repeat region, 11782-12089 (0)), GF(csx1, 9802-11370 (-1)), GF(CRISPR-Cas locus, 4000-11442 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(LPXTG cell wall anchor domain-containing protein, 380-959 (-1)), GF(IS21 family transposase, 1158-2384 (1)), GF(IS21-like element helper ATPase IstB, 2376-3006 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6324 (1)), GF(type III-A CRISPR-associated protein Csm2, 6328-6874 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6892-7570 (1)), GF(None, 7715-8522 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 8525-9338 (1)), GF(None, 9801-11370 (-1)), GF(transposase, 12334-13633 (1)), GF(DUF2971 domain-containing protein, 13820-14474 (1)), GF(Repeat region, 11782-12089 (0)), GF(Cas10, 4000-6324 (1)), GF(Csm2gr11, 6329-6874 (1)), GF(Csm3gr7, 6893-7570 (1)), GF(Csm4gr5, 7716-8522 (1)), GF(Csx1, 9802-11370 (-1)), GF(csx1, 9802-11370 (-1)), GF(CRISPR-Cas locus, 4000-11442 (0))]

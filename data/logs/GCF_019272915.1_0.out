@@ -265,5 +265,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 768-1503 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6273 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6275-6706 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6708-7352 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 7362-8270 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 8279-9283 (1))
+graphic feature from cctyper protein table: GF(Csm6, 9298-10563 (1))
+graphic feature from cctyper protein table: GF(Cas6, 10560-11300 (1))
+graphic feature from cctyper protein table: GF(Csa3, 12344-12661 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csm6-ca6, 9298-10563 (1))
-[GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6273 (1)), GF(type III-A CRISPR-associated protein Csm2, 6274-6706 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6707-7352 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7361-8270 (1)), GF(RAMP superfamily CRISPR-associated protein, 8278-9283 (1)), GF(type III-A CRISPR-associated CARF protein Csm6, 9297-10563 (1)), GF(CRISPR-associated endoribonuclease Cas6, 10559-11300 (1)), GF(BlaZ-like penicillin-hydrolyzing class A beta-lactamase, 11351-12206 (-1)), GF(metalloregulator ArsR/SmtB family transcription factor, 12343-12661 (1)), GF(NAD-dependent epimerase/dehydratase family protein, 12738-13662 (1)), GF(type 1 glutamine amidotransferase domain-containing protein, 13663-14359 (1)), GF(LLM class flavin-dependent oxidoreductase, 14688-16014 (-1)), GF(Repeat region, 768-1503 (0)), GF(csm6-ca6, 9298-10563 (1)), GF(CRISPR-Cas locus, 4000-12661 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6273 (1)), GF(type III-A CRISPR-associated protein Csm2, 6274-6706 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6707-7352 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7361-8270 (1)), GF(RAMP superfamily CRISPR-associated protein, 8278-9283 (1)), GF(type III-A CRISPR-associated CARF protein Csm6, 9297-10563 (1)), GF(CRISPR-associated endoribonuclease Cas6, 10559-11300 (1)), GF(BlaZ-like penicillin-hydrolyzing class A beta-lactamase, 11351-12206 (-1)), GF(metalloregulator ArsR/SmtB family transcription factor, 12343-12661 (1)), GF(NAD-dependent epimerase/dehydratase family protein, 12738-13662 (1)), GF(type 1 glutamine amidotransferase domain-containing protein, 13663-14359 (1)), GF(LLM class flavin-dependent oxidoreductase, 14688-16014 (-1)), GF(Repeat region, 768-1503 (0)), GF(Cas10, 4000-6273 (1)), GF(Csm2gr11, 6275-6706 (1)), GF(Csm3gr7, 6708-7352 (1)), GF(Csm4gr5, 7362-8270 (1)), GF(Csm5gr7, 8279-9283 (1)), GF(Csm6, 9298-10563 (1)), GF(Cas6, 10560-11300 (1)), GF(Csa3, 12344-12661 (1)), GF(csm6-ca6, 9298-10563 (1)), GF(CRISPR-Cas locus, 4000-12661 (0))]

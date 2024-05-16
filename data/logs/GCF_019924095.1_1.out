@@ -502,8 +502,26 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 17298-21627 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5337 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 5365-6762 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 6842-8836 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8855-9250 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 9289-10101 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 10612-11718 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12300-15335 (-1))
+graphic feature from cctyper protein table: GF(Csx18, 15534-15824 (1))
+graphic feature from cctyper protein table: GF(Cas1, 15821-16810 (1))
+graphic feature from cctyper protein table: GF(Cas2, 16814-17092 (1))
+graphic feature from cctyper protein table: GF(HTH, 22021-22485 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 22617-23762 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5337 (-1))
 graphic feature from known effectors: GF(csx1, 5365-6762 (-1))
 graphic feature from known effectors: GF(cami1, 22617-23762 (1))
 graphic feature from known effectors: GF(csx1, 25558-26433 (1))
-[GF(DUF952 domain-containing protein, 2612-2972 (-1)), GF(None, 3062-3248 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 3310-3550 (1)), GF(type II toxin-antitoxin system VapC family toxin, 3546-3921 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5337 (-1)), GF(None, 5364-6762 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6841-8836 (-1)), GF(None, 8854-9250 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9288-10101 (-1)), GF(clan AA aspartic protease, 10188-10599 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 10611-11718 (-1)), GF(Uma2 family endonuclease, 11731-12286 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12299-15335 (-1)), GF(CRISPR-associated protein Csx18, 15533-15824 (1)), GF(CRISPR-associated endonuclease Cas1, 15820-16810 (1)), GF(CRISPR-associated endonuclease Cas2, 16813-17092 (1)), GF(None, 22020-22485 (-1)), GF(None, 22616-23762 (1)), GF(TM1812 family CRISPR-associated protein, 23804-24137 (1)), GF(None, 24125-24230 (1)), GF(IS701 family transposase, 24246-25557 (1)), GF(TM1812 family CRISPR-associated protein, 25557-26433 (1)), GF(Tn3 family transposase, 26489-26612 (-1)), GF(PadR family transcriptional regulator, 26781-27336 (-1)), GF(efflux RND transporter periplasmic adaptor subunit, 27452-28835 (1)), GF(Repeat region, 17298-21627 (0)), GF(csx1, 4000-5337 (-1)), GF(csx1, 5365-6762 (-1)), GF(cami1, 22617-23762 (1)), GF(csx1, 25558-26433 (1)), GF(CRISPR-Cas locus, 4000-26433 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF952 domain-containing protein, 2612-2972 (-1)), GF(None, 3062-3248 (-1)), GF(type II toxin-antitoxin system Phd/YefM family antitoxin, 3310-3550 (1)), GF(type II toxin-antitoxin system VapC family toxin, 3546-3921 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 3999-5337 (-1)), GF(None, 5364-6762 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6841-8836 (-1)), GF(None, 8854-9250 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 9288-10101 (-1)), GF(clan AA aspartic protease, 10188-10599 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 10611-11718 (-1)), GF(Uma2 family endonuclease, 11731-12286 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 12299-15335 (-1)), GF(CRISPR-associated protein Csx18, 15533-15824 (1)), GF(CRISPR-associated endonuclease Cas1, 15820-16810 (1)), GF(CRISPR-associated endonuclease Cas2, 16813-17092 (1)), GF(None, 22020-22485 (-1)), GF(None, 22616-23762 (1)), GF(TM1812 family CRISPR-associated protein, 23804-24137 (1)), GF(None, 24125-24230 (1)), GF(IS701 family transposase, 24246-25557 (1)), GF(TM1812 family CRISPR-associated protein, 25557-26433 (1)), GF(Tn3 family transposase, 26489-26612 (-1)), GF(PadR family transcriptional regulator, 26781-27336 (-1)), GF(efflux RND transporter periplasmic adaptor subunit, 27452-28835 (1)), GF(Repeat region, 17298-21627 (0)), GF(Csx1, 4000-5337 (-1)), GF(Csx1, 5365-6762 (-1)), GF(Cmr6gr7, 6842-8836 (-1)), GF(Cmr5gr11, 8855-9250 (-1)), GF(Cmr4gr7, 9289-10101 (-1)), GF(Cmr3gr5, 10612-11718 (-1)), GF(Cas10, 12300-15335 (-1)), GF(Csx18, 15534-15824 (1)), GF(Cas1, 15821-16810 (1)), GF(Cas2, 16814-17092 (1)), GF(HTH, 22021-22485 (-1)), GF(Csm6, 22617-23762 (1)), GF(csx1, 4000-5337 (-1)), GF(csx1, 5365-6762 (-1)), GF(cami1, 22617-23762 (1)), GF(csx1, 25558-26433 (1)), GF(CRISPR-Cas locus, 4000-26433 (0))]

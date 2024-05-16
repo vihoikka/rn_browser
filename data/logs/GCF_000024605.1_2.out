@@ -275,5 +275,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 14806-16557 (0))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5535-6806 (1))
+graphic feature from cctyper protein table: GF(Cmr6, 7087-8028 (1))
+graphic feature from cctyper protein table: GF(Cas10, 8025-11873 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 11870-12973 (1))
+graphic feature from cctyper protein table: GF(Cmr5, 12967-13446 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 13443-14495 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 3988-5574 (1))
-[GF(stage II sporulation protein M, 83-638 (1)), GF(HD domain-containing protein, 634-1249 (1)), GF(nucleotidyl transferase AbiEii/AbiGii toxin family protein, 1312-2326 (-1)), GF(Fic family protein, 2446-3247 (1)), GF(None, 3273-3531 (-1)), GF(None, 3564-3918 (1)), GF(None, 3987-5574 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5534-6806 (1)), GF(None, 7086-8028 (1)), GF(None, 8024-11873 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 11869-12973 (1)), GF(None, 12966-13446 (1)), GF(None, 13442-14495 (1)), GF(nucleotidyl transferase AbiEii/AbiGii toxin family protein, 16589-17603 (-1)), GF(Repeat region, 14806-16557 (0)), GF(cora, 3988-5574 (1)), GF(CRISPR-Cas locus, 4000-14495 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(stage II sporulation protein M, 83-638 (1)), GF(HD domain-containing protein, 634-1249 (1)), GF(nucleotidyl transferase AbiEii/AbiGii toxin family protein, 1312-2326 (-1)), GF(Fic family protein, 2446-3247 (1)), GF(None, 3273-3531 (-1)), GF(None, 3564-3918 (1)), GF(None, 3987-5574 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 5534-6806 (1)), GF(None, 7086-8028 (1)), GF(None, 8024-11873 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 11869-12973 (1)), GF(None, 12966-13446 (1)), GF(None, 13442-14495 (1)), GF(nucleotidyl transferase AbiEii/AbiGii toxin family protein, 16589-17603 (-1)), GF(Repeat region, 14806-16557 (0)), GF(Csm3gr7, 5535-6806 (1)), GF(Cmr6, 7087-8028 (1)), GF(Cas10, 8025-11873 (1)), GF(Cmr4gr7, 11870-12973 (1)), GF(Cmr5, 12967-13446 (1)), GF(Cmr3, 13443-14495 (1)), GF(cora, 3988-5574 (1)), GF(CRISPR-Cas locus, 4000-14495 (0))]

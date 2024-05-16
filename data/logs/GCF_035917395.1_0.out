@@ -431,4 +431,20 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 18450-18660 (0))
-[GF(GNAT family N-acetyltransferase, 93-552 (-1)), GF(DUF1918 domain-containing protein, 681-885 (1)), GF(family 10 glycosylhydrolase, 942-2157 (-1)), GF(3-hydroxybutyryl-CoA dehydrogenase, 2401-3259 (1)), GF(HD domain-containing protein, 4008-4557 (1)), GF(type I-E CRISPR-associated protein Cas6/Cse3/CasE, 4556-5303 (1)), GF(type I-E CRISPR-associated endonuclease Cas1e, 5306-6268 (1)), GF(type I-E CRISPR-associated endoribonuclease Cas2e, 6264-6621 (1)), GF(IS701 family transposase, 7032-8256 (1)), GF(IS5 family transposase, 8447-9451 (-1)), GF(None, 9603-10704 (-1)), GF(None, 10717-11155 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11151-12564 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 12560-13985 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13977-14550 (-1)), GF(None, 14540-16055 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 16051-18175 (-1)), GF(DUF397 domain-containing protein, 18782-18992 (-1)), GF(helix-turn-helix transcriptional regulator, 18988-19822 (-1)), GF(ATP-binding protein, 20247-20622 (1)), GF(Repeat region, 3371-3707 (0)), GF(Repeat region, 20721-21485 (0)), GF(Repeat region, 6702-6971 (0)), GF(Repeat region, 18450-18660 (0)), GF(CRISPR-Cas locus, 4000-18175 (0))]
+graphic feature from cctyper protein table: GF(Cas5, 4009-4557 (1))
+graphic feature from cctyper protein table: GF(Cas6e, 4557-5303 (1))
+graphic feature from cctyper protein table: GF(Cas2, 6265-6621 (1))
+graphic feature from cctyper protein table: GF(CorA, 9604-10704 (-1))
+graphic feature from cctyper protein table: GF(Cas11, 10718-11155 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11152-12564 (-1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 12561-13985 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 13978-14550 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 14541-16055 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 16052-18175 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(GNAT family N-acetyltransferase, 93-552 (-1)), GF(DUF1918 domain-containing protein, 681-885 (1)), GF(family 10 glycosylhydrolase, 942-2157 (-1)), GF(3-hydroxybutyryl-CoA dehydrogenase, 2401-3259 (1)), GF(HD domain-containing protein, 4008-4557 (1)), GF(type I-E CRISPR-associated protein Cas6/Cse3/CasE, 4556-5303 (1)), GF(type I-E CRISPR-associated endonuclease Cas1e, 5306-6268 (1)), GF(type I-E CRISPR-associated endoribonuclease Cas2e, 6264-6621 (1)), GF(IS701 family transposase, 7032-8256 (1)), GF(IS5 family transposase, 8447-9451 (-1)), GF(None, 9603-10704 (-1)), GF(None, 10717-11155 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11151-12564 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 12560-13985 (-1)), GF(RAMP superfamily CRISPR-associated protein, 13977-14550 (-1)), GF(None, 14540-16055 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 16051-18175 (-1)), GF(DUF397 domain-containing protein, 18782-18992 (-1)), GF(helix-turn-helix transcriptional regulator, 18988-19822 (-1)), GF(ATP-binding protein, 20247-20622 (1)), GF(Repeat region, 3371-3707 (0)), GF(Repeat region, 20721-21485 (0)), GF(Repeat region, 6702-6971 (0)), GF(Repeat region, 18450-18660 (0)), GF(Cas5, 4009-4557 (1)), GF(Cas6e, 4557-5303 (1)), GF(Cas2, 6265-6621 (1)), GF(CorA, 9604-10704 (-1)), GF(Cas11, 10718-11155 (-1)), GF(Csm3gr7, 11152-12564 (-1)), GF(Csx10gr5, 12561-13985 (-1)), GF(Csm3gr7, 13978-14550 (-1)), GF(Cas10, 14541-16055 (-1)), GF(Csm3gr7, 16052-18175 (-1)), GF(CRISPR-Cas locus, 4000-18175 (0))]

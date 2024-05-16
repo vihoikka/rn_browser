@@ -221,4 +221,14 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 14027-14231 (-1))
-[GF(None, 507-966 (-1)), GF(AAA family ATPase, 1107-3948 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5214 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5213-6314 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6363-7110 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7154-7625 (-1)), GF(None, 7638-10353 (-1)), GF(CatA-like O-acetyltransferase, 11382-12003 (-1)), GF(ATP-binding cassette domain-containing protein, 12057-12696 (-1)), GF(TlpA disulfide reductase family protein, 12697-14071 (-1)), GF(None, 14027-14231 (-1)), GF(CRISPR-Cas locus, 4000-10338 (0))]
+graphic feature from cctyper protein table: GF(Csm5, 4000-5214 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5214-6314 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6364-7110 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7155-7625 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 507-966 (-1)), GF(AAA family ATPase, 1107-3948 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 3999-5214 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5213-6314 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6363-7110 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7154-7625 (-1)), GF(None, 7638-10353 (-1)), GF(CatA-like O-acetyltransferase, 11382-12003 (-1)), GF(ATP-binding cassette domain-containing protein, 12057-12696 (-1)), GF(TlpA disulfide reductase family protein, 12697-14071 (-1)), GF(None, 14027-14231 (-1)), GF(Csm5, 4000-5214 (-1)), GF(Csm4gr5, 5214-6314 (-1)), GF(Csm3gr7, 6364-7110 (-1)), GF(Csm2gr11, 7155-7625 (-1)), GF(CRISPR-Cas locus, 4000-10338 (0))]

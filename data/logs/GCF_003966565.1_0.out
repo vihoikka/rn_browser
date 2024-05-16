@@ -600,6 +600,29 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 6710-10829 (0))
+graphic feature from cctyper protein table: GF(Can2, 4009-5019 (1))
+graphic feature from cctyper protein table: GF(CasR, 5032-5574 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 10939-11223 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 11220-12203 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 12206-12490 (-1))
+graphic feature from cctyper protein table: GF(Csx16, 12625-12933 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 13146-14255 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 14790-15728 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 15725-16933 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 17036-18316 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 18436-18792 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 18792-19688 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 20478-21710 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 21707-24769 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 24766-25992 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(can1-2, 4009-5019 (1))
 graphic feature from known effectors: GF(csx1, 15725-16933 (-1))
-[GF(50S ribosomal protein L11 methyltransferase, 578-1463 (1)), GF(DUF3426 domain-containing protein, 1472-2387 (1)), GF(carbohydrate kinase family protein, 2400-3336 (1)), GF(None, 3439-3637 (-1)), GF(30S ribosomal protein THX, 3731-3881 (-1)), GF(DUF1887 family CARF protein, 4008-5019 (1)), GF(None, 5031-5574 (-1)), GF(DUF3782 domain-containing protein, 6033-6612 (-1)), GF(CRISPR-associated endonuclease Cas2, 10938-11223 (-1)), GF(CRISPR-associated endonuclease Cas1, 11219-12203 (-1)), GF(CRISPR-associated endonuclease Cas2, 12205-12490 (-1)), GF(CRISPR-associated protein Csx16, 12624-12933 (-1)), GF(CRISPR-associated ring nuclease Csm6, 13145-14255 (-1)), GF(None, 14282-14684 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14789-15728 (-1)), GF(TIGR02221 family CRISPR-associated protein, 15724-16933 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 17035-18316 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 18435-18792 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 18791-19688 (-1)), GF(nucleotidyltransferase domain-containing protein, 19705-19999 (-1)), GF(HI0074 family nucleotidyltransferase substrate-binding subunit, 19991-20408 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 20477-21710 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 21706-24769 (-1)), GF(None, 24765-25992 (-1)), GF(None, 26002-26551 (-1)), GF(thioredoxin, 26626-27013 (-1)), GF(tRNA glutamyl-Q(34) synthetase GluQRS, 27074-28001 (1)), GF(cardiolipin synthase ClsB, 27966-29136 (-1)), GF(endonuclease/exonuclease/phosphatase family protein, 29132-29903 (-1)), GF(Repeat region, 6710-10829 (0)), GF(can1-2, 4009-5019 (1)), GF(csx1, 15725-16933 (-1)), GF(CRISPR-Cas locus, 4000-25992 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(solosavedRN, 5032-5574 (-1))
+graphic feature from ring nucleases: GF(csx16, 12625-12933 (-1))
+[GF(50S ribosomal protein L11 methyltransferase, 578-1463 (1)), GF(DUF3426 domain-containing protein, 1472-2387 (1)), GF(carbohydrate kinase family protein, 2400-3336 (1)), GF(None, 3439-3637 (-1)), GF(30S ribosomal protein THX, 3731-3881 (-1)), GF(DUF1887 family CARF protein, 4008-5019 (1)), GF(None, 5031-5574 (-1)), GF(DUF3782 domain-containing protein, 6033-6612 (-1)), GF(CRISPR-associated endonuclease Cas2, 10938-11223 (-1)), GF(CRISPR-associated endonuclease Cas1, 11219-12203 (-1)), GF(CRISPR-associated endonuclease Cas2, 12205-12490 (-1)), GF(CRISPR-associated protein Csx16, 12624-12933 (-1)), GF(CRISPR-associated ring nuclease Csm6, 13145-14255 (-1)), GF(None, 14282-14684 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14789-15728 (-1)), GF(TIGR02221 family CRISPR-associated protein, 15724-16933 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 17035-18316 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 18435-18792 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 18791-19688 (-1)), GF(nucleotidyltransferase domain-containing protein, 19705-19999 (-1)), GF(HI0074 family nucleotidyltransferase substrate-binding subunit, 19991-20408 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 20477-21710 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 21706-24769 (-1)), GF(None, 24765-25992 (-1)), GF(None, 26002-26551 (-1)), GF(thioredoxin, 26626-27013 (-1)), GF(tRNA glutamyl-Q(34) synthetase GluQRS, 27074-28001 (1)), GF(cardiolipin synthase ClsB, 27966-29136 (-1)), GF(endonuclease/exonuclease/phosphatase family protein, 29132-29903 (-1)), GF(Repeat region, 6710-10829 (0)), GF(Can2, 4009-5019 (1)), GF(CasR, 5032-5574 (-1)), GF(Cas2, 10939-11223 (-1)), GF(Cas1, 11220-12203 (-1)), GF(Cas2, 12206-12490 (-1)), GF(Csx16, 12625-12933 (-1)), GF(Csx1, 13146-14255 (-1)), GF(Cas6, 14790-15728 (-1)), GF(Csx1, 15725-16933 (-1)), GF(Cmr6gr7, 17036-18316 (-1)), GF(Cmr5gr11, 18436-18792 (-1)), GF(Cmr4, 18792-19688 (-1)), GF(Cmr3gr5, 20478-21710 (-1)), GF(Cas10, 21707-24769 (-1)), GF(Cmr1gr7, 24766-25992 (-1)), GF(can1-2, 4009-5019 (1)), GF(csx1, 15725-16933 (-1)), GF(solosavedRN, 5032-5574 (-1)), GF(csx16, 12625-12933 (-1)), GF(CRISPR-Cas locus, 4000-25992 (0))]

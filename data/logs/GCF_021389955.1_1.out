@@ -154,5 +154,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3303-3792 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4000-4788 (1))
+graphic feature from cctyper protein table: GF(Cas10, 4803-6482 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6860-7624 (1))
+graphic feature from cctyper protein table: GF(Csm4, 7621-8598 (1))
+graphic feature from cctyper protein table: GF(PD, 8603-9397 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 8603-9397 (1))
-[GF(PAS domain-containing protein, 237-2919 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4788 (1)), GF(None, 4802-6482 (1)), GF(type III-A CRISPR-associated protein Csm2, 6471-6960 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6859-7624 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7620-8598 (1)), GF(None, 8602-9397 (1)), GF(Repeat region, 3303-3792 (0)), GF(nucc, 8603-9397 (1)), GF(CRISPR-Cas locus, 4000-9397 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(PAS domain-containing protein, 237-2919 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4788 (1)), GF(None, 4802-6482 (1)), GF(type III-A CRISPR-associated protein Csm2, 6471-6960 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6859-7624 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7620-8598 (1)), GF(None, 8602-9397 (1)), GF(Repeat region, 3303-3792 (0)), GF(Cas6, 4000-4788 (1)), GF(Cas10, 4803-6482 (1)), GF(Csm3gr7, 6860-7624 (1)), GF(Csm4, 7621-8598 (1)), GF(PD, 8603-9397 (1)), GF(nucc, 8603-9397 (1)), GF(CRISPR-Cas locus, 4000-9397 (0))]

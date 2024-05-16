@@ -301,4 +301,14 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(DUF86 domain-containing protein, 15761-16106 (-1))
-[GF(DUF2283 domain-containing protein, 102-360 (-1)), GF(None, 331-556 (-1)), GF(None, 1039-1291 (-1)), GF(None, 1407-2748 (-1)), GF(dual specificity protein phosphatase family protein, 2699-3098 (-1)), GF(None, 3437-3635 (1)), GF(None, 3999-5913 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 5933-7073 (-1)), GF(None, 7079-7757 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7769-8852 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9000-12246 (1)), GF(None, 12256-13561 (1)), GF(antitoxin family protein, 14438-14663 (1)), GF(type II toxin-antitoxin system VapC family toxin, 14640-15075 (1)), GF(None, 15536-15713 (-1)), GF(DUF86 domain-containing protein, 15761-16106 (-1)), GF(CRISPR-Cas locus, 4000-12246 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-5913 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 7080-7757 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 7770-8852 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 9001-12246 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF2283 domain-containing protein, 102-360 (-1)), GF(None, 331-556 (-1)), GF(None, 1039-1291 (-1)), GF(None, 1407-2748 (-1)), GF(dual specificity protein phosphatase family protein, 2699-3098 (-1)), GF(None, 3437-3635 (1)), GF(None, 3999-5913 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 5933-7073 (-1)), GF(None, 7079-7757 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7769-8852 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9000-12246 (1)), GF(None, 12256-13561 (1)), GF(antitoxin family protein, 14438-14663 (1)), GF(type II toxin-antitoxin system VapC family toxin, 14640-15075 (1)), GF(None, 15536-15713 (-1)), GF(DUF86 domain-containing protein, 15761-16106 (-1)), GF(Cmr1gr7, 4000-5913 (-1)), GF(Cmr5gr11, 7080-7757 (-1)), GF(Cmr4gr7, 7770-8852 (-1)), GF(Cas10, 9001-12246 (1)), GF(CRISPR-Cas locus, 4000-12246 (0))]

@@ -193,5 +193,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(tetratricopeptide repeat protein, 13376-14222 (1))
+graphic feature from cctyper protein table: GF(Cas10, 4000-5391 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5391-5921 (1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 5911-7293 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7283-8620 (1))
+graphic feature from cctyper protein table: GF(Csx19, 8589-9020 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9001-11385 (1))
+graphic feature from cctyper protein table: GF(Csx1, 11395-12579 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 11395-12579 (1))
-[GF(saccharopine dehydrogenase family protein, 382-1609 (-1)), GF(sodium/glutamate symporter, 2029-3271 (1)), GF(None, 3999-5391 (1)), GF(RAMP superfamily CRISPR-associated protein, 5390-5921 (1)), GF(None, 5910-7293 (1)), GF(RAMP superfamily CRISPR-associated protein, 7282-8620 (1)), GF(TIGR04423 family type III CRISPR-associated protein, 8588-9020 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 9000-11385 (1)), GF(TIGR02221 family CRISPR-associated protein, 11394-12579 (1)), GF(tetratricopeptide repeat protein, 13376-14222 (1)), GF(csx1, 11395-12579 (1)), GF(CRISPR-Cas locus, 4000-12579 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(saccharopine dehydrogenase family protein, 382-1609 (-1)), GF(sodium/glutamate symporter, 2029-3271 (1)), GF(None, 3999-5391 (1)), GF(RAMP superfamily CRISPR-associated protein, 5390-5921 (1)), GF(None, 5910-7293 (1)), GF(RAMP superfamily CRISPR-associated protein, 7282-8620 (1)), GF(TIGR04423 family type III CRISPR-associated protein, 8588-9020 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 9000-11385 (1)), GF(TIGR02221 family CRISPR-associated protein, 11394-12579 (1)), GF(tetratricopeptide repeat protein, 13376-14222 (1)), GF(Cas10, 4000-5391 (1)), GF(Csm3gr7, 5391-5921 (1)), GF(Csx10gr5, 5911-7293 (1)), GF(Csm3gr7, 7283-8620 (1)), GF(Csx19, 8589-9020 (1)), GF(Csm3gr7, 9001-11385 (1)), GF(Csx1, 11395-12579 (1)), GF(csx1, 11395-12579 (1)), GF(CRISPR-Cas locus, 4000-12579 (0))]

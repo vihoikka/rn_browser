@@ -240,5 +240,17 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 598-2850 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4000-7089 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7086-8216 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8213-9037 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9030-9398 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9407-11356 (1))
+graphic feature from cctyper protein table: GF(Csx1, 12288-13823 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 12288-13823 (1))
-[GF(None, 3010-3190 (1)), GF(None, 3556-3913 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7089 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7085-8216 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8212-9037 (1)), GF(None, 9029-9398 (1)), GF(RAMP superfamily CRISPR-associated protein, 9406-11356 (1)), GF(transposase, 11352-12006 (1)), GF(None, 12287-13823 (1)), GF(four-carbon acid sugar kinase family protein, 13919-15242 (-1)), GF(spore germination protein GerW family protein, 15274-15655 (-1)), GF(glutaredoxin family protein, 15708-15993 (-1)), GF(Repeat region, 598-2850 (0)), GF(csx1, 12288-13823 (1)), GF(CRISPR-Cas locus, 4000-13823 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 3010-3190 (1)), GF(None, 3556-3913 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-7089 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7085-8216 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8212-9037 (1)), GF(None, 9029-9398 (1)), GF(RAMP superfamily CRISPR-associated protein, 9406-11356 (1)), GF(transposase, 11352-12006 (1)), GF(None, 12287-13823 (1)), GF(four-carbon acid sugar kinase family protein, 13919-15242 (-1)), GF(spore germination protein GerW family protein, 15274-15655 (-1)), GF(glutaredoxin family protein, 15708-15993 (-1)), GF(Repeat region, 598-2850 (0)), GF(Cas10, 4000-7089 (1)), GF(Cmr3gr5, 7086-8216 (1)), GF(Cmr4, 8213-9037 (1)), GF(Cmr5gr11, 9030-9398 (1)), GF(Cmr6gr7, 9407-11356 (1)), GF(Csx1, 12288-13823 (1)), GF(csx1, 12288-13823 (1)), GF(CRISPR-Cas locus, 4000-13823 (0))]

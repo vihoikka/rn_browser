@@ -544,5 +544,27 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 25957-27103 (0))
+graphic feature from cctyper protein table: GF(Cas2, 4000-4290 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4291-5289 (-1))
+graphic feature from cctyper protein table: GF(Cas4, 5299-5790 (-1))
+graphic feature from cctyper protein table: GF(Cas3, 6162-8762 (-1))
+graphic feature from cctyper protein table: GF(Cas5, 8962-9705 (-1))
+graphic feature from cctyper protein table: GF(Cas7b, 9708-10667 (-1))
+graphic feature from cctyper protein table: GF(Cas8b1, 10657-12405 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 12421-13113 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 15036-15932 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 15944-16360 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 16385-17221 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 17233-18432 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 18449-20170 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 20171-21358 (-1))
+graphic feature from cctyper protein table: GF(CorA, 21363-22991 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 23437-24126 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 21363-22991 (-1))
-[GF(transaldolase, 183-900 (-1)), GF(cell envelope integrity protein TolA, 1171-1906 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4290 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 4290-5289 (-1)), GF(CRISPR-associated protein Cas4, 5298-5790 (-1)), GF(CRISPR-associated helicase/endonuclease Cas3, 6161-8762 (-1)), GF(type I-B CRISPR-associated protein Cas5b, 8961-9705 (-1)), GF(type I CRISPR-associated protein Cas7, 9707-10667 (-1)), GF(type I-B CRISPR-associated protein Cas8b/Csh1, 10656-12405 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 12420-13113 (-1)), GF(None, 14280-14496 (-1)), GF(None, 14687-14933 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 15035-15932 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 15943-16360 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 16384-17221 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 17232-18432 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 18448-20170 (-1)), GF(None, 20170-21358 (-1)), GF(None, 21362-22991 (-1)), GF(None, 23042-23417 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 23436-24126 (-1)), GF(None, 24405-24588 (-1)), GF(YdcF family protein, 25170-25665 (-1)), GF(None, 27507-27675 (1)), GF(Repeat region, 2569-3192 (0)), GF(Repeat region, 3445-3807 (0)), GF(Repeat region, 13342-13766 (0)), GF(Repeat region, 24654-25014 (0)), GF(Repeat region, 25957-27103 (0)), GF(cora, 21363-22991 (-1)), GF(CRISPR-Cas locus, 4000-24126 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(transaldolase, 183-900 (-1)), GF(cell envelope integrity protein TolA, 1171-1906 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4290 (-1)), GF(type I-B CRISPR-associated endonuclease Cas1b, 4290-5289 (-1)), GF(CRISPR-associated protein Cas4, 5298-5790 (-1)), GF(CRISPR-associated helicase/endonuclease Cas3, 6161-8762 (-1)), GF(type I-B CRISPR-associated protein Cas5b, 8961-9705 (-1)), GF(type I CRISPR-associated protein Cas7, 9707-10667 (-1)), GF(type I-B CRISPR-associated protein Cas8b/Csh1, 10656-12405 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 12420-13113 (-1)), GF(None, 14280-14496 (-1)), GF(None, 14687-14933 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 15035-15932 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 15943-16360 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 16384-17221 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 17232-18432 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 18448-20170 (-1)), GF(None, 20170-21358 (-1)), GF(None, 21362-22991 (-1)), GF(None, 23042-23417 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 23436-24126 (-1)), GF(None, 24405-24588 (-1)), GF(YdcF family protein, 25170-25665 (-1)), GF(None, 27507-27675 (1)), GF(Repeat region, 2569-3192 (0)), GF(Repeat region, 3445-3807 (0)), GF(Repeat region, 13342-13766 (0)), GF(Repeat region, 24654-25014 (0)), GF(Repeat region, 25957-27103 (0)), GF(Cas2, 4000-4290 (-1)), GF(Cas1, 4291-5289 (-1)), GF(Cas4, 5299-5790 (-1)), GF(Cas3, 6162-8762 (-1)), GF(Cas5, 8962-9705 (-1)), GF(Cas7b, 9708-10667 (-1)), GF(Cas8b1, 10657-12405 (-1)), GF(Cas6, 12421-13113 (-1)), GF(Cmr6gr7, 15036-15932 (-1)), GF(Cmr5gr11, 15944-16360 (-1)), GF(Cmr4, 16385-17221 (-1)), GF(Cmr3gr5, 17233-18432 (-1)), GF(Cas10, 18449-20170 (-1)), GF(Cmr1gr7, 20171-21358 (-1)), GF(CorA, 21363-22991 (-1)), GF(Cas6, 23437-24126 (-1)), GF(cora, 21363-22991 (-1)), GF(CRISPR-Cas locus, 4000-24126 (0))]

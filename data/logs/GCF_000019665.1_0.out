@@ -245,4 +245,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(phosphoenolpyruvate carboxykinase (ATP), 13428-14979 (-1))
-[GF(CRISPR-associated endonuclease Cas1, 111-1296 (-1)), GF(None, 1292-1454 (-1)), GF(None, 1749-2079 (-1)), GF(None, 2174-2864 (-1)), GF(None, 3040-3304 (1)), GF(None, 3331-3541 (1)), GF(None, 3590-3818 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6012 (-1)), GF(None, 6027-6528 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6524-7976 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7972-10015 (-1)), GF(None, 10039-11602 (-1)), GF(phosphoenolpyruvate carboxykinase (ATP), 13428-14979 (-1)), GF(CRISPR-Cas locus, 4000-11602 (0))]
+graphic feature from cctyper protein table: GF(Csm3, 4000-6012 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 6028-6528 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6525-7976 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7973-10015 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10040-11602 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(CRISPR-associated endonuclease Cas1, 111-1296 (-1)), GF(None, 1292-1454 (-1)), GF(None, 1749-2079 (-1)), GF(None, 2174-2864 (-1)), GF(None, 3040-3304 (1)), GF(None, 3331-3541 (1)), GF(None, 3590-3818 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-6012 (-1)), GF(None, 6027-6528 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6524-7976 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7972-10015 (-1)), GF(None, 10039-11602 (-1)), GF(phosphoenolpyruvate carboxykinase (ATP), 13428-14979 (-1)), GF(Csm3, 4000-6012 (-1)), GF(Csx19, 6028-6528 (-1)), GF(Csm3gr7, 6525-7976 (-1)), GF(Csm3gr7, 7973-10015 (-1)), GF(Cas10, 10040-11602 (-1)), GF(CRISPR-Cas locus, 4000-11602 (0))]

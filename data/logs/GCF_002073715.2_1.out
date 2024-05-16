@@ -446,4 +446,23 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 15886-17116 (0))
-[GF(None, 670-859 (-1)), GF(IS5 family transposase, 2118-3126 (-1)), GF(None, 3325-3733 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5247 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5264-7130 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7126-8290 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8342-9248 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9249-9624 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9620-10742 (1)), GF(CRISPR-associated endonuclease Cas2, 12538-12817 (-1)), GF(CRISPR-associated endonuclease Cas1, 12819-13746 (-1)), GF(None, 13923-14058 (-1)), GF(CRISPR-associated endonuclease Cas2, 14111-14384 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14586-15549 (1)), GF(None, 17357-18638 (-1)), GF(None, 18705-21336 (-1)), GF(CRISPR-associated ring nuclease Csm6, 21392-22565 (-1)), GF(CRISPR-associated protein Csx16, 22606-22906 (-1)), GF(IS5 family transposase, 23029-24037 (1)), GF(cation acetate symporter, 24280-25969 (-1)), GF(DUF485 domain-containing protein, 26079-26442 (-1)), GF(Repeat region, 10997-12366 (0)), GF(Repeat region, 15886-17116 (0)), GF(CRISPR-Cas locus, 4000-22906 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-5247 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5265-7130 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7127-8290 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8343-9248 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9250-9624 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9621-10742 (1))
+graphic feature from cctyper protein table: GF(Cas2, 12539-12817 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 12820-13746 (-1))
+graphic feature from cctyper protein table: GF(Cas2, 14112-14384 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 17358-18638 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 21393-22565 (-1))
+graphic feature from cctyper protein table: GF(Csx16, 22607-22906 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(csx16, 22607-22906 (-1))
+[GF(None, 670-859 (-1)), GF(IS5 family transposase, 2118-3126 (-1)), GF(None, 3325-3733 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-5247 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 5264-7130 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7126-8290 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8342-9248 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9249-9624 (1)), GF(type III-B CRISPR module RAMP protein Cmr6, 9620-10742 (1)), GF(CRISPR-associated endonuclease Cas2, 12538-12817 (-1)), GF(CRISPR-associated endonuclease Cas1, 12819-13746 (-1)), GF(None, 13923-14058 (-1)), GF(CRISPR-associated endonuclease Cas2, 14111-14384 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14586-15549 (1)), GF(None, 17357-18638 (-1)), GF(None, 18705-21336 (-1)), GF(CRISPR-associated ring nuclease Csm6, 21392-22565 (-1)), GF(CRISPR-associated protein Csx16, 22606-22906 (-1)), GF(IS5 family transposase, 23029-24037 (1)), GF(cation acetate symporter, 24280-25969 (-1)), GF(DUF485 domain-containing protein, 26079-26442 (-1)), GF(Repeat region, 10997-12366 (0)), GF(Repeat region, 15886-17116 (0)), GF(Cmr1gr7, 4000-5247 (1)), GF(Cas10, 5265-7130 (1)), GF(Cmr3gr5, 7127-8290 (1)), GF(Cmr4, 8343-9248 (1)), GF(Cmr5gr11, 9250-9624 (1)), GF(Cmr6gr7, 9621-10742 (1)), GF(Cas2, 12539-12817 (-1)), GF(Cas1, 12820-13746 (-1)), GF(Cas2, 14112-14384 (-1)), GF(Csx1, 17358-18638 (-1)), GF(Csx1, 21393-22565 (-1)), GF(Csx16, 22607-22906 (-1)), GF(csx16, 22607-22906 (-1)), GF(CRISPR-Cas locus, 4000-22906 (0))]

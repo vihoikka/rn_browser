@@ -277,5 +277,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 14814-15281 (0))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7751-9739 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9726-11135 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 11128-12990 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12983-14638 (-1))
+graphic feature from cctyper protein table: GF(RT, 15484-17403 (1))
+graphic feature from cctyper protein table: GF(Cas2, 17415-17702 (1))
+graphic feature from cctyper protein table: GF(Cas6, 17715-18635 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cora, 3985-6912 (1))
-[GF(methyltransferase, 147-1185 (1)), GF(ABC transporter substrate-binding protein, 1181-2126 (1)), GF(ATP-binding cassette domain-containing protein, 2122-3694 (1)), GF(None, 3984-6912 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 7750-9739 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9725-11135 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11127-12990 (-1)), GF(None, 12982-14638 (-1)), GF(CRISPR-associated endonuclease Cas1, 15483-17403 (1)), GF(CRISPR-associated endonuclease Cas2, 17414-17702 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 17714-18635 (1)), GF(toll/interleukin-1 receptor domain-containing protein, 18794-19757 (1)), GF(AAA family ATPase, 19756-22129 (1)), GF(Repeat region, 6991-7526 (0)), GF(Repeat region, 14814-15281 (0)), GF(cora, 3985-6912 (1)), GF(CRISPR-Cas locus, 4000-18635 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(methyltransferase, 147-1185 (1)), GF(ABC transporter substrate-binding protein, 1181-2126 (1)), GF(ATP-binding cassette domain-containing protein, 2122-3694 (1)), GF(None, 3984-6912 (1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 7750-9739 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9725-11135 (-1)), GF(RAMP superfamily CRISPR-associated protein, 11127-12990 (-1)), GF(None, 12982-14638 (-1)), GF(CRISPR-associated endonuclease Cas1, 15483-17403 (1)), GF(CRISPR-associated endonuclease Cas2, 17414-17702 (1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 17714-18635 (1)), GF(toll/interleukin-1 receptor domain-containing protein, 18794-19757 (1)), GF(AAA family ATPase, 19756-22129 (1)), GF(Repeat region, 6991-7526 (0)), GF(Repeat region, 14814-15281 (0)), GF(Csm3gr7, 7751-9739 (-1)), GF(Csm3gr7, 9726-11135 (-1)), GF(Csm3gr7, 11128-12990 (-1)), GF(Cas10, 12983-14638 (-1)), GF(RT, 15484-17403 (1)), GF(Cas2, 17415-17702 (1)), GF(Cas6, 17715-18635 (1)), GF(cora, 3985-6912 (1)), GF(CRISPR-Cas locus, 4000-18635 (0))]

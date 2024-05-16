@@ -351,5 +351,21 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11964-13105 (0))
+graphic feature from cctyper protein table: GF(Cas10, 4048-5610 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 5595-6590 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 6590-7393 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 7396-7788 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 7801-9393 (1))
+graphic feature from cctyper protein table: GF(Csx1, 9402-10976 (1))
+graphic feature from cctyper protein table: GF(Cas2, 13297-13572 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 13575-14570 (-1))
+graphic feature from cctyper protein table: GF(Csx18, 14563-14799 (-1))
+graphic feature from cctyper protein table: GF(WYL, 15015-17021 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 9402-10976 (1))
-[GF(aldo/keto reductase, 1396-2512 (1)), GF(None, 2562-2658 (-1)), GF(restriction endonuclease, 2998-3445 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4047-5610 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 5594-6590 (1)), GF(RAMP superfamily CRISPR-associated protein, 6589-7393 (1)), GF(None, 7395-7788 (1)), GF(None, 7800-9393 (1)), GF(None, 9401-10976 (1)), GF(None, 11047-11404 (-1)), GF(None, 11440-11749 (1)), GF(CRISPR-associated endonuclease Cas2, 13296-13572 (-1)), GF(CRISPR-associated endonuclease Cas1, 13574-14570 (-1)), GF(CRISPR-associated protein Csx18, 14562-14799 (-1)), GF(AAA family ATPase, 15014-17021 (1)), GF(None, 17127-17829 (1)), GF(RNA methyltransferase, 18125-18851 (-1)), GF(ABC transporter substrate-binding protein, 18856-19822 (-1)), GF(Repeat region, 11964-13105 (0)), GF(csx1, 9402-10976 (1)), GF(CRISPR-Cas locus, 4000-17021 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(aldo/keto reductase, 1396-2512 (1)), GF(None, 2562-2658 (-1)), GF(restriction endonuclease, 2998-3445 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 4047-5610 (1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 5594-6590 (1)), GF(RAMP superfamily CRISPR-associated protein, 6589-7393 (1)), GF(None, 7395-7788 (1)), GF(None, 7800-9393 (1)), GF(None, 9401-10976 (1)), GF(None, 11047-11404 (-1)), GF(None, 11440-11749 (1)), GF(CRISPR-associated endonuclease Cas2, 13296-13572 (-1)), GF(CRISPR-associated endonuclease Cas1, 13574-14570 (-1)), GF(CRISPR-associated protein Csx18, 14562-14799 (-1)), GF(AAA family ATPase, 15014-17021 (1)), GF(None, 17127-17829 (1)), GF(RNA methyltransferase, 18125-18851 (-1)), GF(ABC transporter substrate-binding protein, 18856-19822 (-1)), GF(Repeat region, 11964-13105 (0)), GF(Cas10, 4048-5610 (1)), GF(Cmr3gr5, 5595-6590 (1)), GF(Cmr4gr7, 6590-7393 (1)), GF(Cmr5gr11, 7396-7788 (1)), GF(Cmr6gr7, 7801-9393 (1)), GF(Csx1, 9402-10976 (1)), GF(Cas2, 13297-13572 (-1)), GF(Cas1, 13575-14570 (-1)), GF(Csx18, 14563-14799 (-1)), GF(WYL, 15015-17021 (1)), GF(csx1, 9402-10976 (1)), GF(CRISPR-Cas locus, 4000-17021 (0))]

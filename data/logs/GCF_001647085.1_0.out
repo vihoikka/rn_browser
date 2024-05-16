@@ -223,5 +223,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3582-3742 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4000-4713 (1))
+graphic feature from cctyper protein table: GF(Cas10, 4718-7051 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7057-7605 (1))
+graphic feature from cctyper protein table: GF(Csm3, 7602-8474 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8474-9343 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 9340-10533 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10530-11828 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 10530-11828 (1))
-[GF(CRISPR-associated endoribonuclease Cas6, 3999-4713 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4717-7051 (1)), GF(type III-A CRISPR-associated protein Csm2, 7056-7605 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7601-8474 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8473-9343 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9339-10533 (1)), GF(CRISPR-associated CARF protein Csx1, 10529-11828 (1)), GF(alanyl-tRNA editing protein, 12156-12801 (-1)), GF(None, 12862-14320 (-1)), GF(dicarboxylate/amino acid:cation symporter, 14446-15721 (-1)), GF(Repeat region, 3582-3742 (0)), GF(csx1, 10530-11828 (1)), GF(CRISPR-Cas locus, 4000-11828 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(CRISPR-associated endoribonuclease Cas6, 3999-4713 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4717-7051 (1)), GF(type III-A CRISPR-associated protein Csm2, 7056-7605 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7601-8474 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8473-9343 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9339-10533 (1)), GF(CRISPR-associated CARF protein Csx1, 10529-11828 (1)), GF(alanyl-tRNA editing protein, 12156-12801 (-1)), GF(None, 12862-14320 (-1)), GF(dicarboxylate/amino acid:cation symporter, 14446-15721 (-1)), GF(Repeat region, 3582-3742 (0)), GF(Cas6, 4000-4713 (1)), GF(Cas10, 4718-7051 (1)), GF(Csm2gr11, 7057-7605 (1)), GF(Csm3, 7602-8474 (1)), GF(Csm4gr5, 8474-9343 (1)), GF(Csm5gr7, 9340-10533 (1)), GF(Csx1, 10530-11828 (1)), GF(csx1, 10530-11828 (1)), GF(CRISPR-Cas locus, 4000-11828 (0))]

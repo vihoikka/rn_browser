@@ -250,4 +250,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3023-3885 (0))
-[GF(None, 1974-2925 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4284 (-1)), GF(CRISPR-associated endonuclease Cas1, 4289-5276 (-1)), GF(reverse transcriptase family protein, 5277-6318 (-1)), GF(CRISPR-associated endonuclease Cas6, 6327-7002 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 6998-8114 (-1)), GF(None, 8119-9154 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9135-9807 (-1)), GF(type III-A CRISPR-associated protein Csm2, 9803-10274 (-1)), GF(None, 10270-11779 (-1)), GF(CHAT domain-containing tetratricopeptide repeat protein, 11930-14645 (1)), GF(None, 14597-15260 (-1)), GF(Repeat region, 3023-3885 (0)), GF(CRISPR-Cas locus, 4000-11779 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4284 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 4290-5276 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 6328-7002 (-1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 6999-8114 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8120-9154 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9136-9807 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 9804-10274 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10271-11779 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1974-2925 (1)), GF(CRISPR-associated endonuclease Cas2, 3999-4284 (-1)), GF(CRISPR-associated endonuclease Cas1, 4289-5276 (-1)), GF(reverse transcriptase family protein, 5277-6318 (-1)), GF(CRISPR-associated endonuclease Cas6, 6327-7002 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 6998-8114 (-1)), GF(None, 8119-9154 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9135-9807 (-1)), GF(type III-A CRISPR-associated protein Csm2, 9803-10274 (-1)), GF(None, 10270-11779 (-1)), GF(CHAT domain-containing tetratricopeptide repeat protein, 11930-14645 (1)), GF(None, 14597-15260 (-1)), GF(Repeat region, 3023-3885 (0)), GF(Cas2, 4000-4284 (-1)), GF(Cas1, 4290-5276 (-1)), GF(Cas6, 6328-7002 (-1)), GF(Csm5gr7, 6999-8114 (-1)), GF(Csm4gr5, 8120-9154 (-1)), GF(Csm3gr7, 9136-9807 (-1)), GF(Csm2gr11, 9804-10274 (-1)), GF(Cas10, 10271-11779 (-1)), GF(CRISPR-Cas locus, 4000-11779 (0))]

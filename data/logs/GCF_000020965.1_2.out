@@ -283,4 +283,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(NAD(P)-binding domain-containing protein, 14492-15314 (1))
-[GF(IS481 family transposase, 375-638 (-1)), GF(PQQ-binding-like beta-propeller repeat protein, 844-2248 (1)), GF(PQQ-binding-like beta-propeller repeat protein, 2509-3619 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 3999-4305 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4309-6742 (1)), GF(type III-A CRISPR-associated protein Csm2, 6738-7194 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7193-7943 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7960-8962 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8981-10058 (1)), GF(TM1812 family CRISPR-associated protein, 10050-11334 (1)), GF(zinc-dependent alcohol dehydrogenase family protein, 11354-12383 (1)), GF(DUF438 domain-containing protein, 12518-13742 (1)), GF(GNAT family N-acetyltransferase, 13897-14347 (1)), GF(NAD(P)-binding domain-containing protein, 14492-15314 (1)), GF(CRISPR-Cas locus, 4000-11334 (0))]
+graphic feature from cctyper protein table: GF(Csx3, 4000-4305 (1))
+graphic feature from cctyper protein table: GF(Cas10, 4310-6742 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6739-7194 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7194-7943 (1))
+graphic feature from cctyper protein table: GF(Csm4, 7961-8962 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 8982-10058 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10051-11334 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 4000-4305 (1))
+[GF(IS481 family transposase, 375-638 (-1)), GF(PQQ-binding-like beta-propeller repeat protein, 844-2248 (1)), GF(PQQ-binding-like beta-propeller repeat protein, 2509-3619 (1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 3999-4305 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4309-6742 (1)), GF(type III-A CRISPR-associated protein Csm2, 6738-7194 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7193-7943 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7960-8962 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8981-10058 (1)), GF(TM1812 family CRISPR-associated protein, 10050-11334 (1)), GF(zinc-dependent alcohol dehydrogenase family protein, 11354-12383 (1)), GF(DUF438 domain-containing protein, 12518-13742 (1)), GF(GNAT family N-acetyltransferase, 13897-14347 (1)), GF(NAD(P)-binding domain-containing protein, 14492-15314 (1)), GF(Csx3, 4000-4305 (1)), GF(Cas10, 4310-6742 (1)), GF(Csm2gr11, 6739-7194 (1)), GF(Csm3gr7, 7194-7943 (1)), GF(Csm4, 7961-8962 (1)), GF(Csm5gr7, 8982-10058 (1)), GF(Csx1, 10051-11334 (1)), GF(crn3, 4000-4305 (1)), GF(CRISPR-Cas locus, 4000-11334 (0))]

@@ -423,4 +423,21 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(type I-A CRISPR-associated protein Csa5, 17080-17419 (1))
-[GF(nickel pincer cofactor biosynthesis protein LarC, 1367-2521 (1)), GF(FAD-dependent oxidoreductase, 2507-3845 (-1)), GF(None, 3999-4869 (-1)), GF(None, 4876-5050 (-1)), GF(None, 5170-5296 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 5332-6364 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 6360-6828 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6808-7867 (-1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 7859-8174 (-1)), GF(None, 8154-9120 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 9120-10146 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10142-13088 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 13093-14101 (-1)), GF(DUF483 domain-containing protein, 14173-15112 (-1)), GF(dissimilatory sulfite reductase D family protein, 15127-15361 (-1)), GF(None, 15402-15588 (-1)), GF(None, 15600-15744 (-1)), GF(4Fe-4S dicluster domain-containing protein, 15724-16261 (-1)), GF(CRISPR-associated CARF protein Csa3, 16349-16691 (-1)), GF(CRISPR-associated CARF protein Csa3, 16687-16990 (-1)), GF(type I-A CRISPR-associated protein Csa5, 17080-17419 (1)), GF(CRISPR-Cas locus, 4000-14101 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4869 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 5333-6364 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 6361-6828 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 6809-7867 (-1))
+graphic feature from cctyper protein table: GF(Csx3, 7860-8174 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 8155-9120 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9121-10146 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10143-13088 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 13094-14101 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(crn3, 7860-8174 (-1))
+graphic feature from ring nucleases: GF(crn1, 16688-16990 (-1))
+[GF(nickel pincer cofactor biosynthesis protein LarC, 1367-2521 (1)), GF(FAD-dependent oxidoreductase, 2507-3845 (-1)), GF(None, 3999-4869 (-1)), GF(None, 4876-5050 (-1)), GF(None, 5170-5296 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 5332-6364 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 6360-6828 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6808-7867 (-1)), GF(CRISPR-associated ring nuclease Crn3/Csx3, 7859-8174 (-1)), GF(None, 8154-9120 (-1)), GF(type III-B CRISPR module-associated protein Cmr3, 9120-10146 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10142-13088 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 13093-14101 (-1)), GF(DUF483 domain-containing protein, 14173-15112 (-1)), GF(dissimilatory sulfite reductase D family protein, 15127-15361 (-1)), GF(None, 15402-15588 (-1)), GF(None, 15600-15744 (-1)), GF(4Fe-4S dicluster domain-containing protein, 15724-16261 (-1)), GF(CRISPR-associated CARF protein Csa3, 16349-16691 (-1)), GF(CRISPR-associated CARF protein Csa3, 16687-16990 (-1)), GF(type I-A CRISPR-associated protein Csa5, 17080-17419 (1)), GF(Cas6, 4000-4869 (-1)), GF(Cmr6, 5333-6364 (-1)), GF(Cmr5gr11, 6361-6828 (-1)), GF(Cmr4gr7, 6809-7867 (-1)), GF(Csx3, 7860-8174 (-1)), GF(Csx1, 8155-9120 (-1)), GF(Cmr3gr5, 9121-10146 (-1)), GF(Cas10, 10143-13088 (-1)), GF(Cmr1gr7, 13094-14101 (-1)), GF(crn3, 7860-8174 (-1)), GF(crn1, 16688-16990 (-1)), GF(CRISPR-Cas locus, 4000-14101 (0))]

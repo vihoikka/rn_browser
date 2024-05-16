@@ -152,6 +152,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(CRISPR-associated protein Cas02710, 13644-15276 (-1))
+graphic feature from cctyper protein table: GF(Csm6, 4000-5136 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5194-7338 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 7319-7918 (-1))
+graphic feature from cctyper protein table: GF(Csx10gr5, 9771-12056 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 12060-13640 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 4000-5136 (-1))
 graphic feature from known effectors: GF(csx1, 13645-15276 (-1))
-[GF(ISNCY family transposase, 2554-3586 (1)), GF(putative CRISPR-associated protein, 3999-5136 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 5193-7338 (-1)), GF(None, 7318-7918 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7933-9778 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9770-12056 (-1)), GF(None, 12059-13640 (-1)), GF(CRISPR-associated protein Cas02710, 13644-15276 (-1)), GF(cami1, 4000-5136 (-1)), GF(csx1, 13645-15276 (-1)), GF(CRISPR-Cas locus, 4000-13640 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(ISNCY family transposase, 2554-3586 (1)), GF(putative CRISPR-associated protein, 3999-5136 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 5193-7338 (-1)), GF(None, 7318-7918 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7933-9778 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9770-12056 (-1)), GF(None, 12059-13640 (-1)), GF(CRISPR-associated protein Cas02710, 13644-15276 (-1)), GF(Csm6, 4000-5136 (-1)), GF(Csm3gr7, 5194-7338 (-1)), GF(Csx19, 7319-7918 (-1)), GF(Csx10gr5, 9771-12056 (-1)), GF(Cas10, 12060-13640 (-1)), GF(cami1, 4000-5136 (-1)), GF(csx1, 13645-15276 (-1)), GF(CRISPR-Cas locus, 4000-13640 (0))]

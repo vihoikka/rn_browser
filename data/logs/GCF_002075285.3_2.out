@@ -316,4 +316,16 @@ qualifiers:
 
 GF(None, 16888-17065 (-1))
 graphic feature from validated effectors: GF(cam2, 4000-4833 (-1))
-[GF(PIN domain-containing protein, 552-1020 (1)), GF(None, 1024-1249 (1)), GF(None, 1662-1878 (1)), GF(None, 2157-2391 (1)), GF(type II toxin-antitoxin system VapC family toxin, 2387-2798 (1)), GF(DUF5615 family PIN-like protein, 2955-3321 (-1)), GF(DUF433 domain-containing protein, 3335-3668 (-1)), GF(None, 3999-4833 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4871-6953 (-1)), GF(None, 6955-7459 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7455-8436 (-1)), GF(None, 8496-8694 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8779-9979 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9975-13263 (-1)), GF(cupin domain-containing protein, 13712-14261 (1)), GF(adenylate/guanylate cyclase domain-containing protein, 14313-16494 (-1)), GF(None, 16888-17065 (-1)), GF(cam2, 4000-4833 (-1)), GF(CRISPR-Cas locus, 4000-13263 (0))]
+graphic feature from cctyper protein table: GF(Mem, 4000-4833 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 4872-6953 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 6956-7459 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 7456-8436 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 8780-9979 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 9976-13263 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(PIN domain-containing protein, 552-1020 (1)), GF(None, 1024-1249 (1)), GF(None, 1662-1878 (1)), GF(None, 2157-2391 (1)), GF(type II toxin-antitoxin system VapC family toxin, 2387-2798 (1)), GF(DUF5615 family PIN-like protein, 2955-3321 (-1)), GF(DUF433 domain-containing protein, 3335-3668 (-1)), GF(None, 3999-4833 (-1)), GF(RAMP superfamily CRISPR-associated protein, 4871-6953 (-1)), GF(None, 6955-7459 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 7455-8436 (-1)), GF(None, 8496-8694 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8779-9979 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9975-13263 (-1)), GF(cupin domain-containing protein, 13712-14261 (1)), GF(adenylate/guanylate cyclase domain-containing protein, 14313-16494 (-1)), GF(None, 16888-17065 (-1)), GF(cam2, 4000-4833 (-1)), GF(Mem, 4000-4833 (-1)), GF(Cmr6gr7, 4872-6953 (-1)), GF(Cmr5gr11, 6956-7459 (-1)), GF(Cmr4, 7456-8436 (-1)), GF(Cmr3gr5, 8780-9979 (-1)), GF(Cas10, 9976-13263 (-1)), GF(CRISPR-Cas locus, 4000-13263 (0))]

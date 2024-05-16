@@ -250,4 +250,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 2660-3942 (0))
-[GF(DUF4912 domain-containing protein, 1080-1629 (1)), GF(uracil-DNA glycosylase, 1639-2275 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4884 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4934-7496 (1)), GF(type III-A CRISPR-associated protein Csm2, 7506-7974 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7993-8782 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8783-9746 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9742-10954 (1)), GF(TatD family hydrolase, 10936-11686 (-1)), GF(ATP-dependent zinc metalloprotease FtsH, 11698-13597 (-1)), GF(tRNA lysidine(34) synthetase TilS, 13587-14952 (-1)), GF(Repeat region, 2660-3942 (0)), GF(CRISPR-Cas locus, 4000-10954 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4884 (1))
+graphic feature from cctyper protein table: GF(Cas10, 4935-7496 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7507-7974 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7994-8782 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8784-9746 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 9743-10954 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF4912 domain-containing protein, 1080-1629 (1)), GF(uracil-DNA glycosylase, 1639-2275 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4884 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 4934-7496 (1)), GF(type III-A CRISPR-associated protein Csm2, 7506-7974 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7993-8782 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8783-9746 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9742-10954 (1)), GF(TatD family hydrolase, 10936-11686 (-1)), GF(ATP-dependent zinc metalloprotease FtsH, 11698-13597 (-1)), GF(tRNA lysidine(34) synthetase TilS, 13587-14952 (-1)), GF(Repeat region, 2660-3942 (0)), GF(Cas6, 4000-4884 (1)), GF(Cas10, 4935-7496 (1)), GF(Csm2gr11, 7507-7974 (1)), GF(Csm3gr7, 7994-8782 (1)), GF(Csm4gr5, 8784-9746 (1)), GF(Csm5gr7, 9743-10954 (1)), GF(CRISPR-Cas locus, 4000-10954 (0))]

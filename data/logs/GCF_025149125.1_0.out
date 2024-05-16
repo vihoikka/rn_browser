@@ -259,5 +259,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3282-3850 (0))
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-5901 (-1))
+graphic feature from cctyper protein table: GF(Csx19, 5901-6479 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6436-7911 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7892-10090 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10087-11625 (-1))
+graphic feature from cctyper protein table: GF(PD, 11629-12585 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 12582-13490 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(nucc, 11629-12585 (-1))
-[GF(response regulator transcription factor, 203-881 (-1)), GF(diguanylate cyclase, 967-1975 (-1)), GF(tyrosine-type recombinase/integrase, 2247-3105 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5901 (-1)), GF(CRISPR-associated protein Csx19, 5900-6479 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6435-7911 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7891-10090 (-1)), GF(None, 10086-11625 (-1)), GF(DUF6602 domain-containing protein, 11628-12585 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12581-13490 (-1)), GF(DUF1292 domain-containing protein, 13704-14040 (-1)), GF(cob(I)yrinic acid a,c-diamide adenosyltransferase, 14120-14870 (-1)), GF(ATP-dependent helicase, 14875-16705 (-1)), GF(Repeat region, 3282-3850 (0)), GF(nucc, 11629-12585 (-1)), GF(CRISPR-Cas locus, 4000-13502 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(response regulator transcription factor, 203-881 (-1)), GF(diguanylate cyclase, 967-1975 (-1)), GF(tyrosine-type recombinase/integrase, 2247-3105 (-1)), GF(TIGR03986 family CRISPR-associated RAMP protein, 3999-5901 (-1)), GF(CRISPR-associated protein Csx19, 5900-6479 (-1)), GF(RAMP superfamily CRISPR-associated protein, 6435-7911 (-1)), GF(RAMP superfamily CRISPR-associated protein, 7891-10090 (-1)), GF(None, 10086-11625 (-1)), GF(DUF6602 domain-containing protein, 11628-12585 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 12581-13490 (-1)), GF(DUF1292 domain-containing protein, 13704-14040 (-1)), GF(cob(I)yrinic acid a,c-diamide adenosyltransferase, 14120-14870 (-1)), GF(ATP-dependent helicase, 14875-16705 (-1)), GF(Repeat region, 3282-3850 (0)), GF(Csm3gr7, 4000-5901 (-1)), GF(Csx19, 5901-6479 (-1)), GF(Csm3gr7, 6436-7911 (-1)), GF(Csm3gr7, 7892-10090 (-1)), GF(Cas10, 10087-11625 (-1)), GF(PD, 11629-12585 (-1)), GF(Cas6, 12582-13490 (-1)), GF(nucc, 11629-12585 (-1)), GF(CRISPR-Cas locus, 4000-13502 (0))]

@@ -404,4 +404,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(None, 21738-22368 (1))
-[GF(None, 1503-1761 (-1)), GF(None, 1769-2030 (-1)), GF(DUF1678 family protein, 2306-2930 (1)), GF(None, 2961-3339 (-1)), GF(None, 3522-3750 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4305 (-1)), GF(the argonaute protein, implicated in translation or RNA processing, 4316-6452 (-1)), GF(CRISPR-associated endonuclease Cas1, 6435-7431 (-1)), GF(None, 9116-10583 (-1)), GF(HD domain-containing protein, 10938-13680 (1)), GF(type III-A CRISPR-associated protein Csm2, 13681-14206 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 14218-15274 (1)), GF(None, 15275-16367 (1)), GF(None, 16363-17692 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 17688-18780 (1)), GF(polysaccharide deacetylase family protein, 18878-19652 (1)), GF(None, 19702-19867 (1)), GF(ABC transporter permease, 20047-20560 (1)), GF(MBL fold metallo-hydrolase, 20554-21205 (-1)), GF(None, 21355-21784 (1)), GF(None, 21738-22368 (1)), GF(CRISPR-Cas locus, 4000-18780 (0))]
+graphic feature from cctyper protein table: GF(Cas2, 4000-4305 (-1))
+graphic feature from cctyper protein table: GF(Cas1, 6436-7431 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10939-13680 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 13682-14206 (1))
+graphic feature from cctyper protein table: GF(Csm3, 14219-15274 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 15276-16367 (1))
+graphic feature from cctyper protein table: GF(Csx1, 16364-17692 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 17689-18780 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1503-1761 (-1)), GF(None, 1769-2030 (-1)), GF(DUF1678 family protein, 2306-2930 (1)), GF(None, 2961-3339 (-1)), GF(None, 3522-3750 (-1)), GF(CRISPR-associated endonuclease Cas2, 3999-4305 (-1)), GF(the argonaute protein, implicated in translation or RNA processing, 4316-6452 (-1)), GF(CRISPR-associated endonuclease Cas1, 6435-7431 (-1)), GF(None, 9116-10583 (-1)), GF(HD domain-containing protein, 10938-13680 (1)), GF(type III-A CRISPR-associated protein Csm2, 13681-14206 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 14218-15274 (1)), GF(None, 15275-16367 (1)), GF(None, 16363-17692 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 17688-18780 (1)), GF(polysaccharide deacetylase family protein, 18878-19652 (1)), GF(None, 19702-19867 (1)), GF(ABC transporter permease, 20047-20560 (1)), GF(MBL fold metallo-hydrolase, 20554-21205 (-1)), GF(None, 21355-21784 (1)), GF(None, 21738-22368 (1)), GF(Cas2, 4000-4305 (-1)), GF(Cas1, 6436-7431 (-1)), GF(Cas10, 10939-13680 (1)), GF(Csm2gr11, 13682-14206 (1)), GF(Csm3, 14219-15274 (1)), GF(Csm4gr5, 15276-16367 (1)), GF(Csx1, 16364-17692 (1)), GF(Csm5gr7, 17689-18780 (1)), GF(CRISPR-Cas locus, 4000-18780 (0))]

@@ -275,4 +275,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(acetate--CoA ligase, 15518-17609 (1))
-[GF(gamma-glutamylcyclotransferase family protein, 758-1214 (-1)), GF(DUF4276 family protein, 1858-2539 (-1)), GF(AAA family ATPase, 2535-3648 (-1)), GF(None, 3646-3814 (1)), GF(None, 3999-4833 (-1)), GF(None, 4843-5233 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5255-6215 (-1)), GF(CRISPR-associated protein Csx11, 6225-9021 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9017-10337 (-1)), GF(None, 10333-11038 (-1)), GF(AAA family ATPase, 11034-12639 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 12635-13703 (-1)), GF(putative photosynthetic complex assembly protein PuhE, 14479-15244 (1)), GF(acetate--CoA ligase, 15518-17609 (1)), GF(CRISPR-Cas locus, 4000-13703 (0))]
+graphic feature from cctyper protein table: GF(Cmr3gr5, 4000-4833 (-1))
+graphic feature from cctyper protein table: GF(Cmr5, 4844-5233 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5256-6215 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6226-9021 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 9018-10337 (-1))
+graphic feature from cctyper protein table: GF(Toprim, 10334-11038 (-1))
+graphic feature from cctyper protein table: GF(AbiEii, 11035-12639 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 12636-13703 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(gamma-glutamylcyclotransferase family protein, 758-1214 (-1)), GF(DUF4276 family protein, 1858-2539 (-1)), GF(AAA family ATPase, 2535-3648 (-1)), GF(None, 3646-3814 (1)), GF(None, 3999-4833 (-1)), GF(None, 4843-5233 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5255-6215 (-1)), GF(CRISPR-associated protein Csx11, 6225-9021 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9017-10337 (-1)), GF(None, 10333-11038 (-1)), GF(AAA family ATPase, 11034-12639 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 12635-13703 (-1)), GF(putative photosynthetic complex assembly protein PuhE, 14479-15244 (1)), GF(acetate--CoA ligase, 15518-17609 (1)), GF(Cmr3gr5, 4000-4833 (-1)), GF(Cmr5, 4844-5233 (-1)), GF(Cmr4gr7, 5256-6215 (-1)), GF(Cas10, 6226-9021 (-1)), GF(Cmr6, 9018-10337 (-1)), GF(Toprim, 10334-11038 (-1)), GF(AbiEii, 11035-12639 (-1)), GF(Csm3gr7, 12636-13703 (-1)), GF(CRISPR-Cas locus, 4000-13703 (0))]

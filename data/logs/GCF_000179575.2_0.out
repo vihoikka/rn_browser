@@ -230,5 +230,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(serine--tRNA ligase, 14909-16466 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 4000-6813 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6785-7279 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7344-8072 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 8124-9275 (1))
+graphic feature from cctyper protein table: GF(Csm5, 9278-10429 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10422-11909 (1))
+graphic feature from cctyper protein table: GF(Csx1, 11945-13504 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 10422-11909 (1))
-[GF(AI-2E family transporter, 401-1433 (-1)), GF(aldehyde ferredoxin oxidoreductase N-terminal domain-containing protein, 1712-3644 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6813 (1)), GF(type III-A CRISPR-associated protein Csm2, 6784-7279 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7343-8072 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8123-9275 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9277-10429 (1)), GF(None, 10421-11909 (1)), GF(None, 11944-13504 (1)), GF(chromate transporter, 13630-14803 (1)), GF(serine--tRNA ligase, 14909-16466 (-1)), GF(csx1, 10422-11909 (1)), GF(CRISPR-Cas locus, 4000-13504 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(AI-2E family transporter, 401-1433 (-1)), GF(aldehyde ferredoxin oxidoreductase N-terminal domain-containing protein, 1712-3644 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3999-6813 (1)), GF(type III-A CRISPR-associated protein Csm2, 6784-7279 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 7343-8072 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8123-9275 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9277-10429 (1)), GF(None, 10421-11909 (1)), GF(None, 11944-13504 (1)), GF(chromate transporter, 13630-14803 (1)), GF(serine--tRNA ligase, 14909-16466 (-1)), GF(Cas10, 4000-6813 (1)), GF(Csm2gr11, 6785-7279 (1)), GF(Csm3gr7, 7344-8072 (1)), GF(Csm4gr5, 8124-9275 (1)), GF(Csm5, 9278-10429 (1)), GF(Csx1, 10422-11909 (1)), GF(Csx1, 11945-13504 (1)), GF(csx1, 10422-11909 (1)), GF(CRISPR-Cas locus, 4000-13504 (0))]

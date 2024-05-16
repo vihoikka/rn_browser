@@ -435,4 +435,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(EVE domain-containing protein, 17575-18328 (-1))
-[GF(glycosyltransferase family 2 protein, 159-816 (-1)), GF(D-glucuronyl C5-epimerase family protein, 1011-2175 (1)), GF(None, 2218-2437 (-1)), GF(bile acid:sodium symporter, 2509-2914 (-1)), GF(None, 2930-3074 (-1)), GF(None, 3049-3220 (-1)), GF(None, 3398-3890 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-4491 (1)), GF(RAMP superfamily CRISPR-associated protein, 4731-5517 (1)), GF(CRISPR-associated protein Csx11, 5509-8509 (1)), GF(RAMP superfamily CRISPR-associated protein, 8498-9269 (1)), GF(None, 9255-9612 (1)), GF(None, 9595-10480 (1)), GF(None, 10692-11082 (1)), GF(None, 11122-11254 (1)), GF(None, 11431-11611 (1)), GF(None, 11798-11957 (1)), GF(MATE family efflux transporter, 11976-13329 (-1)), GF(MarR family transcriptional regulator, 13321-13768 (-1)), GF(type II toxin-antitoxin system HicB family antitoxin, 13902-14127 (1)), GF(DEAD/DEAH box helicase, 14175-16308 (-1)), GF(DUF2791 family P-loop domain-containing protein, 16323-17565 (-1)), GF(EVE domain-containing protein, 17575-18328 (-1)), GF(CRISPR-Cas locus, 4000-16308 (0))]
+graphic feature from cctyper protein table: GF(Cmr1gr7, 4000-4491 (1))
+graphic feature from cctyper protein table: GF(Cmr6, 4732-5517 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5510-8509 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8499-9269 (1))
+graphic feature from cctyper protein table: GF(Cmr5, 9256-9612 (1))
+graphic feature from cctyper protein table: GF(Csa3, 13322-13768 (-1))
+graphic feature from cctyper protein table: GF(Cas3, 14176-16308 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(glycosyltransferase family 2 protein, 159-816 (-1)), GF(D-glucuronyl C5-epimerase family protein, 1011-2175 (1)), GF(None, 2218-2437 (-1)), GF(bile acid:sodium symporter, 2509-2914 (-1)), GF(None, 2930-3074 (-1)), GF(None, 3049-3220 (-1)), GF(None, 3398-3890 (1)), GF(type III-B CRISPR module RAMP protein Cmr1, 3999-4491 (1)), GF(RAMP superfamily CRISPR-associated protein, 4731-5517 (1)), GF(CRISPR-associated protein Csx11, 5509-8509 (1)), GF(RAMP superfamily CRISPR-associated protein, 8498-9269 (1)), GF(None, 9255-9612 (1)), GF(None, 9595-10480 (1)), GF(None, 10692-11082 (1)), GF(None, 11122-11254 (1)), GF(None, 11431-11611 (1)), GF(None, 11798-11957 (1)), GF(MATE family efflux transporter, 11976-13329 (-1)), GF(MarR family transcriptional regulator, 13321-13768 (-1)), GF(type II toxin-antitoxin system HicB family antitoxin, 13902-14127 (1)), GF(DEAD/DEAH box helicase, 14175-16308 (-1)), GF(DUF2791 family P-loop domain-containing protein, 16323-17565 (-1)), GF(EVE domain-containing protein, 17575-18328 (-1)), GF(Cmr1gr7, 4000-4491 (1)), GF(Cmr6, 4732-5517 (1)), GF(Cas10, 5510-8509 (1)), GF(Cmr4gr7, 8499-9269 (1)), GF(Cmr5, 9256-9612 (1)), GF(Csa3, 13322-13768 (-1)), GF(Cas3, 14176-16308 (-1)), GF(CRISPR-Cas locus, 4000-16308 (0))]

@@ -233,4 +233,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(reverse transcriptase domain-containing protein, 12190-12853 (-1))
-[GF(None, 207-357 (-1)), GF(None, 353-551 (-1)), GF(plasmid pRiA4b ORF-3 family protein, 826-1393 (-1)), GF(SEC-C metal-binding domain-containing protein, 2115-3030 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-4821 (-1)), GF(None, 4822-5221 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5223-6126 (-1)), GF(CRISPR-associated protein Csx11, 6171-8934 (-1)), GF(None, 8923-10216 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10216-11317 (-1)), GF(CRISPR-associated endonuclease Cas6, 11354-12068 (-1)), GF(reverse transcriptase domain-containing protein, 12190-12853 (-1)), GF(CRISPR-Cas locus, 4000-12589 (0))]
+graphic feature from cctyper protein table: GF(Cmr3gr5, 4000-4821 (-1))
+graphic feature from cctyper protein table: GF(Cmr5, 4823-5221 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5224-6126 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6172-8934 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 8924-10216 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 10217-11317 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 11355-12068 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 207-357 (-1)), GF(None, 353-551 (-1)), GF(plasmid pRiA4b ORF-3 family protein, 826-1393 (-1)), GF(SEC-C metal-binding domain-containing protein, 2115-3030 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-4821 (-1)), GF(None, 4822-5221 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5223-6126 (-1)), GF(CRISPR-associated protein Csx11, 6171-8934 (-1)), GF(None, 8923-10216 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 10216-11317 (-1)), GF(CRISPR-associated endonuclease Cas6, 11354-12068 (-1)), GF(reverse transcriptase domain-containing protein, 12190-12853 (-1)), GF(Cmr3gr5, 4000-4821 (-1)), GF(Cmr5, 4823-5221 (-1)), GF(Cmr4gr7, 5224-6126 (-1)), GF(Cas10, 6172-8934 (-1)), GF(Cmr6, 8924-10216 (-1)), GF(Cmr1gr7, 10217-11317 (-1)), GF(Cas6, 11355-12068 (-1)), GF(CRISPR-Cas locus, 4000-12589 (0))]

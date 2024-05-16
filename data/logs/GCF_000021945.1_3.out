@@ -205,4 +205,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(gamma-glutamylcyclotransferase family protein, 14013-14469 (-1))
-[GF(M20 family metallopeptidase, 779-1916 (-1)), GF(ferritin, 2029-2530 (1)), GF(NYN domain-containing protein, 3018-3978 (-1)), GF(None, 3999-4923 (-1)), GF(None, 4919-5291 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5287-6637 (-1)), GF(None, 6650-9857 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9868-10846 (-1)), GF(None, 10842-11583 (-1)), GF(None, 13021-13597 (-1)), GF(gamma-glutamylcyclotransferase family protein, 14013-14469 (-1)), GF(CRISPR-Cas locus, 4000-10846 (0))]
+graphic feature from cctyper protein table: GF(Cmr3, 4000-4923 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 4920-5291 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5288-6637 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 6651-9857 (-1))
+graphic feature from cctyper protein table: GF(Cmr6, 9869-10846 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(M20 family metallopeptidase, 779-1916 (-1)), GF(ferritin, 2029-2530 (1)), GF(NYN domain-containing protein, 3018-3978 (-1)), GF(None, 3999-4923 (-1)), GF(None, 4919-5291 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5287-6637 (-1)), GF(None, 6650-9857 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9868-10846 (-1)), GF(None, 10842-11583 (-1)), GF(None, 13021-13597 (-1)), GF(gamma-glutamylcyclotransferase family protein, 14013-14469 (-1)), GF(Cmr3, 4000-4923 (-1)), GF(Cmr5gr11, 4920-5291 (-1)), GF(Cmr4gr7, 5288-6637 (-1)), GF(Cas10, 6651-9857 (-1)), GF(Cmr6, 9869-10846 (-1)), GF(CRISPR-Cas locus, 4000-10846 (0))]

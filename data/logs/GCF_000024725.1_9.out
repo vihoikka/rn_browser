@@ -474,7 +474,26 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 20780-21169 (0))
+graphic feature from cctyper protein table: GF(Cas6, 4000-5007 (1))
+graphic feature from cctyper protein table: GF(Cas10, 7616-10201 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 10216-10677 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 10681-11433 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 11430-12392 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 12392-13549 (1))
+graphic feature from cctyper protein table: GF(Csx1, 14206-15495 (1))
+graphic feature from cctyper protein table: GF(CasR, 16308-16928 (1))
+graphic feature from cctyper protein table: GF(Can2, 16935-18092 (1))
+graphic feature from cctyper protein table: GF(Cas2, 21320-21604 (1))
+graphic feature from cctyper protein table: GF(Cas1, 21903-22886 (1))
+graphic feature from cctyper protein table: GF(Cas1, 22883-23671 (1))
+graphic feature from cctyper protein table: GF(Cas2, 23671-24009 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 14206-15495 (1))
 graphic feature from known effectors: GF(cam1, 16308-16928 (1))
 graphic feature from known effectors: GF(can1-2, 16935-18092 (1))
-[GF(peptide chain release factor 3, 293-1922 (1)), GF(dual specificity protein phosphatase, 2063-3383 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-5007 (1)), GF(IS256 family transposase, 5247-6471 (-1)), GF(CRISPR-associated ring nuclease Csm6, 6518-7619 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 7615-10201 (1)), GF(type III-A CRISPR-associated protein Csm2, 10215-10677 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 10680-11433 (1)), GF(DNA repair RAMP superfamily-like protein, 11429-12392 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 12391-13549 (1)), GF(Uma2 family endonuclease, 13566-14160 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 14205-15495 (1)), GF(transposase, 15658-16195 (1)), GF(None, 16307-16928 (1)), GF(DUF1887 family CARF protein, 16934-18092 (1)), GF(IS1634 family transposase, 19139-20753 (1)), GF(CRISPR-associated endonuclease Cas2, 21319-21604 (1)), GF(CRISPR-associated endonuclease Cas1, 21902-22886 (1)), GF(None, 22882-23671 (1)), GF(CRISPR-associated endonuclease Cas2, 23670-24009 (1)), GF(alpha-amylase family glycosyl hydrolase, 24012-25410 (1)), GF(glycoside hydrolase family 15 protein, 25445-27254 (1)), GF(Repeat region, 18265-19007 (0)), GF(Repeat region, 20780-21169 (0)), GF(csx1, 14206-15495 (1)), GF(cam1, 16308-16928 (1)), GF(can1-2, 16935-18092 (1)), GF(CRISPR-Cas locus, 4000-24009 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(peptide chain release factor 3, 293-1922 (1)), GF(dual specificity protein phosphatase, 2063-3383 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 3999-5007 (1)), GF(IS256 family transposase, 5247-6471 (-1)), GF(CRISPR-associated ring nuclease Csm6, 6518-7619 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 7615-10201 (1)), GF(type III-A CRISPR-associated protein Csm2, 10215-10677 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 10680-11433 (1)), GF(DNA repair RAMP superfamily-like protein, 11429-12392 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 12391-13549 (1)), GF(Uma2 family endonuclease, 13566-14160 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 14205-15495 (1)), GF(transposase, 15658-16195 (1)), GF(None, 16307-16928 (1)), GF(DUF1887 family CARF protein, 16934-18092 (1)), GF(IS1634 family transposase, 19139-20753 (1)), GF(CRISPR-associated endonuclease Cas2, 21319-21604 (1)), GF(CRISPR-associated endonuclease Cas1, 21902-22886 (1)), GF(None, 22882-23671 (1)), GF(CRISPR-associated endonuclease Cas2, 23670-24009 (1)), GF(alpha-amylase family glycosyl hydrolase, 24012-25410 (1)), GF(glycoside hydrolase family 15 protein, 25445-27254 (1)), GF(Repeat region, 18265-19007 (0)), GF(Repeat region, 20780-21169 (0)), GF(Cas6, 4000-5007 (1)), GF(Cas10, 7616-10201 (1)), GF(Csm2gr11, 10216-10677 (1)), GF(Csm3gr7, 10681-11433 (1)), GF(Csm4gr5, 11430-12392 (1)), GF(Csm5gr7, 12392-13549 (1)), GF(Csx1, 14206-15495 (1)), GF(CasR, 16308-16928 (1)), GF(Can2, 16935-18092 (1)), GF(Cas2, 21320-21604 (1)), GF(Cas1, 21903-22886 (1)), GF(Cas1, 22883-23671 (1)), GF(Cas2, 23671-24009 (1)), GF(csx1, 14206-15495 (1)), GF(cam1, 16308-16928 (1)), GF(can1-2, 16935-18092 (1)), GF(CRISPR-Cas locus, 4000-24009 (0))]

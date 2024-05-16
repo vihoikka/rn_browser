@@ -487,4 +487,25 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 24294-24796 (0))
-[GF(sugar phosphate isomerase/epimerase family protein, 705-1542 (1)), GF(M20 family metallopeptidase, 1534-2956 (1)), GF(CPBP family intramembrane metalloprotease, 3003-3939 (-1)), GF(DEAD/DEAH box helicase, 3999-6564 (-1)), GF(HD domain-containing protein, 6560-7394 (-1)), GF(CRISPR-associated helicase Cas3', 7372-9073 (-1)), GF(None, 9069-10152 (-1)), GF(type I-A CRISPR-associated protein Cas5a, 10148-10973 (-1)), GF(type I-A CRISPR-associated protein Cas7/Csa2, 10960-11938 (-1)), GF(None, 11944-12370 (-1)), GF(CRISPR-associated CARF protein Csa3, 12479-13130 (-1)), GF(DUF3782 domain-containing protein, 13507-14230 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14354-15224 (-1)), GF(None, 15965-18725 (-1)), GF(CRISPR-associated RAMP Csm5 family protein, 18709-19816 (-1)), GF(None, 19817-20816 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 20821-21817 (-1)), GF(None, 21822-22242 (-1)), GF(AAA family ATPase, 22286-23255 (1)), GF(None, 23247-23721 (1)), GF(None, 23849-24164 (1)), GF(None, 25071-25587 (1)), GF(PaREP1 family protein, 25595-26117 (-1)), GF(None, 26141-26954 (-1)), GF(Repeat region, 15489-15859 (0)), GF(Repeat region, 24294-24796 (0)), GF(CRISPR-Cas locus, 4000-23255 (0))]
+graphic feature from cctyper protein table: GF(Cas3, 4000-6564 (-1))
+graphic feature from cctyper protein table: GF(Cas3HD, 6561-7394 (-1))
+graphic feature from cctyper protein table: GF(Cas3, 7373-9073 (-1))
+graphic feature from cctyper protein table: GF(Cas8a2, 9070-10152 (-1))
+graphic feature from cctyper protein table: GF(Cas5, 10149-10973 (-1))
+graphic feature from cctyper protein table: GF(Cas7, 10961-11938 (-1))
+graphic feature from cctyper protein table: GF(Csa5gr11, 11945-12370 (-1))
+graphic feature from cctyper protein table: GF(CasR, 12480-13130 (-1))
+graphic feature from cctyper protein table: GF(Cas6, 14355-15224 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 15966-18725 (-1))
+graphic feature from cctyper protein table: GF(Csm5, 18710-19816 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 19818-20816 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 20822-21817 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 21823-22242 (-1))
+graphic feature from cctyper protein table: GF(AbiEii, 22287-23255 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(sugar phosphate isomerase/epimerase family protein, 705-1542 (1)), GF(M20 family metallopeptidase, 1534-2956 (1)), GF(CPBP family intramembrane metalloprotease, 3003-3939 (-1)), GF(DEAD/DEAH box helicase, 3999-6564 (-1)), GF(HD domain-containing protein, 6560-7394 (-1)), GF(CRISPR-associated helicase Cas3', 7372-9073 (-1)), GF(None, 9069-10152 (-1)), GF(type I-A CRISPR-associated protein Cas5a, 10148-10973 (-1)), GF(type I-A CRISPR-associated protein Cas7/Csa2, 10960-11938 (-1)), GF(None, 11944-12370 (-1)), GF(CRISPR-associated CARF protein Csa3, 12479-13130 (-1)), GF(DUF3782 domain-containing protein, 13507-14230 (-1)), GF(CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6, 14354-15224 (-1)), GF(None, 15965-18725 (-1)), GF(CRISPR-associated RAMP Csm5 family protein, 18709-19816 (-1)), GF(None, 19817-20816 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 20821-21817 (-1)), GF(None, 21822-22242 (-1)), GF(AAA family ATPase, 22286-23255 (1)), GF(None, 23247-23721 (1)), GF(None, 23849-24164 (1)), GF(None, 25071-25587 (1)), GF(PaREP1 family protein, 25595-26117 (-1)), GF(None, 26141-26954 (-1)), GF(Repeat region, 15489-15859 (0)), GF(Repeat region, 24294-24796 (0)), GF(Cas3, 4000-6564 (-1)), GF(Cas3HD, 6561-7394 (-1)), GF(Cas3, 7373-9073 (-1)), GF(Cas8a2, 9070-10152 (-1)), GF(Cas5, 10149-10973 (-1)), GF(Cas7, 10961-11938 (-1)), GF(Csa5gr11, 11945-12370 (-1)), GF(CasR, 12480-13130 (-1)), GF(Cas6, 14355-15224 (-1)), GF(Cas10, 15966-18725 (-1)), GF(Csm5, 18710-19816 (-1)), GF(Csm4gr5, 19818-20816 (-1)), GF(Csm3gr7, 20822-21817 (-1)), GF(Csm2gr11, 21823-22242 (-1)), GF(AbiEii, 22287-23255 (1)), GF(CRISPR-Cas locus, 4000-23255 (0))]

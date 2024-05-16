@@ -261,4 +261,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(Spy/CpxP family protein refolding chaperone, 14844-15285 (-1))
-[GF(50S ribosomal protein L11 methyltransferase, 443-1343 (-1)), GF(phosphoglycerate dehydrogenase, 1351-2935 (-1)), GF(None, 3080-3431 (-1)), GF(DnaJ domain-containing protein, 3384-3981 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5937 (-1)), GF(None, 5949-6339 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6328-7141 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7213-8320 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8382-11454 (-1)), GF(None, 11829-12354 (-1)), GF(glutamate--cysteine ligase, 12464-13604 (1)), GF(lipid-A-disaccharide synthase, 13606-14794 (1)), GF(Spy/CpxP family protein refolding chaperone, 14844-15285 (-1)), GF(CRISPR-Cas locus, 4000-11454 (0))]
+graphic feature from cctyper protein table: GF(Cmr6gr7, 4000-5937 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5950-6339 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 6329-7141 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 7214-8320 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8383-11454 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(50S ribosomal protein L11 methyltransferase, 443-1343 (-1)), GF(phosphoglycerate dehydrogenase, 1351-2935 (-1)), GF(None, 3080-3431 (-1)), GF(DnaJ domain-containing protein, 3384-3981 (-1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5937 (-1)), GF(None, 5949-6339 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 6328-7141 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 7213-8320 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 8382-11454 (-1)), GF(None, 11829-12354 (-1)), GF(glutamate--cysteine ligase, 12464-13604 (1)), GF(lipid-A-disaccharide synthase, 13606-14794 (1)), GF(Spy/CpxP family protein refolding chaperone, 14844-15285 (-1)), GF(Cmr6gr7, 4000-5937 (-1)), GF(Cmr5gr11, 5950-6339 (-1)), GF(Cmr4, 6329-7141 (-1)), GF(Cmr3gr5, 7214-8320 (-1)), GF(Cas10, 8383-11454 (-1)), GF(CRISPR-Cas locus, 4000-11454 (0))]

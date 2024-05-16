@@ -367,6 +367,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 19003-19362 (0))
+graphic feature from cctyper protein table: GF(Csm2gr11, 6395-6946 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 7000-7803 (1))
+graphic feature from cctyper protein table: GF(Csm4, 7800-8858 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 8851-9987 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10005-11474 (1))
+graphic feature from cctyper protein table: GF(AbiEii, 16074-17030 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(cami1, 2949-3836 (1))
 graphic feature from known effectors: GF(csx1, 10005-11474 (1))
-[GF(IS21 family transposase, 89-1604 (1)), GF(IS21-like element helper ATPase IstB, 1596-2319 (1)), GF(None, 2636-2900 (1)), GF(CRISPR-associated protein, 2948-3836 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3930-6405 (1)), GF(type III-A CRISPR-associated protein Csm2, 6394-6946 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6999-7803 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7799-8858 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8850-9987 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 10004-11474 (1)), GF(IS200/IS605 family transposase, 12923-13322 (1)), GF(RNA-guided endonuclease TnpB family protein, 13334-14444 (1)), GF(None, 15176-15398 (-1)), GF(ATP-binding cassette domain-containing protein, 16073-17030 (1)), GF(ABC-2 family transporter protein, 16995-17790 (1)), GF(ABC-2 family transporter protein, 17770-18553 (1)), GF(ABC transporter permease, 19725-21018 (-1)), GF(Repeat region, 11868-12752 (0)), GF(Repeat region, 19003-19362 (0)), GF(cami1, 2949-3836 (1)), GF(csx1, 10005-11474 (1)), GF(CRISPR-Cas locus, 4000-17030 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(IS21 family transposase, 89-1604 (1)), GF(IS21-like element helper ATPase IstB, 1596-2319 (1)), GF(None, 2636-2900 (1)), GF(CRISPR-associated protein, 2948-3836 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 3930-6405 (1)), GF(type III-A CRISPR-associated protein Csm2, 6394-6946 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6999-7803 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 7799-8858 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 8850-9987 (1)), GF(TIGR02710 family CRISPR-associated CARF protein, 10004-11474 (1)), GF(IS200/IS605 family transposase, 12923-13322 (1)), GF(RNA-guided endonuclease TnpB family protein, 13334-14444 (1)), GF(None, 15176-15398 (-1)), GF(ATP-binding cassette domain-containing protein, 16073-17030 (1)), GF(ABC-2 family transporter protein, 16995-17790 (1)), GF(ABC-2 family transporter protein, 17770-18553 (1)), GF(ABC transporter permease, 19725-21018 (-1)), GF(Repeat region, 11868-12752 (0)), GF(Repeat region, 19003-19362 (0)), GF(Csm2gr11, 6395-6946 (1)), GF(Csm3gr7, 7000-7803 (1)), GF(Csm4, 7800-8858 (1)), GF(Csm5gr7, 8851-9987 (1)), GF(Csx1, 10005-11474 (1)), GF(AbiEii, 16074-17030 (1)), GF(cami1, 2949-3836 (1)), GF(csx1, 10005-11474 (1)), GF(CRISPR-Cas locus, 4000-17030 (0))]

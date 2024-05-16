@@ -229,5 +229,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(helicase-related protein, 11049-14772 (1))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5262 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5265-7571 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7572-8150 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8150-9031 (1))
+graphic feature from cctyper protein table: GF(Csm4, 9006-9968 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 9965-11062 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5262 (1))
-[GF(DUF169 domain-containing protein, 595-1297 (1)), GF(MJ0307 family thioredoxin, 1580-1838 (1)), GF(None, 1979-2159 (1)), GF(chloride channel protein, 2348-3533 (-1)), GF(TIGR02221 family CRISPR-associated protein, 3999-5262 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5264-7571 (1)), GF(type III-A CRISPR-associated protein Csm2, 7571-8150 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8149-9031 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 9005-9968 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9964-11062 (1)), GF(helicase-related protein, 11049-14772 (1)), GF(csx1, 4000-5262 (1)), GF(CRISPR-Cas locus, 4000-11062 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF169 domain-containing protein, 595-1297 (1)), GF(MJ0307 family thioredoxin, 1580-1838 (1)), GF(None, 1979-2159 (1)), GF(chloride channel protein, 2348-3533 (-1)), GF(TIGR02221 family CRISPR-associated protein, 3999-5262 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5264-7571 (1)), GF(type III-A CRISPR-associated protein Csm2, 7571-8150 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8149-9031 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 9005-9968 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 9964-11062 (1)), GF(helicase-related protein, 11049-14772 (1)), GF(Csx1, 4000-5262 (1)), GF(Cas10, 5265-7571 (1)), GF(Csm2gr11, 7572-8150 (1)), GF(Csm3gr7, 8150-9031 (1)), GF(Csm4, 9006-9968 (1)), GF(Csm5gr7, 9965-11062 (1)), GF(csx1, 4000-5262 (1)), GF(CRISPR-Cas locus, 4000-11062 (0))]

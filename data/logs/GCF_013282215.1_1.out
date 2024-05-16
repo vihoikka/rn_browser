@@ -278,4 +278,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(N-acetylmuramic acid 6-phosphate etherase, 14752-15661 (1))
-[GF(sucrose-specific PTS transporter subunit IIBC, 1025-2429 (-1)), GF(LacI family DNA-binding transcriptional regulator, 2510-3503 (-1)), GF(transposase, 3626-3854 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4773 (-1)), GF(None, 5388-6204 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 6489-7605 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 7597-8035 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8048-8873 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8869-9844 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9951-11856 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11852-13010 (-1)), GF(MurR/RpiR family transcriptional regulator, 13282-14125 (1)), GF(N-acetylmuramic acid 6-phosphate etherase, 14752-15661 (1)), GF(CRISPR-Cas locus, 4000-13010 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4773 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 6490-7605 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 7598-8035 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 8049-8873 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 8870-9844 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 9952-11856 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 11853-13010 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(sucrose-specific PTS transporter subunit IIBC, 1025-2429 (-1)), GF(LacI family DNA-binding transcriptional regulator, 2510-3503 (-1)), GF(transposase, 3626-3854 (1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4773 (-1)), GF(None, 5388-6204 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 6489-7605 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 7597-8035 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8048-8873 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 8869-9844 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 9951-11856 (-1)), GF(type III-B CRISPR module RAMP protein Cmr1, 11852-13010 (-1)), GF(MurR/RpiR family transcriptional regulator, 13282-14125 (1)), GF(N-acetylmuramic acid 6-phosphate etherase, 14752-15661 (1)), GF(Cas6, 4000-4773 (-1)), GF(Cmr6gr7, 6490-7605 (-1)), GF(Cmr5gr11, 7598-8035 (-1)), GF(Cmr4, 8049-8873 (-1)), GF(Cmr3gr5, 8870-9844 (-1)), GF(Cas10, 9952-11856 (-1)), GF(Cmr1gr7, 11853-13010 (-1)), GF(CRISPR-Cas locus, 4000-13010 (0))]

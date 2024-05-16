@@ -326,5 +326,18 @@ qualifiers:
 
 GF(Repeat region, 11880-12135 (0))
 graphic feature from validated effectors: GF(tirsaved, 12792-14009 (1))
+graphic feature from cctyper protein table: GF(Cas6, 4000-4731 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 4787-6001 (1))
+graphic feature from cctyper protein table: GF(Cas10, 5998-8427 (1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 8435-8809 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 8809-9546 (1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 9553-10665 (1))
+graphic feature from cctyper protein table: GF(Csm5gr7, 10662-11789 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4787-6001 (1))
-[GF(None, 1362-1545 (-1)), GF(None, 1564-1939 (1)), GF(None, 2290-2506 (-1)), GF(None, 2829-2961 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4731 (-1)), GF(TIGR02221 family CRISPR-associated protein, 4786-6001 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5997-8427 (1)), GF(type III-A CRISPR-associated protein Csm2, 8434-8809 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8808-9546 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 9552-10665 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 10661-11789 (1)), GF(None, 12576-12744 (1)), GF(SAVED domain-containing protein, 12791-14009 (1)), GF(DUF4231 domain-containing protein, 14212-14653 (-1)), GF(None, 15037-15331 (-1)), GF(Repeat region, 3511-3840 (0)), GF(Repeat region, 11880-12135 (0)), GF(tirsaved, 12792-14009 (1)), GF(csx1, 4787-6001 (1)), GF(CRISPR-Cas locus, 4000-11789 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1362-1545 (-1)), GF(None, 1564-1939 (1)), GF(None, 2290-2506 (-1)), GF(None, 2829-2961 (-1)), GF(CRISPR-associated endoribonuclease Cas6, 3999-4731 (-1)), GF(TIGR02221 family CRISPR-associated protein, 4786-6001 (1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 5997-8427 (1)), GF(type III-A CRISPR-associated protein Csm2, 8434-8809 (1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 8808-9546 (1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 9552-10665 (1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 10661-11789 (1)), GF(None, 12576-12744 (1)), GF(SAVED domain-containing protein, 12791-14009 (1)), GF(DUF4231 domain-containing protein, 14212-14653 (-1)), GF(None, 15037-15331 (-1)), GF(Repeat region, 3511-3840 (0)), GF(Repeat region, 11880-12135 (0)), GF(tirsaved, 12792-14009 (1)), GF(Cas6, 4000-4731 (-1)), GF(Csx1, 4787-6001 (1)), GF(Cas10, 5998-8427 (1)), GF(Csm2gr11, 8435-8809 (1)), GF(Csm3gr7, 8809-9546 (1)), GF(Csm4gr5, 9553-10665 (1)), GF(Csm5gr7, 10662-11789 (1)), GF(csx1, 4787-6001 (1)), GF(CRISPR-Cas locus, 4000-11789 (0))]

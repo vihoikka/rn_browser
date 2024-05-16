@@ -200,4 +200,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 11187-12817 (0))
-[GF(None, 1579-3430 (-1)), GF(None, 3735-3873 (-1)), GF(None, 3999-4623 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4619-5804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5793-6804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6831-7659 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7686-8097 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8129-10613 (-1)), GF(IS1634 family transposase, 13061-14322 (-1)), GF(Repeat region, 11187-12817 (0)), GF(CRISPR-Cas locus, 4000-10613 (0))]
+graphic feature from cctyper protein table: GF(Cas6, 4000-4623 (-1))
+graphic feature from cctyper protein table: GF(Csm5, 4620-5804 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 5794-6804 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 6832-7659 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 7687-8097 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 8130-10613 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 1579-3430 (-1)), GF(None, 3735-3873 (-1)), GF(None, 3999-4623 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 4619-5804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 5793-6804 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 6831-7659 (-1)), GF(type III-A CRISPR-associated protein Csm2, 7686-8097 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 8129-10613 (-1)), GF(IS1634 family transposase, 13061-14322 (-1)), GF(Repeat region, 11187-12817 (0)), GF(Cas6, 4000-4623 (-1)), GF(Csm5, 4620-5804 (-1)), GF(Csm4gr5, 5794-6804 (-1)), GF(Csm3gr7, 6832-7659 (-1)), GF(Csm2gr11, 7687-8097 (-1)), GF(Cas10, 8130-10613 (-1)), GF(CRISPR-Cas locus, 4000-10613 (0))]

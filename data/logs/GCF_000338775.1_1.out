@@ -224,4 +224,17 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(class I SAM-dependent methyltransferase, 10911-11595 (1))
-[GF(None, 938-1385 (1)), GF(AAA family ATPase, 1869-2637 (1)), GF(None, 2671-2869 (1)), GF(None, 3076-3487 (1)), GF(None, 3739-4003 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5184 (1)), GF(clan AA aspartic protease, 5180-5498 (1)), GF(RAMP superfamily CRISPR-associated protein, 5494-6181 (1)), GF(None, 6166-6550 (-1)), GF(None, 6534-7272 (-1)), GF(None, 7268-9878 (-1)), GF(class I SAM-dependent methyltransferase, 10911-11595 (1)), GF(CRISPR-Cas locus, 4000-9926 (0))]
+graphic feature from cctyper protein table: GF(Csm3gr7, 4000-5184 (1))
+graphic feature from cctyper protein table: GF(PEPT, 5181-5498 (1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 5495-6181 (1))
+graphic feature from cctyper protein table: GF(Csx26, 6167-6550 (-1))
+graphic feature from cctyper protein table: GF(Csm4gr5, 6535-7272 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7269-9878 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
+graphic feature from ring nucleases: GF(proteaseRN, 5181-5498 (1))
+[GF(None, 938-1385 (1)), GF(AAA family ATPase, 1869-2637 (1)), GF(None, 2671-2869 (1)), GF(None, 3076-3487 (1)), GF(None, 3739-4003 (1)), GF(RAMP superfamily CRISPR-associated protein, 3999-5184 (1)), GF(clan AA aspartic protease, 5180-5498 (1)), GF(RAMP superfamily CRISPR-associated protein, 5494-6181 (1)), GF(None, 6166-6550 (-1)), GF(None, 6534-7272 (-1)), GF(None, 7268-9878 (-1)), GF(class I SAM-dependent methyltransferase, 10911-11595 (1)), GF(Csm3gr7, 4000-5184 (1)), GF(PEPT, 5181-5498 (1)), GF(Csm3gr7, 5495-6181 (1)), GF(Csx26, 6167-6550 (-1)), GF(Csm4gr5, 6535-7272 (-1)), GF(Cas10, 7269-9878 (-1)), GF(proteaseRN, 5181-5498 (1)), GF(CRISPR-Cas locus, 4000-9926 (0))]

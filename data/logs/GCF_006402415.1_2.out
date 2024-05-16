@@ -214,4 +214,16 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 295-3434 (0))
-[GF(None, 3832-4003 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5076 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 5068-5476 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5472-6417 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 6419-7628 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7624-9409 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9413-10892 (-1)), GF(SAVED domain-containing protein, 10987-12817 (-1)), GF(nucleotidyltransferase, 12917-13781 (-1)), GF(serine/threonine-protein kinase, 13871-14720 (-1)), GF(Repeat region, 295-3434 (0)), GF(CRISPR-Cas locus, 4000-10892 (0))]
+graphic feature from cctyper protein table: GF(Cmr6gr7, 4000-5076 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 5069-5476 (-1))
+graphic feature from cctyper protein table: GF(Cmr4, 5473-6417 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6420-7628 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 7625-9409 (-1))
+graphic feature from cctyper protein table: GF(Cmr1gr7, 9414-10892 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 3832-4003 (-1)), GF(type III-B CRISPR module RAMP protein Cmr6, 3999-5076 (-1)), GF(type III-B CRISPR module-associated protein Cmr5, 5068-5476 (-1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5472-6417 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 6419-7628 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 7624-9409 (-1)), GF(RAMP superfamily CRISPR-associated protein, 9413-10892 (-1)), GF(SAVED domain-containing protein, 10987-12817 (-1)), GF(nucleotidyltransferase, 12917-13781 (-1)), GF(serine/threonine-protein kinase, 13871-14720 (-1)), GF(Repeat region, 295-3434 (0)), GF(Cmr6gr7, 4000-5076 (-1)), GF(Cmr5gr11, 5069-5476 (-1)), GF(Cmr4, 5473-6417 (-1)), GF(Cmr3gr5, 6420-7628 (-1)), GF(Cas10, 7625-9409 (-1)), GF(Cmr1gr7, 9414-10892 (-1)), GF(CRISPR-Cas locus, 4000-10892 (0))]

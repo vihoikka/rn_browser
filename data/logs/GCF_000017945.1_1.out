@@ -198,5 +198,15 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(CTP synthase, 12317-13907 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5571 (1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 5686-6522 (1))
+graphic feature from cctyper protein table: GF(Cas10, 6819-9896 (1))
+graphic feature from cctyper protein table: GF(Cmr3, 9903-10967 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5571 (1))
-[GF(class I SAM-dependent methyltransferase, 116-707 (-1)), GF(translation initiation factor IF-2 subunit gamma, 854-2102 (1)), GF(porphobilinogen synthase, 2098-3127 (-1)), GF(TIGR00266 family protein, 3192-3897 (1)), GF(TM1812 family CRISPR-associated protein, 3999-5571 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5685-6522 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6818-9896 (1)), GF(None, 9902-10967 (1)), GF(None, 11336-11711 (-1)), GF(CTP synthase, 12317-13907 (-1)), GF(csx1, 4000-5571 (1)), GF(CRISPR-Cas locus, 4000-10967 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(class I SAM-dependent methyltransferase, 116-707 (-1)), GF(translation initiation factor IF-2 subunit gamma, 854-2102 (1)), GF(porphobilinogen synthase, 2098-3127 (-1)), GF(TIGR00266 family protein, 3192-3897 (1)), GF(TM1812 family CRISPR-associated protein, 3999-5571 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 5685-6522 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 6818-9896 (1)), GF(None, 9902-10967 (1)), GF(None, 11336-11711 (-1)), GF(CTP synthase, 12317-13907 (-1)), GF(Csx1, 4000-5571 (1)), GF(Cmr4gr7, 5686-6522 (1)), GF(Cas10, 6819-9896 (1)), GF(Cmr3, 9903-10967 (1)), GF(csx1, 4000-5571 (1)), GF(CRISPR-Cas locus, 4000-10967 (0))]

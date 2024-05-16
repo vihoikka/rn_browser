@@ -302,5 +302,19 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 1960-3960 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5388 (-1))
+graphic feature from cctyper protein table: GF(PD, 6032-6472 (-1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 6551-8266 (-1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 8285-8689 (-1))
+graphic feature from cctyper protein table: GF(Cmr4gr7, 8689-9657 (-1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 9657-10742 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10727-12298 (-1))
+graphic feature from cctyper protein table: GF(WYL, 12482-13642 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 4000-5388 (-1))
-[GF(Uma2 family endonuclease, 709-1369 (-1)), GF(None, 1601-1904 (-1)), GF(None, 3624-3807 (-1)), GF(None, 3999-5388 (-1)), GF(Uma2 family endonuclease, 5425-6004 (-1)), GF(None, 6031-6472 (-1)), GF(RAMP superfamily protein, 6550-8266 (-1)), GF(None, 8284-8689 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8688-9657 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9656-10742 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10726-12298 (-1)), GF(WYL domain-containing protein, 12481-13642 (1)), GF(adenosylcobinamide-GDP ribazoletransferase, 13667-14420 (-1)), GF(S41 family peptidase, 14662-15931 (1)), GF(3-phosphoshikimate 1-carboxyvinyltransferase, 15967-17305 (-1)), GF(Repeat region, 1960-3960 (0)), GF(csx1, 4000-5388 (-1)), GF(CRISPR-Cas locus, 4000-13642 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(Uma2 family endonuclease, 709-1369 (-1)), GF(None, 1601-1904 (-1)), GF(None, 3624-3807 (-1)), GF(None, 3999-5388 (-1)), GF(Uma2 family endonuclease, 5425-6004 (-1)), GF(None, 6031-6472 (-1)), GF(RAMP superfamily protein, 6550-8266 (-1)), GF(None, 8284-8689 (-1)), GF(RAMP superfamily CRISPR-associated protein, 8688-9657 (-1)), GF(type III-B CRISPR module-associated Cmr3 family protein, 9656-10742 (-1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 10726-12298 (-1)), GF(WYL domain-containing protein, 12481-13642 (1)), GF(adenosylcobinamide-GDP ribazoletransferase, 13667-14420 (-1)), GF(S41 family peptidase, 14662-15931 (1)), GF(3-phosphoshikimate 1-carboxyvinyltransferase, 15967-17305 (-1)), GF(Repeat region, 1960-3960 (0)), GF(Csx1, 4000-5388 (-1)), GF(PD, 6032-6472 (-1)), GF(Cmr6gr7, 6551-8266 (-1)), GF(Cmr5gr11, 8285-8689 (-1)), GF(Cmr4gr7, 8689-9657 (-1)), GF(Cmr3gr5, 9657-10742 (-1)), GF(Cas10, 10727-12298 (-1)), GF(WYL, 12482-13642 (1)), GF(csx1, 4000-5388 (-1)), GF(CRISPR-Cas locus, 4000-13642 (0))]

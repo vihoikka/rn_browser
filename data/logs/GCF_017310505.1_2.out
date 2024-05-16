@@ -248,4 +248,18 @@ qualifiers:
     Key: transl_table, Value: ['11']
 
 GF(CRISPR-associated endonuclease Cas2, 14982-15369 (1))
-[GF(None, 662-1100 (1)), GF(TonB-dependent receptor, 1450-3349 (1)), GF(None, 3448-3772 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-6984 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 6980-8249 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8326-9265 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9283-9643 (1)), GF(RAMP superfamily CRISPR-associated protein, 9646-10549 (1)), GF(CRISPR-associated ring nuclease Csm6, 10806-11898 (1)), GF(None, 12001-13903 (1)), GF(CRISPR-associated endonuclease Cas1, 13972-14980 (1)), GF(CRISPR-associated endonuclease Cas2, 14982-15369 (1)), GF(CRISPR-Cas locus, 4000-15369 (0))]
+graphic feature from cctyper protein table: GF(Cas10, 4000-6984 (1))
+graphic feature from cctyper protein table: GF(Cmr3gr5, 6981-8249 (1))
+graphic feature from cctyper protein table: GF(Cmr4, 8327-9265 (1))
+graphic feature from cctyper protein table: GF(Cmr5gr11, 9284-9643 (1))
+graphic feature from cctyper protein table: GF(Cmr6gr7, 9647-10549 (1))
+graphic feature from cctyper protein table: GF(Csx1, 10807-11898 (1))
+graphic feature from cctyper protein table: GF(Cas1, 13973-14980 (1))
+graphic feature from cctyper protein table: GF(Cas2, 14983-15369 (1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(None, 662-1100 (1)), GF(TonB-dependent receptor, 1450-3349 (1)), GF(None, 3448-3772 (1)), GF(type III-B CRISPR-associated protein Cas10/Cmr2, 3999-6984 (1)), GF(type III-B CRISPR module-associated protein Cmr3, 6980-8249 (1)), GF(type III-B CRISPR module RAMP protein Cmr4, 8326-9265 (1)), GF(type III-B CRISPR module-associated protein Cmr5, 9283-9643 (1)), GF(RAMP superfamily CRISPR-associated protein, 9646-10549 (1)), GF(CRISPR-associated ring nuclease Csm6, 10806-11898 (1)), GF(None, 12001-13903 (1)), GF(CRISPR-associated endonuclease Cas1, 13972-14980 (1)), GF(CRISPR-associated endonuclease Cas2, 14982-15369 (1)), GF(Cas10, 4000-6984 (1)), GF(Cmr3gr5, 6981-8249 (1)), GF(Cmr4, 8327-9265 (1)), GF(Cmr5gr11, 9284-9643 (1)), GF(Cmr6gr7, 9647-10549 (1)), GF(Csx1, 10807-11898 (1)), GF(Cas1, 13973-14980 (1)), GF(Cas2, 14983-15369 (1)), GF(CRISPR-Cas locus, 4000-15369 (0))]

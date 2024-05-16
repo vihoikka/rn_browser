@@ -283,5 +283,18 @@ qualifiers:
     Key: source, Value: ['CCTyper']
 
 GF(Repeat region, 3124-3614 (0))
+graphic feature from cctyper protein table: GF(Csx1, 4000-5529 (-1))
+graphic feature from cctyper protein table: GF(Csx1, 5566-7053 (-1))
+graphic feature from cctyper protein table: GF(Csm5, 7050-8165 (-1))
+graphic feature from cctyper protein table: GF(Csm4, 8152-9288 (-1))
+graphic feature from cctyper protein table: GF(Csm3gr7, 9323-10048 (-1))
+graphic feature from cctyper protein table: GF(Csm2gr11, 10067-10594 (-1))
+graphic feature from cctyper protein table: GF(Cas10, 10578-13106 (-1))
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence', 'type'],
+      dtype='object')
 graphic feature from known effectors: GF(csx1, 5566-7053 (-1))
-[GF(DUF530 family protein, 663-2085 (1)), GF(adenosylcobinamide-phosphate synthase CbiB, 2104-3043 (1)), GF(None, 3999-5529 (-1)), GF(None, 5565-7053 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 7049-8165 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8151-9288 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9322-10048 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10066-10594 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 10577-13106 (-1)), GF(translation initiation factor IF-5A, 13279-13675 (-1)), GF(precorrin-3B C(17)-methyltransferase, 13859-14612 (-1)), GF(PspC domain-containing protein, 14813-15065 (-1)), GF(succinate--CoA ligase subunit alpha, 15242-16106 (1)), GF(Repeat region, 3124-3614 (0)), GF(csx1, 5566-7053 (-1)), GF(CRISPR-Cas locus, 4000-13106 (0))]
+Index(['protein_id', 'start', 'end', 'effector', 'locus', 'sample', 'strand',
+       'sequence'],
+      dtype='object')
+[GF(DUF530 family protein, 663-2085 (1)), GF(adenosylcobinamide-phosphate synthase CbiB, 2104-3043 (1)), GF(None, 3999-5529 (-1)), GF(None, 5565-7053 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm5, 7049-8165 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm4, 8151-9288 (-1)), GF(type III-A CRISPR-associated RAMP protein Csm3, 9322-10048 (-1)), GF(type III-A CRISPR-associated protein Csm2, 10066-10594 (-1)), GF(type III-A CRISPR-associated protein Cas10/Csm1, 10577-13106 (-1)), GF(translation initiation factor IF-5A, 13279-13675 (-1)), GF(precorrin-3B C(17)-methyltransferase, 13859-14612 (-1)), GF(PspC domain-containing protein, 14813-15065 (-1)), GF(succinate--CoA ligase subunit alpha, 15242-16106 (1)), GF(Repeat region, 3124-3614 (0)), GF(Csx1, 4000-5529 (-1)), GF(Csx1, 5566-7053 (-1)), GF(Csm5, 7050-8165 (-1)), GF(Csm4, 8152-9288 (-1)), GF(Csm3gr7, 9323-10048 (-1)), GF(Csm2gr11, 10067-10594 (-1)), GF(Cas10, 10578-13106 (-1)), GF(csx1, 5566-7053 (-1)), GF(CRISPR-Cas locus, 4000-13106 (0))]
